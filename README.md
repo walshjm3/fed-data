@@ -59,28 +59,50 @@ GENAI_API_KEY='your_google_gemini_api_key_here'
 
 ## 🗂 Folder Structure
 
-```
-fed-data-scraper/
-├── scraper.py
-├── read_json.py
-├── read_pdfs.py
-├── .env               # Your credentials live here
-├── json/              # OCR markdown files
-├── csv/               # Parsed insider/securities CSVs
-    ├── insiders/               
-    └── securities/
-└── README.md
-```
-
-#### *Make sure to create the json and csv files
 
 ```
-s3-bucket/
-├── json
-├── documents
-├── csv
-  ├── insiders
-  └── securities
+.
+├── Gemini
+│   ├── csv_testing
+│   │   ├── insiders
+│   │   ├── insiders_second
+│   │   ├── securities
+│   │   └── securities_second
+│   ├── read_json.py
+│   └── read_json_second_prompt.py
+├── Mistral 
+│   ├── read_CapIQ_pdfs.py
+│   ├── read_cleveland_pdfs.py
+│   ├── read_dallas_pdfs.py
+│   ├── read_minneapolis_pdfs.py
+│   └── read_richmond_pdfs.py
+├── README.md
+├── Scraper
+│   ├── collect_failed_pages_CapIQ.py
+│   ├── scraper_CapIQ.py
+│   ├── scraper_cleveland.py
+│   ├── scraper_dallas.py
+│   ├── scraper_minneapolis.py
+│   └── scraper_richmond.py
+├── cookies.json ## make sure to create this file when pulling code. Paste your cookies exactly as exported from cookies extention
+├── cookies.py ## After pasting your cookies in cookies.json, run this script and copy the terminal output directly into your .env file. 
+├── documents         # the list of PDF urls for these districts live here
+│   ├── Dallas_JSON.json
+│   ├── Minneapolis_JSON.json
+│   └── Richmond_JSON.json
+├── helper 
+│   ├── count_processed_failed.py
+│   ├── count_scraped_failed.py
+│   ├── upload_processed_mistral.py
+│   └── upload_scraped_to_S3.py
+├── notebook
+│   ├── combine.py
+│   └── data_figures.ipynb
+├── processed_mistral
+├── requirements.txt
+└── scraped_files
+└── .env ## your credentials will live here, including your formatted cookies, gemini, and mistral key. 
+
 ```
 
 ---
@@ -113,7 +135,7 @@ Add your credentials to a file called `.env` in the root directory, using the fo
 ### OCR Pipeline: PDF to markdown
 
 ```bash
-python scraper.py
+python read_CapIQ_pdfs.py #CAPIQ data
 ```
 
 ### LLM Parsing: markdown to CSV

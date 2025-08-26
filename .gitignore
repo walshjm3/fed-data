@@ -16,3 +16,6 @@ csv/**/*.csv
 
 # Ingnore .env
 .env
+
+# Ignore cookies.json
+cookies.json

@@ -14,12 +14,16 @@ load_dotenv()
 import json
 
 # If you want to add a range do list(range(1, 20)) — scrapes pages 1–20
-#pages_to_scrape = [1]
-pages_to_scrape = list(range(1287, 2287))  # pages 1 through 5766
+#pages_to_scrape = list(range(1, 5766))  # pages 1 through 5766
+pages_to_scrape = [338, 373, 511, 554, 629, 630, 877, 931, 941, 942, 998, 999, 1123, 1138, 1145, 1206, 1242, 1243, 1251, 1253, 1257, 1269, 1270, 1274, 1275, 1276, 1277, 1292, 1297, 1302, 1303, 1305, 1333, 1338, 1341, 1349, 1466, 1523, 1605, 1611, 1626, 1633, 1638, 1690, 1695, 1870, 1920, 1995, 2217, 2242, 2290, 2330, 2336, 2341, 2344, 2397, 2441, 2447, 2451, 2455, 2481, 2504, 2589, 2664, 2723, 2726, 2730, 2757, 2781, 2809, 2843, 2863, 2943, 2945, 2957, 2961, 2962, 2964, 2977, 2985, 3016, 3029, 3030, 3033, 3037, 3040, 3044, 3056, 3058, 3064, 3066, 3067, 3080, 3082, 3084, 3086, 3113, 3115, 3116, 3120, 3142, 3151, 3160, 3173, 3178, 3180, 3188, 3199, 3200, 3201, 3208, 3211, 3221, 3230, 3241, 3260, 3264, 3278, 3280, 3282, 3307, 3308, 3310, 3326, 3338, 3345, 3353, 3357, 3369, 3372, 3379, 3382, 3392, 3399, 3400, 3403, 3407, 3411, 3419, 3420, 3425, 3429, 3433, 3438, 3441, 3451, 3462, 3473, 3475, 3477, 3487, 3499, 3503, 3524, 3526, 3533, 3534, 3543, 3550, 3554, 3561, 3562, 3567, 3572, 3575, 3577, 3578, 3590, 3593, 3601, 3606, 3612, 3628, 3631, 3638, 3641, 3647, 3649, 3655, 3657, 3669, 3671, 3672, 3675, 3683, 3694, 3698, 3708, 3715, 3717, 3732, 3733, 3770, 3773, 3778, 3781, 3786, 3842, 3846, 3858, 3889, 3900, 3906, 3907, 3921, 3960, 4001, 4021, 4026, 4035, 4047, 4071, 4084, 4087, 4089, 4109, 4114, 4128, 4152, 4163, 4164, 4166, 4178, 4184, 4202, 4209, 4220, 4245, 4281, 4284, 4295, 4325, 4333, 4340, 4354, 4377, 4385, 4396, 4432, 4444, 4452, 4455, 4457, 4475, 4557, 4565, 4568, 4583, 4588, 4637, 4645, 4683, 4790, 4797, 4802, 4836, 4841, 4845, 4853, 4855, 4862, 4888, 4923, 5008, 5019, 5058, 5080, 5131, 5134, 5137, 5140, 5156, 5178, 5182, 5240, 5246, 5250, 5267, 5275, 5278, 5285, 5300, 5307, 5318, 5319, 5320, 5327, 5329, 5333, 5346, 5350, 5353, 5366, 5380, 5392, 5398, 5435, 5452, 5455, 5462, 5465, 5468, 5474, 5476, 5485, 5492, 5497, 5498, 5514, 5532, 5546, 5580, 5611, 5640, 5651, 5653, 5670, 5672, 5687, 5698, 5719, 5729, 5731, 5742, 5754, 5764]
 file = open("failed_pages.csv", "w", newline="")
 csv_writer = csv.writer(file)
 csv_writer.writerow(["page", "error"])
 
+# ✅ New: Successful pages CSV
+success_file = open("processed_pages.csv", "w", newline="")
+success_writer = csv.writer(success_file)
+success_writer.writerow(["page", "s3_key"])
 
 def wait_for_zip_or_error(download_dir, timeout=120):
     print("⏳ Waiting for ZIP to appear and stabilize...")
@@ -301,6 +305,10 @@ def record_failed_page(page, error_msg):
         csv_writer.writerow([page, error_msg])
         file.flush()
 
+def record_success_page(page, s3_key):
+    success_writer.writerow([page, s3_key])
+    success_file.flush()
+
 
 for page in  pages_to_scrape:
     print(f"\n📄 Processing Page {page}")
@@ -394,11 +402,13 @@ for page in  pages_to_scrape:
             zip_files = glob.glob(os.path.join(download_dir, "*.zip"))
             if zip_files:
                 newest_zip = max(zip_files, key=os.path.getctime)
-                s3_key = f"UpdateDocuments/{os.path.basename(newest_zip)}"
+                s3_key = f"Updated_Documents/{os.path.basename(newest_zip)}"
                 try:
                     boto3.client('s3').upload_file(newest_zip, "fed-data-storage", s3_key)
                     print(f"✅ Uploaded {newest_zip} to S3.")
                     os.remove(newest_zip)
+
+                    record_success_page(page, s3_key)
                 except Exception as e:
                     print(f"❌ S3 upload failed: {e}")
                     record_failed_page(page, "S3 upload failed: " + str(e))

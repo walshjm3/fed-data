@@ -18,9 +18,9 @@ prefix = "MistralCapIQUpdated/2023/"
 # Limit how many files to process per run
 MAX_FILES = 20
 
-insiders_dir = Path("csv_testing/insiders")
-securities_dir = Path("csv_testing/securities")
-tracking_csv = Path("gemini_results_first.csv")
+insiders_dir = Path("csv_testing/insiders_second")
+securities_dir = Path("csv_testing/securities_second")
+tracking_csv = Path("gemini_results_second.csv")
 
 genai.configure(api_key=os.getenv("GENAI_API_KEY"))
 
@@ -56,7 +56,7 @@ def update_tracking(file: str, status: str, error: str = "", bank_name: str = ""
     with open(tracking_csv, "a", newline="") as f:
         writer = csv.writer(f)
         if header_needed:
-            # FIX: include 'presence' in header since we write it below
+            # include 'presence' in header since we write it below
             writer.writerow(["file", "status", "error", "bank_name", "year", "presence"])
         writer.writerow([file, status, error, bank_name, year, presence])
 
@@ -93,14 +93,13 @@ def get_combined_markdown(ocr_response: OCRResponse) -> str:
     return "\n\n".join(markdowns)
 
 
-# ---- NEW: schema-agnostic markdown extraction for non-OCRResponse JSONs ----
+# ---- schema-agnostic markdown extraction for non-OCRResponse JSONs ----
 def _walk_collect_markdownish(obj) -> list[str]:
     """Recursively collect page-level markdown/text-like fields from arbitrary JSON."""
     collected = []
     if isinstance(obj, dict):
         for k, v in obj.items():
             lk = k.lower()
-            # Common field names across OCR/LLM outputs
             if lk in {"markdown", "md", "page_markdown", "combined_markdown", "text", "page_text"} and isinstance(v, str):
                 collected.append(v)
             else:
@@ -112,12 +111,7 @@ def _walk_collect_markdownish(obj) -> list[str]:
 
 
 def get_markdown_from_any_json(json_data) -> str | None:
-    """
-    Try to coerce arbitrary OCR JSON into a combined markdown string.
-    Priority:
-      1) If it already has OCRResponse shape, caller should handle that.
-      2) Otherwise, recursively scrape markdown/text-like fields and join.
-    """
+    """Coerce arbitrary OCR/LLM JSON into combined markdown string."""
     parts = _walk_collect_markdownish(json_data)
     if parts:
         parts = [p.strip() for p in parts if p and p.strip()]
@@ -129,7 +123,7 @@ def get_markdown_from_any_json(json_data) -> str | None:
 def extract_from_md(md: str, name: str) -> tuple[str, str, str]:
     pdf_name = name
 
-    # Tighten the prompt: force exact top-level keys and Year field
+    # Tightened prompt: keep b9 as percentage-only; add b9_full_voting_shares_text for verbatim detail
     prompt = f"""
 You are analyzing a U.S. Federal Reserve FR Y-6 regulatory filing.
 
@@ -138,9 +132,10 @@ From the text below, extract TWO structured tables and one metadata block and re
 - "insiders": list of insider rows
 - "bank_data": list with exactly one object containing bank metadata
 
-Rules for values:
+General rules:
 - If a field is missing, blank, 'N/A', 'None', or equivalent, put null (JSON null).
 - If a field contains a list of strings, join items with a semicolon (";").
+- Normalize internal line breaks to single spaces for any string fields.
 - Do NOT include any extra keys. Return JSON ONLY (no markdown).
 
 Column schema:
@@ -164,6 +159,13 @@ Column schema:
   b7: Title and Position with direct and indirect subsidiaries (including the subsidiaries' names)
   b8: Title and Position with any other company in which the person is a director, trustee, partner, or executive officer
   b9: Percentage of Voting Shares in Bank Holding Company
+      - IMPORTANT: This field must contain percentage value(s) only (e.g., "7.78%" or "7.78%; 2.10%").
+      - If multiple percentages are present, join with a semicolon.
+      - Do not include counts of shares, class names, or narrative text in b9.
+  b9_full_voting_shares_text: Verbatim voting-shares detail (entire reported text)
+      - Copy the FULL underlying text describing voting shares as written in the filing, including share counts, classes (e.g., "Class A"), trustee language, and/or percentages.
+      - Preserve all numbers and wording, but normalize newlines/tabs to single spaces.
+      - If the filing only reports a percentage and no share count, put that percentage string here.
   b10: Percentage of Voting Shares in Subsidiaries
   b11: Names of other companies if 25% or more of voting securities are held (list)
 
@@ -203,6 +205,10 @@ FR Y-6 OCR TEXT:
     print("Shareholders", shareholders_df)
     print("Insiders", insiders_df)
 
+    # Ensure the new column exists; if missing, backfill with b9 when that's all we have
+    if "b9_full_voting_shares_text" not in insiders_df.columns:
+        insiders_df["b9_full_voting_shares_text"] = insiders_df["b9"] if "b9" in insiders_df.columns else None
+
     # Table presence computed from actual dataframes
     table_presence = (
         "both" if not insiders_df.empty and not shareholders_df.empty else
@@ -236,8 +242,8 @@ FR Y-6 OCR TEXT:
     insiders_df.to_csv(insiders_path, index=False)
     shareholders_df.to_csv(shareholders_path, index=False)
 
-    s3.upload_file(str(insiders_path), bucket_name, f"csv_testing/insiders/{name}.csv")
-    s3.upload_file(str(shareholders_path), bucket_name, f"csv_testing/securities/{name}.csv")
+    s3.upload_file(str(insiders_path), bucket_name, f"csv_testing/insiders_second/{name}.csv")
+    s3.upload_file(str(shareholders_path), bucket_name, f"csv_testing/securities_second/{name}.csv")
 
     # Delete local files after upload
     insiders_path.unlink(missing_ok=True)

@@ -21,7 +21,7 @@ client = Mistral(api_key=api_key)
 s3 = boto3.client("s3")
 
 bucket_name = "fed-data-storage"
-prefix = "UpdateDocuments/"
+prefix = "Updated_Documents/"
 
 PROCESSED_FILE = "processed_files.csv"
 FAILED_FILE = "failed_files.csv"
@@ -78,7 +78,7 @@ def read_pdf(pdf_bytes: bytes, name: str):
 
     output_file = Path(f"./MistralCapIQUpdated/{name}.json")
     output_file.write_text(json.dumps(response_dict, indent=2))
-    s3.upload_file(str(output_file), "fed-data-storage", f"json/{output_file.name}")
+    s3.upload_file(str(output_file), "fed-data-storage", f"MistralCapIQUpdated/{output_file.name}")
     output_file.unlink()  # remove local JSON file
 
 def main():
@@ -95,7 +95,7 @@ def main():
             with zipfile.ZipFile(io.BytesIO(zip_content)) as z:
                 for file_info in z.infolist():
                     filename = file_info.filename
-                    if filename.lower().endswith(".pdf") and filename.split("/")[-1].lower().startswith("section"):
+                    if filename.lower().endswith(".pdf"):
                         pdf_name = filename.split("\\")[-1].replace(".pdf", "")
                         if pdf_name in processed_files:
                             print(f"  ⏭️ Skipping (already processed): {pdf_name}")
