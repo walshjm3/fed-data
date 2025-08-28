@@ -5,9 +5,9 @@ from io import StringIO
 
 # Configuration
 bucket_name = "fed-data-storage"
-prefix = "csv_testing/securities/"
+prefix = "csv_testing/securities_fourth/"
 tables_prefix = "csv_testing/tables/"  # S3 "folder" for final combined CSV
-output_csv_name = "all_securities_combined_first.csv"  # Local output filename
+output_csv_name = "all_securities_combined_fourth.csv"  # Local output filename
 output_s3_key = f"{tables_prefix}{output_csv_name}"
 
 # Initialize S3 client (make sure your AWS CLI / env creds are configured)
