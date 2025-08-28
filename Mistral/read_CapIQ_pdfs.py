@@ -1,121 +1,290 @@
 import os
-
-import boto3
-import zipfile
 import io
 import csv
-from pathlib import Path
-from mistralai import DocumentURLChunk, FileTypedDict, Mistral
 import json
+import time
+import zipfile
+import hashlib
 import traceback
+from pathlib import PurePosixPath
+from typing import List, Tuple
+import re
+
+
+import boto3
 from dotenv import load_dotenv
+from mistralai import DocumentURLChunk, FileTypedDict, Mistral
+
+
+# =========================
+# CONFIG
+# =========================
 load_dotenv()
+API_KEY = os.getenv("MISTRAL_API_KEY")
+if not API_KEY:
+    raise RuntimeError("MISTRAL_API_KEY not found in .env")
 
 
-# Load environment variables from .env file
-api_key = os.getenv("MISTRAL_API_KEY")
+S3_BUCKET     = "fed-data-storage"
+ZIP_PREFIX    = "Updated_Documents/"            # input ZIPs
+JSON_PREFIX   = "MistralCapIQUpdated/"          # OCR JSON outputs
+CSV_PREFIX    = "ProcessedMistral/"             # master CSVs + markers
+MARKER_PREFIX = f"{CSV_PREFIX}processed_markers/"
 
-client = Mistral(api_key=api_key)
 
-# Initialize the S3 client
+MISTRAL_MODEL    = "mistral-ocr-latest"
+MAX_OCR_RETRIES  = 3
+RETRY_BACKOFF    = 5  # seconds (linear backoff: n * RETRY_BACKOFF)
+
+
+PROCESSED_CSV_KEY = f"{CSV_PREFIX}processed_files_CapIQ.csv"
+FAILED_CSV_KEY    = f"{CSV_PREFIX}failed_files_CapIQ.csv"
+
+
+# =========================
+# CLIENTS
+# =========================
 s3 = boto3.client("s3")
+mistral = Mistral(api_key=API_KEY)
 
-bucket_name = "fed-data-storage"
-prefix = "Updated_Documents/"
 
-PROCESSED_FILE = "processed_files.csv"
-FAILED_FILE = "failed_files.csv"
-
-def load_processed_files():
-    if not Path(PROCESSED_FILE).exists():
-        return set()
-    with open(PROCESSED_FILE, newline="") as f:
-        return set(row[0] for row in csv.reader(f))
-
-def mark_file_as_processed(pdf_name: str):
-    with open(PROCESSED_FILE, "a", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerow([pdf_name])
-
-def log_failure(pdf_name: str, zip_name: str, error_msg: str):
-    header_needed = not Path(FAILED_FILE).exists()
-    with open(FAILED_FILE, "a", newline="") as f:
-        writer = csv.writer(f)
-        if header_needed:
-            writer.writerow(["pdf_name", "zip_file", "error_message"])
-        writer.writerow([pdf_name, zip_name, error_msg])
-
-def list_zip_files(bucket, prefix):
-    zip_keys = []
+# =========================
+# HELPERS
+# =========================
+def list_zip_keys(bucket: str, prefix: str) -> List[str]:
+    keys = []
     paginator = s3.get_paginator("list_objects_v2")
     for page in paginator.paginate(Bucket=bucket, Prefix=prefix):
         for obj in page.get("Contents", []):
             key = obj["Key"]
-            if key.endswith(".zip"):
-                zip_keys.append(key)
-    return zip_keys
+            if key.lower().endswith(".zip"):
+                keys.append(key)
+    return keys
 
-def read_pdf(pdf_bytes: bytes, name: str):
-    file_dict: FileTypedDict = {
-        "file_name": f"{name}.pdf",
-        "content": pdf_bytes
-    }
 
-    uploaded_file = client.files.upload(
-        file=file_dict,
-        purpose="ocr"
+def split_zip_member(member_name: str) -> Tuple[str, str]:
+    p = PurePosixPath(member_name.replace("\\", "/"))
+    name = p.name
+    if "." in name:
+        stem, ext = name.rsplit(".", 1)
+        return stem, f".{ext.lower()}"
+    return name, ""
+
+
+def sanitize_for_s3(name: str) -> str:
+    safe = "".join(c if 32 <= ord(c) < 127 else "_" for c in name)[:200]
+    return safe or "document"
+
+
+def marker_key_for_pdf(zip_key: str, zip_member: str) -> str:
+    h = hashlib.sha1(f"{zip_key}||{zip_member}".encode("utf-8")).hexdigest()
+    return f"{MARKER_PREFIX}{h}.ok"
+
+
+def marker_exists(bucket: str, key: str) -> bool:
+    try:
+        s3.head_object(Bucket=bucket, Key=key)
+        return True
+    except s3.exceptions.ClientError as e:
+        if e.response["Error"]["Code"] in ("404", "NoSuchKey"):
+            return False
+        raise
+
+
+def write_marker(bucket: str, key: str, payload: dict):
+    s3.put_object(
+        Bucket=bucket,
+        Key=key,
+        Body=json.dumps(payload).encode("utf-8"),
+        ContentType="application/json",
     )
 
-    signed_url = client.files.get_signed_url(file_id=uploaded_file.id, expiry=1)
 
-    pdf_response = client.ocr.process(
-        document=DocumentURLChunk(document_url=signed_url.url),
-        model="mistral-ocr-latest",
-        include_image_base64=True
-    )
-
-    response_dict = json.loads(pdf_response.model_dump_json())
-
-    output_file = Path(f"./MistralCapIQUpdated/{name}.json")
-    output_file.write_text(json.dumps(response_dict, indent=2))
-    s3.upload_file(str(output_file), "fed-data-storage", f"MistralCapIQUpdated/{output_file.name}")
-    output_file.unlink()  # remove local JSON file
-
-def main():
-    processed_files = load_processed_files()
-    zip_files = list_zip_files(bucket_name, prefix)
-    print(f"Found {len(zip_files)} ZIP files.")
-
-    for key in zip_files:
-        print(f"\n🔍 Processing ZIP file: {key}")
+def mistral_ocr_from_bytes(pdf_bytes: bytes, display_name: str) -> dict:
+    last_err = None
+    for attempt in range(1, MAX_OCR_RETRIES + 1):
         try:
-            response = s3.get_object(Bucket=bucket_name, Key=key)
-            zip_content = response["Body"].read()
+            file_dict: FileTypedDict = {
+                "file_name": f"{display_name}.pdf",
+                "content": pdf_bytes,
+            }
+            uploaded = mistral.files.upload(file=file_dict, purpose="ocr")
+            signed   = mistral.files.get_signed_url(file_id=uploaded.id, expiry=200
+            )
 
-            with zipfile.ZipFile(io.BytesIO(zip_content)) as z:
-                for file_info in z.infolist():
-                    filename = file_info.filename
-                    if filename.lower().endswith(".pdf"):
-                        pdf_name = filename.split("\\")[-1].replace(".pdf", "")
-                        if pdf_name in processed_files:
-                            print(f"  ⏭️ Skipping (already processed): {pdf_name}")
-                            continue
 
-                        print(f"  📄 Processing PDF: {pdf_name}")
-                        try:
-                            pdf_bytes = z.read(file_info)
-                            read_pdf(pdf_bytes, pdf_name)
-                            mark_file_as_processed(pdf_name)
-                        except Exception as e:
-                            error_msg = f"{e}"
-                            print(f"  ❌ Failed to read/process PDF '{pdf_name}': {error_msg}")
-                            traceback.print_exc()
-                            log_failure(pdf_name, key, error_msg)
+            resp = mistral.ocr.process(
+                document=DocumentURLChunk(document_url=signed.url),
+                model=MISTRAL_MODEL,
+                include_image_base64=True,
+            )
+            return json.loads(resp.model_dump_json())
+
+
         except Exception as e:
-            error_msg = f"{e}"
-            print(f"❌ Error reading ZIP '{key}': {error_msg}")
+            last_err = e
+            if attempt < MAX_OCR_RETRIES:
+                wait_s = attempt * RETRY_BACKOFF
+                print(f"⚠️ OCR failed (attempt {attempt}/{MAX_OCR_RETRIES}); retrying in {wait_s}s — {e}")
+                time.sleep(wait_s)
+    raise last_err
+
+
+def upload_json_to_s3(payload: dict, key: str):
+    s3.put_object(
+        Bucket=S3_BUCKET,
+        Key=key,
+        Body=json.dumps(payload, ensure_ascii=False, indent=2).encode("utf-8"),
+        ContentType="application/json",
+    )
+    print(f"📤 Uploaded JSON → s3://{S3_BUCKET}/{key}")
+
+
+def append_row_to_csv_s3(row: List[str], csv_key: str, header: List[str]):
+    """
+    Downloads CSV if exists, appends a row, re-uploads.
+    """
+    import io
+    rows = []
+    try:
+        obj = s3.get_object(Bucket=S3_BUCKET, Key=csv_key)
+        body = obj["Body"].read().decode("utf-8").splitlines()
+        reader = csv.reader(body)
+        rows = list(reader)
+    except s3.exceptions.ClientError as e:
+        if e.response["Error"]["Code"] not in ("404", "NoSuchKey"):
+            raise
+
+
+    # If empty, write header
+    if not rows:
+        rows = [header]
+
+
+    rows.append(row)
+
+
+    buf = io.StringIO()
+    writer = csv.writer(buf, lineterminator="\n")
+    writer.writerows(rows)
+    s3.put_object(
+        Bucket=S3_BUCKET,
+        Key=csv_key,
+        Body=buf.getvalue().encode("utf-8"),
+        ContentType="text/csv",
+    )
+    print(f"📤 Appended row to s3://{S3_BUCKET}/{csv_key}")
+
+
+# =========================
+# MAIN
+# =========================
+def main():
+    zip_keys = list_zip_keys(S3_BUCKET, ZIP_PREFIX)
+    print(f"Found {len(zip_keys)} ZIP files under s3://{S3_BUCKET}/{ZIP_PREFIX}")
+
+
+    total_ok, total_fail, total_skipped = 0, 0, 0
+
+
+    for zip_key in zip_keys:
+        print(f"\n🔍 ZIP: {zip_key}")
+
+
+        # Fetch ZIP to memory
+        try:
+            obj = s3.get_object(Bucket=S3_BUCKET, Key=zip_key)
+            zip_blob = obj["Body"].read()
+        except Exception as e:
+            err = f"read-zip-failed: {e}"
+            print(f"❌ {err}")
             traceback.print_exc()
-            log_failure("", key, error_msg)
+            append_row_to_csv_s3(["", zip_key, err], FAILED_CSV_KEY,
+                                 header=["pdf_identifier", "zip_file", "error_message"])
+            total_fail += 1
+            continue
+
+
+        try:
+            with zipfile.ZipFile(io.BytesIO(zip_blob)) as zf:
+                for info in zf.infolist():
+                    stem, ext = split_zip_member(info.filename)
+                    if ext != ".pdf":
+                        continue
+
+
+                    pdf_identifier = info.filename.replace("\\", "/")
+                    mkey = marker_key_for_pdf(zip_key, pdf_identifier)
+
+
+                    if marker_exists(S3_BUCKET, mkey):
+                        print(f"  ⏭️ Skipping already processed: {pdf_identifier}")
+                        total_skipped += 1
+                        continue
+
+
+                    print(f"  📄 PDF: {pdf_identifier}")
+                    try:
+                        pdf_bytes = zf.read(info)
+
+
+                        ocr_dict = mistral_ocr_from_bytes(pdf_bytes, display_name=stem)
+
+
+                        payload = {
+                            "source": {
+                                "zip_key": zip_key,
+                                "zip_member": info.filename,
+                                "pdf_identifier": pdf_identifier,
+                            },
+                            "ocr_output": ocr_dict,
+                        }
+
+
+                        safe_stem = sanitize_for_s3(stem)
+                # Extract the 4-digit year from the stem        
+                        match = re.search(r'(19|20)\d{2}', stem)
+                        year = match.group(0) if match else "unknown"
+                    # Put JSON under MistralCapIQUpdated/<year>/<filename>.json
+                        json_key = f"{JSON_PREFIX}{year}/{safe_stem}.json"
+                        upload_json_to_s3(payload, json_key)
+
+
+                        # Mark success
+                        write_marker(S3_BUCKET, mkey, {
+                            "zip_key": zip_key,
+                            "zip_member": info.filename,
+                            "json_key": json_key,
+                            "ts": int(time.time())
+                        })
+                        append_row_to_csv_s3([pdf_identifier, zip_key], PROCESSED_CSV_KEY,
+                                             header=["pdf_identifier", "zip_file"])
+                        total_ok += 1
+
+
+                    except Exception as e:
+                        err = f"{e.__class__.__name__}: {e}"
+                        print(f"  ❌ Failed PDF: {pdf_identifier} — {err}")
+                        traceback.print_exc()
+                        append_row_to_csv_s3([pdf_identifier, zip_key, err], FAILED_CSV_KEY,
+                                             header=["pdf_identifier", "zip_file", "error_message"])
+                        total_fail += 1
+
+
+        except Exception as e:
+            err = f"{e.__class__.__name__}: {e}"
+            print(f"❌ ZIP open error: {zip_key} — {err}")
+            traceback.print_exc()
+            append_row_to_csv_s3(["", zip_key, err], FAILED_CSV_KEY,
+                                 header=["pdf_identifier", "zip_file", "error_message"])
+            total_fail += 1
+
+
+    print(f"\n✅ Done. Processed: {total_ok} | Skipped: {total_skipped} | Failed: {total_fail}")
+    print(f"OCR JSONs: s3://{S3_BUCKET}/{JSON_PREFIX}")
+    print(f"Markers:   s3://{S3_BUCKET}/{MARKER_PREFIX}")
+    print(f"CSVs:      s3://{S3_BUCKET}/{CSV_PREFIX}")
+
 
 if __name__ == "__main__":
     main()
