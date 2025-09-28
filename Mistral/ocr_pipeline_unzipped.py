@@ -257,14 +257,13 @@ def main():
                         help="Optional 1-based job index (e.g., LSF array index). Used with --year-list-file to pick one token.")
     parser.add_argument("--ocr-concurrency", type=int, default=1,
                         help="Optional per-job concurrency for PDFs (1-4 recommended).")
-    parser.add_argument("--max-ocr-retries", type=int, default=MAX_OCR_RETRIES)
-    parser.add_argument("--retry-backoff", type=int, default=RETRY_BACKOFF)
+    #parser.add_argument("--max-ocr-retries", type=int, default=MAX_OCR_RETRIES)
+    #parser.add_argument("--retry-backoff", type=int, default=RETRY_BACKOFF)
     args = parser.parse_args()
 
     # allow runtime override
-    global MAX_OCR_RETRIES, RETRY_BACKOFF
-    MAX_OCR_RETRIES = args.max_ocr_retries
-    RETRY_BACKOFF   = args.retry_backoff
+    #MAX_OCR_RETRIES = args.max_ocr_retries
+    #RETRY_BACKOFF   = args.retry_backoff
 
     # resolve years list:
     years: List[str] = list(args.years)
@@ -327,8 +326,8 @@ def main():
         # Returns ("ok"/"skip"/"fail", pdf_key)
         mkey = marker_key_for_pdf(pdf_key)
         try:
-            if marker_exists(S3_BUCKET, mkey):
-                return ("skip", pdf_key)
+            #if marker_exists(S3_BUCKET, mkey):
+            #    return ("skip", pdf_key)
 
             # Download
             obj = s3.get_object(Bucket=S3_BUCKET, Key=pdf_key)
@@ -401,7 +400,7 @@ def main():
 
     print(f"\n Done. Processed: {total_ok} | Skipped: {total_skipped} | Failed: {total_fail}")
     print(f"OCR JSONs: s3://{S3_BUCKET}/{OUT_JSON_ROOT}")
-    print(f"Markers:   s3://{S3_BUCKET}/{MARKER_PREFIX}")
+    #print(f"Markers:   s3://{S3_BUCKET}/{MARKER_PREFIX}")
     print(f"CSVs:      s3://{S3_BUCKET}/{OUT_CSV_ROOT}")
 
 

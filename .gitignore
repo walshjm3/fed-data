@@ -19,3 +19,5 @@ csv/**/*.csv
 
 # Ignore cookies.json
 cookies.json
+
+Gemini/csv_testing/*

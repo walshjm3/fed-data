@@ -1,0 +1,21 @@
+file,status,error,bank_name,year,presence,tokens,out_tokens
+"1889 Bancshares, Inc._Y-6_2023-12-31_English_243974485",passed,,"1889 Bancshares, Inc.",2023,insiders,3017,188
+"1889 Bancshares, Inc._Y-6_2023-12-31_English_243974485_2",passed,,"1889 Bancshares, Inc.",2023,none,3009,67
+215 Holding Co._Y-6_2023-12-31_English_226294664,passed,,215 Holding Co.,2023,both,45641,3471
+215 Holding Co._Y-6_2023-12-31_English_226294664_2,passed,,215 Holding Co.,2023,both,23314,3466
+"3MV Bancorp, Inc._Y-6_2023-12-31_English_244058446",passed,,"3MV Bancorp, Inc.",2023,both,57260,3094
+"3MV Bancorp, Inc._Y-6_2023-12-31_English_244058446_2",passed,,"3MV Bancorp, Inc.",2023,both,57214,3292
+"A.N.B. Holding Company, Ltd._Y-6_2023-12-31_English_241335825_1",failed,Invalid \escape: line 114 column 76 (char 3258),,,,,
+"A.N.B. Holding Company, Ltd._Y-6_2023-12-31_English_241335825_2",failed,Invalid \escape: line 114 column 76 (char 3280),,,,,
+"ABCT Holdings, Inc._Y-6_2023-12-31_English_241396052_1",passed,,"ABCT Holdings, Inc",2023,both,6151,2757
+"ABCT Holdings, Inc._Y-6_2023-12-31_English_241396052_2",passed,,"ABCT Holdings, Inc",2023,both,6151,2757
+"AC Bancorp, Inc._Y-6_2023-12-31_English_230650036",passed,,"AC BANCORP, INC.",2023,both,2473,1711
+"AC Bancorp, Inc._Y-6_2023-12-31_English_230650036_2",passed,,"AC BANCORP, INC.",2023,both,2473,1696
+"AFNB Holdings, Inc._Y-6_2023-12-31_English_241394922_1",passed,,American First National Bank,2023,both,13004,5447
+"AFNB Holdings, Inc._Y-6_2023-12-31_English_241394922_2",passed,,American First National Bank,2023,both,12762,5574
+AMG National Corp._Y-6_2023-12-31_English_244153891,passed,,AMG National Corp.,2023,both,7542,3372
+AMG National Corp._Y-6_2023-12-31_English_244153891_2,passed,,AMG National Corp.,2023,both,18312,3394
+"ANB Bancorp, Inc._Y-6_2023-12-31_English_230649970",passed,,"ANB Bancorp, Inc.",2023,securities,3737,1297
+"ANB Bancorp, Inc._Y-6_2023-12-31_English_230649970_2",passed,,"ANB Bancorp, Inc.",2023,securities,3737,1297
+"ANB Bancshares, Inc._Y-6_2023-12-31_English_241387026_1",passed,,"ANB Bancshares, Inc.",2023,both,28631,2407
+"ANB Bancshares, Inc._Y-6_2023-12-31_English_241387026_2",passed,,"ANB Bancshares, Inc.",2023,both,28645,2381

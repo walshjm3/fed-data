@@ -1,0 +1,850 @@
+file,status,error,bank_name,year,presence,tokens,out_tokens
+1073757_20191231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+1073757_20201231,failed,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The input token count (3553194) exceeds the maximum number of tokens allowed (1048575).', 'status': 'INVALID_ARGUMENT'}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1073757_20211231,failed,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The input token count (3516849) exceeds the maximum number of tokens allowed (1048575).', 'status': 'INVALID_ARGUMENT'}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1073757_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '56s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1073757_20231231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1074156_20191231,passed,,Truist Financial Corporation,2019,both,238056,6340
+1074156_20201231,passed,,Truist Financial Corporation,2020,both,283187,6354
+1074156_20211231,passed,,Truist Financial Corporation,2021,both,230471,6157
+1074156_20221231,passed,,Truist Financial Corporation,2022,both,203083,4666
+1074156_20231231,passed,,Truist Financial Corporation,2023,both,228114,3983
+1075612_20191231,passed,,"First Citizens BancShares, Inc.",2019,both,219276,5916
+1075612_20201231,failed,"Expecting ',' delimiter: line 829 column 6 (char 20782)",,,,,
+1075612_20211231,passed,,"First Citizens Bancshares, Inc.",2021,both,226203,6557
+1075612_20221231,passed,,"First Citizens Bancshares, Inc",2022,both,37149,7094
+1075612_20231231,passed,,"First Citizens Bancshares, Inc",2023,both,72232,7450
+1075694_20191231,failed,Invalid \escape: line 170 column 65 (char 6324),,,,,
+1075694_20201231,passed,,Southern BancShares (N.C.) Inc.,2020,both,734423,3778
+1075694_20211231,passed,,SOUTHERN BANK AND TRUST COMPANY,2021,both,87148,5659
+1075694_20221231,passed,,"Southern BancShares (N.C.), Inc.",2022,both,50010,4777
+1075694_20231231,passed,,Unknown,2022,both,30628,6488
+1075881_20191231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+1075881_20201231,failed,Invalid \escape: line 154 column 44 (char 4062),,,,,
+1075881_20211231,failed,Invalid \escape: line 130 column 20 (char 3808),,,,,
+1075881_20221231,passed,,"Chesapeake Financial Shares, Inc.",2022,both,14479,2498
+1075881_20231231,failed,Invalid \escape: line 149 column 44 (char 4176),,,,,
+1076057_20191231,passed,,"First Bankshares, Inc.",2019,both,16506,1814
+1076105_20191231,passed,,The Bank of Southside Virginia Corporation,2019,both,130916,3053
+1076105_20201231,passed,,The Bank of Southside Virginia Corporation,2020,both,138192,3046
+1076105_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '3s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076105_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '3s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076105_20231231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076123_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076123_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '59s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076123_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '58s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076123_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076123_20231231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '54s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076150_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076150_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076150_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076150_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '44s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076150_20231231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '43s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076169_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '42s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+1076169_20201231,passed,,"West-Central Bancorp, INC.",2020,both,61052,2123
+1076169_20211231,passed,,"West-Central Bancorp, INC.",2021,both,81840,2297
+1076169_20221231,passed,,"West-Central Bancorp, INC.",2022,both,62167,2502
+1076169_20231231,passed,,"West-Central Bancorp, INC",2023,both,12948,2053
+1076208_20191231,passed,,"York Bancshares, Inc",2019,both,17534,2117
+1076208_20201231,passed,,York Bancshares Inc.,2020,both,13251,2194
+1076208_20211231,passed,,York Bancshares Inc,2021,both,3835,1551
+1076208_20221231,passed,,York Bancshares Inc.,2022,both,17949,1761
+1076208_20231231,passed,,"York Bancshares, Inc.",2023,both,15640,1744
+1076217_20191231,passed,,"United Bankshares, Inc.",2019,both,270285,1683
+1076217_20201231,passed,,"United Bankshares, Inc.",2020,both,358954,1685
+1076217_20211231,passed,,"United Bankshares, Inc.",2021,both,350958,2584
+1076217_20221231,passed,,"United Bankshares, Inc.",2022,both,21674,6404
+1076217_20231231,passed,,"United Bankshares, Inc.",2023,both,238515,5405
+1076262_20191231,passed,,City Holding Company,2019,both,341309,2965
+1076262_20201231,passed,,City Holding Company,2020,both,476492,2438
+1076262_20211231,passed,,City Holding Company,2021,both,325056,3566
+1076262_20221231,passed,,City Holding Company,2022,both,28406,2878
+1076262_20231231,passed,,City Holding Company,2023,both,20555,3325
+1076329_20191231,passed,,"Palmetto State Bankshares, Inc.",2019,both,13282,1936
+1076329_20201231,passed,,"Palmetto State Bankshares, Inc.",2020,both,14098,1973
+1076329_20211231,passed,,"Palmetto State Bankshares, Inc.",2021,both,4758,2693
+1076329_20221231,passed,,"Palmetto State Bankshares, Inc.",2022,both,14754,2309
+1076329_20231231,passed,,"Palmetto State Bankshares, Inc.",2023,insiders,2110,188
+1076422_20191231,passed,,"PIONEER BANKSHARES, INC",2019,insiders,17390,1831
+1076422_20201231,passed,,"PIONEER BANKSHARES, INC",2020,both,16649,1847
+1076422_20211231,passed,,"PIONEER BANKSHARES, INC.",2021,both,6037,1851
+1076422_20221231,passed,,"Pioneer Bankshares, Inc.",2022,insiders,15018,1758
+1076422_20231231,passed,,"Pioneer Bankshares, Inc",2023,insiders,3864,1875
+1076431_20191231,passed,,First Bancorp,2019,both,12217,2771
+1076431_20201231,passed,,First Bancorp,2020,both,52204,2961
+1076431_20211231,passed,,First Bancorp,2021,both,27684,3543
+1076431_20221231,passed,,First Bancorp,2022,both,26877,3363
+1076431_20231231,passed,,First Bancorp,2023,both,379434,2525
+1076495_20191231,passed,,F&M Bank Corp.,2019,both,100492,2895
+1076495_20201231,passed,,F&M Bank Corp.,2020,both,114145,3082
+1076495_20211231,passed,,F&M Bank Corp.,2021,both,31735,3574
+1076495_20221231,passed,,F&M Bank Corp,2022,both,6110,3628
+1076495_20231231,passed,,F&M BANK CORP.,2023,both,18677,3381
+1076525_20191231,passed,,First Carolina Bancshares Corporation,2019,both,16544,1107
+1076525_20201231,passed,,First Carolina Bancshares Corporation,2020,both,16688,1105
+1076525_20211231,passed,,First Carolina Bancshares Corporation,2021,both,5008,1116
+1076525_20221231,passed,,First Carolina Bancshares Corporation,2022,both,13717,1285
+1076525_20231231,passed,,First Carolina Bancshares Corporation,2023,both,3869,1292
+1076600_20191231,passed,,"Fauquier Bankshares, Inc",2019,both,72551,2182
+1076600_20201231,passed,,"Fauquier Bankshares, Inc",2020,both,16122,2255
+1076619_20191231,passed,,F & M FINANCIAL CORPORATION,2019,both,111142,2133
+1076619_20201231,passed,,F & M FINANCIAL CORPORATION,2020,both,114977,2504
+1076619_20211231,passed,,F & M FINANCIAL CORPORATION,2021,securities,97295,797
+1076619_20221231,passed,,F & M FINANCIAL CORPORATION,2023,both,4227,2472
+1076619_20231231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+1076673_20191231,passed,,Old Point Financial Corporation,2019,both,76003,4002
+1076673_20201231,passed,,Old Point Financial Corporation,2020,both,14842,3100
+1076673_20211231,passed,,Old Point Financial Corporation,2021,both,6671,2917
+1076673_20221231,passed,,Old Point Financial Corporation,2022,both,17241,3163
+1076673_20231231,passed,,Old Point Financial Corporation,2023,both,15223,2914
+1076691_20191231,passed,,American National Bankshares Inc.,2019,both,188004,3478
+1076691_20201231,passed,,American National Bankshares Inc.,2020,both,189835,3298
+1076691_20211231,passed,,American National Bankshares Inc.,2021,both,151534,3171
+1076691_20221231,passed,,American National Bankshares Inc.,2022,both,16434,3295
+1076691_20231231,passed,,American National Bankshares Inc,2023,both,14924,3574
+1131750_20191231,passed,,"Highlands Bankshares, Inc.",2019,insiders,13841,1931
+1131750_20201231,passed,,"Highlands Bankshares, Inc.",2020,none,14227,64
+1131750_20211231,passed,,Highlands Bankshares Inc.,2021,none,4238,63
+1131750_20221231,passed,,"Highlands Bankshares, Inc.",2022,none,3054,64
+1131750_20231231,passed,,"Highlands Bankshares, Inc.",2023,insiders,13012,1905
+1132391_20191231,passed,,"Southwest Virginia Bankshares, Inc.",2019,securities,27243,129
+1132391_20201231,passed,,"Southwest Virginia Bankshares, Inc",2020,insiders,92943,200
+1132391_20211231,passed,,"Southwest Virginia Bankshares, Inc.",2021,insiders,34485,1852
+1132391_20221231,passed,,"Southwest Virginia Bankshares, Inc.",2022,insiders,44430,2007
+1132391_20231231,passed,,"Southwest Virginia Bankshares, Inc.",2023,insiders,20807,1986
+1132672_20191231,passed,,First United Corporation,2019,insiders,6092,2483
+1132672_20201231,passed,,First United Corporation,2020,both,8240,2316
+1132672_20211231,passed,,First United Corporation,2021,both,7933,2420
+1132672_20221231,failed,"403 Forbidden. {'message': '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Forbidden'}",,,,,
+1132672_20231231,passed,,First United Corporation,2023,insiders,4232,2413
+1133259_20191231,passed,,"Logan County BancShares, Inc.",2019,both,4290,1427
+1133259_20201231,passed,,"LOGAN COUNTY BANCSHARES, INC.",2020,both,3761,1370
+1133259_20211231,passed,,"Logan County BancShares, Inc.",2021,both,13433,1330
+1133259_20221231,passed,,"Logan County BancShares, Inc.",2022,both,11074,250
+1133259_20231231,passed,,"LOGAN COUNTY BANCSHARES, INC",2023,none,2333,67
+1133437_20191231,passed,,South State Corporation,2019,both,58754,2531
+1133969_20191231,passed,,"Citizens Bancshares, Inc.",2019,both,52587,1214
+1133969_20201231,passed,,"Citizens Bancshares, Inc.",2020,both,74591,1322
+1133969_20211231,passed,,"Citizens Bancshares, Inc.",2021,both,114283,1181
+1133969_20221231,passed,,"Citizens Bancshares, Inc.",2022,insiders,4063,1267
+1133969_20231231,passed,,"Citizens Bancshares, Inc.",2023,none,2400,64
+1134108_20191231,failed,Invalid \escape: line 14 column 43 (char 438),,,,,
+1134108_20201231,failed,Invalid \escape: line 14 column 43 (char 438),,,,,
+1134108_20211231,passed,,CNB Corporation,2021,insiders,5299,1696
+1134108_20221231,passed,,CNB Corporation,2022,insiders,12764,190
+1134108_20231231,passed,,CNB Corporation,2023,insiders,12154,1755
+1135842_20191231,passed,,"Big Coal River Bancorp, Inc",2019,both,15791,2086
+1135842_20201231,passed,,"Big Coal River Bancorp, Inc.",2020,both,16443,2038
+1135842_20211231,passed,,"Big Coal River Bancorp, Inc",2021,both,5788,1980
+1135842_20221231,passed,,"Big Coal River Bancorp, Inc",2022,securities,3107,639
+1135842_20231231,passed,,"Big Coal River Bancorp, Inc",2023,none,2395,65
+1137426_20191231,passed,,"FMB of S.C. Bancshares, Inc.",2019,both,6084,2100
+1137426_20201231,passed,,"FMB of S.C. Bancshares, Inc.",2020,insiders,153180,2018
+1137426_20211231,passed,,"FMB of S.C. Bancshares, Inc.",2021,insiders,5191,1801
+1137426_20221231,passed,,"FMB of S.C. Bancshares, Inc.",2022,insiders,11781,192
+1137426_20231231,passed,,"FMB of S.C. Bancshares, Inc.",2023,insiders,13990,1806
+1138197_20191231,passed,,"ANDERSON BANCSHARES, INC.",2019,both,15996,1178
+1138197_20201231,passed,,"ANDERSON BANCSHARES, INC.",2020,both,16168,1174
+1138197_20211231,passed,,"ANDERSON BANCSHARES, INC.",2021,both,24384,1551
+1138197_20221231,passed,,Anderson Bancshares Inc.,2022,both,14426,1874
+1138197_20231231,passed,,"Anderson Bancshares, Inc.",2023,both,3826,1876
+1139804_20191231,passed,,"PUTNAM BANCSHARES, INC.",2019,both,42674,1676
+1139804_20201231,passed,,"PUTNAM BANCSHARES, INC.",2020,both,13677,1806
+1139804_20211231,passed,,"PUTNAM BANCSHARES, INC.",2021,both,6142,1711
+1139804_20221231,passed,,"PUTNAM BANCSHARES, INC.",2022,both,5575,1719
+1139804_20231231,passed,,"PUTNAM BANCSHARES, INC.",2023,both,14842,2633
+1139925_20191231,passed,,"National Bankshares, Inc.",2019,both,276584,2414
+1139925_20201231,passed,,"National Bankshares, Inc.",2020,both,288099,2844
+1139925_20211231,passed,,"National Bankshares, Inc.",2021,both,101852,2184
+1139925_20221231,passed,,"National Bankshares, Inc.",2022,insiders,3761,2270
+1139925_20231231,passed,,"National Bankshares, Inc.",2023,both,4167,2432
+1141115_20191231,passed,,Appalachian Financial Corporation,2019,both,60065,2098
+1141115_20201231,passed,,Appalachian Financial Corporation,2020,both,62067,2151
+1141115_20211231,passed,,Appalachian Financial Corporation,2021,both,59142,2154
+1141115_20221231,passed,,Appalachian Financial Corporation,2022,none,2869,63
+1141115_20231231,passed,,Appalachian Financial Corporation,2023,both,11723,2122
+1141441_20191231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+1141441_20201231,passed,,"Benchmark Bankshares, Inc.",2020,both,100262,2019
+1141441_20211231,passed,,"Benchmark Bankshares, Inc.",2021,both,73705,1946
+1141441_20221231,passed,,"Benchmark Bankshares, Inc.",2022,both,5986,1898
+1141441_20231231,passed,,"Benchmark Bankshares, Inc.",2023,both,6205,1732
+1141816_20211231,passed,,Southern Financial Corporation,2021,both,13119,2585
+1141816_20221231,passed,,Southern Financial Corporation,2022,insiders,5364,1600
+1141816_20231231,passed,,Southern Financial Corporation,2023,both,5949,2036
+1142970_20191231,passed,,Citizens Financial Corp.,2019,securities,14712,210
+1142970_20201231,passed,,Citizens Financial Corp.,2020,both,17058,2014
+1142970_20211231,passed,,Citizens Financial Corp.,2021,both,16254,4597
+1142970_20221231,passed,,Citizens Financial Corp.,2022,insiders,94011,185
+1142970_20231231,passed,,Citizens Financial Corp.,2023,insiders,3128,1228
+1143230_20191231,passed,,FNB CORPORATION,2019,both,5087,2057
+1143230_20201231,passed,,FNB Corporation,2020,both,5925,2039
+1143230_20211231,passed,,FNB Corporation,2021,both,15329,1863
+1143230_20221231,passed,,FNB CORPORATION,2022,insiders,10967,302
+1143230_20231231,passed,,FNB CORPORATION,2023,insiders,37657,3635
+1247679_20191231,passed,,"Summit Financial Group, Inc.",2019,both,30735,3768
+1247679_20201231,passed,,"Summit Financial Group, Inc.",2020,both,95348,3734
+1247679_20211231,passed,,"Summit Financial Group, Inc.",2021,both,89531,4526
+1247679_20221231,passed,,"Summit Financial Group, Inc.",2022,both,14587,4096
+1247679_20231231,passed,,"Summit Financial Group, Inc.",2023,both,101338,3129
+1248304_20191231,passed,,"Sandy Spring Bancorp, Inc.",2019,both,138369,2974
+1248304_20211231,passed,,"Sandy Spring Bancorp, Inc.",2021,both,137533,3108
+1248304_20221231,passed,,"Sandy Spring Bancorp, Inc.",2022,both,6374,3107
+1248304_20231231,passed,,"Sandy Spring Bancorp, Inc.",2023,both,9594,3282
+1248742_20191231,passed,,"Commercial Bank Shares, Inc.",2019,both,6149,1254
+1248742_20201231,passed,,"Commercial Bank Shares, Inc.",2020,both,3706,1284
+1248742_20211231,passed,,"Commercial Bank Shares, Inc.",2021,both,14327,1340
+1248742_20221231,passed,,"Commercial Bank SHares, Inc.",2022,both,10896,365
+1248742_20231231,passed,,"Commercial Bank Shares, Inc.",2023,insiders,14026,2245
+1249002_20191231,failed,"Expecting ',' delimiter: line 281 column 6 (char 9789)",,,,,
+1249002_20201231,passed,,"Fidelity BancShares (N.C.), Inc.",2020,both,48439,4170
+1249002_20211231,passed,,"Fidelity BancShares (N.C.), Inc.",2021,both,23315,2237
+1249002_20221231,passed,,"Fidelity BancShares (N.C.), Inc.",2022,both,24329,2056
+1249002_20231231,passed,,"Fidelity BancShares (N.C.), Inc.",2023,both,23244,3392
+1249178_20191231,passed,,Harrison Bankshares INc.,2019,both,44981,1390
+1249178_20201231,passed,,"Harrison Bankshares, Inc.",2020,both,35889,1368
+1249178_20211231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+1249178_20221231,passed,,Harrison Bankshares Inc,2022,none,2719,62
+1249178_20231231,passed,,Harrison Bankshares Inc,2023,insiders,10588,188
+1249271_20191231,passed,,"Powell Valley Bankshares, Inc.",2019,both,4878,1317
+1249271_20201231,passed,,"Powell Valley Bankshares, Inc.",2020,both,4124,1426
+1249271_20211231,passed,,"Powell Valley Bankshares, Inc.",2021,both,14428,1538
+1249271_20221231,passed,,"Powell Valley Bankshares, Inc.",2022,both,16279,1296
+1249271_20231231,passed,,"Powell Valley Bankshares, Inc.",2023,both,16280,1268
+1249347_20221231,failed,"403 Forbidden. {'message': '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Forbidden'}",,,,,
+1249347_20231231,passed,,"UNITED COMMUNITY BANKS, INC.",2023,securities,22664,376
+1249918_20191231,failed,Invalid \escape: line 127 column 42 (char 3356),,,,,
+1249918_20201231,failed,Invalid \escape: line 110 column 18 (char 2914),,,,,
+1249918_20211231,failed,Invalid \escape: line 130 column 18 (char 3849),,,,,
+1249918_20221231,passed,,Partners Bancorp,2022,both,13095,2221
+1250053_20191231,passed,,"Freedom Bancshares, Inc.",2019,both,39358,2108
+1250053_20201231,passed,,"Freedom Bancshares, Inc.",2020,both,31292,2149
+1250053_20211231,passed,,"Freedom Bancshares, Inc.",2021,both,30876,1895
+1250053_20221231,passed,,"Freedom Bancshares, Inc.",2022,insiders,125662,1423
+1250053_20231231,passed,,"Freedom Bancshares, Inc.",2023,insiders,12386,1631
+1250679_20191231,passed,,"SOUTHEASTERN BANCORP, INC.",2019,both,93668,760
+1250679_20201231,passed,,"Southeastern Bancorp, Inc.",2020,both,27150,762
+1250679_20211231,passed,,"Southeastern Bancorp, Inc.",2021,both,27168,762
+1250679_20221231,passed,,"Southeastern Bancorp, Inc.",2022,none,33605,64
+1250679_20231231,passed,,"Southeastern Bancorp, Inc.",2023,insiders,26438,1420
+1253773_20191231,passed,,Security Federal Corporation,2019,both,5259,2225
+1253773_20201231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+1253773_20211231,passed,,Security Federal Corporation,2021,both,5596,2205
+1253773_20221231,passed,,Security Federal Corporation,2022,none,4408,61
+1253773_20231231,passed,,Security Federal Corporation,2023,both,15866,2179
+1253821_20190630,passed,,First Federal Financial Corporation,2019,both,206931,2414
+1253821_20200630,failed,Invalid \escape: line 82 column 25 (char 1525),,,,,
+1253821_20210630,passed,,First Federal Financial Corporation,2021,both,18479,3319
+1253821_20220630,passed,,First Federal Financial Corporation,2022,both,45199,2555
+1253821_20230630,passed,,First Federal Financial Corporation,2023,both,4484,2627
+1253821_20240630,passed,,First Federal Financial Corporation,2024,both,4775,2682
+1357046_20191231,passed,,"Calhoun Bankshares, Inc.",2019,both,35970,1255
+1357046_20201231,passed,,"Calhoun Bankshares, Inc.",2020,both,13823,1246
+1357046_20211231,passed,,"Calhoun Bankshares, Inc.",2021,both,4647,1004
+1357046_20221231,passed,,Calhoun Bankshares Inc,2022,none,12775,63
+1357046_20231231,passed,,Calhoun Bankshares Inc,2023,both,3511,1156
+1357121_20191231,passed,,Citizens Bancshares Corporation,2019,both,58125,3198
+1357121_20201231,passed,,Citizens Bancshares Corporation,2020,both,66026,3159
+1357121_20211231,passed,,Citizens Bancshares Corporation,2021,both,58053,3417
+1357121_20221231,passed,,Citizens Bancshares Corporation,2022,both,17337,3285
+1357121_20231231,passed,,Citizens Bancshares Corporation,2023,both,41544,3568
+1363784_20191231,failed,Invalid \escape: line 24 column 71 (char 643),,,,,
+1363784_20201231,passed,,"EASTERN BANCSHARES, INC.",2020,both,4101,1757
+1363784_20211231,passed,,"EASTERN BANCSHARES, INC.",2021,both,13020,1887
+1363784_20221231,passed,,"EASTERN BANCSHARES, INC.",2022,both,10601,255
+1363784_20231231,passed,,"EASTERN BANCSHARES, INC.",2023,insiders,13549,1952
+1404641_20191231,passed,,"Mountain-Valley Bancshares, Inc.",2019,both,4802,1036
+1404641_20201231,passed,,"MOUNTAIN-VALLEY BANCSHARES, INC.",2020,both,80574,1298
+1404641_20211231,passed,,"Mountain-Valley Bancshares, Inc.",2021,both,38840,1297
+1404641_20221231,passed,,"Mountain-Valley Bancshares, Inc.",2022,both,354178,1309
+1404641_20231231,passed,,"Mountain-Valley Bancshares, Inc.",2023,both,11865,1180
+1417324_20191231,passed,,"Romney Bankshares, Inc.",2019,both,4977,1630
+1417324_20201231,passed,,"ROMNEY BANKSHARES, INC.",2020,both,4547,1666
+1417324_20211231,passed,,"Romney Bankshares, Inc.",2021,both,10888,1789
+1417324_20221231,passed,,"Romney Bankshares, Inc.",2022,insiders,4035,1961
+1417324_20231231,passed,,"Romney Bankshares, Inc.",2023,both,3280,1802
+1426960_20191231,passed,,"Blue Ridge Bankshares, Inc.",2019,both,196153,4112
+1426960_20201231,passed,,"Blue Ridge Bankshares, Inc.",2020,both,217567,3928
+1426960_20211231,passed,,"Blue Ridge Bankshares, Inc.",2021,both,17214,3286
+1426960_20221231,passed,,"Blue Ridge Bankshares, Inc.",2022,both,7141,3163
+1426960_20231231,passed,,"Blue Ridge Bankshares, Inc.",2023,both,4741,3456
+1427211_20191231,passed,,First Clay County Banc Corporation,2019,none,83637,64
+1427211_20201231,passed,,First Clay County Banc Corporation,2020,both,55825,1669
+1427211_20211231,passed,,First Clay County Banc Corporation,2021,both,3914,1691
+1427211_20221231,passed,,First Clay County Banc Corporation,2022,none,2880,64
+1427211_20231231,passed,,First Clay County Banc Corporation,2023,none,2402,64
+1478017_20191231,passed,,"First Community Bankshares, Inc.",2019,both,72843,2275
+1478017_20201231,passed,,"First Community Bankshares, Inc.",2020,both,74042,1644
+1478017_20211231,passed,,"First Community Bankshares, Inc.",2021,both,261019,2769
+1478017_20221231,passed,,"First Community Bankshares, Inc.",2022,both,10626,2145
+1478017_20231231,passed,,"First Community Bankshares, Inc.",2023,both,10334,2859
+1479144_20191231,passed,,Community Bankshares Inc,2019,both,57460,2001
+1479144_20201231,passed,,"Community Bankshares, Inc.",2020,both,117048,1695
+1479144_20211231,passed,,"Community Bankshares, Inc",2021,both,53263,1983
+1479144_20221231,passed,,"Community Bankshares, Inc",2022,both,31086,1961
+1479144_20231231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+1951770_20191231,passed,,"Eagle Financial Services, Inc.",2019,both,18997,3627
+1951770_20201231,passed,,"EAGLE FINANCIAL SERVICES, INC.",2020,both,9222,6238
+1951770_20211231,passed,,"EAGLE FINANCIAL SERVICES, INC.",2021,both,19189,3575
+1951770_20221231,passed,,"EAGLE FINANCIAL SERVICES, INC.",2022,both,15569,3793
+1951770_20231231,passed,,"Eagle Financial Services, Inc.",2023,both,5202,2854
+1971693_20191231,passed,,Atlantic Union Bankshares Corporation,2019,both,24176,4384
+1971693_20201231,failed,Invalid \escape: line 236 column 18 (char 5827),,,,,
+1971693_20211231,passed,,Atlantic Union Bankshares Corporation,2021,both,19851,3540
+1971693_20221231,passed,,Atlantic Union Bankshares Corporation,2022,both,7217,3413
+1971693_20231231,passed,,Atlantic Union Bankshares Corporation,2023,both,19305,4165
+1988646_20191231,passed,,"First Bancorp, Inc.",2019,both,6284,1497
+1988646_20201231,passed,,"FIRST BANCORP, INC.",2020,both,5875,1500
+1988646_20211231,passed,,"First Bancorp, Inc.",2021,both,6144,1914
+1988646_20221231,passed,,"First Bancorp, Inc.",2022,both,6214,1895
+1988646_20231231,passed,,"First Bancorp, Inc.",2023,both,6959,1888
+2001328_20191231,passed,,Glen Burnie Bancorp,2019,both,49638,2181
+2001328_20201231,passed,,Glen Burnie Bancorp,2020,both,6547,2109
+2001328_20211231,passed,,Glen Burnie Bancorp,2021,both,53641,2391
+2001328_20221231,passed,,Glen Burnie Bancorp,2022,both,5491,2624
+2001328_20231231,passed,,Glen Burnie Bancorp,2023,both,12816,2302
+2007647_20191231,passed,,"Premier Financial Bancorp, Inc.",2019,both,20908,2145
+2007647_20201231,passed,,"Premier Financial Bancorp, Inc.",2020,both,21542,1795
+2008130_20191231,passed,,Harbor Bankshares Corporation,2019,both,298217,1644
+2008130_20201231,passed,,Harbor Bankshares Corporation,2020,both,324616,2719
+2008130_20211231,passed,,Harbor Bankshares Corporation,2021,both,101080,2512
+2008130_20221231,passed,,Harbor Bankshares Corporation,2022,both,5767,1968
+2008130_20231231,passed,,Harbor Bankshares Corporation,2023,both,17088,2245
+2082532_20191231,passed,,UWHARRIE CAPITAL CORP,2019,insiders,115795,3855
+2082532_20201231,passed,,UWHARRIE CAPITAL CORP,2020,securities,27034,966
+2082532_20211231,passed,,Uwharrie Capital Corp,2021,insiders,112556,5492
+2082532_20221231,passed,,Uwharrie Capital Corp,2022,none,11883,63
+2082532_20231231,passed,,Uwharrie Capital Corp,2023,insiders,6640,3483
+2152734_20191231,passed,,"The Poca Valley Bankshares, Inc.",2019,both,5937,2187
+2152734_20201231,passed,,"The Poca Valley Bankshares, Inc.",2020,both,119746,1986
+2152734_20211231,passed,,"The Poca Valley Bankshares, Inc.",2021,both,16284,2120
+2152734_20221231,passed,,"The Poca Valley Bankshares, Inc.",2022,both,6045,2296
+2152734_20231231,passed,,"The Poca Valley Bankshares, Inc.",2023,both,4691,2573
+2155276_20191231,passed,,"KS Bancorp, Inc",2019,both,56820,2025
+2155276_20201231,passed,,"KS Bancorp, Inc.",2020,both,70918,2051
+2155276_20211231,passed,,"KS Bancorp, Inc",2021,both,47584,1523
+2155276_20221231,passed,,"KS Bancorp, Inc.",2022,insiders,14511,1675
+2155276_20231231,passed,,"KS Bancorp, Inc.",2023,both,4470,2634
+2183493_20191231,failed,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The input token count (1120429) exceeds the maximum number of tokens allowed (1048575).', 'status': 'INVALID_ARGUMENT'}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2183493_20201231,failed,Invalid \escape: line 30 column 43 (char 579),,,,,
+2183493_20211231,passed,,C&F Financial Corporation,2021,both,653293,3219
+2183493_20221231,passed,,C&F Financial Corporation,2022,both,7962,3163
+2183493_20231231,passed,,C&F Financial Corporation,2023,both,4267,2916
+2227687_20191231,passed,,"Miners and Merchants Bancorp, Inc.",2019,both,10177,4296
+2227687_20201231,passed,,"Miners and Merchants Bancorp, Inc.",2020,both,18844,4461
+2227687_20211231,passed,,"Miners and Merchants Bancorp, Inc.",2021,both,10758,4605
+2227687_20221231,failed,Invalid \escape: line 14 column 45 (char 388),,,,,
+2227687_20231231,passed,,"Miners and Merchants Bancorp, Inc.",2023,insiders,12152,2799
+2234920_20191231,passed,,"Potomac Bancshares, Inc.",2019,both,115782,2336
+2234920_20201231,failed,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The input token count (1113101) exceeds the maximum number of tokens allowed (1048575).', 'status': 'INVALID_ARGUMENT'}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2234920_20211231,failed,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The input token count (1241508) exceeds the maximum number of tokens allowed (1048575).', 'status': 'INVALID_ARGUMENT'}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2234920_20221231,failed,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The input token count (1392096) exceeds the maximum number of tokens allowed (1048575).', 'status': 'INVALID_ARGUMENT'}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2234920_20231231,passed,,"Potomac Bancshares, Inc.",2023,both,13701,2481
+2257116_20191231,passed,,"Heritage Bancshares, Inc.",2019,both,352014,2821
+2257116_20201231,passed,,"Heritage Bancshares, Inc.",2020,both,347572,3160
+2257116_20211231,passed,,"Heritage Bancshares, Inc.",2021,both,470265,2480
+2257116_20221231,passed,,FIRST EXCHANGE BANK,2022,both,206946,2402
+2257116_20231231,passed,,"Heritage Bancshares, Inc.",2023,both,6711,2401
+2277860_20191231,failed,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The input token count (1913592) exceeds the maximum number of tokens allowed (1048575).', 'status': 'INVALID_ARGUMENT'}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2277860_20201231,failed,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The input token count (2301024) exceeds the maximum number of tokens allowed (1048575).', 'status': 'INVALID_ARGUMENT'}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2277860_20211231,failed,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The input token count (3097462) exceeds the maximum number of tokens allowed (1048575).', 'status': 'INVALID_ARGUMENT'}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2277860_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '58s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2277860_20231231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+2297701_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2297701_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2297701_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2297701_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2297701_20231231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2326179_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '44s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2326179_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '44s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2326179_20211231,passed,,IBW FINANCIAL CORPORATION,2021,both,36896,1763
+2326179_20221231,passed,,IBW Financial Corporation,2022,insiders,35272,185
+2326179_20231231,passed,,IBW Financial Corporation,2023,insiders,2173,189
+2337401_20191231,passed,,First Community Corporation,2019,both,17178,2889
+2337401_20201231,passed,,First Community Corporation,2020,both,18887,3020
+2337401_20211231,passed,,First Community Corporation,2021,both,18494,3083
+2337401_20221231,passed,,First Community Corporation,2022,both,26402,3265
+2337401_20231231,passed,,First Community Corporation,2023,both,7427,3126
+2352842_20191231,passed,,Communitycorp,2019,both,74484,2295
+2352842_20201231,passed,,Bank of the Lowcountry,2020,both,43218,2303
+2352842_20211231,passed,,Bank of the Lowcountry,2021,both,43094,2036
+2352842_20221231,passed,,Communitycorp,2022,both,31691,2195
+2352842_20231231,passed,,Communitycorp,2023,both,13152,2535
+2355759_20191231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+2355759_20201231,passed,,"FCNB Bancorp, Inc.",2020,securities,162607,1503
+2355759_20211231,passed,,"FCNB Bancorp, Inc.",2021,both,352360,2676
+2355759_20221231,passed,,"FCNB Bancorp, Inc.",2022,both,6244,3036
+2355759_20231231,passed,,"FCNB Bancorp, Inc.",2023,insiders,15943,1412
+2356514_20191231,passed,,"Pioneer Community Group, Inc.",2019,both,15345,2024
+2356514_20201231,passed,,Pioneer Community Bank,2020,both,44716,2069
+2356514_20211231,passed,,"Pioneer Community Group, Inc.",2021,both,5305,2027
+2356514_20221231,passed,,"Pioneer Community Group, Inc.",2022,both,5239,1962
+2356514_20231231,passed,,"Pioneer Community Group, Inc.",2023,insiders,4317,1705
+2391300_20191231,passed,,"Calvin B. Taylor Bankshares, Inc.",2019,both,19430,3369
+2391300_20201231,passed,,"Calvin B. Taylor Bankshares, Inc.",2020,both,21819,3353
+2391300_20211231,failed,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The input token count (1581477) exceeds the maximum number of tokens allowed (1048575).', 'status': 'INVALID_ARGUMENT'}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2391300_20221231,passed,,"Calvin B. Taylor Bankshares, Inc.",2022,both,18079,3680
+2391300_20231231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '6s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2398082_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '4s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2398082_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '4s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2398082_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '3s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2398082_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '3s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2398082_20231231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '2s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2429838_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '2s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2429838_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2429838_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2429838_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '59s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2429838_20231231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '53s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2496269_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '53s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2496269_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2496269_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2496269_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2507790_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2523389_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2523389_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2523389_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '44s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2523389_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '43s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2531049_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '42s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2531049_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '42s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2531049_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2531049_20221231,passed,,"Peoples Bancorp, Inc.",2022,insiders,12745,2810
+2531049_20231231,passed,,"Peoples Bancorp, Inc.",2023,insiders,3820,1192
+2534406_20191231,passed,,Pinnacle Bankshares Corporation,2019,both,3995,2621
+2534406_20201231,passed,,Pinnacle Bankshares Corporation,2020,both,84731,3315
+2534406_20211231,passed,,Pinnacle Bankshares Corporation,2021,both,6254,2793
+2534406_20221231,passed,,Pinnacle Bankshares Corporation,2022,both,11140,3075
+2534406_20231231,passed,,Pinnacle Bankshares Corporation,2023,both,14678,2654
+2560665_20191231,passed,,"Bay Banks of Virginia, Inc.",2019,both,59629,2978
+2560665_20201231,passed,,"Bay Banks of Virginia, inc",2020,both,50306,2400
+2593083_20191231,passed,,Community First Bancorporation,2019,both,6863,2372
+2593083_20201231,passed,,Community First Bancorporation,2020,both,27080,2093
+2593083_20211231,passed,,Community First Bancorporation,2021,securities,106362,245
+2593083_20221231,passed,,Community First Bancorporation,2022,both,6340,2251
+2593083_20231231,passed,,Community First Bancorporation,2023,both,6732,2263
+2618614_20191231,passed,,"Queenstown Bancorp of Maryland, Inc",2019,insiders,52084,1535
+2618614_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '58s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2618614_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '57s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2618614_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '56s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2618614_20231231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2623467_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2630193_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2630193_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2630193_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2630193_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2630193_20231231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2638582_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2638582_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '43s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2638582_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '43s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2638582_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '42s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2638582_20231231,failed,Invalid \escape: line 42 column 42 (char 874),,,,,
+2652104_20191213,passed,,"Eagle Bancorp, Inc.",2019,both,18333,2688
+2652104_20201231,passed,,"Eagle Bancorp, Inc.",2020,both,20661,2907
+2652104_20211231,passed,,"Eagle Bancorp, Inc",2021,both,8346,3415
+2652104_20221231,passed,,"Eagle Bancorp, Inc.",2022,both,15759,3342
+2652104_20231231,passed,,"Eagle Bancorp, Inc.",2023,both,5949,2750
+2697954_20191231,passed,,"City First Enterprises, Inc.",2019,both,181837,3357
+2697954_20201231,failed,Expecting property name enclosed in double quotes: line 270 column 5 (char 7364),,,,,
+2697954_20211231,passed,,"City First Enterprises, Inc.",2021,both,7212,4269
+2697954_20221231,passed,,City First Enterprises Inc.,2022,both,5128,2408
+2697954_20231231,passed,,City First Enterprises Inc.,2023,both,5167,2678
+2702250_20191231,passed,,"First Region Bancshares, Inc.",2019,both,5464,2799
+2702250_20201231,passed,,"First Region Bancshares, Inc.",2020,both,5647,2674
+2702250_20211231,passed,,"First Region Bancshares, Inc.",2021,both,5720,2674
+2702250_20221231,passed,,"First Region Bancshares, Inc.",2022,both,6875,2560
+2702250_20231231,passed,,"First Region Bancshares, Inc.",2023,both,4536,2644
+2706726_20191231,passed,,"Delmarva Bancshares, Inc.",2019,both,58847,1740
+2722892_20191231,passed,,"UNION BANKSHARES, INC.",2019,both,16587,1660
+2722892_20201231,passed,,"UNION BANKSHARES, INC.",2020,both,5042,1626
+2722892_20211231,passed,,"UNION BANKSHARES, INC.",2021,both,19665,1234
+2722892_20221231,passed,,"UNION BANKSHARES, INC.",2022,insiders,29998,185
+2722892_20231231,passed,,"UNION BANKSHARES, INC.",2023,both,4199,1718
+2728447_20191231,passed,,Pleasants County Bankshares Inc.,2019,both,12587,1260
+2728447_20201231,passed,,"Pleasants County Bankshares, Inc.",2020,both,4086,1259
+2728447_20211231,passed,,Pleasants County Bankshares Inc.,2021,both,3799,1245
+2728447_20221231,passed,,Pleasants County Bankshares Inc,2022,insiders,2827,920
+2728447_20231231,passed,,Pleasants County Bankshares,2023,securities,24920,389
+2730383_20191231,passed,,"Travelers Rest Bancshares, Inc.",2019,both,44732,4768
+2730383_20201231,passed,,"Travelers Rest Bancshares, Inc",2020,both,37531,4561
+2730383_20211231,passed,,"Travelers Rest Bancshares, Inc.",2021,both,48764,4865
+2730383_20221231,passed,,Travelers Rest Bancshares,2022,both,84641,3919
+2730383_20231231,passed,,"Travelers Rest Bancshares, Inc.",2023,both,37458,4234
+2798440_20191231,passed,,Darlington County Bancshares Inc,2019,both,16712,1560
+2798440_20201231,passed,,Darlington County Bancshares Inc,2020,both,17663,1543
+2798440_20211231,passed,,Darlington County Bancshares Inc,2021,both,15950,1546
+2798440_20221231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+2798440_20231231,passed,,Darlington County Bancshares Inc.,2023,insiders,15384,1320
+2807810_20191231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+2807810_20201231,passed,,"M&F Bancorp, Inc.",2020,both,92942,1817
+2807810_20211231,passed,,"M&F BANCORP, INC.",2021,both,40449,1484
+2807810_20221231,passed,,"M&F Bancorp, Inc.",2022,both,4492,1774
+2807810_20231231,passed,,"M&F Bancorp, Inc.",2023,both,4689,1672
+2808590_20191231,passed,,"Capital Bancorp, Inc.",2019,both,124827,2621
+2808590_20201231,passed,,"Capital Bancorp, Inc.",2020,both,118429,2413
+2808590_20211231,passed,,"Capital Bancorp, Inc.",2021,both,119436,2990
+2808590_20221231,passed,,"Capital Bancorp, Inc.",2022,both,17103,2780
+2808590_20231231,passed,,"Capital Bancorp, Inc.",2023,both,17246,3365
+2818245_20191231,passed,,"Peoples Bancorp of North Carolina, Inc.",2019,both,93052,2993
+2818245_20201231,passed,,"People's Bancorp of North Carolina, Inc.",2020,both,93365,2838
+2818245_20211231,passed,,"Peoples Bancorp of North Carolina, Inc.",2021,both,78174,2980
+2818245_20221231,passed,,"Peoples Bancorp of North Carolina, Inc.",2022,both,6929,2937
+2818245_20231231,passed,,"Peoples Bancorp of North Carolina, Inc.",2023,both,7087,2902
+2835680_20191231,passed,,"BCC Bankshares, Inc.",2019,both,13088,2570
+2835680_20201231,passed,,"BCC Bankshares, Inc.",2020,both,12863,2595
+2835680_20211231,passed,,"BCC Bankshares, Inc.",2021,both,12651,2552
+2835680_20221231,passed,,"BCC Bankshares, Inc.",2022,both,11408,2530
+2835680_20231231,passed,,"BCC Bankshares, Inc.",2023,both,21098,2503
+2849799_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '7s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2849799_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '6s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2849799_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '6s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2849799_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2849799_20231231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2857758_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '4s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2857758_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '2s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2857758_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2857758_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2857758_20231231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '59s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2876544_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2876544_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2876544_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2876544_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2876544_20231231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2878294_20191231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '44s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2878294_20201231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '43s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2878294_20211231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '43s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2878294_20221231,failed,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_paid_tier_input_token_count', 'quotaId': 'GenerateContentPaidTierInputTokensPerModelPerMinute', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '4000000'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '42s'}]}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+2878294_20231231,passed,,Davis Trust Financial Corporation,2023,both,3393,2720
+2909200_20191231,passed,,"CNB Financial Services, Inc.",2019,both,5766,2847
+2909200_20201231,passed,,"CNB Financial Services, Inc.",2020,both,16360,3377
+2909200_20211231,passed,,"CNB Financial Services, Inc.",2021,both,6406,3050
+2909200_20221231,passed,,"CNB Financial Services, Inc.",2022,both,4572,2890
+2909200_20231231,passed,,Unknown,2023,both,3785,3430
+2913083_20191231,passed,,MCNB BANKS INC,2019,both,15570,2178
+2913083_20201231,passed,,MCNB BANKS INC,2020,both,4744,1144
+2913083_20211231,passed,,MCNB BANKS INC,2021,both,4907,1193
+2913083_20221231,passed,,MCNB BANKS INC,2022,both,3542,1526
+2913083_20231231,passed,,MCNB Banks INC,2023,both,14465,1201
+2916020_20191231,passed,,Peoples Financial Group Inc.,2019,both,13715,1594
+2916020_20201231,passed,,Peoples Financial Group Inc,2020,both,81661,1272
+2916020_20211231,passed,,Peoples Financial Group Inc,2021,both,80094,1170
+2916020_20221231,passed,,Peoples Financial Group Inc,2022,both,3998,1317
+2916020_20231231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+2929833_20191231,passed,,GrandSouth Bancorporation,2019,both,5229,2629
+2929833_20201231,passed,,GrandSouth Bancorporation,2020,both,5754,2789
+2929833_20211231,passed,,GrandSouth Bancorporation,2021,both,6116,3183
+2929833_20221231,passed,,GrandSouth Bancorporation,2022,both,13616,2860
+2942805_20191231,passed,,"Petersdown Bancorp, Inc.",2019,both,36124,1471
+2942805_20201231,passed,,"Peterstown Bancorp, Inc.",2020,both,26133,1523
+2942805_20211231,passed,,"Peterstown Bancorp, Inc.",2021,both,26726,1463
+2942805_20221231,passed,,"Peterstown Bancorp, Inc.",2022,both,36732,1510
+2942805_20231231,passed,,"Peterstown Bancorp, Inc.",2023,both,11767,1382
+3049617_20191231,passed,,"New Peoples Bankshares, Inc.",2019,both,6572,2979
+3049617_20201231,passed,,"New People's Bankshares, Inc.",2020,both,10881,2792
+3049617_20211231,passed,,"New Peoples Bankshares, Inc.",2021,both,6205,2911
+3049617_20221231,passed,,"New Peoples Bankshares, Inc.",2022,both,8508,2837
+3049617_20231231,passed,,"New Peoples Bankshares, Inc.",2023,both,15214,2898
+3068289_20191231,passed,,"Tri-County Bancorp, Inc.",2019,both,175768,3521
+3068289_20201231,passed,,"Tri-County Bancorp, Inc.",2020,both,210639,2930
+3068289_20211231,passed,,"Tri-County Bancorp, Inc.",2021,both,161569,2912
+3068289_20221231,passed,,"Tri-County Bancorp, Inc.",2022,both,45649,2009
+3068289_20231231,passed,,"Tri-County Bancorp, Inc.",2023,both,13950,2813
+3070312_20191231,passed,,First Reliance Bancshares Inc,2019,both,291868,2365
+3070312_20201231,passed,,First Reliance Bancshares Inc,2020,both,98347,2430
+3070312_20211231,passed,,First Reliance Bancshares Inc,2021,both,95579,3005
+3070312_20221231,passed,,First Reliance Bancshares Inc,2022,both,14140,2071
+3070312_20231231,passed,,First Reliance Bancshares Inc,2023,both,64730,2251
+3109070_20191231,passed,,North State Bancorp,2019,both,4911,2371
+3109070_20201231,passed,,NORTH STATE BANCORP,2020,both,42269,2297
+3109070_20211231,passed,,North State Bancorp,2021,both,5439,2592
+3109070_20221231,passed,,North State Bancorp,2022,both,15485,2390
+3109070_20231231,passed,,NORTH STATE BANCORP,2023,both,61963,2646
+3135190_20191231,passed,,"Cecil Bancorp, Inc.",2019,both,5392,2051
+3135190_20201231,passed,,"Cecil Bancorp, Inc.",2020,both,5966,2285
+3135190_20211231,failed,Invalid \escape: line 101 column 65 (char 2765),,,,,
+3135190_20221231,passed,,"Cecil Bancorp, Inc.",2022,both,11867,2431
+3135190_20231231,passed,,"Cecil Bancorp, Inc.",2023,both,12819,2178
+3136982_20191231,passed,,Arthur Financial Corporation,2019,both,212731,2393
+3136982_20201231,passed,,Arthur Financial Corporation,2020,both,171213,2406
+3136982_20211231,passed,,Arthur Financial Corporation,2021,both,157007,2525
+3136982_20221231,passed,,Arthur Financial Corporation,2022,insiders,5980,1445
+3136982_20231231,passed,,Arthur Financial Corporation,2023,none,12358,61
+3137019_20191231,passed,,Arthur Financial Corporation,2019,both,230693,2370
+3137019_20201231,passed,,Arthur Financial Corporation,2020,both,200517,2427
+3137019_20211231,passed,,Arthur Financial Corporation,2021,both,188149,2479
+3137019_20221231,passed,,Arthur Financial Corporation,2022,insiders,6197,1442
+3137019_20231231,passed,,Arthur Financial Corporation,2023,insiders,12793,187
+3137046_20191231,passed,,Arthur Financial Corporation,2019,both,247666,2377
+3137046_20201231,passed,,Arthur Financial Corporation,2020,both,214455,2415
+3137046_20211231,passed,,Arthur Financial Corporation,2021,both,190974,2502
+3137046_20221231,passed,,Arthur Financial Corporation,2022,insiders,152883,1499
+3137046_20231231,passed,,Arthur Financial Corporation,2023,insiders,12540,189
+3137055_20191231,passed,,Frances W. Arthur Irrevocable Trust No. 2 for the Benefit of Frances Oxner Jorgenson,2019,both,235390,2419
+3137055_20201231,passed,,Arthur Financial Corporation,2020,both,169720,2400
+3137055_20211231,passed,,Arthur Financial Corporation,2021,both,166654,2524
+3137055_20221231,passed,,Arthur Financial Corporation,2022,both,115670,2142
+3137055_20231231,passed,,Arthur Financial Corporation,2023,insiders,12448,189
+3137082_20191231,failed,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The input token count (2151733) exceeds the maximum number of tokens allowed (1048575).', 'status': 'INVALID_ARGUMENT'}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+3137082_20201231,failed,Invalid \escape: line 108 column 44 (char 2771),,,,,
+3137082_20211231,failed,Invalid \escape: line 24 column 44 (char 492),,,,,
+3137082_20221231,passed,,"Allegheny Bancshares, Inc.",2022,insiders,3740,1910
+3137082_20231231,passed,,"Allegheny Bancshares, Inc.",2023,insiders,9874,2046
+3147625_20191231,passed,,TCB Corporation,2019,both,14899,2063
+3147625_20201231,passed,,TCB Corporation,2020,both,5633,2150
+3147625_20211231,passed,,TCB Corporation,2021,both,5548,2149
+3147625_20221231,passed,,TCB Corporation,2022,both,4243,2388
+3147625_20231231,passed,,TCB Corporation,2023,both,13408,1773
+3163867_20191231,passed,,Surrey Bancorp,2019,both,6383,1983
+3163867_20201231,passed,,Surrey Bancorp,2020,both,7012,1804
+3163867_20211231,passed,,Surrey Bancorp,2021,both,13566,1850
+3163867_20221231,passed,,Surrey Bancorp,2022,insiders,11806,184
+3195448_20191231,passed,,"Frederick County Bancorp, Inc.",2019,both,96510,2102
+3207659_20191231,passed,,"Select Bancorp, Inc.",2019,both,79567,4731
+3207659_20201231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+3211601_20191231,passed,,MVB Financial Corp.,2019,none,40810,62
+3211601_20201231,passed,,MVB Financial Corp.,2020,securities,18713,312
+3211601_20211231,passed,,MVB Financial Corp.,2021,both,5332,2569
+3211601_20221231,passed,,MHB Financial,2022,both,14750,2350
+3211601_20231231,passed,,MVB Financial Corp.,2023,securities,266820,570
+3217032_20191231,passed,,"Bank of the James Financial Group, Inc.",2019,both,77083,2720
+3217032_20201231,passed,,"Bank of the James Financial Group, Inc.",2020,both,92539,2702
+3217032_20211231,passed,,"Bank of the James Financial Group, Inc.",2021,both,89692,2661
+3217032_20221231,passed,,"Bank of the James Financial Group, Inc.",2022,both,16885,2398
+3217032_20231231,passed,,"Bank of the James Financial Group, Inc.",2023,both,15024,2412
+3219474_20191231,passed,,CITIZENS BANCORP OF VIRGINIA,2019,both,113365,2952
+3219474_20201231,passed,,"CITIZENS BANCORP OF VIRGINIA, INC.",2020,both,51724,2342
+3219474_20211231,passed,,"Citizens Bancorp of Virginia, Inc.",2021,both,7902,3017
+3219474_20221231,passed,,Citizens Bancorp of Virginia Inc.,2022,both,6970,2806
+3219474_20231231,passed,,"CITIZENS BANCORP OF VIRGINIA, INC.",2023,both,5573,2826
+3251027_20191231,passed,,Village Bank and Trust Financial Corp.,2019,both,91427,1922
+3251027_20201231,passed,,Village Bank and Trust Financial Corp.,2020,both,90820,1951
+3251027_20211231,passed,,Village Bank and Trust Financial Corp.,2021,both,102395,1958
+3251027_20221231,passed,,Village Bank and Trust Financial Corp.,2022,both,15550,1912
+3251027_20231231,passed,,Village Bank and Trust Financial Corp.,2023,both,14350,1867
+3274727_20191231,passed,,"CoastalSouth Bancshares, Inc.",2019,both,16382,2314
+3274727_20201231,passed,,"CoastalSouth Bancshares, Inc.",2020,both,17042,2172
+3274727_20211231,passed,,"CoastalSouth Bancshares, Inc.",2021,both,6755,2494
+3274727_20221231,passed,,"CoastalSouth Bancshares, Inc.",2022,both,16351,2502
+3274727_20231231,passed,,"CoastalSouth Bancshares, Inc.",2023,both,16795,2595
+3325740_20191231,passed,,"Southern National Bancorp of Virginia, Inc.",2019,both,36280,3004
+3325740_20201231,passed,,"Southern National Bancorp of Virginia, Inc.",2020,both,130164,3579
+3325740_20211231,passed,,Primis Financial Corp.,2021,both,102527,4418
+3325740_20221231,passed,,Primis Financial Corp.,2022,both,103512,4169
+3325740_20231231,passed,,Primis Financial Corp.,2023,both,98882,3699
+3334489_20191231,passed,,SCCB Financial Corporation,2019,both,13351,962
+3334489_20201231,passed,,SCCB Financial Corporation,2020,both,13248,1041
+3334489_20211231,passed,,OPTUS BANK,2021,both,4652,1232
+3334489_20221231,passed,,OPTUS Financial Corporation,2022,both,23820,1348
+3334489_20231231,passed,,OPTUS Financial Corporation,2023,both,13088,1096
+3364178_20231231,passed,,BV Financial Inc,2023,both,64902,2112
+3386910_20191231,passed,,"Howard Bancorp, Inc.",2019,both,91225,3534
+3386910_20201231,passed,,"Howard Bancorp, Inc.",2020,both,90446,4545
+3386910_20211231,passed,,"Howard Bancorp, Inc.",2021,both,82456,3758
+3391129_20191231,passed,,"Congressional Bancshares, Inc.",2019,both,57570,5332
+3391129_20201231,passed,,"Congressional Bancshares, Inc.",2020,both,16346,2618
+3391129_20211231,passed,,"Congressional Bancshares, Inc.",2021,both,60360,3681
+3391129_20221231,passed,,"Forbright, Inc.",2022,both,58751,2994
+3391129_20231231,passed,,"Forbright, Inc.",2023,both,14842,1490
+3412583_20191231,passed,,E*TRADE Financial Corporation,2019,both,187582,3807
+3587427_20191231,passed,,"Oak Ridge Financial Services, Inc.",2019,insiders,57524,1168
+3587427_20201231,passed,,"Oak Ridge Financial Services, Inc.",2020,both,57540,1348
+3587427_20211231,passed,,"Oak Ridge Financial Services, Inc.",2021,insiders,87791,1329
+3587427_20221231,passed,,"Oak Ridge Financial Services, Inc",2022,insiders,4124,1499
+3587427_20231231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+3597220_20191231,passed,,"Chain Bridge Bancorp, Inc.",2019,both,53550,2841
+3597220_20201231,passed,,"Chain Bridge Bancorp, Inc.",2020,both,45108,3336
+3597220_20211231,passed,,"Chain Bridge Bancorp, Inc.",2021,both,37279,3303
+3597220_20221231,failed,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The input token count (1126049) exceeds the maximum number of tokens allowed (1048575).', 'status': 'INVALID_ARGUMENT'}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+3597220_20231231,failed,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The input token count (1051813) exceeds the maximum number of tokens allowed (1048575).', 'status': 'INVALID_ARGUMENT'}, 'modelVersion': 'gemini-2.0-flash'}",,,,,
+3614668_20191231,passed,,Blue Ridge Financial Corporation,2019,both,11843,1414
+3614668_20201231,passed,,Blue Ridge Financial Corporation,2020,both,15539,1311
+3614668_20211231,passed,,Blue Ridge Financial Corporation,2021,both,13282,1381
+3614668_20221231,passed,,Blue Ridge Financial Corporation,2022,none,2854,62
+3614668_20231231,passed,,Blue Ridge Financial Corporation,2023,insiders,3511,1202
+3628535_20191231,passed,,"Virginia Community Capital, Inc.",2019,both,147616,2988
+3628535_20201231,passed,,"Virginia Community Capital, Inc.",2020,securities,119374,158
+3637238_20191231,passed,,South Atlantic Bancshares Inc,2019,insiders,49672,2410
+3637238_20201231,passed,,"South Atlantic Bancshares, Inc.",2020,insiders,47423,2438
+3637238_20211231,passed,,"South Atlantic Bancshares, Inc.",2021,both,15936,2604
+3637238_20221231,passed,,"South Atlantic Bancshares, Inc.",2022,both,68677,2361
+3637238_20231231,passed,,"South Atlantic Bancshares, Inc.",2023,both,17773,2178
+3687046_20191231,passed,,Community Bankers Trust Corporation,2019,both,109246,2309
+3687046_20201231,passed,,Community Bankers Trust Corporation,2020,both,6106,2408
+3823817_20191231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+3823817_20201231,passed,,"Coastal Carolina Bancshares, Inc.",2020,both,15436,2756
+3823817_20211231,passed,,"Coastal Carolina Bancshares, Inc.",2021,both,6401,2889
+3823817_20221231,passed,,"Coastal Carolina Bancshares, Inc.",2022,both,14579,2963
+3823817_20231231,passed,,"Coastal Carolina Bancshares, Inc.",2023,both,35228,2927
+3831465_20191231,passed,,"SEVERN BANCORP, INC.",2019,both,140842,2405
+3831465_20201231,passed,,"Severn Bancorp, Inc.",2020,insiders,140441,4277
+3831960_20191231,passed,,"CBM Bancorp, Inc.",2019,insiders,175066,1721
+3831960_20201231,passed,,"CBM Bancorp, Inc.",2020,insiders,126347,1421
+3831960_20211231,passed,,"CBM Bancorp, Inc.",2021,both,137179,1551
+3834701_20191231,passed,,First Palmetto Financial Corporation,2019,both,83049,992
+3834701_20201231,passed,,First Palmetto Financial Corporation,2020,both,16006,1019
+3834701_20211231,passed,,First Palmetto Financial Corporation,2021,both,16111,1015
+3834701_20221231,passed,,First Palmetto Financial Corporation,2022,both,12373,1096
+3834701_20231231,passed,,First Palmetto Financial Corporation,2023,both,14955,1726
+3834710_20190930,passed,,"First Carolina Bancshares, MHC",2019,insiders,10606,1640
+3834710_20201231,passed,,"First Carolina Bancshares, M.H.C.",2020,insiders,4726,1491
+3834710_20211231,passed,,"First Carolina Bancshares, M.H.C.",2021,both,13561,1555
+3834710_20221231,passed,,"First Carolina Bancshares, M.H.C.",2022,insiders,12631,1787
+3834710_20231231,passed,,"First Carolina Bancshares, M.H.C.",2023,insiders,2995,1482
+3834729_20191231,passed,,"Kingstree Bancshares, M.H.C.",2019,both,26124,1153
+3834729_20201231,passed,,"Kingstree Bancshares, M.H.C",2020,insiders,3471,998
+3834729_20211231,passed,,"Kingstree Bancshares, MHC",2021,insiders,10833,1021
+3834729_20221231,passed,,"Kingstree Bancshares, MHC",2022,none,2160,65
+3834729_20231231,passed,,"Kingstree Bancshares, MHC",2023,none,4065,65
+3836385_20191231,passed,,"First Capital Bancshares, Inc.",2019,insiders,41506,1794
+3836385_20201231,passed,,"First Capital Bancshares, Inc.",2020,insiders,4017,1721
+3836385_20211231,passed,,"First Capital Bancshares, Inc.",2021,both,4138,1846
+3836385_20221231,passed,,"First Capital Bancshares, Inc.",2022,insiders,12075,1757
+3836385_20231231,passed,,"First Capital Bancshares, Inc.",2023,insiders,51402,2018
+3837373_20191231,failed,Invalid \escape: line 25 column 28 (char 577),,,,,
+3837373_20201231,passed,,"BAY-VANGUARD, MHC",2020,both,16381,1920
+3837373_20211231,passed,,"BAY-VANGUARD, MHC",2021,both,6575,2005
+3837373_20221231,failed,Invalid \escape: line 33 column 51 (char 676),,,,,
+3837467_20190930,passed,,"Wake Forest Bancorp, M.H.C.",2019,both,94251,1747
+3837467_20200930,passed,,"Wake Forest Bancorp, M.H.C.",2020,both,16198,1833
+3837467_20210930,passed,,"Wake Forest Bancorp, M.H.C.",2021,both,15177,1663
+3837467_20220930,passed,,"Wake Forest Bancorp, M.H.C.",2022,both,79207,1719
+3837467_20230930,passed,,"Wake Forest Bancorp, M.H.C.",2023,insiders,11718,189
+3837542_20190630,passed,,"AsheCo MHC, Inc.",2019,both,7255,2210
+3837542_20200630,passed,,"AsheCo MHC, Inc.",2020,securities,24247,327
+3837542_20210630,passed,,"AsheCo MHC, Inc.",2021,both,176314,2058
+3837542_20220630,passed,,"AsheCo MHC, Inc.",2022,both,249974,2210
+3837542_20230630,passed,,"AsheCo MHC, Inc.",2023,both,4799,2120
+3837542_20240630,passed,,"AsheCo MHC, Inc.",2024,securities,13293,320
+3848632_20191231,passed,,CBB Financial Corp.,2019,both,4495,2339
+3848632_20201231,passed,,CBB Financial Corp.,2020,both,55831,2254
+3848632_20211231,passed,,CBB Financial Corp.,2021,both,4611,2205
+3848632_20221231,passed,,CBB Financial Corp.,2022,insiders,4485,2332
+3848632_20231231,passed,,CBB Financial Corp.,2023,insiders,3859,1999
+3878835_20191231,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+3878835_20201231,passed,,"Max Bancorp, LLC",2020,both,37960,1769
+3878835_20211231,passed,,"Max Bancorp, LLC",2021,both,6503,2322
+3884863_20191231,passed,,"Live Oak Bancshares, Inc.",2019,both,234228,3221
+3884863_20201231,passed,,"Live Oak Bancshares, Inc.",2020,both,266663,3507
+3884863_20211231,passed,,"Live Oak Bancshares, Inc.",2021,both,261454,3628
+3884863_20221231,passed,,"Live Oak Bancshares, Inc.",2022,both,414579,4706
+3884863_20231231,passed,,"LIVE OAK BANCSHARES, INC.",2023,both,470131,3741
+3917006_20190331,passed,,"Presidential Holdings, Inc.",2019,both,60238,2480
+3917006_20200331,passed,,"Presidential Holdings, Inc",2020,both,72714,2738
+3917006_20210331,passed,,"Presidential Holdings, Inc.",2021,both,71728,2516
+3917006_20220331,passed,,"Presidential Holdings, Inc.",2022,both,72144,2734
+3917006_20230331,passed,,"Presidential Holdings, Inc.",2023,insiders,11492,181
+3927078_20191231,passed,,"Capital Funding Bancorp, Inc.",2019,both,89648,683
+3927078_20201231,passed,,"Capital Funding Bancorp, Inc.",2020,both,115177,892
+3927078_20211231,passed,,"Capital Funding Bancorp, Inc.",2021,both,140528,1041
+3927078_20221231,passed,,"Capital Funding Bancorp, Inc.",2022,both,3527,1082
+3927078_20231231,passed,,"Capital Funding Bancorp, Inc.",2023,both,4343,965
+4234054_20190630,passed,,"Oconee Federal, MHC",2019,both,14521,2513
+4234054_20200630,passed,,"Oconee Federal, MHC",2020,both,6846,2786
+4234054_20210630,passed,,"Oconee Federal, MHC",2021,both,6710,2865
+4234054_20220630,passed,,"Oconee Federal, MHC",2022,both,6819,2884
+4234054_20230630,passed,,"Oconee Federal, MHC",2023,none,12424,64
+4234054_20240630,passed,,"Oconee Federal, MHC",2024,securities,7096,152
+4256159_20191231,passed,,"Carroll Bancorp, Inc.",2019,both,5757,2541
+4346706_20191231,passed,,First Carolina Bank,2019,both,229331,2147
+4346706_20201231,passed,,"First Carolina Financial Services, Inc.",2020,securities,20974,296
+4346706_20211231,passed,,"First Carolina Financial Services, Inc.",2021,securities,15532,218
+4346706_20221231,passed,,"First Carolina Financial Services, Inc.",2022,both,15540,2023
+4346706_20231231,passed,,"First Carolina Financial Services, Inc.",2023,insiders,15566,2271
+4366003_20190630,passed,,"HomeTrust Bancshares, Inc.",2019,both,65337,2899
+4366003_20200630,passed,,"HomeTrust Bancshares, Inc.",2020,both,65050,3047
+4366003_20210630,passed,,"HomeTrust Bancshares, Inc.",2021,both,73938,1027
+4366003_20220630,passed,,"HomeTrust Bancshares, Inc.",2022,both,64529,1114
+4366003_20230630,passed,,"HomeTrust Bancshares, Inc.",2023,both,18094,3182
+4366003_20231231,passed,,"HomeTrust Bancshares, Inc.",2023,both,13734,3350
+4488857_20191231,passed,,Select Bank Financial Corporation,2019,both,41836,1796
+4488857_20201231,failed,"403 Forbidden. {'message': '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Forbidden'}",,,,,
+4488857_20211231,passed,,Select Bank Financial Corporation,2021,both,44854,2045
+4488857_20221231,passed,,Select Bank Financial Corporation,2022,both,4450,1953
+4488857_20231231,passed,,Select Bank Financial Corporation,2023,insiders,56148,189
+4517261_20191231,passed,,Virginia National Bankshares Corporation,2019,both,25357,2492
+4517261_20201231,failed,Invalid \escape: line 33 column 41 (char 756),,,,,
+4517261_20211231,passed,,Virginia National Bankshares Corporation,2021,both,7678,2365
+4517261_20221231,passed,,Virginia National Bankshares Corporation,2022,both,18185,2964
+4517261_20231231,failed,Invalid \escape: line 33 column 41 (char 885),,,,,
+4553960_20191231,passed,,"Farmers Bankshares, Inc.",2019,both,87092,2043
+4553960_20201231,passed,,"Farmers Bankshares, Inc.",2020,both,100693,2042
+4553960_20211231,passed,,"Farmers Bankshares, Inc.",2021,both,89927,2167
+4566232_20191231,passed,,"Aquesta Financial Holdings, Inc.",2019,both,34654,2692
+4566232_20201231,passed,,"Aquesta Financial Holdings, Inc.",2020,both,34201,2856
+4750714_20191231,passed,,"MB Bancorp, Inc.",2019,both,18138,2223
+4875907_20191231,passed,,"FVCBankcorp, Inc.",2019,both,5368,1835
+4875907_20201231,passed,,"FVCBankcorp, Inc.",2020,both,35826,1866
+4875907_20211231,passed,,"FVCBankcorp, Inc.",2021,both,75572,2011
+4875907_20221231,passed,,"FVCBankcorp, Inc.",2022,both,67517,2028
+4875907_20231231,passed,,"FVCBankcorp, Inc.",2023,both,11572,1994
+4880358_20191231,passed,,"Citizens Building and Loan, MHC",2019,insiders,16997,1158
+4880358_20201231,passed,,"Citizens Building & Loan, MHC",2020,insiders,4542,1317
+4880358_20211231,passed,,"Citizens Building & Loan, MHC",2021,insiders,4093,1277
+4880358_20221231,passed,,"Citizens Building and Loan, MHC",2022,none,3042,64
+4880358_20231231,passed,,"Citizens Building and Loan, MHC",2023,insiders,3737,1185
+4949303_20191231,passed,,Parkway Acquisition Corp,2019,both,24633,1189
+4949303_20201231,passed,,Parkway Acquisition Corp.,2020,both,15934,2741
+4949303_20211231,passed,,Parkway Acquisition Corp.,2021,both,16313,2442
+4949303_20221231,passed,,Parkway Acquisition Corp.,2022,both,15905,2424
+4949303_20231231,passed,,"Skyline Bankshares, Inc.",2023,both,8002,2246
+4977397_20191231,passed,,"MainStreet Bancshares, Inc",2019,both,15524,1707
+4977397_20201231,passed,,"MainStreet Bancshares, Inc",2020,both,14870,1745
+4977397_20211231,passed,,"MainStreet Bancshares, Inc",2021,both,13658,1732
+4977397_20221231,passed,,"MainStreet Bancshares, Inc.",2022,both,12014,1764
+4977397_20231231,passed,,"MainStreet Bancshares, Inc.",2023,both,15449,2047
+5039724_20191231,passed,,"John Marshall Bancorp, Inc.",2019,both,260889,2461
+5039724_20201231,passed,,"John Marshall Bancorp, Inc.",2020,both,46535,2439
+5039724_20211231,passed,,"John Marshall Bancorp, Inc.",2021,both,49701,2260
+5039724_20221231,passed,,"John Marshall Bancorp, Inc.",2022,both,13692,2229
+5039724_20231231,passed,,"John Marshall Bancorp, Inc.",2023,both,14644,1939
+5041521_20191231,passed,,"Farmers and Merchants Bancshares, Inc.",2019,both,126779,2857
+5041521_20201231,passed,,"Farmers and Merchants Bancshares, Inc.",2020,both,125286,2453
+5041521_20211231,passed,,"Farmers and Merchants Bancshares, Inc.",2021,both,6488,2328
+5041521_20221231,passed,,"Farmers and Merchants Bancshares, Inc.",2022,both,4345,2428
+5041521_20231231,passed,,"Farmers and Merchants Bancshares, Inc.",2023,both,13006,2692
+5165070_20191231,passed,,PB Financial Corporation,2019,both,79994,2744
+5165070_20201231,passed,,PB Financial Corporation,2020,both,14560,2359
+5165070_20211231,passed,,PB FINANCIAL CORPORATION,2021,both,75461,2624
+5165070_20221231,passed,,PB Financial Corporation,2022,securities,3435,498
+5165070_20231231,passed,,PB Financial Corporation,2023,both,5880,5316
+5292707_20191231,passed,,"Community Heritage Financial, Inc.",2019,both,96497,2882
+5292707_20201231,failed,Invalid \escape: line 75 column 44 (char 1942),,,,,
+5292707_20211231,passed,,"Community Heritage Financial, Inc.",2021,both,88029,2821
+5292707_20221231,passed,,"Community Heritage Financial, Inc.",2022,both,4919,2923
+5292707_20231231,passed,,MIDDLETOWN VALLEY BANK,2021,insiders,13343,2839
+5471801_20201231,passed,,UB Bancorp,2020,both,51737,2690
+5471801_20211231,passed,,UB Bancorp,2021,both,5627,2602
+5478903_20211231,passed,,"CSBH, LLC",2021,both,12550,1279
+5478903_20221231,passed,,"CSBH, LLC",2022,insiders,4306,1186
+5478903_20231231,passed,,"CSBH, LLC",2023,insiders,11364,1023
+5483372_20201231,passed,,"Touchstone Bankshares, Inc.",2020,both,17235,2524
+5483372_20211231,passed,,"Touchstone Bankshares, Inc.",2021,both,5679,2538
+5483372_20221231,passed,,"Touchstone Bankshares, Inc.",2022,both,5340,3914
+5483372_20231231,passed,,"Touchstone Bankshares, Inc.",2023,both,3843,2696
+5530258_20201231,passed,,"Carter Bankshares, Inc.",2020,both,14495,2798
+5530258_20211231,passed,,"Carter Bankshares, Inc.",2021,both,9287,2343
+5530258_20221231,passed,,"Carter Bankshares, Inc.",2022,both,20366,2784
+5530258_20231231,passed,,"Carter Bankshares, Inc.",2023,both,10178,2652
+5534322_20201231,passed,,"New Republic Partners, Inc.",2021,both,4502,2130
+5534322_20211231,passed,,"NEW REPUBLIC PARTNERS, INC",2021,both,11929,1990
+5534322_20221231,passed,,"New Republic Partners, Inc.",2022,insiders,16623,1681
+5534322_20231231,passed,,"New Republic Partners, Inc",2023,both,14311,2336
+5581607_20211231,passed,,"National Capital Bancorp, Inc.",2021,both,62771,1662
+5581607_20221231,passed,,"National Capital Bancorp, Inc.",2022,insiders,13777,307
+5581607_20231231,passed,,"National Capital Bancorp, Inc.",2023,insiders,4528,1277
+5613759_20211231,passed,,VCC Social Enterprises,2021,both,72226,2065
+5613759_20221231,passed,,VCC Social Enterprises,2022,insiders,6188,3068
+5613759_20231231,failed,Invalid \escape: line 168 column 29 (char 5842),,,,,
+5619706_20211231,passed,,"Oak View Bankshares, Inc.",2021,both,102662,2378
+5619706_20221231,passed,,"Oak View Bankshares, Inc.",2022,insiders,4790,2428
+5619706_20231231,passed,,"Oak View Bankshares, Inc.",2023,both,4672,2626
+5624205_20211231,passed,,"FREEDOM FINANCIAL HOLDINGS, INC.",2021,both,44521,2005
+5624205_20221231,passed,,"FREEDOM FINANCIAL HOLDINGS, INC.",2022,both,891089,2113
+5624205_20231231,passed,,"FREEDOM FINANCIAL HOLDINGS, INC.",2023,both,5090,1801
+5686799_20221231,passed,,"Lee Bankshares, Inc.",2022,both,25856,2925
+5686799_20231231,passed,,"Lee Bankshares, Inc.",2023,both,39581,2185
+5726556_20221231,passed,,Piedmont Financial Holding Company,2022,insiders,39318,1962
+5726556_20231231,passed,,Piedmont Financial Holding Company,2023,insiders,39066,2152
+5727601_20221231,passed,,ODNB Financial Corporation,2022,securities,21066,327
+5727601_20231231,passed,,ODNB Financial Corporation,2023,both,3750,3133
+5756704_20221231,passed,,Burke & Herbert Financial Services Corp.,2022,both,6267,3311
+5756704_20231231,passed,,Burke & Herbert Financial Services Corp.,2023,securities,3852,140
+5850143_20231231,passed,,JSB Financial Inc,2023,both,27771,2521
+5886245_20231231,passed,,Beacon Holding Company,2023,both,14682,1024
