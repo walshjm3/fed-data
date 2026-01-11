@@ -1,0 +1,1269 @@
+file,status,error,bank_name,year,presence,tokens,out_tokens
+215 Holding Co._Y-6_2022-12-31_English_211485298,passed,,215 HOLDING CO.,2022,both,40913,3111
+215 Holding Co._Y-6_2022-12-31_English_211485298_2,passed,,215 HOLDING CO.,2022,both,41381,3135
+"ABCT Holdings, Inc._Y-6_2022-12-31_English_217106389",passed,,"ABCT HOLDINGS, INC.",2022,both,15603,2641
+"ABCT Holdings, Inc._Y-6_2022-12-31_English_217106389_2",passed,,"ABCT HOLDINGS, INC.",2022,both,15605,2826
+"AHB Bancshares, Inc._Y-6_2022-12-31_English_217106391",passed,,"AHB Bancshares, Inc.",2022,both,3403,1032
+"AHB Bancshares, Inc._Y-6_2022-12-31_English_217106391_2",passed,,"AHB Bancshares, Inc.",2022,both,3403,1032
+AMG National Corp._Y-6_2022-12-30_English_227461648_1,passed,,AMG National Corp,2022,both,7178,3243
+AMG National Corp._Y-6_2022-12-30_English_227461648_2,passed,,AMG National Corp,2022,both,7178,3256
+"ANB Bancshares, Inc._Y-6_2022-12-31_English_217132679",passed,,"ANB Bancshares, Inc.",2022,both,29626,2391
+"ANB Bancshares, Inc._Y-6_2022-12-31_English_217132679_2",failed,Invalid \escape: line 152 column 45 (char 4687),,,,,
+"AOB Ventures, Inc._Y-6_2022-12-31_English_217133037",passed,,"AOB Ventures, Inc.",2022,both,5799,1664
+"AOB Ventures, Inc._Y-6_2022-12-31_English_217133037_2",passed,,"AOB Ventures, Inc.",2022,both,5775,2195
+"Adirondack Bancorp, Inc._Y-6_2022-12-31_English_220355623",passed,,"ADIRONDACK BANCORP, INC.",2022,none,3147,67
+"Adirondack Bancorp, Inc._Y-6_2022-12-31_English_220355623_2",passed,,"ADIRONDACK BANCORP, INC.",2022,none,3147,67
+"Adrian Bancshares, Inc._Y-6_2022-12-31_English_228369999_1",passed,,"Adrian Bancshares, Inc.",2022,insiders,3676,1025
+"Adrian Bancshares, Inc._Y-6_2022-12-31_English_228369999_2",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Alamosa Bancorporation, Ltd._Y-6_2022-12-31_English_228222523_1",passed,,Alamosa Bancorporation Ltd.,2022,insiders,5219,2353
+"Alamosa Bancorporation, Ltd._Y-6_2022-12-31_English_228222523_2",passed,,Alamosa Bancorporation Ltd.,2022,insiders,5220,2473
+Albank Corporation_Y-6_2022-06-30_English_213156246,passed,,THE FARMERS BANCORP FRANKFORT INDIANA,2022,both,16760,2317
+Albank Corporation_Y-6_2022-06-30_English_213156246_2,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Albany Bancshares, Inc._Y-6_2022-12-31_English_217106314",passed,,Albany Bancshares Inc,2022,both,31395,3235
+"Albany Bancshares, Inc._Y-6_2022-12-31_English_217106314_2",passed,,Albany Bancshares Inc,2022,both,32478,3195
+Alcar Inc._Y-6_2022-12-31_English_220356047,passed,,Alcar Inc.,2022,securities,4249,384
+Alcar Inc._Y-6_2022-12-31_English_220356047_2,passed,,Alcar Inc.,2022,securities,4241,384
+"Alfalfa County Bancshares, Inc._Y-6_2022-12-31_English_227976579_1",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2022,insiders,2437,194
+"Alfalfa County Bancshares, Inc._Y-6_2022-12-31_English_227976579_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2022,insiders,2388,195
+"Amador Bancshares, Inc._Y-6_2022-12-31_English_217131907",passed,,"Amador Bancshares, Inc.",2022,both,51044,3330
+"Amador Bancshares, Inc._Y-6_2022-12-31_English_217131907_2",passed,,"Amador Bancshares, Inc",2022,both,51390,3281
+Amboy Bancorporation_Y-6_2022-12-31_English_220355638,passed,,Amboy Bancorporation,2022,both,50011,3319
+Amboy Bancorporation_Y-6_2022-12-31_English_220355638_2,passed,,Amboy Bancorporation,2022,both,50091,3489
+Ameri-National Corporation_Y-6_2022-12-31_English_227445391_1,passed,,Ameri-National Corporation,2022,both,4422,2461
+Ameri-National Corporation_Y-6_2022-12-31_English_227445391_2,passed,,Ameri-National Corporation,2022,both,4408,2461
+"AmeriBancShares, Inc._Y-6_2022-12-31_English_217132673",failed,Invalid \escape: line 24 column 44 (char 660),,,,,
+"AmeriBancShares, Inc._Y-6_2022-12-31_English_217132673_2",failed,Invalid \escape: line 96 column 44 (char 2107),,,,,
+AmeriBank Holding Company_Y-6_2022-12-31_English_227448962_1,passed,,AMERIBANK HOLDING COMPANY,2022,both,5515,2759
+AmeriBank Holding Company_Y-6_2022-12-31_English_227448962_2,passed,,AMERIBANK HOLDING COMPANY,2022,both,5515,2659
+"American Bancorporation of Minnesota, Inc._Y-6_2022-12-31_English_213490389",passed,,"American Bancorporation of Minnesota, Inc.",2022,none,3799,65
+"American Bancorporation of Minnesota, Inc._Y-6_2022-12-31_English_213490389_2",passed,,"American Bancorporation of Minnesota, Inc.",2022,none,3799,65
+"American Bancorporation, Inc._Y-6_2022-12-31_English_226933688",passed,,American Bancorporation Inc.,2022,both,22565,6857
+"American Bancorporation, Inc._Y-6_2022-12-31_English_226933688_2",passed,,American Bancorporation Inc.,2022,both,13938,7150
+"American Bancshares, Inc._Y-6_2022-12-31_English_228381434_1",passed,,"American Bancshares, Inc.",2022,both,7820,2382
+"American Bancshares, Inc._Y-6_2022-12-31_English_228381434_2",passed,,"American Bancshares, Inc.",2022,both,7820,2376
+American Bank Holding Corporation_Y-6_2022-12-31_English_217132181,passed,,American Bank Holding Corporation,2022,both,7127,1537
+American Bank Holding Corporation_Y-6_2022-12-31_English_217132181_2,passed,,American Bank Holding Corporation,2022,both,7112,1522
+"American Community Bancorp, Inc._Y-6_2022-12-31_English_220356059",passed,,"American Community Bancorp, Inc.",2022,both,31874,2904
+"American Community Bancorp, Inc._Y-6_2022-12-31_English_220356059_2",passed,,"American Community Bancorp, Inc.",2022,both,31718,2894
+American Exchange Company_Y-6_2022-12-31_English_228278967_1,passed,,American Exchange Company,2022,insiders,5445,183
+American Exchange Company_Y-6_2022-12-31_English_228278967_2,passed,,American Exchange Company,2022,insiders,5445,180
+American Express Company_Y-6_2022-12-31_English_220355517,passed,,American Express Company,2022,both,47749,7637
+American Express Company_Y-6_2022-12-31_English_220355517_2,passed,,American Express Company,2022,both,52595,7631
+"American National Bancshares, Inc._Y-6_2022-12-31_English_217132183",passed,,"American National Bancshares, Inc.",2022,both,4330,1692
+"American National Bancshares, Inc._Y-6_2022-12-31_English_217132183_2",passed,,"American National Bancshares, Inc.",2022,both,4330,1688
+American National Corporation_Y-6_2022-03-31_English_228194782_1,passed,,AMERICAN NATIONAL CORPORATION,2022,both,28951,2313
+American National Corporation_Y-6_2022-03-31_English_228194782_2,passed,,AMERICAN NATIONAL CORPORATION,2022,both,16336,2637
+"Americo Bancshares, Inc._Y-6_2022-12-31_English_217132011",failed,"Expecting ',' delimiter: line 82 column 6 (char 2164)",,,,,
+"Americo Bancshares, Inc._Y-6_2022-12-31_English_217132011_2",failed,"Expecting ',' delimiter: line 82 column 6 (char 2164)",,,,,
+Ameriwest Corporation_Y-6_2022-12-31_English_227274361_1,passed,,Ameriwest Corporation,2022,none,2381,62
+Ameriwest Corporation_Y-6_2022-12-31_English_227274361_2,passed,,Ameriwest Corporation,2022,none,2381,62
+"Anahuac Bancshares, Inc._Y-6_2022-12-31_English_217132694",passed,,"ANAHUAC BANCHHARES, INC.",2022,both,4649,5330
+"Anahuac Bancshares, Inc._Y-6_2022-12-31_English_217132694_2",passed,,"ANAHUAC BANCHHARES, INC.",2022,both,4651,5362
+"Anchor Bancshares, Inc._Y-6_2022-12-31_English_217132954",passed,,"Anchor Bancshares, Inc.",2022,none,2920,64
+"Anchor Bancshares, Inc._Y-6_2022-12-31_English_217132954_2",passed,,"Anchor Bancshares, Inc.",2022,none,2919,64
+"Andrews Bancshares, Inc._Y-6_2022-12-31_English_217132642",passed,,"Andrews Bancshares, Inc",2022,both,5449,3817
+"Andrews Bancshares, Inc._Y-6_2022-12-31_English_217132642_2",passed,,"Andrews Bancshares, Inc",2022,both,5449,3786
+"Anson Bancshares, Inc._Y-6_2022-12-31_English_217131658",passed,,"Anson Bancshares, Inc.",2022,both,3886,896
+"Anson Bancshares, Inc._Y-6_2022-12-31_English_217131658_2",passed,,"Anson Bancshares, Inc.",2022,both,3886,896
+"Antelope Bancshares, Inc._Y-6_2022-12-31_English_227287340_1",passed,,"Antelope Bancshares, Inc.",2022,both,5011,2600
+"Antelope Bancshares, Inc._Y-6_2022-12-31_English_227287340_2",passed,,"ANTELOPE BANCSHARES, INC.",2022,both,5011,2604
+"Anton Bancshares, Inc._Y-6_2022-12-31_English_217132134",passed,,"Anton Bancshares, Inc.",2022,insiders,5332,944
+"Anton Bancshares, Inc._Y-6_2022-12-31_English_217132134_2",passed,,"Anton Bancshares, Inc.",2022,insiders,5637,2046
+"Apple Financial Holdings, Inc._Y-6_2022-12-31_English_220355964",passed,,"Apple Financial Holdings, Inc.",2022,insiders,21864,2821
+"Apple Financial Holdings, Inc._Y-6_2022-12-31_English_220355964_2",passed,,"Apple Financial Holdings, Inc.",2022,insiders,12934,2788
+"Arkansas Valley Bancshares, Inc._Y-6_2022-12-31_English_228217783_1",passed,,"ARKANSAS VALLEY BANCSHARES, INC",2022,both,4311,2967
+"Arkansas Valley Bancshares, Inc._Y-6_2022-12-31_English_228217783_2",passed,,"ARKANSAS VALLEY BANCSHARES, INC",2022,both,4311,3003
+Arrow Financial Corporation_Y-6_2022-12-31_English_220356012,passed,,Arrow Financial Corporation,2022,both,9415,2465
+Arrow Financial Corporation_Y-6_2022-12-31_English_220356012_2,passed,,Arrow Financial Corporation,2022,both,9416,2652
+Arrowhead Company_Y-6_2022-12-31_English_217132352,passed,,Arrowhead Company,2022,none,2437,61
+Arrowhead Company_Y-6_2022-12-31_English_217132352_2,passed,,Arrowhead Company,2022,none,2437,61
+"Aspermont Bankshares, Inc._Y-6_2022-12-31_English_217133138",passed,,"Aspermont Bankshares, Inc.",2022,both,4649,3275
+"Aspermont Bankshares, Inc._Y-6_2022-12-31_English_217133138_2",passed,,"Aspermont Bankshares, Inc.",2022,both,4649,3257
+"Associated Community Bancorp, Inc._Y-6_2022-12-31_English_220355907",passed,,"Associated Community Bancorp, Inc.",2022,both,44642,1706
+"Associated Community Bancorp, Inc._Y-6_2022-12-31_English_220355907_2",passed,,"Associated Community Bancorp, Inc.",2022,both,44083,1389
+Astra Financial Corporation_Y-6_2022-12-31_English_227283405,passed,,Astra Financial Corporation,2022,none,5264,61
+Astra Financial Corporation_Y-6_2022-12-31_English_227283405_2,passed,,Astra Financial Corporation,2022,none,5266,61
+"Astra Financial Group, Inc._Y-6_2022-12-31_English_228223455_1",passed,,"Astra Financial Group, Inc.",2022,both,5237,2810
+"Astra Financial Group, Inc._Y-6_2022-12-31_English_228223455_2",passed,,"Astra Financial Group, Inc.",2022,both,5211,2652
+"Atoka State Bancorporation, Inc._Y-6_2022-12-31_English_228484180_1",passed,,Atoka State Bancorporation,2022,insiders,2331,186
+"Atoka State Bancorporation, Inc._Y-6_2022-12-31_English_228484180_2",passed,,Atoka State Bancorporation,2022,insiders,2319,189
+"Auburn Bancorp, MHC_Y-6_2022-06-30_English_211015439",passed,,Auburn Bancorp MHC,2022,both,3913,1110
+"Auburn Bancorp, MHC_Y-6_2022-06-30_English_211015439_2",passed,,Auburn Bancorp MHC,2022,both,3913,1162
+"Austin Colony, Inc._Y-6_2022-12-31_English_217132207",passed,,"Austin Colony, Inc.",2022,both,6228,2971
+"Austin Colony, Inc._Y-6_2022-12-31_English_217132207_2",passed,,"Austin Colony, Inc.",2022,both,6228,2971
+"Austin County Bancshares, Inc._Y-6_2022-12-31_English_217132941",passed,,"Austin County Bancshares, Inc.",2022,both,33372,4865
+"Austin County Bancshares, Inc._Y-6_2022-12-31_English_217132941_2",passed,,"Austin County Bancshares, Inc.",2022,both,33231,5094
+"B.O.E. Bancshares, Inc._Y-6_2022-12-31_English_228462541_1",passed,,"B.O.E. Bancshares, Inc.",2022,both,7220,1378
+"B.O.E. Bancshares, Inc._Y-6_2022-12-31_English_228462541_2",passed,,"B.O.E. Bancshares, Inc.",2022,both,7154,1383
+BBS Corp._Y-6_2022-12-31_English_217132466,passed,,BBS Corp,2022,none,2288,60
+BBS Corp._Y-6_2022-12-31_English_217132466_2,passed,,BBS Corp,2022,none,2297,60
+"BCB Bancorp, Inc._Y-6_2022-12-31_English_220355929",passed,,"BCB Bancorp, Inc.",2022,both,6857,1994
+"BCB Bancorp, Inc._Y-6_2022-12-31_English_220355929_2",passed,,"BCB Bancorp, Inc.",2022,both,6856,1962
+BHCB Holding Company_Y-6_2022-12-31_English_213490420,passed,,BHCB Holding Company,2022,insiders,2379,184
+BHCB Holding Company_Y-6_2022-12-31_English_213490420_2,passed,,BHCB Holding Company,2022,insiders,2380,184
+"BMC Bancshares, Inc._Y-6_2022-12-31_English_217132868",passed,,"BMC Bancshares, Inc.",2022,none,3782,64
+"BMC Bancshares, Inc._Y-6_2022-12-31_English_217132868_2",passed,,"BMC Bancshares, Inc.",2022,none,3674,64
+"BOH Holdings, Inc._Y-6_2022-12-31_English_217133111",passed,,"BOH Holdings, Inc.",2022,both,2878,745
+"BOH Holdings, Inc._Y-6_2022-12-31_English_217133111_2",passed,,"BOH Holdings, Inc.",2022,both,2876,740
+"BSB Bancshares, Inc._Y-6_2022-12-30_English_227458804_1",passed,,"BSB Bancshares, Inc.",2022,insiders,3301,873
+"BSB Bancshares, Inc._Y-6_2022-12-30_English_227458804_2",passed,,"BSB Bancshares, Inc.",2022,insiders,3300,871
+"BSJ Bancshares, Inc._Y-6_2022-12-31_English_217132265",passed,,"BSJ Bancshares, Inc",2022,both,8509,3722
+"BSJ Bancshares, Inc._Y-6_2022-12-31_English_217132265_2",passed,,"BSJ Bancshares, Inc",2022,both,8509,3697
+"Ballston Spa Bancorp, Inc._Y-6_2022-12-31_English_220355635",passed,,"Ballston Spa Bancorp, Inc.",2022,insiders,23403,2071
+"Ballston Spa Bancorp, Inc._Y-6_2022-12-31_English_220355635_2",passed,,Ballston Spa Bancorp Inc.,2022,insiders,23417,2070
+BancFirst Corporation_Y-6_2022-12-31_English_228462132_1,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+BancFirst Corporation_Y-6_2022-12-31_English_228462132_2,passed,,BancFirst Corporation,2022,both,19777,6365
+"BancWest, Inc._Y-6_2022-12-31_English_227275828_1",passed,,"BancWest, Inc.",2022,insiders,16009,1079
+"BancWest, Inc._Y-6_2022-12-31_English_227275828_2",passed,,"BancWest, Inc.",2022,insiders,16009,1079
+"Bancorp II, Inc._Y-6_2022-12-31_English_228369282_1",passed,,"Bancorp II, Inc.",2022,none,6448,63
+"Bancorp II, Inc._Y-6_2022-12-31_English_228369282_2",passed,,"Bancorp II, Inc.",2022,none,6448,63
+"Bancorp of Baltic, Inc._Y-6_2022-12-31_English_218134349",passed,,"Bancorp of Baltic, Inc",2022,both,6923,4122
+"Bancorp of Baltic, Inc._Y-6_2022-12-31_English_218134349_2",passed,,"Bancorp of Baltic, Inc",2022,both,6923,4064
+"Bancshares of Glasgow, Inc._Y-6_2022-12-31_English_228455203_1",passed,,"BANCSHARES OF GLASGOW, INC.",2022,both,9473,4254
+"Bancshares of Glasgow, Inc._Y-6_2022-12-31_English_228455203_2",passed,,"BANCSHARES OF GLASGOW, INC.",2022,both,9464,4265
+"Bank Management, Inc._Y-6_2022-12-31_English_226481112",passed,,Bank Management Inc.,2022,both,8597,2149
+"Bank Management, Inc._Y-6_2022-12-31_English_226481112_2",passed,,Bank Management Inc.,2022,both,8608,2159
+"Bankers Bancorp of Oklahoma, Inc._Y-6_2022-12-31_English_228379795_1",failed,"Expecting ',' delimiter: line 563 column 6 (char 22106)",,,,,
+"Bankers Bancorp of Oklahoma, Inc._Y-6_2022-12-31_English_228379795_2",passed,,"Bankers Bancorp of Oklahoma, Inc.",2022,insiders,36796,3882
+"Bankers' Bank of the West Bancorp, Inc._Y-6_2022-12-31_English_227282694_1",passed,,"Bankers' Bank of the West Bancorp, Inc.",2022,both,13894,2585
+"Bankers' Bank of the West Bancorp, Inc._Y-6_2022-12-31_English_227282694_2",passed,,"Bankers' Bank of the West Bancorp, Inc.",2022,both,13446,2654
+"Bankwell Financial Group, Inc._Y-6_2022-12-31_English_220355976",passed,,Bankwell Financial Group,2022,insiders,7446,1979
+"Bankwell Financial Group, Inc._Y-6_2022-12-31_English_220355976_2",passed,,Bankwell Financial Group,2022,none,6096,62
+"Battle Creek State Company, Inc._Y-6_2022-12-31_English_227283188_1",passed,,"Battle Creek State Company, Inc.",2022,both,3894,1094
+"Battle Creek State Company, Inc._Y-6_2022-12-31_English_227283188_2",passed,,"Battle Creek State Company, Inc.",2022,both,3924,1094
+"Baxter Bancshares, Inc._Y-6_2022-12-31_English_227281353_1",passed,,"Baxter Bancshares, Inc.",2022,insiders,3625,2527
+"Baxter Bancshares, Inc._Y-6_2022-12-31_English_227281353_2",passed,,"Baxter Bancshares, Inc.",2022,insiders,3625,2527
+"Bay Area Banking Shares, Inc._Y-6_2022-12-31_English_211485017",passed,,"Bay Area Banking Shares, Inc.",2022,insiders,11815,176
+"Bay Area Banking Shares, Inc._Y-6_2022-12-31_English_211485017_2",passed,,"Bay Area Banking Shares, Inc.",2022,none,2456,64
+Beal Financial Corporation_Y-6_2022-12-31_English_217132819,passed,,Beal Financial Corporation,2022,none,15485,62
+Beal Financial Corporation_Y-6_2022-12-31_English_217132819_2,passed,,Beal Financial Corporation,2022,none,16411,62
+Beall Bancshares Inc._Y-6_2022-12-31_English_217700622,passed,,"Beall Bancshares, Inc.",2022,none,2577,65
+Beall Bancshares Inc._Y-6_2022-12-31_English_217700622_2,passed,,"Beall Bancshares, Inc.",2022,none,2577,65
+"Beaver Bancorp, Inc._Y-6_2022-12-31_English_228385984_1",passed,,"Beaver Bancorp, Inc.",2022,none,3296,63
+"Beaver Bancorp, Inc._Y-6_2022-12-31_English_228385984_2",passed,,"Beaver Bancorp, Inc.",2022,none,3342,63
+Bedias Financial Corporation_Y-6_2022-12-31_English_217132716,passed,,BEDIAS FINANCIAL CORP,2022,none,2541,62
+Bedias Financial Corporation_Y-6_2022-12-31_English_217132716_2,passed,,BEDIAS FINANCIAL CORP,2022,none,2541,62
+Bellwood Community Holding Company_Y-6_2022-12-31_English_227275481_1,passed,,Bellwood Community Holding Company,2022,both,15733,6038
+Bellwood Community Holding Company_Y-6_2022-12-31_English_227275481_2,passed,,Bellwood Community Holding Company,2022,both,15744,5413
+"Berco, Inc._Y-6_2022-12-31_English_226933714",passed,,BERCO INC,2022,both,7737,4267
+"Berco, Inc._Y-6_2022-12-31_English_226933714_2",passed,,BERCO INC,2022,both,7758,4410
+Berkshire Bancorp Inc._Y-6_2022-12-31_English_220355812,passed,,Berkshire Bancorp Inc.,2022,both,36468,1410
+Berkshire Bancorp Inc._Y-6_2022-12-31_English_220355812_2,passed,,Berkshire Bancorp Inc.,2022,both,35963,1424
+"Berkshire Financial Services, Inc._Y-6_2022-06-30_English_211015426",passed,,"Berkshire Financial Services, Inc",2022,insiders,3507,2491
+"Berkshire Financial Services, Inc._Y-6_2022-06-30_English_211015426_2",passed,,"BERKSHIRE FINANCIAL SERVICES, INC",2022,insiders,3507,2491
+"Bern Bancshares, Inc._Y-6_2022-12-31_English_228463211",passed,,"Bern Bancshares, Inc.",2022,both,4346,2040
+"Bern Bancshares, Inc._Y-6_2022-12-31_English_228463211_2",passed,,"Bern Bancshares, Inc.",2022,both,4355,1990
+"Beutler, Inc._Y-6_2022-12-31_English_228194575_1",passed,,"Beutler, Inc",2022,both,3828,1025
+"Beutler, Inc._Y-6_2022-12-31_English_228194575_2",passed,,"Beutler, Inc",2022,both,3828,1001
+"Bi-Stone Bancshares, Inc._Y-6_2022-12-31_English_217132554",passed,,"Bi-Stone Bancshares, Inc.",2022,both,4153,1893
+"Bi-Stone Bancshares, Inc._Y-6_2022-12-31_English_217132554_2",passed,,"Bi-Stone Bancshares, Inc.",2022,both,4220,1928
+Big Bend Bancshares Corporation_Y-6_2022-12-31_English_217132444,passed,,BIG BEND BANCSHARES CORPORATION,2022,both,28685,1455
+Big Bend Bancshares Corporation_Y-6_2022-12-31_English_217132444_2,passed,,BIG BEND BANCSHARES CORPORATION,2022,both,17120,1508
+"Big Country Bancshares, Inc._Y-6_2022-12-31_English_217132860",passed,,"Big Country Bancshares, Inc.",2022,none,4370,65
+"Big Country Bancshares, Inc._Y-6_2022-12-31_English_217132860_2",passed,,"Big Country Bancshares, Inc.",2022,none,4367,65
+Black Cat Financial Corp_Y-6_2022-12-31_English_217132801,passed,,Black Cat Financial Corp.,2022,none,22553,62
+Black Cat Financial Corp_Y-6_2022-12-31_English_217132801_2,passed,,Black Cat Financial Corp.,2022,none,22553,62
+"Blue Ridge Bancshares, Inc._Y-6_2022-12-31_English_227262439_1",passed,,Blue Ridge Bancshares,2022,both,6570,2789
+"Blue Ridge Bancshares, Inc._Y-6_2022-12-31_English_227262439_2",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Bonvenu Bancorp, Inc._Y-6_2022-12-31_English_217132633",passed,,"Citizens National Bancshares of Bossier, Inc.",2022,both,7112,3914
+"Bonvenu Bancorp, Inc._Y-6_2022-12-31_English_217132633_2",passed,,"Citizens National Bancshares of Bossier, Inc.",2022,both,7155,3917
+"Bosque Bancshares, Inc._Y-6_2022-12-31_English_217132277",passed,,"BOSQUE BANCSHares, Inc.",2022,none,5162,66
+"Bosque Bancshares, Inc._Y-6_2022-12-31_English_217132277_2",passed,,"BOSQUE BANCSHares, Inc.",2022,none,5162,66
+"Bozka Investments, Ltd._Y-6_2022-12-31_English_217132761",passed,,"Bozka Investments, LTD",2022,none,2832,63
+"Bozka Investments, Ltd._Y-6_2022-12-31_English_217132761_2",passed,,"Bozka Investments, LTD",2022,none,2832,63
+"Brenham Bancshares, Inc._Y-6_2022-12-31_English_217132089",passed,,"BRENHAM BANCSHARES, INC.",2022,both,27737,4374
+"Brenham Bancshares, Inc._Y-6_2022-12-31_English_217132089_2",passed,,"BRENHAM BANCSHARES, INC.",2022,both,27014,5780
+"Bright Force Holding, Inc._Y-6_2022-12-31_English_217133072",passed,,"Bright Force Holding, Inc.",2022,insiders,6489,181
+"Bright Force Holding, Inc._Y-6_2022-12-31_English_217133072_2",passed,,"Bright Force Holding, Inc.",2022,insiders,6489,181
+"Brownsboro Bancshares, Inc._Y-6_2022-12-31_English_217132732",passed,,"Brownsboro Bancshares, Inc.",2022,both,3682,1127
+"Brownsboro Bancshares, Inc._Y-6_2022-12-31_English_217132732_2",passed,,"Brownsboro Bancshares, Inc.",2022,both,3682,1087
+"Brownwood Bancshares, Inc._Y-6_2022-12-31_English_217131617",passed,,"Brownwood Bancshares, Inc.",2022,none,14725,65
+"Brownwood Bancshares, Inc._Y-6_2022-12-31_English_217131617_2",failed,"Expecting ',' delimiter: line 969 column 6 (char 20462)",,,,,
+"Buckeye Bancshares, Inc._Y-6_2022-12-31_English_218134452",passed,,"Buckeye Bancshares, Inc.",2022,both,4357,1969
+"Buckeye Bancshares, Inc._Y-6_2022-12-31_English_218134452_2",passed,,"Buckeye Bancshares, Inc.",2022,both,4357,1967
+"C B  T Bancshares, Inc._Y-6_2022-12-31_English_217132711",passed,,"C B & T Bancshares, Inc.",2022,both,6676,6155
+"C B  T Bancshares, Inc._Y-6_2022-12-31_English_217132711_2",passed,,"C B & T Bancshares, Inc.",2022,both,6676,6026
+"C L C Enterprises, Inc._Y-6_2022-09-30_English_226933641",passed,,"CLC Enterprises, Inc.",2022,both,4710,2170
+"C L C Enterprises, Inc._Y-6_2022-09-30_English_226933641_2",passed,,"CLC Enterprises, Inc.",2022,both,4717,2215
+"C.C.Bancorp, Inc._Y-6_2022-12-31_English_220355915",passed,,"C.C. Bancorp, Inc.",2022,both,10559,3150
+"C.C.Bancorp, Inc._Y-6_2022-12-31_English_220355915_2",failed,Invalid \escape: line 195 column 47 (char 4379),,,,,
+"CB Financial Services, Inc._Y-6_2022-12-31_English_218134696",failed,Invalid \escape: line 14 column 53 (char 325),,,,,
+"CB Financial Services, Inc._Y-6_2022-12-31_English_218134696_2",failed,Invalid \escape: line 14 column 53 (char 324),,,,,
+"CCCB Bancorp, Inc._Y-6_2022-12-31_English_218134653",passed,,"CCCB Bancorp, Inc.",2022,insiders,3460,1780
+"CCCB Bancorp, Inc._Y-6_2022-12-31_English_218134653_2",passed,,"CCCB Bancorp, Inc.",2022,insiders,3460,1711
+CF Bankshares Inc._Y-6_2022-12-31_English_218134410,passed,,CF Bankshares Inc.,2022,both,5033,1699
+CF Bankshares Inc._Y-6_2022-12-31_English_218134410_2,passed,,CF Bankshares Inc.,2022,both,5033,1699
+"CNB Bancorp, Inc._Y-6_2022-12-31_English_218134172",passed,,"CNB Bancorp, Inc.",2022,both,3526,1221
+"CNB Bancorp, Inc._Y-6_2022-12-31_English_218134172_2",passed,,"CNB Bancorp, Inc.",2022,both,3526,1242
+"CNB Financial Corporation, Inc._Y-6_2022-12-31_English_217132180",passed,,CNB FINANCIAL CORPORATION INC.,2022,insiders,36427,3767
+"CNB Financial Corporation, Inc._Y-6_2022-12-31_English_217132180_2",passed,,CNB FINANCIAL CORPORATION INC.,2022,insiders,35861,3726
+"CNB Holdings, Inc._Y-6_2022-12-31_English_218134565",passed,,"CNB Holdings, Inc.",2022,both,5270,3413
+"CNB Holdings, Inc._Y-6_2022-12-31_English_218134565_2",passed,,"CNB Holdings, Inc.",2022,both,5270,3426
+"CRB Group, Inc._Y-6_2022-12-31_English_220356079",passed,,"CRB Group, Inc.",2022,insiders,5044,187
+"CRB Group, Inc._Y-6_2022-12-31_English_220356079_2",passed,,"CRB Group, Inc.",2022,insiders,5044,187
+CSB Financial Corporation_Y-6_2022-12-31_English_217132769,passed,,CSB Financial Corporation,2022,both,4208,1883
+CSB Financial Corporation_Y-6_2022-12-31_English_217132769_2,passed,,CSB Financial Corporation,2022,both,4210,1883
+Caldwell Holding Company_Y-6_2022-12-31_English_217132113,passed,,Caldwell Holding Company,2022,both,5726,3971
+Caldwell Holding Company_Y-6_2022-12-31_English_217132113_2,passed,,Caldwell Holding Company,2022,both,5582,4013
+Cameron Financial Corporation_Y-6_2022-12-31_English_217132701,passed,,Cameron Financial Corporation,2022,both,4664,856
+Cameron Financial Corporation_Y-6_2022-12-31_English_217132701_2,passed,,Cameron Financial Corporation,2022,both,4629,878
+"Cando Holding Company, Inc._Y-6_2022-12-31_English_210759452",passed,,Cando Holding Company,2022,both,18572,2119
+"Cando Holding Company, Inc._Y-6_2022-12-31_English_210759452_2",passed,,Cando Holding Company,2022,both,18572,2125
+"Capital Bancorp, Inc._Y-6_2022-12-31_English_217132699",passed,,"Capital Bancorp, Inc.",2022,both,11551,785
+"Capital Bancorp, Inc._Y-6_2022-12-31_English_217132699_2",passed,,"Capital Bancorp, Inc.",2022,both,11444,3210
+"Capital Bancshares, Inc._Y-6_2022-12-31_English_226933658",passed,,"Capital Bancshares, Inc.",2022,none,2431,64
+"Capital Bancshares, Inc._Y-6_2022-12-31_English_226933658_2",passed,,"Capital Bancshares, Inc.",2022,none,2417,64
+"Captex Bancshares, Inc._Y-6_2022-12-31_English_217132986",passed,,"Captex Bancshares, Inc.",2022,both,3829,2836
+"Captex Bancshares, Inc._Y-6_2022-12-31_English_217132986_2",passed,,"Captex Bancshares, Inc.",2022,both,3829,2805
+"Carleton Agency, Inc._Y-6_2022-12-31_English_226933648",passed,,"CARLETON AGENCY, INC.",2022,insiders,4931,185
+"Carleton Agency, Inc._Y-6_2022-12-31_English_226933648_2",passed,,"CARLETON AGENCY, INC.",2022,insiders,4931,185
+"Carlsbad BanCorporation, Inc._Y-6_2022-12-31_English_217132242",passed,,"Carlsbad Bancorporation, Inc",2022,both,30102,1257
+"Carlsbad BanCorporation, Inc._Y-6_2022-12-31_English_217132242_2",passed,,"Carlsbad Bancorporation, Inc",2022,both,30103,1281
+"Carroll County Bancshares, Inc._Y-6_2022-12-31_English_228460303",passed,,"Carroll County Bancshares, Inc.",2022,both,22435,1376
+"Carroll County Bancshares, Inc._Y-6_2022-12-31_English_228460303_2",passed,,"Carroll County Bancshares, Inc.",2022,both,9564,1390
+"Catskill Hudson Bancorp, Inc._Y-6_2022-12-31_English_220355962",passed,,"Catskill Hudson Bancorp, Inc.",2022,both,12238,2576
+"Catskill Hudson Bancorp, Inc._Y-6_2022-12-31_English_220355962_2",passed,,"Catskill Hudson Bancorp, Inc.",2022,both,12237,2588
+"Cattle Crossing, Inc._Y-6_2022-12-31_English_228194426_1",passed,,"Cattle Crossing, Inc.",2022,both,7719,2393
+"Cattle Crossing, Inc._Y-6_2022-12-31_English_228194426_2",passed,,"Cattle Crossing, Inc.",2022,both,7719,2951
+Cayuga Lake Bank Corporation_Y-6_2022-12-31_English_220355463,passed,,Cayuga Lake Bank Corporation,2022,both,34441,4726
+Cayuga Lake Bank Corporation_Y-6_2022-12-31_English_220355463_2,passed,,Cayuga Lake Bank Corporation,2022,both,34398,4751
+"Cedar Point Bancshares, Inc._Y-6_2022-12-31_English_228224835_1",passed,,"Cedar Point Bancshares, Inc.",2022,insiders,2724,187
+"Cedar Point Bancshares, Inc._Y-6_2022-12-31_English_228224835_2",passed,,"Cedar Point Bancshares, Inc.",2022,none,2724,65
+"Cendera Financial Holdings, Inc._Y-6_2022-12-31_English_217131815",passed,,"CENDERA FINANCIAL HOLDINGS, INC.",2022,insiders,6391,1548
+"Cendera Financial Holdings, Inc._Y-6_2022-12-31_English_217131815_2",passed,,"CENDERA FINANCIAL HOLDINGS, INC.",2022,insiders,6391,1548
+"CenterGroup Financial, Inc._Y-6_2022-12-31_English_218134768",passed,,"CenterGroup Financial, Inc.",2022,insiders,2851,1536
+"CenterGroup Financial, Inc._Y-6_2022-12-31_English_218134768_2",passed,,"CenterGroup Financial, Inc.",2022,insiders,2852,1518
+"Centinel Bank Shares, Inc._Y-6_2022-12-31_English_228218656_1",passed,,"Centinel Bank Shares, Inc.",2022,both,30238,767
+"Centinel Bank Shares, Inc._Y-6_2022-12-31_English_228218656_2",passed,,"Centinel Bank Shares, Inc.",2022,both,30208,768
+CentraBanc Corporation_Y-6_2022-12-31_English_217131934,passed,,CentraBanc Corporation,2022,both,12322,6259
+CentraBanc Corporation_Y-6_2022-12-31_English_217131934_2,passed,,CentraBanc Corporation,2022,both,12416,6217
+"Central Bancshares of Kansas City, Inc._Y-6_2022-12-31_English_228265725_1",passed,,"Central Bancshares of Kansas City, Inc.",2022,both,4566,2039
+"Central Bancshares of Kansas City, Inc._Y-6_2022-12-31_English_228265725_2",passed,,"Central Bancshares of Kansas City, Inc.",2022,both,4572,1845
+"Central Bancshares, Inc._Y-6_2022-12-31_English_217131947",passed,,"Central Bancshares, Inc.",2022,insiders,38870,1366
+"Central Bancshares, Inc._Y-6_2022-12-31_English_217131947_2",passed,,"Central Bancshares, Inc.",2022,both,38877,1387
+"Central Bancshares, Inc._Y-6_2022-12-31_English_218087390",passed,,"Central Bancshares, Inc.",2022,both,3409,1330
+"Central Bancshares, Inc._Y-6_2022-12-31_English_218087390_2",passed,,"Central Bancshares, Inc.",2022,both,3409,1330
+"Central Bancshares, Inc._Y-6_2022-12-31_English_218087392",passed,,"Central Bancshares, Inc.",2022,both,7136,2811
+"Central Bancshares, Inc._Y-6_2022-12-31_English_218087392_2",passed,,"Central Bancshares, Inc.",2022,both,7188,2667
+"Central Bancshares, Inc._Y-6_2022-12-31_English_226481750",passed,,"Central Bancshares, Inc.",2022,both,18672,2304
+"Central Bancshares, Inc._Y-6_2022-12-31_English_226481750_2",passed,,"Central Bancshares, Inc.",2022,both,18670,2312
+"Central Kansas Bancshares, Inc._Y-6_2022-12-30_English_227544508_1",passed,,"Central Kansas Bancshares, Inc.",2022,insiders,3998,1128
+"Central Kansas Bancshares, Inc._Y-6_2022-12-30_English_227544508_2",passed,,"Central Kansas Bancshares, Inc.",2022,insiders,4002,1181
+Central Ohio Bancorp_Y-6_2022-12-31_English_218134628,passed,,Central Ohio Bancorp,2022,both,4046,2192
+Central Ohio Bancorp_Y-6_2022-12-31_English_218134628_2,passed,,Central Ohio Bancorp,2022,both,3987,2122
+Central Service Corp._Y-6_2022-12-31_English_226933559,passed,,CENTRAL SERVICE CORPORATION,2022,insiders,36268,4638
+Central Service Corp._Y-6_2022-12-31_English_226933559_2,passed,,CENTRAL SERVICE CORPORATION,2022,both,37192,6711
+"Central Texas Bankshare Holdings, Inc._Y-6_2022-06-30_English_217132486",passed,,"Central Texas Bankshare Holdings, Inc.",2022,both,7601,3796
+"Central Texas Bankshare Holdings, Inc._Y-6_2022-06-30_English_217132486_2",passed,,"Central Texas Bankshare Holdings, Inc.",2022,both,7599,3849
+Central Texas Financial Corp._Y-6_2022-12-31_English_217132717,passed,,Central Texas Financial Corporation,2022,both,10641,1121
+Central Texas Financial Corp._Y-6_2022-12-31_English_217132717_2,passed,,Central Texas Financial Corporation,2022,both,10609,1121
+Century Financial Services Corporation_Y-6_2022-12-30_English_227456138_1,passed,,Century Financial Services Corporation,2022,both,32515,1595
+Century Financial Services Corporation_Y-6_2022-12-30_English_227456138_2,passed,,Century Financial Services Corporation,2022,both,32492,1595
+Century Next Financial Corporation_Y-6_2022-12-31_English_217132936,passed,,Century Next Financial Corporation,2022,both,53435,3156
+Century Next Financial Corporation_Y-6_2022-12-31_English_217132936_2,passed,,Century Next Financial Corporation,2022,both,53495,2963
+"Ceresco Bancorp, Inc._Y-6_2022-12-31_English_227284243_1",passed,,"Ceresco Bancorp, Inc.",2022,insiders,14178,174
+"Ceresco Bancorp, Inc._Y-6_2022-12-31_English_227284243_2",passed,,"Ceresco Bancorp, Inc.",2022,insiders,14178,174
+Chalybeate Springs Corporation_Y-6_2022-12-31_English_217132399,passed,,Chalybeate Springs Corporation,2022,none,2917,64
+Chalybeate Springs Corporation_Y-6_2022-12-31_English_217132399_2,passed,,Chalybeate Springs Corporation,2022,none,2917,64
+"Chariton County Bancshares, Inc._Y-6_2022-12-31_English_228456846",passed,,"Chariton County Bancshares, Inc.",2022,both,4805,1928
+"Chariton County Bancshares, Inc._Y-6_2022-12-31_English_228456846_2",passed,,"Chariton County Bancshares, Inc.",2022,both,4812,1976
+Charleroi Financial MHC_Y-6_2022-09-30_English_218134643,passed,,Charleroi Financial MHC,2022,both,5623,1123
+Charleroi Financial MHC_Y-6_2022-09-30_English_218134643_2,passed,,Charleroi Financial MHC,2022,both,5623,1128
+"Charter Bancshares, Inc._Y-6_2022-12-31_English_217132705",passed,,"Charter Bancshares, Inc.",2022,both,28060,3395
+"Charter Bancshares, Inc._Y-6_2022-12-31_English_217132705_2",passed,,"Charter Bancshares, Inc.",2022,both,28274,3362
+CheckSpring Community Corporation_Y-6_2022-12-31_English_220355934,failed,Invalid \escape: line 14 column 44 (char 297),,,,,
+CheckSpring Community Corporation_Y-6_2022-12-31_English_220355934_2,failed,Invalid \escape: line 14 column 44 (char 320),,,,,
+Cheyenne Banking Corporation_Y-6_2022-12-31_English_227273050_1,passed,,Cheyenne Banking Corporation,2022,none,5065,62
+Cheyenne Banking Corporation_Y-6_2022-12-31_English_227273050_2,passed,,Cheyenne Banking Corporation,2022,insiders,4859,185
+Chickasaw Banc Holding Company_Y-6_2022-12-31_English_227448503_1,passed,,Asset Basic Holding Company,2022,insiders,13072,1351
+Chickasaw Banc Holding Company_Y-6_2022-12-31_English_227448503_2,passed,,Chickasaw Banc Holding Company,2022,insiders,13750,1354
+Chisholm Trail Financial Corporation_Y-6_2022-12-31_English_228218046,passed,,Chisholm Trail Financial Corporation,2022,both,11867,2810
+Chisholm Trail Financial Corporation_Y-6_2022-12-31_English_228218046_2,passed,,Chisholm Trail Financial Corporation,2022,both,11867,2810
+"Cincinnatus Community Bancorp, MHC_Y-6_2022-12-31_English_218134765",passed,,"Cincinnatus Community Bancorp, MHC",2022,insiders,5633,1527
+"Cincinnatus Community Bancorp, MHC_Y-6_2022-12-31_English_218134765_2",passed,,"Cincinnatus Community Bancorp, MHC",2022,insiders,5680,1531
+"Circle I Bank Group, Inc._Y-6_2022-12-31_English_217132947",passed,,"Circle I Bank Group, Inc.",2022,both,5435,4626
+"Circle I Bank Group, Inc._Y-6_2022-12-31_English_217132947_2",passed,,"Circle I Bank Group, Inc.",2022,both,5446,4764
+"Citadel Bancorp, Inc._Y-6_2022-12-31_English_217132196",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Citadel Bancorp, Inc._Y-6_2022-12-31_English_217132196_2",passed,,"Citadel Bancorp, Inc",2022,none,4879,64
+"Citizens Bancorp, Inc._Y-6_2022-12-31_English_217132233",passed,,Citizens Bancorp Inc,2022,both,6871,2925
+"Citizens Bancorp, Inc._Y-6_2022-12-31_English_217132233_2",passed,,Citizens Bancorp Inc,2022,both,6871,2891
+"Citizens Bancshares, Inc._Y-6_2022-12-31_English_217131310",passed,,"Citizens Bancshares, Inc.",2022,none,4348,64
+"Citizens Bancshares, Inc._Y-6_2022-12-31_English_217131310_2",passed,,"Citizens Bancshares, Inc.",2022,none,4348,64
+"Citizens Bancshares, Inc._Y-6_2022-12-31_English_218134673",passed,,"Citizens Bancshares, Inc.",2022,both,5415,2021
+"Citizens Bancshares, Inc._Y-6_2022-12-31_English_218134673_2",passed,,"Citizens Bancshares, Inc.",2022,both,5415,4349
+Citizens Investment Company_Y-6_2022-12-31_English_226481576,passed,,"Citizens Investment Company, A Colorado Corporation",2022,both,4479,1092
+Citizens Investment Company_Y-6_2022-12-31_English_226481576_2,passed,,"Citizens Investment Company, A Colorado Corporation",2022,both,4446,1101
+"Citizens State Bancshares, Inc._Y-6_2022-12-31_English_227275477_1",passed,,"Citizens State Bancshares, Inc.",2022,none,5562,65
+"Citizens State Bancshares, Inc._Y-6_2022-12-31_English_227275477_2",passed,,"Citizens State Bancshares, Inc.",2022,none,5594,65
+"City Bancshares, Inc._Y-6_2022-12-31_English_217132695",passed,,"City Bancshares, Inc.",2022,securities,9076,3331
+"City Bancshares, Inc._Y-6_2022-12-31_English_217132695_2",passed,,"City Bancshares, Inc.",2022,securities,9069,3398
+"City Bancshares, Inc._Y-6_2022-12-31_English_217132719",passed,,"City Bancshares, Inc.",2022,both,5208,2106
+"City Bancshares, Inc._Y-6_2022-12-31_English_217132719_2",passed,,"City Bancshares, Inc.",2022,both,5289,2153
+"City Bancshares, Inc._Y-6_2022-12-31_English_226933598",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"City Bancshares, Inc._Y-6_2022-12-31_English_226933598_2",passed,,"City Bancshares, Inc.",2022,insiders,12790,3710
+"City National Bancshares, Inc._Y-6_2022-12-31_English_217132545",passed,,"CITY NATIONAL BANCSHARES, INC.",2022,both,14375,3192
+"City National Bancshares, Inc._Y-6_2022-12-31_English_217132545_2",passed,,"CITY NATIONAL BANCSHARES, INC.",2022,both,14463,3188
+Cleo Bancshares Inc._Y-6_2022-12-31_English_226933642,passed,,"Cleo Bancshares, Inc.",2022,none,2474,65
+Cleo Bancshares Inc._Y-6_2022-12-31_English_226933642_2,passed,,"Cleo Bancshares, Inc.",2022,none,2474,65
+"Coastal Bancshares, Inc._Y-6_2022-12-31_English_217132514",passed,,"Coastal Bancshares, Inc.",2022,both,7617,2379
+"Coastal Bancshares, Inc._Y-6_2022-12-31_English_217132514_2",passed,,"Coastal Bancshares, Inc.",2022,both,7630,3110
+"Coastal Bend Bancshares, Inc._Y-6_2022-12-31_English_217132664",passed,,"Coastal Bend Bancshares, Inc.",2022,insiders,15250,1379
+"Coastal Bend Bancshares, Inc._Y-6_2022-12-31_English_217132664_2",passed,,"Coastal Bend Bancshares, Inc.",2022,insiders,14735,1379
+"Coffeyville Bancorp, Inc._Y-6_2022-12-31_English_227441342",passed,,"Coffeyville Bancorp, Inc.",2022,both,3758,2311
+"Coffeyville Bancorp, Inc._Y-6_2022-12-31_English_227441342_2",passed,,"Coffeyville Bancorp, Inc.",2022,both,3758,2308
+Colbank Bancorp_Y-6_2022-12-31_English_227551089_1,passed,,COLBANK Bancorp,2022,none,2875,62
+Colbank Bancorp_Y-6_2022-12-31_English_227551089_2,passed,,COLBANK Bancorp,2022,none,2875,62
+"Coleman Bancshares, Inc._Y-6_2022-12-31_English_217131994",passed,,"Coleman Bancshares, Inc.",2022,both,29556,1135
+"Coleman Bancshares, Inc._Y-6_2022-12-31_English_217131994_2",passed,,"Coleman Bancshares, Inc.",2022,both,29557,1215
+"Columbus Bancorp, Inc._Y-6_2022-12-31_English_217132439",passed,,"Columbus Bancorp, Inc.",2022,both,5037,2224
+"Columbus Bancorp, Inc._Y-6_2022-12-31_English_217132439_2",passed,,"Columbus Bancorp, Inc.",2022,both,4999,2205
+Comerica Incorporated_Y-6_2022-12-31_English_217132348,failed,Invalid \escape: line 51 column 51 (char 1646),,,,,
+Comerica Incorporated_Y-6_2022-12-31_English_217132348_2,failed,"Expecting ',' delimiter: line 348 column 6 (char 29624)",,,,,
+"Commerce Bancshares of Roswell, Inc._Y-6_2022-12-31_English_217133146",failed,Invalid \escape: line 116 column 46 (char 3470),,,,,
+"Commerce Bancshares of Roswell, Inc._Y-6_2022-12-31_English_217133146_2",passed,,"Commerce Bancshares of Roswell, Inc. Employee Stock Ownership Plan",2022,both,7491,2489
+"Commerce Bancshares, Inc._Y-6_2022-12-31_English_227285815_1",passed,,"Commerce Bancshares, Inc.",2022,insiders,4504,538
+"Commerce Bancshares, Inc._Y-6_2022-12-31_English_227285815_2",passed,,"Commerce Bancshares, Inc.",2022,insiders,4487,538
+Commerce Financial Corporation_Y-6_2022-12-31_English_217132791,passed,,Commerce Financial Corporation,2022,both,4156,2410
+Commerce Financial Corporation_Y-6_2022-12-31_English_217132791_2,passed,,Commerce Financial Corporation,2022,both,4156,2413
+Commercial Bancorp_Y-6_2022-12-31_English_227447291_1,passed,,Commercial Bancorp,2022,none,2376,61
+Commercial Bancorp_Y-6_2022-12-31_English_227447291_2,passed,,Commercial Bancorp,2022,none,2376,61
+"Commercial Company, Inc._Y-6_2022-12-31_English_217131894",passed,,"Commercial Company, Inc.",2022,both,7047,1735
+"Commercial Company, Inc._Y-6_2022-12-31_English_217131894_2",passed,,"Commercial Company, Inc.",2022,both,7047,1735
+Commercial Grayson Bancshares Inc._Y-6_2022-12-31_English_218086951,passed,,"Commercial Grayson Bancshares, Inc",2022,both,3496,1720
+Commercial Grayson Bancshares Inc._Y-6_2022-12-31_English_218086951_2,passed,,"Commercial Grayson Bancshares, Inc",2022,both,3496,1719
+"Commercial Investment Co., Inc._Y-6_2022-12-31_English_226933557",passed,,"Commercial Investment Co., Inc.",2022,none,2819,63
+"Commercial Investment Co., Inc._Y-6_2022-12-31_English_226933557_2",passed,,"Commercial Investment Co., Inc.",2022,none,2818,63
+Commercial National Corporation_Y-6_2022-12-31_English_217131583,passed,,Commercial National Corporation,2022,both,27001,4523
+Commercial National Corporation_Y-6_2022-12-31_English_217131583_2,passed,,Commercial National Corporation,2022,both,27075,4394
+Commercial National Financial Corporation_Y-6_2022-12-31_English_218086455,passed,,Commercial National Financial Corporation,2022,insiders,4713,1930
+Commercial National Financial Corporation_Y-6_2022-12-31_English_218086455_2,passed,,Commercial National Financial Corporation,2022,insiders,4741,1902
+"Commodore Financial Network, Inc._Y-6_2022-12-31_English_218134695",passed,,"Commodore Financial Network, Inc.",2022,none,2474,64
+"Commodore Financial Network, Inc._Y-6_2022-12-31_English_218134695_2",passed,,"Commodore Financial Network, Inc.",2022,none,2475,64
+"Community Bancshares of Marysville, Inc._Y-6_2022-12-31_English_227272700_1",passed,,"COMMUNITY BANCSHARES OF MARYSVILLE, INC.",2022,none,3009,69
+"Community Bancshares of Marysville, Inc._Y-6_2022-12-31_English_227272700_2",passed,,"COMMUNITY BANCSHARES OF MARYSVILLE, INC.",2022,none,2995,69
+"Community Bancshares, Inc._Y-6_2022-12-31_English_217132742",passed,,"Community Bancshares, Inc.",2022,insiders,29582,186
+"Community Bancshares, Inc._Y-6_2022-12-31_English_217132742_2",passed,,"Community Bancshares, Inc.",2022,none,29570,64
+"Community Bancshares, Inc._Y-6_2022-12-31_English_228456109_1",passed,,"Community Bancshares, Inc.",2022,both,58686,4809
+"Community Bancshares, Inc._Y-6_2022-12-31_English_228456109_2",failed,"Expecting ',' delimiter: line 806 column 6 (char 19262)",,,,,
+"Community Bank Holdings of Texas, Inc._Y-6_2022-12-31_English_217131673",passed,,"Community Bank Holdings of Texas, Inc.",2022,both,6738,5959
+"Community Bank Holdings of Texas, Inc._Y-6_2022-12-31_English_217131673_2",passed,,"Community Bank Holdings of Texas, Inc.",2022,both,6781,6235
+Community Bankers' Corporation_Y-6_2022-12-31_English_218087036,passed,,Community Bankers' Corporation,2022,both,3905,2288
+Community Bankers' Corporation_Y-6_2022-12-31_English_218087036_2,passed,,Community Bankers' Corporation,2022,both,4058,2423
+Community Exchange Bancshares Inc._Y-6_2022-12-31_English_218134720,passed,,"Community Exchange Bancshares, Inc.",2022,none,2385,65
+Community Exchange Bancshares Inc._Y-6_2022-12-31_English_218134720_2,passed,,"Community Exchange Bancshares, Inc.",2022,none,2382,65
+Community Financial Corporation_Y-6_2022-12-31_English_227282591_1,passed,,Community Financial Corporation,2022,both,4475,1762
+Community Financial Corporation_Y-6_2022-12-31_English_227282591_2,passed,,Community Financial Corporation,2022,both,4482,1777
+"Community Financial, MHC_Y-6_2022-06-30_English_211015430",passed,,Community Financial Mutual Holding Company,2022,insiders,27157,1673
+"Community Financial, MHC_Y-6_2022-06-30_English_211015430_2",passed,,Community Financial Mutual Holding Company,2022,insiders,27129,1678
+"Community First Bancshares, Inc._Y-6_2022-12-31_English_218087456",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Community First Bancshares, Inc._Y-6_2022-12-31_English_218087456_2",passed,,"Community First Bancshares, Inc.",2022,insiders,2730,1084
+"Community First Bancshares, Inc._Y-6_2022-12-31_English_227286245_1",passed,,"Community First Bancshares, Inc.",2022,both,3742,1066
+"Community First Bancshares, Inc._Y-6_2022-12-31_English_227286245_2",passed,,"Community First Bancshares, Inc.",2022,both,3742,1147
+"Community Independent Bancorp, Inc._Y-6_2022-12-31_English_218087335",passed,,Community Independent Bancorp,2022,none,2356,62
+"Community Independent Bancorp, Inc._Y-6_2022-12-31_English_218087335_2",passed,,Community Independent Bancorp,2022,insiders,2356,182
+"Community Investors Bancorp, Inc._Y-6_2022-06-30_English_218086537",failed,Invalid \escape: line 130 column 21 (char 2907),,,,,
+"Community Investors Bancorp, Inc._Y-6_2022-06-30_English_218086537_2",failed,Invalid \escape: line 130 column 21 (char 3062),,,,,
+"Community State Bancshares, Inc._Y-6_2022-12-31_English_227441433_1",passed,,"Community State Bancshares, Inc.",2022,both,6044,3469
+"Community State Bancshares, Inc._Y-6_2022-12-31_English_227441433_2",passed,,"Community State Bancshares, Inc.",2022,both,6044,3467
+"Community Trust Bancorp, Inc._Y-6_2022-12-31_English_218086297",passed,,"Community Trust Bancorp, Inc.",2022,both,18345,4133
+"Community Trust Bancorp, Inc._Y-6_2022-12-31_English_218086297_2",passed,,"Community Trust Bancorp, Inc.",2022,both,21695,4039
+Concordia Capital Corporation_Y-6_2022-12-31_English_217132688,passed,,Concordia Capital Corporation,2022,insiders,5614,2981
+Concordia Capital Corporation_Y-6_2022-12-31_English_217132688_2,passed,,Concordia Capital Corporation,2022,insiders,5496,2907
+Conneaut Bancorp MHC_Y-6_2022-12-31_English_218134744,passed,,"Conneaut Bancorp, MHC",2022,insiders,4296,2851
+Conneaut Bancorp MHC_Y-6_2022-12-31_English_218134744_2,passed,,"Conneaut Bancorp, MHC",2022,insiders,4296,2953
+"ConnectOne Bancorp, Inc._Y-6_2022-12-31_English_220355901",passed,,"ConnectOne Bancorp, Inc.",2022,both,7647,2471
+"ConnectOne Bancorp, Inc._Y-6_2022-12-31_English_220355901_2",passed,,"ConnectOne Bancorp, Inc.",2022,both,7647,2477
+"Consumers Bancorp, Inc._Y-6_2022-06-30_English_218087441",passed,,"Consumers Bancorp, Inc",2022,both,5475,1915
+"Consumers Bancorp, Inc._Y-6_2022-06-30_English_218087441_2",passed,,"Consumers Bancorp, Inc",2022,both,5475,2007
+Converse County Capital Corporation_Y-6_2022-12-31_English_228195127,passed,,Converse County Capital Corporation,2022,none,2808,62
+Converse County Capital Corporation_Y-6_2022-12-31_English_228195127_2,passed,,Converse County Capital Corporation,2022,none,2808,62
+Cooper Lake Financial Corporation_Y-6_2022-12-31_English_217132368,passed,,Cooper Lake Financial Corporation,2022,insiders,5324,1833
+Cooper Lake Financial Corporation_Y-6_2022-12-31_English_217132368_2,passed,,Cooper Lake Financial Corporation,2022,both,5323,2203
+"Cornerstone Bancshares, Inc._Y-6_2022-12-31_English_227449291_1",passed,,LANDMARK BANCORP INC,2022,both,6769,2012
+"Cornerstone Bancshares, Inc._Y-6_2022-12-31_English_227449291_2",passed,,LANDMARK BANCORP INC,2022,both,7011,2203
+"Coronado, Inc._Y-6_2022-12-31_English_227972563_1",passed,,"Coronado, Inc.",2022,both,7121,1609
+"Coronado, Inc._Y-6_2022-12-31_English_227972563_2",passed,,"Coronado, Inc.",2022,both,7123,1576
+"Country Agencies  Investments, Inc._Y-6_2022-12-31_English_226933621",passed,,"COUNTRY AGENCIES & INVESTMENTS, INC.",2022,insiders,3970,1333
+"Country Agencies  Investments, Inc._Y-6_2022-12-31_English_226933621_2",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"County Bancshares, Inc._Y-6_2022-12-31_English_217132955",passed,,"County Bancshares, Inc",2022,both,6575,3349
+"County Bancshares, Inc._Y-6_2022-12-31_English_217132955_2",passed,,"County Bancshares, Inc",2022,both,6574,3327
+"Coushatta Bancshares, Inc._Y-6_2022-12-31_English_217131716",passed,,"COUSHATTA BANCSHARES, INC.",2022,insiders,7181,2241
+"Coushatta Bancshares, Inc._Y-6_2022-12-31_English_217131716_2",passed,,"COUSHATTA BANCSHARES, INC.",2022,insiders,7029,2251
+"Covington Financial Corporation, MHC_Y-6_2022-09-30_English_218134712",passed,,"Covington Financial Corporation, MHC",2022,both,6922,1542
+"Covington Financial Corporation, MHC_Y-6_2022-09-30_English_218134712_2",passed,,"Covington Financial Corporation, MHC",2022,both,6986,1627
+"Cowboy State Bancorp, Inc._Y-6_2022-12-31_English_227380326",passed,,Cowboy State Bancorp,2022,insiders,2451,183
+Crazy Woman Creek Bancorp Incorporated_Y-6_2022-12-31_English_227452347,passed,,Crazy Woman Creek Bancorp,2022,both,39921,1892
+Crazy Woman Creek Bancorp Incorporated_Y-6_2022-12-31_English_227452347_2,passed,,Crazy Woman Creek Bancorp,2022,both,39903,1881
+"Credit Suisse Holdings (USA), Inc._Y-6_2022-12-31_English_220377491",passed,,"Credit Suisse Holdings (USA), Inc.",2022,insiders,24523,3238
+"Credit Suisse Holdings (USA), Inc._Y-6_2022-12-31_English_220377491_2",passed,,"Credit Suisse Holdings (USA), Inc.",2022,insiders,25971,3264
+"CrossFirst Bankshares, Inc._Y-6_2022-12-30_English_227544240_1",passed,,"CrossFirst Bankshares, Inc.",2022,both,25840,5111
+"CrossFirst Bankshares, Inc._Y-6_2022-12-30_English_227544240_2",passed,,"CrossFirst Bankshares, Inc.",2022,both,25898,5256
+"Crossdale, Inc._Y-6_2022-12-31_English_226933703",passed,,"Crossdale, Inc.",2022,insiders,2142,177
+"Crossdale, Inc._Y-6_2022-12-31_English_226933703_2",passed,,"Crossdale, Inc.",2022,insiders,2142,177
+"Crowell Bancshares, Inc._Y-6_2022-12-31_English_217132432",passed,,"Crowell Bancshares, Inc.",2022,both,4946,2451
+"Crowell Bancshares, Inc._Y-6_2022-12-31_English_217132432_2",passed,,"Crowell Bancshares, Inc.",2022,both,4818,2920
+"CullenFrost Bankers, Inc._Y-6_2022-12-31_English_217131523",passed,,"Cullen/Frost Bankers, Inc.",2022,both,36755,5111
+"CullenFrost Bankers, Inc._Y-6_2022-12-31_English_217131523_2",passed,,"Cullen/Frost Bankers, Inc.",2022,both,47216,5072
+Cumberland Valley Financial Corporation_Y-6_2022-12-31_English_218086803,passed,,Cumberland Valley Financial Corporation,2022,insiders,3911,187
+Cumberland Valley Financial Corporation_Y-6_2022-12-31_English_218086803_2,passed,,Cumberland Valley Financial Corporation,2022,insiders,3911,187
+"Cunningham Agency, Inc._Y-6_2022-12-31_English_226933542",passed,,"Cunningham Agency, Inc.",2022,insiders,2282,187
+"Cunningham Agency, Inc._Y-6_2022-12-31_English_226933542_2",passed,,"Cunningham Agency, Inc.",2022,none,2282,63
+"D Bancorp, Inc._Y-6_2022-12-31_English_217132495",passed,,"D Bancorp, Inc.",2022,insiders,3489,1000
+"D Bancorp, Inc._Y-6_2022-12-31_English_217132495_2",failed,Invalid \escape: line 14 column 45 (char 383),,,,,
+"D2 Alliances, LLC_Y-6_2022-12-31_English_217133023",passed,,"D2 ALLIANCES, LLC",2022,insiders,13469,3523
+"D2 Alliances, LLC_Y-6_2022-12-31_English_217133023_2",passed,,"D2 ALLIANCES, LLC",2022,insiders,13125,4491
+"DS Holding Company, Inc._Y-6_2022-12-31_English_227453479_1",passed,,"DS Holding Company, Inc.",2022,both,4979,1693
+"DS Holding Company, Inc._Y-6_2022-12-31_English_227453479_2",passed,,"DS Holding Company, Inc.",2022,both,4979,1837
+Daingerfield Holding Company_Y-6_2022-12-31_English_217132725,passed,,Daingerfield Holding Company,2022,both,8034,5230
+Daingerfield Holding Company_Y-6_2022-12-31_English_217132725_2,passed,,Daingerfield Holding Company,2022,both,8027,5495
+"Dale Sprague Enterprises, Inc._Y-6_2022-12-31_English_227982868_1",passed,,"DALE SPRAGUE ENTERPRISES, INC.",2022,both,6489,507
+"Dale Sprague Enterprises, Inc._Y-6_2022-12-31_English_227982868_2",passed,,"DALE SPRAGUE ENTERPRISES, INC.",2022,both,6483,522
+Dalhart Federal Mutual Holding Company_Y-6_2022-06-30_English_217132827,passed,,Dalhart Federal Mutual Holding Company,2022,both,59796,1395
+Dalhart Federal Mutual Holding Company_Y-6_2022-06-30_English_217132827_2,passed,,Dalhart Federal Mutual Holding Company,2022,insiders,59784,1286
+"Decatur Investment, Inc._Y-6_2022-12-31_English_228379136_1",passed,,"Decatur Investment, Inc.",2022,both,7224,3184
+"Decatur Investment, Inc._Y-6_2022-12-31_English_228379136_2",passed,,"Decatur Investment, Inc.",2022,both,7232,3181
+"Delhi Bancshares, Inc._Y-6_2022-12-31_English_217132008",passed,,"Delhi Bancshares, Inc.",2022,both,7802,7944
+"Delhi Bancshares, Inc._Y-6_2022-12-31_English_217132008_2",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Denison Bancshares, Inc. of Holton_Y-6_2022-12-31_English_228217180_1",passed,,"Denison Bancshares, Inc. of Holton",2022,insiders,2244,196
+"Denison Bancshares, Inc. of Holton_Y-6_2022-12-31_English_228217180_2",passed,,"Denison Bancshares, Inc. of Holton",2022,insiders,2244,193
+"Dime Community Bancshares, Inc._Y-6_2022-12-31_English_220355569",passed,,Dime Community Bancshares Inc.,2022,both,18934,3097
+"Dime Community Bancshares, Inc._Y-6_2022-12-31_English_220355569_2",passed,,Dime Community Bancshares Inc.,2022,both,6527,3025
+"Discount Bancorp, Inc._Y-6_2022-12-31_English_220377767",passed,,"Discount Bancorp, Inc.",2022,insiders,53402,2565
+"Discount Bancorp, Inc._Y-6_2022-12-31_English_220377767_2",passed,,"Discount Bancorp, Inc.",2022,insiders,53128,2541
+"Dominion Bancshares, Inc._Y-6_2022-12-31_English_217133134",passed,,"Dominion Bancshares, Inc.",2022,both,24032,1428
+"Dominion Bancshares, Inc._Y-6_2022-12-31_English_217133134_2",passed,,"Dominion Bancshares, Inc.",2022,both,24003,1436
+"Donley County Bancshares, Inc._Y-6_2022-12-31_English_217132491",passed,,"DONLEY COUNTY BANCSHARES, INC.",2022,insiders,3128,192
+"Donley County Bancshares, Inc._Y-6_2022-12-31_English_217132491_2",passed,,"DONLEY COUNTY BANCSHARES, INC.",2022,insiders,3069,192
+"Dry Lake Financial, LLC_Y-6_2022-12-31_English_217133139",passed,,"Dry Lake Financial, LLC",2022,both,6194,1856
+"Dry Lake Financial, LLC_Y-6_2022-12-31_English_217133139_2",passed,,"Dry Lake Financial, LLC",2022,both,6194,1868
+DuRoc Investment Company_Y-6_2022-12-31_English_227984821,passed,,DuRoc Investment Company,2022,none,2677,62
+DuRoc Investment Company_Y-6_2022-12-31_English_227984821_2,passed,,DuRoc Investment Company,2022,none,2677,62
+"Dublin Bancshares, Inc._Y-6_2022-12-31_English_217181103",passed,,"Dublin Bancshares, Inc.",2022,both,3524,2172
+"Dublin Bancshares, Inc._Y-6_2022-12-31_English_217181103_2",passed,,"Dublin Bancshares, Inc.",2022,both,3519,2172
+"Dundee Banco, Inc._Y-6_2022-12-31_English_227280543_1",passed,,"Dundee Banco, Inc.",2022,both,3714,931
+"Dundee Banco, Inc._Y-6_2022-12-31_English_227280543_2",passed,,"Dundee Banco, Inc.",2022,both,3682,965
+"ES Bancshares, Inc._Y-6_2022-12-31_English_220355939",passed,,"ES Bancshares, Inc.",2022,both,42905,2948
+"ES Bancshares, Inc._Y-6_2022-12-31_English_220355939_2",passed,,ES Bancshares,2022,both,42654,2945
+"East Texas Bancshares, Inc._Y-6_2022-12-31_English_217181034",passed,,"East Texas Bancshares, Inc.",2022,both,7803,2500
+"East Texas Bancshares, Inc._Y-6_2022-12-31_English_217181034_2",passed,,"East Texas Bancshares, Inc.",2022,both,7799,2505
+East Texas Financial Corporation_Y-6_2022-12-31_English_217181168,passed,,East Texas Financial Corporation,2022,both,7533,2171
+East Texas Financial Corporation_Y-6_2022-12-31_English_217181168_2,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Elysian, Inc._Y-6_2022-12-31_English_211485194",passed,,"Elysian, Inc.",2022,none,3174,62
+"Elysian, Inc._Y-6_2022-12-31_English_211485194_2",passed,,"Elysian, Inc.",2022,none,3174,62
+"Empire Bancshares, Inc._Y-6_2022-12-31_English_218086700",passed,,"Empire Bancshares, Inc.",2022,both,16724,2282
+"Empire Bancshares, Inc._Y-6_2022-12-31_English_218086700_2",passed,,"Empire Bancshares, Inc.",2022,both,16724,2374
+"Ennis Bancshares, Inc._Y-6_2022-12-31_English_217180983",passed,,"Ennis Bancshares, Inc.",2022,both,13370,5829
+"Ennis Bancshares, Inc._Y-6_2022-12-31_English_217180983_2",passed,,"Ennis Bancshares, Inc.",2022,both,19432,5794
+Enterprise Holding Company_Y-6_2022-12-31_English_227451744_1,passed,,ENTERPRISE HOLDING COMPANY,2022,both,3933,1912
+Enterprise Holding Company_Y-6_2022-12-31_English_227451744_2,passed,,ENTERPRISE HOLDING COMPANY,2022,both,3933,1908
+Equitable Financial Corp._Y-6_2022-06-30_English_227546665_1,passed,,Equitable Financial Corp.,2022,both,42711,1949
+Equitable Financial Corp._Y-6_2022-06-30_English_227546665_2,passed,,Equitable Fininacial Corp.,2022,both,42526,1942
+"Erick Bancshares, Inc._Y-6_2022-12-31_English_227271286_1",passed,,"Erick Bancshares, Inc.",2022,none,2870,64
+"Erick Bancshares, Inc._Y-6_2022-12-31_English_227271286_2",passed,,"Erick Bancshares, Inc.",2022,none,2870,64
+"Esquire Financial Holdings, Inc._Y-6_2022-12-31_English_220356077",passed,,"Esquire Financial Holdings, Inc.",2022,both,4344,2327
+"Esquire Financial Holdings, Inc._Y-6_2022-12-31_English_220356077_2",passed,,"Esquire Financial Holdings, Inc.",2022,both,4343,2257
+"Etex Banco, Inc._Y-6_2022-12-31_English_217180202",passed,,"ETEX Banco, Inc.",2022,both,5806,3018
+"Etex Banco, Inc._Y-6_2022-12-31_English_217180202_2",passed,,"ETEX Banco, Inc.",2022,both,5765,2976
+"Eudora Bancshares, Inc._Y-6_2022-12-31_English_228377681",passed,,"Eudora Bancshares, Inc.",2022,both,5297,360
+"Eudora Bancshares, Inc._Y-6_2022-12-31_English_228377681_2",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Evans Bancorp, Inc._Y-6_2022-12-31_English_220355560",passed,,"Evans Bancorp, Inc.",2022,both,8529,2789
+"Evans Bancorp, Inc._Y-6_2022-12-31_English_220355560_2",passed,,"Evans Bancorp, Inc.",2022,both,8450,2754
+"Evergreen Holdings, LLC_Y-6_2022-12-31_English_220355788",passed,,"Evergreen Holdings, LLC",2022,insiders,2849,182
+"Evergreen Holdings, LLC_Y-6_2022-12-31_English_220355788_2",passed,,"Evergreen Holdings, LLC",2022,insiders,2849,182
+"Exchange Bancshares, Inc._Y-6_2022-12-31_English_217180418",passed,,"Exchange Bancshares, Inc.",2022,none,21748,64
+"Exchange Bancshares, Inc._Y-6_2022-12-31_English_217180418_2",passed,,"Exchange Bancshares, Inc.",2022,none,21702,64
+Exchange Bankshares Corporation of Kansas_Y-6_2022-12-31_English_228485074_1,passed,,Exchange Bankshares Corporation of Kansas,2022,both,28641,2586
+Exchange Bankshares Corporation of Kansas_Y-6_2022-12-31_English_228485074_2,passed,,Exchange Bankshares Corporation of Kansas,2022,both,28641,2586
+F.N.B. Corporation_Y-6_2022-12-31_English_218086192,passed,,F.N.B. Corporation,2022,both,19156,4751
+F.N.B. Corporation_Y-6_2022-12-31_English_218086192_2,failed,Invalid \escape: line 161 column 60 (char 6190),,,,,
+FB BanCorp_Y-6_2022-12-31_English_217188659,passed,,FB BanCorp,2022,both,40914,5854
+FB BanCorp_Y-6_2022-12-31_English_217188659_2,passed,,FB BanCorp,2022,both,40253,6047
+FBDC Financial Corp._Y-6_2022-06-30_English_212611243,passed,,FBDC Financial Corp,2022,both,5787,2326
+FBDC Financial Corp._Y-6_2022-06-30_English_212611243_2,passed,,FBDC Financial Corp,2022,both,4848,2334
+"FC Bancorp, Inc._Y-6_2022-12-31_English_227274370",passed,,"F & C Bancorp, Inc.",2022,none,3112,65
+"FC Bancorp, Inc._Y-6_2022-12-31_English_227274370_2",passed,,"F & C Bancorp, Inc.",2022,insiders,3112,186
+FFD Financial Corporation_Y-6_2022-06-30_English_218086529,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+FFD Financial Corporation_Y-6_2022-06-30_English_218086529_2,passed,,FFD Financial Corporation,2022,both,5902,2215
+"FJSB Bancshares, Inc._Y-6_2022-12-31_English_218134243",passed,,"FJSB Bancshares, Inc.",2022,none,2503,66
+"FJSB Bancshares, Inc._Y-6_2022-12-31_English_218134243_2",passed,,"FJSB Bancshares, Inc.",2022,none,2503,66
+"FM Bancshares, Inc._Y-6_2022-12-31_English_228479458_1",passed,,"F&M Bancshares, Inc.",2022,both,34318,2289
+"FM Bancshares, Inc._Y-6_2022-12-31_English_228479458_2",passed,,"F&M Bancshares, Inc.",2022,both,34373,2301
+"FNB Bancshares, Inc._Y-6_2022-12-31_English_211485303",passed,,"FNB Bancshares, Inc.",2022,both,7281,5546
+"FNB Bancshares, Inc._Y-6_2022-12-31_English_211485303_2",passed,,"FNB Bancshares, Inc.",2022,both,7281,5550
+"FNB Bancshares, Inc._Y-6_2022-12-31_English_218087424",passed,,"FNB BANCSHARES, INC",2022,insiders,4432,1908
+"FNB Bancshares, Inc._Y-6_2022-12-31_English_218087424_2",passed,,"FNB BANCSHARES, INC",2022,insiders,4452,1890
+"FNB Bancshares, Inc._Y-6_2022-12-31_English_218134762",failed,Invalid \escape: line 14 column 41 (char 550),,,,,
+"FNB Bancshares, Inc._Y-6_2022-12-31_English_218134762_2",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"FNB Bancshares, Inc._Y-6_2022-12-31_English_227574018_1",passed,,"FNB Bancshares, Inc.",2022,insiders,2833,186
+"FNB Bancshares, Inc._Y-6_2022-12-31_English_227574018_2",passed,,"FNB Bancshares, Inc.",2022,none,2852,65
+FNB Financial Corporation_Y-6_2022-12-31_English_227377292_1,passed,,FNB Financial Corporation,2022,both,30484,5014
+FNB Financial Corporation_Y-6_2022-12-31_English_227377292_2,passed,,FNB Financial Corporation,2022,both,30484,5095
+"FNB Financial Services, Inc._Y-6_2022-12-31_English_228354990_1",passed,,"FNB Financial Services, Inc.",2022,both,14189,5082
+"FNB Financial Services, Inc._Y-6_2022-12-31_English_228354990_2",passed,,"FNB Financial Services, Inc.",2022,both,14256,5107
+FNB Holding Company_Y-6_2022-12-31_English_217188630,passed,,FNB Holding Company,2022,insiders,6728,2591
+FNB Holding Company_Y-6_2022-12-31_English_217188630_2,passed,,FNB Holding Company,2022,insiders,6735,2591
+"FSB Bancshares, Inc._Y-6_2022-12-30_English_227461656_1",passed,,"FSB BANCSHARES, INC",2022,insiders,2604,187
+"FSB Bancshares, Inc._Y-6_2022-12-30_English_227461656_2",passed,,"FSB BANCSHARES, INC",2022,none,2733,66
+"FSB Bancshares, Inc._Y-6_2022-12-31_English_217188428",passed,,"FSB Bancshares, Inc.",2022,both,12478,6680
+"FSB Bancshares, Inc._Y-6_2022-12-31_English_217188428_2",passed,,"FSB Bancshares, Inc.",2022,both,12472,6653
+"Fairview Bancshares, Inc._Y-6_2022-12-31_English_228464198",passed,,"Fairview Bancshares, Inc.",2022,none,5681,65
+"Fairview Bancshares, Inc._Y-6_2022-12-31_English_228464198_2",passed,,"Fairview Bancshares, Inc.",2022,none,5681,65
+"Falcon Bancorporation, Inc._Y-6_2022-12-31_English_217181082",passed,,"Falcon Bancorporation, Inc.",2022,insiders,6094,1487
+"Falcon Bancorporation, Inc._Y-6_2022-12-31_English_217181082_2",passed,,"Falcon Bancorporation, Inc.",2022,insiders,6070,1391
+Falcon Bancshares Incorporated_Y-6_2022-12-31_English_217188400,passed,,Falcon Bancshares Incorporated,2022,both,30562,6713
+Falcon Bancshares Incorporated_Y-6_2022-12-31_English_217188400_2,passed,,Falcon Bancshares Incorporated,2022,both,30563,6731
+"Farmers  Merchants Bancorp, Inc._Y-6_2022-12-31_English_218549635",passed,,"Farmers & Merchants Bancorp, Inc.",2022,insiders,8054,2647
+"Farmers  Merchants Bancorp, Inc._Y-6_2022-12-31_English_218549635_2",passed,,"Farmers & Merchants Bancorp, Inc.",2022,insiders,8054,2639
+"Farmers  Merchants Investment, Inc._Y-6_2022-12-31_English_226933600",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Farmers  Merchants Investment, Inc._Y-6_2022-12-31_English_226933600_2",passed,,"Farmers & Merchants Investment, Inc.",2022,insiders,16907,5401
+"Farmers Bancorp of Nicholasville, Inc._Y-6_2022-12-31_English_218552845",passed,,"Farmers Bancorp of Nicholasville, Inc.",2022,none,2723,66
+"Farmers Bancorp of Nicholasville, Inc._Y-6_2022-12-31_English_218552845_2",passed,,"Farmers Bancorp of Nicholasville, Inc.",2022,none,2723,66
+"Farmers Bancshares, Inc._Y-6_2022-12-31_English_217180888",passed,,"Farmers Bancshares, Inc.",2022,insiders,12411,1056
+"Farmers Bancshares, Inc._Y-6_2022-12-31_English_217180888_2",passed,,"Farmers Bancshares, Inc.",2022,insiders,12441,1056
+Farmers National Banc Corp._Y-6_2022-12-31_English_218086451,passed,,Farmers National Banc Corp,2022,both,6373,4460
+Farmers National Banc Corp._Y-6_2022-12-31_English_218086451_2,passed,,Farmers National Banc Corp,2022,both,6389,4234
+"Farmers National Bancshares, Inc._Y-6_2022-12-31_English_227275236_1",passed,,"Farmers National Bancshares, Inc.",2022,insiders,7295,183
+"Farmers National Bancshares, Inc._Y-6_2022-12-31_English_227275236_2",passed,,"Farmers National Bancshares, Inc.",2022,insiders,7710,183
+Farmers State Corporation_Y-6_2022-12-31_English_210759195,passed,,FARMERS STATE CORPORATION,2022,insiders,3031,1237
+Farmers State Corporation_Y-6_2022-12-31_English_210759195_2,passed,,FARMERS STATE CORPORATION,2022,insiders,3031,1237
+"Fidelity Banc Corporation, Dodge City, Kansas_Y-6_2022-12-31_English_228195725_1",passed,,Fidelity Banc Corporation,2022,both,3859,2043
+"Fidelity Banc Corporation, Dodge City, Kansas_Y-6_2022-12-31_English_228195725_2",passed,,Fidelity Banc Corporation,2022,both,3860,1884
+"Fidelity Bancshares, Inc._Y-6_2022-12-31_English_217180692",passed,,"Fidelity Bancshares, Inc.",2022,none,4168,65
+"Fidelity Bancshares, Inc._Y-6_2022-12-31_English_217180692_2",passed,,"Fidelity Bancshares, Inc.",2022,insiders,4125,184
+"Fidelity Federal Savings  Loan Association, MHC_Y-6_2022-12-31_English_218134754",passed,,"Fidelity Federal Savings & Loan, MHC",2022,insiders,4520,1267
+"Fidelity Federal Savings  Loan Association, MHC_Y-6_2022-12-31_English_218134754_2",passed,,"Fidelity Federal Savings & Loan, MHC",2022,insiders,4520,2536
+Fidelity Financial Corporation_Y-6_2022-03-31_English_227436131_1,passed,,Fidelity Financial Corporation,2022,none,5848,62
+Fidelity Financial Corporation_Y-6_2022-03-31_English_227436131_2,passed,,Fidelity Financial Corporation,2022,none,5850,62
+"Fieldpoint Private Holdings, Inc._Y-6_2022-12-31_English_220356115",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Fieldpoint Private Holdings, Inc._Y-6_2022-12-31_English_220356115_2",passed,,"Fieldpoint Private Holdings, Inc.",2022,both,48341,2284
+Fifth Third Bancorp_Y-6_2022-12-31_English_218086218,failed,"Expecting ',' delimiter: line 250 column 6 (char 10869)",,,,,
+Fifth Third Bancorp_Y-6_2022-12-31_English_218086218_2,failed,"Expecting ',' delimiter: line 630 column 6 (char 24653)",,,,,
+FirsTier II Bancorp._Y-6_2022-12-31_English_227438645_1,passed,,FirsTier II Bancorp,2022,both,5286,1747
+FirsTier II Bancorp._Y-6_2022-12-31_English_227438645_2,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"First Alamogordo Bancorp of Nevada, Inc._Y-6_2022-12-31_English_217188479",passed,,"First Alamogordo Bancorp of Nevada, Inc.",2022,both,4332,2711
+"First Alamogordo Bancorp of Nevada, Inc._Y-6_2022-12-31_English_217188479_2",passed,,"First Alamogordo Bancorp of Nevada, Inc.",2022,both,4421,2645
+"First American Bancshares, Inc._Y-6_2022-12-31_English_228195043_1",passed,,"FIRST AMERICAN BANCSHARES, INC.",2022,both,15025,1044
+"First American Bancshares, Inc._Y-6_2022-12-31_English_228195043_2",passed,,"FIRST AMERICAN BANCSHARES, INC.",2022,both,15026,1045
+"First Anderson Bancshares, Inc._Y-6_2022-12-31_English_217180670",passed,,"First Anderson Bancshares, Inc.",2022,both,9010,3809
+"First Anderson Bancshares, Inc._Y-6_2022-12-31_English_217180670_2",passed,,"First Anderson Bancshares, Inc.",2022,both,9258,4076
+"First Artesia Bancshares, Inc._Y-6_2022-12-31_English_217180820",passed,,"First Artesia Bancshares, Inc.",2022,none,12019,66
+"First Artesia Bancshares, Inc._Y-6_2022-12-31_English_217180820_2",passed,,First American Bank,2022,none,11926,61
+First BanCorp._Y-6_2022-12-31_English_220355876,passed,,First BanCorp,2022,both,8563,4379
+First BanCorp._Y-6_2022-12-31_English_220355876_2,passed,,First BanCorp,2022,both,8923,4502
+"First Bankshares of Las Animas, Inc._Y-6_2022-12-31_English_228270161",passed,,"First Bankshares of Las Animas, Inc.",2022,both,37549,1568
+"First Bankshares of Las Animas, Inc._Y-6_2022-12-31_English_228270161_2",passed,,"First Bankshares of Las Animas, Inc.",2022,both,37553,1500
+First Beemer Corporation_Y-6_2022-12-31_English_228194925_1,passed,,First Beemer Corporation,2022,both,16375,3006
+First Beemer Corporation_Y-6_2022-12-31_English_228194925_2,passed,,First Beemer Corporation,2022,both,16282,2979
+"First Bethany Bancorp, Inc._Y-6_2022-12-31_English_226689680",passed,,First Bethany Bank & Trust,2022,none,30324,63
+"First Bethany Bancorp, Inc._Y-6_2022-12-31_English_226689680_2",passed,,"First Bethany Bancorp, Inc.",2022,insiders,42207,1379
+"First Blanchester Bancshares, Inc._Y-6_2022-12-31_English_218087314",passed,,"FIRST BLANCHESTER BANCSHARES, INC.",2022,insiders,3088,1071
+"First Burkburnett Bancshares, Inc._Y-6_2022-12-31_English_217180925",passed,,"First Burkburnett Bancshares, Inc.",2022,both,6737,4097
+"First Burkburnett Bancshares, Inc._Y-6_2022-12-31_English_217180925_2",passed,,"First Burkburnett Bancshares, Inc.",2022,both,6768,4019
+First Central Nebraska Co._Y-6_2022-12-31_English_226482205,passed,,First Central Nebraska Company,2022,none,3533,62
+First Central Nebraska Co._Y-6_2022-12-31_English_226482205_2,passed,,First Central Nebraska Company,2022,none,3580,62
+"First Centralia Bancshares, Inc._Y-6_2022-12-31_English_228457296_1",passed,,"First Centralia Bancshares, Inc.",2022,none,2737,66
+"First Centralia Bancshares, Inc._Y-6_2022-12-31_English_228457296_2",passed,,"First Centralia Bancshares, Inc.",2022,none,2622,66
+"First Command Financial Planning, Inc._Y-6_2022-09-30_English_217188663",passed,,"First Command Financial Planning, Inc. Employee Stock Ownership Plan Trust",2022,insiders,55287,3837
+"First Command Financial Planning, Inc._Y-6_2022-09-30_English_217188663_2",passed,,"First Command Financial Planning, Inc. Employee Stock Ownership Plan Trust",2022,insiders,55271,3652
+First Commerce Financial Corporation_Y-6_2022-12-31_English_227443293_1,passed,,First Commerce Financial Corporation,2022,both,4072,2409
+First Commerce Financial Corporation_Y-6_2022-12-31_English_227443293_2,passed,,First Commerce Financial Corporation,2022,both,3293,2409
+First Commercial Financial Corp_Y-6_2022-12-31_English_217188411,passed,,First Commercial Financial Corp,2022,both,42810,5168
+First Commercial Financial Corp_Y-6_2022-12-31_English_217188411_2,passed,,First Commercial Financial Corp,2022,both,42802,5423
+"First Community Bancshares, Inc._Y-6_2022-12-31_English_217180621",passed,,"First Community Bancshares, Inc.",2022,insiders,13617,188
+"First Community Bancshares, Inc._Y-6_2022-12-31_English_217180621_2",passed,,"First Community Bancshares, Inc.",2022,none,3150,65
+First Coweta Corporation_Y-6_2022-12-31_English_228267182,passed,,First Coweta Corporation,2022,both,10468,2905
+First Coweta Corporation_Y-6_2022-12-31_English_228267182_2,passed,,First Coweta Corporation,2022,both,10473,2894
+"First Eldorado Bancshares, Inc._Y-6_2022-12-31_English_217188395",passed,,"First Eldorado Bancshares, Inc.",2022,both,35381,2379
+"First Eldorado Bancshares, Inc._Y-6_2022-12-31_English_217188395_2",passed,,"First Eldorado Bancshares, Inc.",2022,both,35371,1509
+First Farmers Financial Corporation_Y-6_2022-06-30_English_213156314,passed,,FFW CORPORATION,2022,both,4875,2523
+First Farmers Financial Corporation_Y-6_2022-06-30_English_213156314_2,passed,,FFW CORPORATION,2022,both,4852,2535
+"First Federal Savings  Loan Association of Van Wert, MHC_Y-6_2022-12-31_English_218134713",passed,,First Federal Savings & Loan Association of Van Wert,2022,insiders,4324,1847
+"First Federal of Olathe Bancorp, Inc._Y-6_2022-12-31_English_227436640_1",passed,,"First Federal of Olathe Bancorp, Inc.",2022,both,10640,1331
+"First Federal of Olathe Bancorp, Inc._Y-6_2022-12-31_English_227436640_2",passed,,"First Federal of Olathe Bancorp, Inc.",2022,both,10595,1369
+First Financial Bancorp._Y-6_2022-12-31_English_218337927,passed,,First Financial Bancorp,2022,both,27538,2377
+First Financial Bancorp._Y-6_2022-12-31_English_218337927_2,passed,,First Financial Bancorp,2022,both,27415,2377
+"First Financial Bancshares, Inc._Y-6_2022-12-31_English_227438471_1",passed,,"FIRST FINANCIAL BANCSHARES, INC.",2022,both,7209,2689
+"First Financial Bancshares, Inc._Y-6_2022-12-31_English_227438471_2",passed,,"FIRST FINANCIAL BANCSHARES, INC.",2022,both,7209,2757
+First Financial Corporation_Y-6_2022-12-31_English_211485018,failed,Invalid \escape: line 60 column 54 (char 1645),,,,,
+First Financial Corporation_Y-6_2022-12-31_English_211485018_2,failed,Invalid \escape: line 60 column 54 (char 1342),,,,,
+First Foundation Inc._Y-6_2022-12-31_English_217188685,passed,,"First Foundation, Inc",2022,both,8491,2356
+First Foundation Inc._Y-6_2022-12-31_English_217188685_2,passed,,"First Foundation, Inc",2022,both,8540,2346
+"First Gilmer Bankshares, Inc._Y-6_2022-12-31_English_217181087",failed,"Expecting ',' delimiter: line 859 column 6 (char 19153)",,,,,
+"First Gilmer Bankshares, Inc._Y-6_2022-12-31_English_217181087_2",failed,"Expecting ',' delimiter: line 816 column 6 (char 18983)",,,,,
+First Granbury Bancorporation_Y-6_2022-12-31_English_217180393,passed,,First Granbury Bancorporation,2022,both,5962,1980
+First Granbury Bancorporation_Y-6_2022-12-31_English_217180393_2,passed,,First Granbury Bancorporation,2022,both,5980,2076
+"First Greenwich Financial, Inc._Y-6_2022-12-31_English_220356084",passed,,"First Greenwich Financial, Inc.",2022,both,35276,1739
+"First Greenwich Financial, Inc._Y-6_2022-12-31_English_220356084_2",passed,,FIRST GREENWICH FINANCIAL,2022,both,47104,1870
+"First Holding Company of Park River, Inc_Y-6_2022-12-31_English_210759446",failed,Invalid \escape: line 14 column 45 (char 371),,,,,
+"First Holding Company of Park River, Inc_Y-6_2022-12-31_English_210759446_2",passed,,"First Holding Company of Park River, Inc.",2022,insiders,4544,1757
+"First International Bancshares, Inc._Y-6_2022-12-31_English_217188466",passed,,"First International Bancshares, Inc.",2022,both,6033,1756
+"First International Bancshares, Inc._Y-6_2022-12-31_English_217188466_2",passed,,"First International Bancshares, Inc.",2022,both,6026,1844
+"First LeRoy Bancorporation, Inc._Y-6_2022-12-31_English_214734997",passed,,"First LeRoy Bancorporation, Inc.",2022,none,2819,65
+"First LeRoy Bancorporation, Inc._Y-6_2022-12-31_English_214734997_2",passed,,"First LeRoy Bancorporation, Inc.",2022,none,2819,65
+First Lindsay Corporation_Y-6_2022-12-31_English_227267387_1,passed,,FIRST LINDSAY CORPORATION,2022,insiders,2443,184
+First Lindsay Corporation_Y-6_2022-12-31_English_227267387_2,passed,,FIRST LINDSAY CORPORATION,2022,none,2443,63
+"First Miami Bancshares, Inc._Y-6_2022-12-31_English_228222174_1",passed,,"FIRST MIAMI BANCSHARES, INC.",2022,both,6863,1985
+"First Miami Bancshares, Inc._Y-6_2022-12-31_English_228222174_2",passed,,"FIRST MIAMI BANCSHARES, INC.",2022,both,6712,1985
+First Mutual Holding Co._Y-6_2022-12-31_English_218134774,passed,,First Mutual Holding Co.,2022,insiders,23911,2583
+"First National Agency, Inc._Y-6_2022-12-31_English_226933723",passed,,"First National Agency, Inc.",2022,securities,43677,616
+"First National Agency, Inc._Y-6_2022-12-31_English_226933723_2",passed,,"First National Agency, Inc.",2022,securities,45095,616
+First National Bank of Gillette Holding Company_Y-6_2022-12-31_English_228223215_1,passed,,First National Bank of Gillette Holding Company,2022,both,35679,1307
+First National Bank of Gillette Holding Company_Y-6_2022-12-31_English_228223215_2,passed,,First National Bank of Gillette Holding Company,2022,both,35431,1315
+"First National Bankshares of Beloit, Inc._Y-6_2022-12-31_English_228266320_1",passed,,"First National Bankshares of Beloit, Inc.",2022,insiders,6391,1252
+"First National Bankshares of Beloit, Inc._Y-6_2022-12-31_English_228266320_2",passed,,"First National Bankshares of Beloit, Inc.",2022,insiders,6389,1277
+First National Financial Corporation_Y-6_2022-12-31_English_218087220,passed,,First National Financial Corporation,2022,insiders,3208,1707
+First National Financial Corporation_Y-6_2022-12-31_English_226933491,passed,,First National Financial Corporation,2022,both,5326,2560
+First National Financial Corporation_Y-6_2022-12-31_English_226933491_2,passed,,First National Financial Corporation,2022,both,5321,2585
+"First National Johnson Bancshares, Inc._Y-6_2022-12-31_English_227267981",passed,,"FIRST NATIONAL JOHNSON BANCHHARES, INC.",2022,insiders,4984,916
+"First National Johnson Bancshares, Inc._Y-6_2022-12-31_English_227267981_2",passed,,"FIRST NATIONAL JOHNSON BANCHHARES, INC.",2022,insiders,4984,928
+"First National of Nebraska, Inc._Y-6_2022-12-31_English_226483647",passed,,"First National of Nebraska, Inc.",2022,both,76322,3959
+"First National of Nebraska, Inc._Y-6_2022-12-31_English_226483647_2",passed,,"First National of Nebraska, Inc.",2022,both,74027,3916
+"First Nebraska Bancs, Inc._Y-6_2022-12-31_English_226482445",passed,,"First Nebraska Bancs, Inc",2022,none,2544,64
+"First Nebraska Bancs, Inc._Y-6_2022-12-31_English_226482445_2",passed,,"First Nebraska Bancs, Inc",2022,both,2389,242
+First New Mexico Financial Corporation_Y-6_2022-12-31_English_217180577,passed,,First New Mexico Financial Corporation,2022,both,35121,3937
+First New Mexico Financial Corporation_Y-6_2022-12-31_English_217180577_2,passed,,First New Mexico Financial Corporation,2022,both,35144,3645
+"First Niles Financial, Inc._Y-6_2022-12-31_English_218134402",passed,,"First Niles Financial, Inc.",2022,securities,2858,461
+First Pioneer Bank Corp._Y-6_2022-12-31_English_228227020_1,passed,,FIRST PIONEER BANK CORP.,2022,insiders,4638,2062
+First Pioneer Bank Corp._Y-6_2022-12-31_English_228227020_2,passed,,FIRST PIONEER BANK CORP.,2022,insiders,4660,2094
+First Poteau Corporation_Y-6_2022-12-31_English_228196171_1,passed,,First Poteau Corporation,2022,insiders,11271,1861
+First Poteau Corporation_Y-6_2022-12-31_English_228196171_2,passed,,First Poteau Corporation,2022,insiders,11271,1865
+First San Benito Bancshares Corporation_Y-6_2022-12-31_English_217180425,passed,,First San Benito Bancshares Corporation,2022,both,29937,2343
+First San Benito Bancshares Corporation_Y-6_2022-12-31_English_217180425_2,passed,,First San Benito Bancshares Corporation,2022,both,29983,2739
+"First Sonora Bancshares, Inc._Y-6_2022-12-31_English_217188392",passed,,"First Sonora Bancshares, Inc.",2022,both,3703,1689
+"First Sonora Bancshares, Inc._Y-6_2022-12-31_English_217188392_2",passed,,"First Sonora Bancshares, Inc.",2022,both,3696,1698
+"First Southern Bancorp, Inc._Y-6_2022-12-31_English_218087067",passed,,"First Southern Bancorp, Inc.",2022,both,8989,3247
+"First Southern Bancorp, Inc._Y-6_2022-12-31_English_218087067_2",passed,,"First Southern Bancorp, Inc.",2022,both,8991,3233
+"First Southwest Bancorporation, Inc._Y-6_2022-12-31_English_227451520",passed,,"First Southwest Bancorporation, Inc.",2022,none,2784,64
+"First Southwest Bancorporation, Inc._Y-6_2022-12-31_English_227451520_2",passed,,"First Southwest Bancorporation, Inc.",2022,none,2916,64
+"First State Bancorp, Inc._Y-6_2022-12-31_English_218134171",passed,,"First State Bancorp, Inc.",2022,both,3646,1699
+"First State Bancorp, Inc._Y-6_2022-12-31_English_218134171_2",passed,,"First State Bancorp, Inc.",2022,both,3642,1721
+"First State Bancorporation of Watonga, Inc._Y-6_2022-12-31_English_228223269_1",passed,,"First State Bancorporation of Watonga, Inc.",2022,insiders,3379,2589
+"First State Bancorporation of Watonga, Inc._Y-6_2022-12-31_English_228223269_2",passed,,"First State Bancorporation of Watonga, Inc.",2022,insiders,3325,2589
+"First State Bancshares of Yoakum, Inc._Y-6_2022-12-31_English_217180552",passed,,"FIRST STATE BANCSHARES OF YOAKUM, INC.",2022,securities,26060,1139
+"First State Bancshares of Yoakum, Inc._Y-6_2022-12-31_English_217180552_2",passed,,"FIRST STATE BANCSHARES OF YOAKUM, INC.",2022,securities,26060,1139
+"First State Bankshares, Inc._Y-6_2022-12-31_English_217181123",passed,,"FIRST STATE BANKSHARES, INC.",2022,both,4370,3252
+"First State Bankshares, Inc._Y-6_2022-12-31_English_217181123_2",passed,,"FIRST STATE BANKSHARES, INC.",2022,both,4536,3141
+"First Texas Bancorp, Inc._Y-6_2022-12-31_English_217180195",passed,,"First Texas Bancorp, Inc.",2022,both,33658,508
+"First Texas Bancorp, Inc._Y-6_2022-12-31_English_217180195_2",passed,,"First Texas Bancorp, Inc.",2022,securities,33650,383
+First Thomas Ban Corp._Y-6_2022-12-31_English_228097634,passed,,FIRST BANK OF THOMAS,2022,none,22890,62
+First Thomas Ban Corp._Y-6_2022-12-31_English_228097634_2,passed,,FIRST BANK OF THOMAS,2022,none,20196,62
+"First West Texas Bancshares, Inc._Y-6_2022-12-31_English_217180955",passed,,"FIRST WEST TEXAS BANCSHARES, INC.",2022,both,47607,1319
+"First West Texas Bancshares, Inc._Y-6_2022-12-31_English_217180955_2",passed,,"First West Texas Bancshares, Inc.",2022,both,47549,1438
+"First Western Financial, Inc._Y-6_2022-12-31_English_227441630_1",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"First Western Financial, Inc._Y-6_2022-12-31_English_227441630_2",passed,,"First Western Financial, Inc.",2022,both,6740,2433
+First Western Mortgage Corporation_Y-6_2022-09-30_English_217188662,failed,"Expecting ',' delimiter: line 747 column 6 (char 22158)",,,,,
+First Western Mortgage Corporation_Y-6_2022-09-30_English_217188662_2,failed,"Expecting ',' delimiter: line 603 column 6 (char 21279)",,,,,
+First York Ban Corp._Y-6_2022-12-31_English_226481834,passed,,First York Ban Corp.,2022,both,20080,1808
+First York Ban Corp._Y-6_2022-12-31_English_226481834_2,passed,,First York Ban Corp.,2022,both,20082,1818
+First of McAlester Corporation_Y-6_2022-12-31_English_227981099,passed,,First of McAlester Corporation,2022,insiders,30551,1899
+First of McAlester Corporation_Y-6_2022-12-31_English_227981099_2,passed,,First of McAlester Corporation,2022,insiders,30621,1925
+"FirstPerryton Bancorp, Inc._Y-6_2022-12-31_English_217180808",passed,,"FirstPerryton Bancorp, Inc.",2022,both,54604,7988
+"FirstPerryton Bancorp, Inc._Y-6_2022-12-31_English_217180808_2",passed,,"FirstPerryton Bancorp, Inc.",2022,both,54641,7920
+FirstSun Capital Bancorp_Y-6_2022-12-30_English_228388675_1,passed,,FirstSun Capital Bancorp,2022,both,12658,4261
+FirstSun Capital Bancorp_Y-6_2022-12-30_English_228388675_2,passed,,FirstSun Capital Bancorp,2022,both,12675,4325
+Firstand Co._Y-6_2022-12-31_English_227284583_1,passed,,Firstand Co.,2022,none,2339,61
+Firstand Co._Y-6_2022-12-31_English_227284583_2,passed,,Firstand Co.,2022,none,2339,61
+"Fleming Community Agency, Inc._Y-6_2022-12-31_English_227286909_1",passed,,"Fleming Community Agency, Inc.",2022,both,6405,4462
+"Fleming Community Agency, Inc._Y-6_2022-12-31_English_227286909_2",passed,,"Fleming Community Agency, Inc.",2022,both,6405,4462
+"Flint Hills Bancshares, Inc._Y-6_2022-12-31_English_227275763",passed,,"Flinthills Bancshares, Inc.",2022,none,4619,67
+"Flint Hills Bancshares, Inc._Y-6_2022-12-31_English_227275763_2",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+Flushing Financial Corporation_Y-6_2022-12-31_English_220355620,passed,,Flushing Financial Corporation,2022,both,9375,3942
+Flushing Financial Corporation_Y-6_2022-12-31_English_220355620_2,passed,,Flushing Financial Corporation,2022,both,9365,4341
+"Forstrom Bancorporation, Inc._Y-6_2022-12-31_English_215690270",passed,,"Forstrom Bancorporation, Inc",2022,none,2729,64
+"Forstrom Bancorporation, Inc._Y-6_2022-12-31_English_215690270_2",passed,,"Forstrom Bancorporation, Inc",2022,none,2729,64
+"Franklin Bancorp, Inc._Y-6_2022-12-31_English_217180947",passed,,"Franklin Bancorp, Inc.",2022,insiders,7851,190
+"Franklin Bancorp, Inc._Y-6_2022-12-31_English_217180947_2",passed,,"Franklin Bancorp, Inc.",2022,none,7851,63
+"Freedom Bancorp, Inc._Y-6_2022-12-31_English_220356107",passed,,"Freedom Bancorp, Inc.",2022,both,25436,277
+"Freedom Bancorp, Inc._Y-6_2022-12-31_English_220356107_2",passed,,"Freedom Bancorp, Inc.",2022,both,25617,291
+"Frontier Bancshares, Inc._Y-6_2022-12-31_English_217188615",passed,,"Frontier Bancshares, Inc",2022,both,4023,1970
+"Frontier Bancshares, Inc._Y-6_2022-12-31_English_217188615_2",passed,,"Frontier Bancshares, Inc",2022,both,3980,1970
+"G. S. Bancshares, Inc._Y-6_2022-12-31_English_226933581",passed,,"G.S. Bancshares, Inc.",2022,none,5434,67
+"G. S. Bancshares, Inc._Y-6_2022-12-31_English_226933581_2",passed,,"G.S. Bancshares, Inc.",2022,none,5434,67
+"Ganado Bancshares, Inc._Y-6_2022-12-31_English_217181017",passed,,"Ganado Bancshares, Inc.",2022,none,2523,65
+"Ganado Bancshares, Inc._Y-6_2022-12-31_English_217181017_2",passed,,"Ganado Bancshares, Inc.",2022,none,2523,65
+"Garnett Bancshares, Inc._Y-6_2022-12-31_English_228195547_1",passed,,"Garnett Bancshares, Inc.",2022,none,2785,65
+"Garnett Bancshares, Inc._Y-6_2022-12-31_English_228195547_2",passed,,"Garnett Bancshares, Inc.",2022,none,2785,65
+"Garvin County Bancshares, Inc._Y-6_2022-12-31_English_227282647",passed,,"GARVIN COUNTY BANCSHARES, INC.",2022,none,7249,67
+"Garvin County Bancshares, Inc._Y-6_2022-12-31_English_227282647_2",passed,,"GARVIN COUNTY BANCSHARES, INC.",2022,none,7249,67
+"Gato Holdings, Inc._Y-6_2022-12-31_English_211055142",passed,,"GATO Holdings, Inc",2022,insiders,2856,748
+"Gato Holdings, Inc._Y-6_2022-12-31_English_211055142_2",passed,,"GATO Holdings, Inc",2022,insiders,2853,744
+"Gibsland Bancshares, Inc._Y-6_2022-12-31_English_217181037",passed,,"Gibsland Bancshares, Inc",2022,insiders,13619,1339
+"Gibsland Bancshares, Inc._Y-6_2022-12-31_English_217181037_2",passed,,"Gibsland Bancshares, Inc",2022,insiders,13725,1336
+"Giddings Bancshares, Inc._Y-6_2022-12-31_English_217180958",passed,,"Giddings Bancshares, Inc.",2022,both,5655,1674
+"Giddings Bancshares, Inc._Y-6_2022-12-31_English_217180958_2",passed,,"Giddings Bancshares, Inc.",2022,both,5775,1594
+"Gilmer National Bancshares, Inc._Y-6_2022-12-31_English_217188516",passed,,"Gilmer National Bancshares, Inc.",2022,insiders,7036,1856
+"Gilmer National Bancshares, Inc._Y-6_2022-12-31_English_217188516_2",passed,,"Gilmer National Bancshares, Inc.",2022,insiders,7036,1881
+Goppert Financial Corp._Y-6_2022-12-31_English_226933527,passed,,Goppert Financial Corp.,2022,both,23485,5973
+Goppert Financial Corp._Y-6_2022-12-31_English_226933527_2,passed,,Goppert Financial Corp.,2022,both,22800,5378
+Graham Savings Financial Corp_Y-6_2022-06-30_English_217188649,passed,,GRAHAM SAVINGS FINANCIAL CORPORATION,2022,both,12237,3620
+Graham Savings Financial Corp_Y-6_2022-06-30_English_217188649_2,passed,,GRAHAM SAVINGS FINANCIAL CORPORATION,2022,both,12232,3579
+"Grain Valley Bancshares, Inc._Y-6_2022-12-31_English_227377036_1",passed,,"GRAIN VALLEY BANCSHARES, INC.",2022,none,2922,67
+"Grain Valley Bancshares, Inc._Y-6_2022-12-31_English_227377036_2",passed,,"GRAIN VALLEY BANCSHARES, INC.",2022,none,2922,67
+"Grand Bancorp, Inc._Y-6_2022-12-31_English_227551056_1",passed,,"Grand Bancorp, INC.",2022,insiders,17395,2772
+"Grand Bancorp, Inc._Y-6_2022-12-31_English_227551056_2",passed,,"Grand Bancorp, INC.",2022,insiders,17311,2980
+"Granger Bancshares, Inc._Y-6_2022-12-31_English_217181043",passed,,"Granger Bancshares, Inc.",2022,insiders,6987,185
+"Granger Bancshares, Inc._Y-6_2022-12-31_English_217181043_2",passed,,"Granger Bancshares, Inc.",2022,insiders,6987,185
+"Grant Bancshares, Inc._Y-6_2022-12-31_English_217188587",passed,,Grant Bancshares,2022,both,16247,2066
+"Grant Bancshares, Inc._Y-6_2022-12-31_English_217188587_2",passed,,Grant Bancshares,2022,both,18132,2106
+"Greater Rochester Bancorp, Inc._Y-6_2022-12-31_English_220356017",passed,,"Greater Rochester Bancorp, Inc.",2022,insiders,6288,2339
+"Greater Rochester Bancorp, Inc._Y-6_2022-12-31_English_220356017_2",passed,,"GREATER ROCHESTER BANCOOP, INC.",2022,insiders,6288,2341
+"Greater Southwest Bancshares, Inc._Y-6_2022-12-31_English_217181077",passed,,"Greater Southwest Bancshares, Inc.",2022,insiders,28688,1253
+"Greater Southwest Bancshares, Inc._Y-6_2022-12-31_English_217181077_2",passed,,"Greater Southwest Bancshares, Inc.",2022,insiders,28694,1253
+Green City Bancshares Inc._Y-6_2022-12-31_English_228222706_1,passed,,Green City Bancshares Inc.,2022,insiders,11589,632
+Green City Bancshares Inc._Y-6_2022-12-31_English_228222706_2,passed,,Green City Bancshares Inc.,2022,insiders,11537,638
+Green Dot Corporation_Y-6_2022-12-31_English_217188699,passed,,Green Dot Corporation,2022,securities,32622,482
+Green Dot Corporation_Y-6_2022-12-31_English_217188699_2,passed,,Green Dot Corporation,2022,securities,32622,482
+Greenville Federal MHC_Y-6_2022-12-31_English_218134699,passed,,Greenville Federal Financial Corporation,2022,insiders,5539,1929
+Greenville Federal MHC_Y-6_2022-12-31_English_218134699_2,passed,,Greenville Federal Financial Corporation,2022,insiders,5405,1884
+Greenville National Bancorp_Y-6_2022-12-31_English_218086855,passed,,Greenville National Bancorp,2022,both,13547,2242
+Greenville National Bancorp_Y-6_2022-12-31_English_218086855_2,passed,,Greenville National Bancorp,2022,both,4489,2242
+"Greenwood County Financial Services, Inc._Y-6_2022-12-31_English_228355232_1",passed,,"Greenwood County Financial Services, Inc",2022,both,3807,970
+"Greenwood County Financial Services, Inc._Y-6_2022-12-31_English_228355232_2",passed,,"Greenwood County Financial Services, Inc",2022,both,3817,970
+"Groesbeck Bancshares, Inc._Y-6_2022-12-31_English_217181079",passed,,"Groesbeck Bancshares, Inc.",2022,both,5884,4965
+"Groesbeck Bancshares, Inc._Y-6_2022-12-31_English_217181079_2",passed,,"Groesbeck Bancshares, Inc.",2022,both,5891,5311
+"Guardian Bancorp, Inc_Y-6_2022-12-31_English_218134181",passed,,"Guardian Bancorp, Inc.",2022,none,2300,63
+"Guardian Bancorp, Inc_Y-6_2022-12-31_English_218134181_2",passed,,"Guardian Bancorp, Inc.",2022,insiders,2394,185
+"Gulfport Bancshares of Delaware, Inc._Y-6_2022-12-31_English_217188618",passed,,"Gulfjort Bancshares of Delaware, Inc",2022,none,2377,68
+"Gulfport Bancshares of Delaware, Inc._Y-6_2022-12-31_English_217188618_2",passed,,"Gulfjort Bancshares of Delaware, Inc",2022,none,2377,68
+H  W Holding Company_Y-6_2022-06-30_English_213490183,passed,,H&W Holding Company,2022,none,2827,63
+H  W Holding Company_Y-6_2022-06-30_English_213490183_2,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+HB Holdings MHC_Y-6_2022-06-30_English_211015428,passed,,"HB Holdings, MHC",2022,insiders,4257,1669
+HB Holdings MHC_Y-6_2022-06-30_English_211015428_2,passed,,"HB Holdings, MHC",2022,insiders,4257,1669
+HFB Financial Corporation_Y-6_2022-12-31_English_218086492,passed,,HFB Financial Corporation,2022,none,2395,62
+HFB Financial Corporation_Y-6_2022-12-31_English_218086492_2,passed,,HFB Financial Corporation,2022,none,2388,62
+"Hanover Bancorp, Inc._Y-6_2022-09-30_English_220356105",passed,,"Hanover Bancorp, Inc.",2022,both,18980,1606
+"Hanover Bancorp, Inc._Y-6_2022-09-30_English_220356105_2",passed,,"Hanover Bancorp, Inc.",2022,both,18457,1601
+"Hanston Insurance Agency, Inc._Y-6_2022-12-31_English_226933677",passed,,"Hanston Insurance Agency, Inc.",2022,insiders,24515,1285
+"Hanston Insurance Agency, Inc._Y-6_2022-12-31_English_226933677_2",passed,,Bank of Hays,2022,insiders,24515,1200
+"Haskell Bancshares, Inc._Y-6_2022-12-31_English_217180216",passed,,"Haskell Bancshares, Inc.",2022,both,11497,2627
+"Haskell Bancshares, Inc._Y-6_2022-12-31_English_217180216_2",passed,,"Haskell Bancshares, Inc.",2022,both,11977,2627
+"Haven Bancorp, MHC_Y-6_2022-12-31_English_220356042",passed,,"Haven Bancorp, MHC",2022,both,6854,1234
+"Haven Bancorp, MHC_Y-6_2022-12-31_English_220356042_2",passed,,"Haven Bancorp, MHC",2022,both,6745,1362
+"Hebbronville Regional Bancshares, Inc._Y-6_2022-12-31_English_217188665",passed,,"Hebbronville Regional BancShares, Inc.",2022,insiders,18075,2422
+"Hebbronville Regional Bancshares, Inc._Y-6_2022-12-31_English_217188665_2",passed,,"Hebbronville Regional BancShares, Inc.",2022,insiders,18075,2424
+Henderson State Company_Y-6_2022-12-31_English_227982140_1,passed,,Henderson State Company,2022,none,2893,61
+Henderson State Company_Y-6_2022-12-31_English_227982140_2,passed,,Henderson State Company,2022,none,2892,61
+"Henderson Texas Bancshares, Inc._Y-6_2022-12-31_English_217188607",passed,,"Henderson Texas Bancshares, Inc.",2022,insiders,6103,1859
+"Henderson Texas Bancshares, Inc._Y-6_2022-12-31_English_217188607_2",passed,,"Henderson Texas Bancshares, Inc.",2022,insiders,6094,1854
+"Heritage Bancshares, Inc._Y-6_2022-12-31_English_227445112_1",passed,,"Heritage Bancshares, Inc.",2022,insiders,5061,1470
+"Heritage Bancshares, Inc._Y-6_2022-12-31_English_227445112_2",passed,,"Heritage Bancshares, Inc.",2022,insiders,5061,1935
+"Heritage Group, Inc._Y-6_2022-12-31_English_227970391_1",passed,,"Heritage Group, Inc.",2022,both,7888,6823
+"Heritage Group, Inc._Y-6_2022-12-31_English_227970391_2",passed,,"Heritage Group, Inc.",2022,both,7888,6805
+"Herring Bancorp, Inc._Y-6_2022-12-31_English_217180910",passed,,"Herring Bancorp, Inc.",2022,both,9352,5101
+"Herring Bancorp, Inc._Y-6_2022-12-31_English_217180910_2",passed,,"Herring Bancorp, Inc.",2022,both,7944,4367
+"High Plains Banking Group, Inc._Y-6_2022-12-31_English_228263845_1",passed,,"High Plains Banking Group, Inc.",2022,both,19008,3577
+"High Plains Banking Group, Inc._Y-6_2022-12-31_English_228263845_2",passed,,"High Plains Banking Group, Inc., a Colorado Corporation",2022,both,19156,3521
+"Hocking Valley Bancshares, Inc._Y-6_2022-12-31_English_218087397",passed,,"Hocking Valley BancShares, Inc.",2022,both,4637,2182
+"Hocking Valley Bancshares, Inc._Y-6_2022-12-31_English_218087397_2",passed,,"Hocking Valley BancShares, Inc.",2022,both,4637,2265
+"Hodge Bancshares, Inc._Y-6_2022-12-31_English_217180963",passed,,HODGE BANCSHARES INC,2022,both,26791,923
+"Hodge Bancshares, Inc._Y-6_2022-12-31_English_217180963_2",passed,,HODGE BANCSHARES INC,2022,both,26779,923
+"Holland Bancorp, Inc._Y-6_2022-12-31_English_220355911",passed,,"HOLLAND BANCORP, INC",2022,both,42344,3840
+"Holland Bancorp, Inc._Y-6_2022-12-31_English_220355911_2",passed,,"HOLLAND BANCORP, INC",2022,both,43038,3743
+"Homeland Bancshares, Inc._Y-6_2022-12-31_English_217188657",passed,,"Homeland Bancshares, Inc.",2022,both,36435,1311
+"Homeland Bancshares, Inc._Y-6_2022-12-31_English_217188657_2",passed,,"Homeland Bancshares, Inc.",2022,both,36430,1335
+"Hometown Bancorp, Inc._Y-6_2022-09-30_English_218134683",passed,,"Hometown Bancorp, Inc.",2022,both,12767,1208
+"Hometown Bancorp, Inc._Y-6_2022-09-30_English_218134683_2",passed,,"Hometown Bancorp, Inc.",2022,both,12740,1182
+"Hometown Bancshares, Inc._Y-6_2022-12-31_English_218134592",passed,,"Hometown Bancshares, Inc.",2022,securities,2672,525
+"Hometown Bancshares, Inc._Y-6_2022-12-31_English_218134592_2",passed,,"Hometown Bancshares, Inc.",2022,securities,2672,525
+Hometown Financial Group MHC_Y-6_2022-06-30_English_211015451,passed,,Hometown Financial Group MHC,2022,both,6328,2042
+Hometown Financial Group MHC_Y-6_2022-06-30_English_211015451_2,passed,,Hometown Financial Group MHC,2022,both,6328,2135
+"Horizon Bankshares, Inc._Y-6_2022-12-31_English_217180997",passed,,"HORIZON BANKSHARES, INC.",2022,both,37301,3714
+"Horizon Bankshares, Inc._Y-6_2022-12-31_English_217180997_2",passed,,"HORIZON BANKSHARES, INC.",2022,both,37350,2501
+Howard County Land and Cattle Co._Y-6_2022-12-31_English_226933538,passed,,Howard County Land and Cattle Co.,2022,both,4631,2291
+Howard County Land and Cattle Co._Y-6_2022-12-31_English_226933538_2,passed,,Howard County Land and Cattle Co.,2022,both,4108,2281
+"Hugoton Bancshares, Inc._Y-6_2022-12-31_English_228194486_1",passed,,"Hugoton Bancshares, Inc.",2022,insiders,5811,663
+"Hugoton Bancshares, Inc._Y-6_2022-12-31_English_228194486_2",passed,,"Hugoton Bancshares, Inc.",2022,insiders,5811,695
+"Hydro Bancshares, Inc._Y-6_2022-12-31_English_228483659_1",passed,,"Hydro Bancshares, Inc.",2022,none,4639,64
+"Hydro Bancshares, Inc._Y-6_2022-12-31_English_228483659_2",passed,,"Hydro Bancshares, Inc.",2022,none,4637,64
+"InFirst Bancorp, MHC_Y-6_2022-12-31_English_218134769",passed,,"InFirst Bancorp, MHC",2022,none,2720,64
+"InFirst Bancorp, MHC_Y-6_2022-12-31_English_218134769_2",passed,,"InFirst Bancorp, MHC",2022,none,2720,64
+"Independent Bank Group, Inc._Y-6_2022-12-31_English_217188581",passed,,"Independent Bank Group, Inc.",2022,both,13219,4008
+"Independent Bank Group, Inc._Y-6_2022-12-31_English_217188581_2",passed,,"Independent Bank Group, Inc.",2022,both,14015,3900
+"Integrity Capital Holdings, Inc._Y-6_2022-12-31_English_230085636",passed,,"Gemini Bancshares, Inc.",2022,both,22754,1579
+"Integrity Capital Holdings, Inc._Y-6_2022-12-31_English_230085636_2",passed,,"Gemini Bancshares, Inc.",2022,both,22754,1561
+International Bancshares Corporation_Y-6_2022-12-31_English_217180259,passed,,International Bancshares Corporation,2022,both,27190,3866
+International Bancshares Corporation_Y-6_2022-12-31_English_217180259_2,passed,,International Bancshares Corporation,2022,both,26913,3882
+"International Bancshares of Oklahoma, Inc._Y-6_2022-12-31_English_228265037_1",passed,,"International Bancshares of Oklahoma, Inc.",2022,both,5973,1248
+"International Bancshares of Oklahoma, Inc._Y-6_2022-12-31_English_228265037_2",passed,,"International Bancshares of Oklahoma, Inc.",2022,both,5973,1278
+"Inwood Bancshares, Inc._Y-6_2022-12-31_English_217181024",passed,,"Inwood Bancshares, Inc.",2022,both,9372,4819
+"Inwood Bancshares, Inc._Y-6_2022-12-31_English_217181024_2",passed,,"Inwood Bancshares, Inc.",2022,both,9428,4552
+"JBS, Inc._Y-6_2022-12-31_English_211485233",passed,,"JBS, Inc.",2022,insiders,5764,202
+"JBS, Inc._Y-6_2022-12-31_English_211485233_2",passed,,"JBS, Inc.",2022,insiders,5345,199
+JPMorgan Chase  Co._Y-6_2022-12-31_English_220377424,passed,,JPMorgan Chase & Co.,2022,both,418446,7709
+JSA Family Limited Partnership_Y-6_2022-12-31_English_217188539,failed,"Expecting ',' delimiter: line 920 column 6 (char 17724)",,,,,
+JSA Family Limited Partnership_Y-6_2022-12-31_English_217188539_2,failed,"Expecting ',' delimiter: line 911 column 6 (char 17900)",,,,,
+"Jackson Bancorp, Inc._Y-6_2022-12-31_English_217180970",passed,,"JACKSON BANCORP, INC.",2022,both,4265,2549
+"Jackson Bancorp, Inc._Y-6_2022-12-31_English_217180970_2",passed,,"JACKSON BANCORP, INC.",2022,both,4265,2560
+"Jane Austin Chapman Limited Partnership, L.P._Y-6_2022-12-31_English_217188576",failed,"Expecting ',' delimiter: line 848 column 6 (char 17948)",,,,,
+"Jane Austin Chapman Limited Partnership, L.P._Y-6_2022-12-31_English_217188576_2",failed,"Expecting ',' delimiter: line 848 column 6 (char 17744)",,,,,
+"Jefferson Bancshares, Inc._Y-6_2022-12-31_English_217180886",failed,"Expecting ',' delimiter: line 767 column 6 (char 18717)",,,,,
+"Jefferson Bancshares, Inc._Y-6_2022-12-31_English_217180886_2",failed,"Expecting ',' delimiter: line 776 column 6 (char 18622)",,,,,
+Jeffersonville Bancorp_Y-6_2022-12-31_English_220355616,passed,,Jeffersonville Bancorp,2022,insiders,41768,1824
+Jeffersonville Bancorp_Y-6_2022-12-31_English_220355616_2,passed,,Jeffersonville Bancorp,2022,insiders,40970,1824
+John R Turner Holding Company_Y-6_2022-12-31_English_218134441,passed,,John R Turner Holding Company,2022,none,2278,63
+John R Turner Holding Company_Y-6_2022-12-31_English_218134441_2,passed,,John R Turner Holding Company,2022,none,2278,63
+"Johnson Bancshares, Inc._Y-6_2022-12-31_English_211055136",passed,,"Johnson Bancshares, Inc.",2022,both,3287,452
+"Johnson Bancshares, Inc._Y-6_2022-12-31_English_211055136_2",passed,,"Johnson Bancshares, Inc.",2022,both,3287,433
+"Johnson State Bancshares, Inc._Y-6_2022-12-31_English_228194843_1",passed,,"Johnson State Bancshares, Inc.",2022,insiders,2948,186
+"Johnson State Bancshares, Inc._Y-6_2022-12-31_English_228194843_2",passed,,"Johnson State Bancshares, Inc.",2022,insiders,2948,186
+Jonah Bankshares_Y-6_2022-12-31_English_227543267_1,passed,,Jonah Bankshares,2023,insiders,4276,1913
+Jonah Bankshares_Y-6_2022-12-31_English_227543267_2,passed,,Jonah Bankshares,2022,insiders,4273,1583
+Jorgenson Williston Holding Company_Y-6_2022-12-31_English_211485494,passed,,Jorgenson Williston Holding Company,2022,insiders,2924,188
+Jorgenson Williston Holding Company_Y-6_2022-12-31_English_211485494_2,passed,,Jorgenson Williston Holding Company,2022,none,2933,65
+KANZA Financial Corporation_Y-6_2022-12-31_English_227280436,passed,,KANZA Financial Corporation,2022,both,3651,1758
+KANZA Financial Corporation_Y-6_2022-12-31_English_227280436_2,passed,,KANZA Financial Corporation,2022,both,3678,1740
+"KansasLand Bancshares, Inc._Y-6_2022-12-31_English_227451231",passed,,"KansasLand Bancshares, Inc.",2022,both,3804,1861
+"KansasLand Bancshares, Inc._Y-6_2022-12-31_English_227451231_2",passed,,"KansasLand Bancshares, Inc.",2022,both,3891,1852
+"Kaw Valley Bancshares, Inc._Y-6_2022-12-31_English_228368905_1",passed,,"Kaw Valley Bancshares, Inc",2022,both,3706,1740
+"Kaw Valley Bancshares, Inc._Y-6_2022-12-31_English_228368905_2",passed,,"Kaw Valley Bancshares, Inc",2022,both,3706,1740
+KeyCorp_Y-6_2022-12-31_English_218086252,passed,,KeyCorp,2022,both,45608,4930
+KeyCorp_Y-6_2022-12-31_English_218086252_2,passed,,KeyCorp,2022,both,37605,4936
+"Keystrong Financial, Inc._Y-6_2022-12-31_English_218134711",passed,,"Keystrong Financial, Inc.",2022,both,3910,1879
+"Keystrong Financial, Inc._Y-6_2022-12-31_English_218134711_2",passed,,"Keystrong Financial, Inc.",2022,both,3910,1889
+"Killbuck Bancshares, Inc._Y-6_2022-12-31_English_218087365",passed,,"Killbuck Bancshares, Inc.",2022,both,3691,2043
+"Killbuck Bancshares, Inc._Y-6_2022-12-31_English_218087365_2",passed,,"Killbuck Bancshares, Inc.",2022,both,3492,2042
+"Kingsbury BDC Financial Services, Inc._Y-6_2022-12-31_English_227283568_1",passed,,"Kingsbury BDC Financial Services, Inc.",2022,both,12629,2438
+"Kingsbury BDC Financial Services, Inc._Y-6_2022-12-31_English_227283568_2",passed,,"Kingsbury BDC Financial Services, Inc.",2022,both,12634,2362
+"Kingston Bancshares, Inc._Y-6_2022-12-31_English_218087400",passed,,"Kingston BancShares, Inc",2022,both,3747,1592
+"Kingston Bancshares, Inc._Y-6_2022-12-31_English_218087400_2",passed,,"Kingston BancShares, Inc",2022,both,3746,1641
+"Knott Holding Company, Inc._Y-6_2022-12-31_English_228195241_1",passed,,"Knott Holding Company, Inc.",2022,insiders,2376,171
+"Knott Holding Company, Inc._Y-6_2022-12-31_English_228195241_2",passed,,"Knott Holding Company, Inc.",2022,insiders,2376,171
+LCNB Corp._Y-6_2022-12-31_English_218134423,passed,,LCNB Corp.,2022,both,16999,2509
+LCNB Corp._Y-6_2022-12-31_English_218134423_2,passed,,LCNB Corp.,2022,both,10166,2546
+"Labette County Bankshares, Inc._Y-6_2022-12-31_English_228194529_1",passed,,"Labette County Bankshares, Inc.",2022,securities,4004,241
+"Labette County Bankshares, Inc._Y-6_2022-12-31_English_228194529_2",passed,,"Labette County Bankshares, Inc.",2022,securities,4004,241
+Lake Shore III Corporation_Y-6_2022-12-31_English_211055165,passed,,Lake Shore III Corporation,2022,both,6167,3495
+Lake Shore III Corporation_Y-6_2022-12-31_English_211055165_2,passed,,Lake Shore III Corporation,2022,both,6192,3503
+"Lakeview Bancorporation, Inc._Y-6_2022-12-31_English_211485448",passed,,Lakeview Bancorporation,2022,both,3473,1403
+"Lakeview Bancorporation, Inc._Y-6_2022-12-31_English_211485448_2",passed,,Lakeview Bancorporation,2022,both,3473,1427
+"Lamar Bancorporation, Inc._Y-6_2022-12-31_English_217181040",passed,,"Lamar Bancorporation, Inc",2022,none,3993,63
+"Lamar Bancorporation, Inc._Y-6_2022-12-31_English_217181040_2",passed,,"Lamar Bancorporation, Inc",2022,none,3868,63
+"Las Vegas Bancorporation, Inc._Y-6_2022-12-31_English_228195443",passed,,Las Vegas Bancorporation,2022,both,3112,1092
+"Las Vegas Bancorporation, Inc._Y-6_2022-12-31_English_228195443_2",passed,,Las Vegas Bancorporation,2022,both,3112,1097
+Lauritzen Corporation_Y-6_2022-12-31_English_228385091,passed,,Lauritzen Corporation,2022,both,10709,2360
+Lauritzen Corporation_Y-6_2022-12-31_English_228385091_2,passed,,Lauritzen Corporation,2022,both,9336,2352
+"Lauritzen Investments, Incorporated_Y-6_2022-12-31_English_227376373_1",passed,,Lauritzen Investments Inc.,2022,both,6739,2275
+"Lauritzen Investments, Incorporated_Y-6_2022-12-31_English_227376373_2",passed,,LAURITZEN INVESTMENTS INCORPORATED,2022,both,6302,2276
+"Lea County Bancshares, Inc._Y-6_2022-12-31_English_217188384",passed,,"Lea County Bancshares, Inc.",2022,both,53096,2503
+"Lea County Bancshares, Inc._Y-6_2022-12-31_English_217188384_2",passed,,"Lea County Bancshares, Inc.",2022,both,52762,2439
+Lecce Holdings S.A._Y-6_2022-12-31_English_220377622,passed,,Lecce Holdings S.A.,2022,both,2980,1274
+Lecce Holdings S.A._Y-6_2022-12-31_English_220377622_2,passed,,Lecce Holdings S.A.,2022,both,2989,1250
+"Legacy Financial, Inc._Y-6_2022-12-31_English_227576755_1",passed,,"Legacy Financial, Inc.",2022,both,7543,1764
+"Legacy Financial, Inc._Y-6_2022-12-31_English_227576755_2",passed,,"Legacy Financial, Inc.",2022,both,7669,1659
+"Legend Bancorp, Inc._Y-6_2022-12-31_English_217181120",passed,,"Legend Bancorp, Inc.",2022,both,48635,2082
+"Legend Bancorp, Inc._Y-6_2022-12-31_English_217181120_2",passed,,"Legend Bancorp, Inc.",2022,both,48573,2046
+"Liberty Capital Bancshares, Inc._Y-6_2022-12-31_English_217188656",passed,,"Liberty Capital Bancshares, Inc.",2022,both,8571,3141
+"Liberty Capital Bancshares, Inc._Y-6_2022-12-31_English_217188656_2",passed,,"Liberty Capital Bancshares, Inc.",2022,both,8721,3070
+"Liberty Capital, Inc._Y-6_2022-12-31_English_218134182",passed,,"Liberty Capital, Inc.",2022,both,14462,1430
+"Liberty Capital, Inc._Y-6_2022-12-31_English_218134182_2",passed,,"Liberty Capital, Inc.",2022,both,14462,1412
+"Liberty Federal Bancorp, MHC_Y-6_2022-12-31_English_218134748",passed,,"Liberty Federal Bancorp, MHC",2022,insiders,4001,1086
+"Liberty Federal Bancorp, MHC_Y-6_2022-12-31_English_218134748_2",passed,,"Liberty Federal Bancorp, MHC",2022,insiders,4001,1128
+Lincoln Investment Company_Y-6_2022-02-28_English_207823743,passed,,Lincoln Investment Co.,2022,both,3826,634
+Lincoln Investment Company_Y-6_2022-02-28_English_207823743_2,passed,,Lincoln Investment Co.,2022,both,3826,644
+"Lindoe, Inc._Y-6_2022-12-31_English_226933673",passed,,"LINDOE, INC.",2022,both,6592,1808
+"Lindoe, Inc._Y-6_2022-12-31_English_226933673_2",passed,,"Lindoe, Inc.",2022,both,6516,1808
+Live Oak Bancshares Corporation_Y-6_2022-12-31_English_217180407,passed,,Live Oak Bancshares Corporation,2022,both,27612,4224
+Live Oak Bancshares Corporation_Y-6_2022-12-31_English_217180407_2,passed,,Live Oak Bancshares Corporation,2022,both,27921,4211
+LoLyn Financial Corporation_Y-6_2022-12-31_English_227274725_1,passed,,Lolyn Financial Corporation,2022,none,2200,62
+LoLyn Financial Corporation_Y-6_2022-12-31_English_227274725_2,passed,,Lolyn Financial Corporation,2022,none,2200,62
+"Lockhart Bankshares, Inc._Y-6_2022-12-31_English_217188367",passed,,"Lockhart Bankshares, Inc.",2022,both,35314,2024
+"Lockhart Bankshares, Inc._Y-6_2022-12-31_English_217188367_2",passed,,"Lockhart Bankshares, Inc.",2022,both,35262,2025
+"Lone Star National Bancshares--Texas, Inc._Y-6_2022-12-31_English_217188415",passed,,"Lone Star National Bancshares - Texas, Inc.",2022,both,58514,3331
+"Lone Star National Bancshares--Texas, Inc._Y-6_2022-12-31_English_217188415_2",passed,,"Lone Star National Bancshares - Texas, Inc.",2022,both,59597,3475
+Loomis Company_Y-6_2022-12-31_English_228217596_1,passed,,Loomis Company,2022,insiders,18257,1267
+Loomis Company_Y-6_2022-12-31_English_228217596_2,passed,,Loomis Company,2022,insiders,18121,1221
+Lordsburg Financial Corporation_Y-6_2022-12-31_English_217181127,passed,,Lordsburg Financial Corporation,2022,both,11123,3106
+Lordsburg Financial Corporation_Y-6_2022-12-31_English_217181127_2,passed,,Western Bank,2022,both,12039,3105
+"Louisiana Bancshares, Inc._Y-6_2022-12-31_English_217181019",passed,,LOUISIANA BANCSHARES INC,2022,both,12923,1806
+"Louisiana Bancshares, Inc._Y-6_2022-12-31_English_217181019_2",passed,,LOUISIANA BANCSHARES INC,2022,both,16936,1807
+"Macy's, Inc._Y-6_2022-01-29_English_218134388",passed,,"Macy's, Inc.",2022,both,51311,2360
+"Macy's, Inc._Y-6_2022-01-29_English_218134388_2",passed,,"Macy's, Inc.",2022,both,49265,2807
+"Magnolia Bancorp, Inc._Y-6_2022-12-31_English_218134173",passed,,"Magnolia Bancorp, Inc.",2022,both,3324,1827
+"Magnolia Bancorp, Inc._Y-6_2022-12-31_English_218134173_2",passed,,"Magnolia Bancorp, Inc.",2022,both,3363,1800
+"Magyar Bancorp, Inc._Y-6_2022-09-30_English_220355936",passed,,"Magyar Bancorp, Inc.",2022,both,5478,1640
+"Magyar Bancorp, Inc._Y-6_2022-09-30_English_220355936_2",passed,,"Magyar Bancorp, Inc.",2022,both,5474,1640
+Maham Beteiligungsgesellschaft AG_Y-6_2022-12-31_English_220355886,passed,,Maham Beteiligungsgesellschaft AG,2022,both,8710,901
+Maham Beteiligungsgesellschaft AG_Y-6_2022-12-31_English_220355886_2,passed,,Maham Beteiligungsgesellschaft AG,2022,both,8704,852
+"Main Banc, Inc._Y-6_2022-12-31_English_227438211_1",passed,,"Main Banc, Inc.",2022,both,16800,3151
+"Main Banc, Inc._Y-6_2022-12-31_English_227438211_2",passed,,"Main Banc, Inc.",2022,both,16806,3155
+Main Street Financial Services Corp._Y-6_2022-12-31_English_218134186,passed,,"Wayne Savings Bancshares, Inc.",2022,both,5254,1320
+Main Street Financial Services Corp._Y-6_2022-12-31_English_218134186_2,passed,,"Wayne Savings Bancshares, Inc.",2022,both,5254,1317
+Main Street Financial Services Corp._Y-6_2022-12-31_English_218134651,passed,,MAIN STREET FINANCIAL SERVICES CORP,2022,none,2218,63
+Main Street Financial Services Corp._Y-6_2022-12-31_English_218134651_2,passed,,MAIN STREET FINANCIAL SERVICES CORP,2022,insiders,2218,184
+"Maple Banc Shares, Inc._Y-6_2022-12-31_English_210759194",passed,,"Maple Banc Shares, Inc.",2022,none,2401,64
+"Maple Banc Shares, Inc._Y-6_2022-12-31_English_210759194_2",passed,,"Maple Banc Shares, Inc.",2022,none,2397,64
+Marathon MHC_Y-6_2022-06-30_English_214611243,passed,,Marathon MHC,2022,both,5851,1496
+Marathon MHC_Y-6_2022-06-30_English_214611243_2,passed,,Marathon MHC,2022,both,15150,1492
+Marblehead Bancorp_Y-6_2022-12-31_English_218155316,passed,,Marblehead Bancorp,2022,both,4271,3647
+Marblehead Bancorp_Y-6_2022-12-31_English_218155316_2,passed,,Marblehead Bancorp,2022,both,4212,3637
+"Marion Bancshares, Inc._Y-6_2022-12-31_English_217188667",passed,,"Marion Bancshares, Inc.",2022,both,6013,3907
+"Marion Bancshares, Inc._Y-6_2022-12-31_English_217188667_2",passed,,"Marion Bancshares, Inc.",2022,both,6013,3941
+"Marshall Community Bancshares, Inc._Y-6_2022-12-31_English_227284957_1",passed,,"MARSHALL COMMUNITY BANCSHARES, INC.",2022,none,4011,68
+"Marshall Community Bancshares, Inc._Y-6_2022-12-31_English_227284957_2",passed,,"MARSHALL COMMUNITY BANCSHARES, INC.",2022,insiders,4016,311
+"Maypearl Bancshares, Inc._Y-6_2022-12-31_English_217188482",passed,,"Maypearl Bancshares, Inc.",2022,none,2811,65
+"Maypearl Bancshares, Inc._Y-6_2022-12-31_English_217188482_2",passed,,"Maypearl Bancshares, Inc.",2022,none,3230,58
+McCreary Bancshares Inc._Y-6_2022-12-31_English_218086742,passed,,"McCreary Bancshares, Inc.",2022,both,5257,1886
+McCreary Bancshares Inc._Y-6_2022-12-31_English_218086742_2,passed,,"McCreary Bancshares, Inc.",2022,both,5257,1886
+Mechanics Financial Corporation_Y-6_2022-12-31_English_218134170,passed,,Mechanics Financial Corporation,2022,both,4711,2019
+Mechanics Financial Corporation_Y-6_2022-12-31_English_218134170_2,passed,,Mechanics Financial Corporation,2022,both,4711,2038
+"Menard Bancshares, Inc._Y-6_2022-12-31_English_217188408",passed,,"MENARD BANCSHARES, INC.",2022,both,5562,4361
+"Menard Bancshares, Inc._Y-6_2022-12-31_English_217188408_2",passed,,"MENARD BANCSHARES, INC.",2022,both,5583,4484
+"Merchants Bancorp, Inc._Y-6_2022-12-31_English_218134177",passed,,Merchants Bancorp Inc,2022,insiders,4968,1744
+"Merchants Bancorp, Inc._Y-6_2022-12-31_English_218134177_2",passed,,Merchants Bancorp Inc,2022,insiders,4968,1729
+Metropolitan Bank Holding Corp._Y-6_2022-12-31_English_220355889,passed,,Metropolitan Bank Holding Corp.,2022,both,5844,2758
+Metropolitan Bank Holding Corp._Y-6_2022-12-31_English_220355889_2,passed,,Metropolitan Bank Holding Corp.,2022,both,5912,2759
+"Mid-America Bankshares, Inc._Y-6_2022-12-31_English_227287336_1",passed,,"MID-AMERICA BANKSHARES, INC.",2022,none,2734,67
+"Mid-America Bankshares, Inc._Y-6_2022-12-31_English_227287336_2",passed,,"MID-AMERICA BANKSHARES, INC.",2022,insiders,2734,191
+Midland Capital Holdings Corp._Y-6_2022-06-30_English_219556373,passed,,MIDLAND CAPITAL HOLDINGS CORPORATION,2022,both,4218,836
+Midland Capital Holdings Corp._Y-6_2022-06-30_English_219556373_2,passed,,MIDLAND CAPITAL HOLDINGS CORPORATION,2022,both,4217,824
+Midland Financial Corporation_Y-6_2022-12-31_English_228478329,passed,,Midland Financial Corporation,2022,both,36719,3489
+Midland Financial Corporation_Y-6_2022-12-31_English_228478329_2,passed,,Midland Financial Corporation,2022,both,34308,3426
+"Millbrook Bank System, Inc._Y-6_2022-12-31_English_220355643",passed,,"Millbrook Bank System, Inc.",2022,both,24073,2589
+"Millbrook Bank System, Inc._Y-6_2022-12-31_English_220355643_2",passed,,"Millbrook Bank System, Inc.",2022,both,24205,2528
+"Minnehaha Banshares, Inc._Y-6_2022-12-31_English_210759320",failed,Invalid \escape: line 240 column 60 (char 5524),,,,,
+"Minnehaha Banshares, Inc._Y-6_2022-12-31_English_210759320_2",failed,Invalid \escape: line 240 column 92 (char 5525),,,,,
+"Minnesota Community Bancshares, Inc._Y-6_2022-12-31_English_211485496",passed,,"Minnesota Community Bancshares, Inc.",2022,both,3248,1530
+"Minnesota Community Bancshares, Inc._Y-6_2022-12-31_English_211485496_2",passed,,"Minnesota Community Bancshares, Inc.",2022,both,3248,1524
+Minnwest Corporation_Y-6_2022-12-31_English_211485256,passed,,Minnwest Corporation,2022,both,5768,4283
+Minnwest Corporation_Y-6_2022-12-31_English_211485256_2,passed,,Minnwest Corporation,2022,both,5768,3838
+Minster Financial Corp._Y-6_2022-12-31_English_218134454,passed,,Minster Financial Corp,2022,insiders,3827,2092
+Minster Financial Corp._Y-6_2022-12-31_English_218134454_2,passed,,Minster Financial Corp,2022,insiders,3827,2101
+"Missouri Bancorp, Inc._Y-6_2022-12-31_English_227380110",passed,,"MISSOURI BANCORP, INC",2022,insiders,3977,737
+"Missouri Bancorp, Inc._Y-6_2022-12-31_English_227380110_2",passed,,"MISSOURI BANCORP, INC",2022,insiders,3978,716
+Modern Bank Management LLC_Y-6_2022-12-31_English_220356019,passed,,Modern Bank Management LLC,2022,both,10847,2294
+Modern Bank Management LLC_Y-6_2022-12-31_English_220356019_2,passed,,Modern Bank Management LLC,2022,both,10832,2210
+"Mohler Bancshares, Inc._Y-6_2022-12-31_English_227276145_1",passed,,"Mohler Bancshares, Inc",2022,both,3682,1165
+"Mohler Bancshares, Inc._Y-6_2022-12-31_English_227276145_2",passed,,"Mohler Bancshares, Inc",2022,both,3682,1161
+"Murphy-Payne Investments, Ltd._Y-6_2022-12-31_English_217188523",passed,,"Muphy-Payne Investments, Ltd.",2022,none,2991,66
+"Murphy-Payne Investments, Ltd._Y-6_2022-12-31_English_217188523_2",passed,,"Muphy-Payne Investments, Ltd.",2022,none,3029,66
+Mutual Holding Company of Western Pennsylvania_Y-6_2022-03-31_English_218134196,passed,,Mutual Holding Company of Western Pennsylvania,2022,insiders,4057,1496
+Mutual Holding Company of Western Pennsylvania_Y-6_2022-03-31_English_218134196_2,passed,,Mutual Holding Company of Western Pennsylvania,2022,insiders,4057,1496
+"Myers BancShares, Inc._Y-6_2022-12-31_English_227275912_1",passed,,"Myers BancShares, Inc.",2022,both,7627,1424
+"Myers BancShares, Inc._Y-6_2022-12-31_English_227275912_2",passed,,"Myers BancShares, Inc.",2022,both,7657,1411
+NATBC Holding Corporation_Y-6_2022-12-31_English_220355627,passed,,NATBC HOLDING CORPORATION,2022,insiders,2571,753
+NATBC Holding Corporation_Y-6_2022-12-31_English_220355627_2,passed,,NATBC HOLDING CORPORATION,2022,insiders,2571,753
+NBC Corp. of Oklahoma_Y-6_2022-12-31_English_228384087_1,passed,,NBC Corp. of Oklahoma,2022,insiders,6986,1499
+NBC Corp. of Oklahoma_Y-6_2022-12-31_English_228384087_2,passed,,NBC Corp. of Oklahoma,2022,insiders,7074,1512
+NSB Mutual Holding Company_Y-6_2022-12-31_English_220356112,passed,,NSB Mutual Holding Company,2022,none,41541,63
+NSB Mutual Holding Company_Y-6_2022-12-31_English_220356112_2,passed,,NSB Mutual Holding Company,2022,none,41439,63
+"NVE Bancorp, MHC_Y-6_2022-12-31_English_220355621",passed,,"NVE Bancorp, MHC",2022,insiders,5857,1103
+"NVE Bancorp, MHC_Y-6_2022-12-31_English_220355621_2",passed,,"NVE Bancorp, MHC",2022,insiders,5796,1115
+"Nacogdoches Commercial Bancshares, Inc._Y-6_2022-12-31_English_217180485",passed,,"Nacogdoches Commercial Bancshares, Inc.",2022,both,14384,7102
+"Nacogdoches Commercial Bancshares, Inc._Y-6_2022-12-31_English_217180485_2",passed,,"Nacogdoches Commercial Bancshares, Inc.",2022,both,13989,7055
+"Namyaw Corporation, Inc._Y-6_2022-12-31_English_226933720",passed,,"NAMYAW Corporation, Inc.",2022,none,2361,64
+"Namyaw Corporation, Inc._Y-6_2022-12-31_English_226933720_2",passed,,"NAMYAW Corporation, Inc.",2022,insiders,2361,186
+National Bank Holdings Corporation_Y-6_2022-12-31_English_227460568_1,passed,,National Bank Holdings Corporation,2022,both,12034,2920
+National Bank Holdings Corporation_Y-6_2022-12-31_English_227460568_2,passed,,National Bank Holdings Corporation,2022,both,12028,2842
+"NebraskaLand Financial Services, Inc._Y-6_2022-12-31_English_227379480_1",passed,,"Nebraska Land Financial Services, Inc.",2022,insiders,4038,1195
+"NebraskaLand Financial Services, Inc._Y-6_2022-12-31_English_227379480_2",passed,,"Nebraska Land Financial Services, Inc.",2022,insiders,4037,1195
+"New Mexico First Financial, Inc._Y-6_2022-03-31_English_199882174",passed,,"New Mexico First Financial, Inc",2021,securities,15666,152
+"New Mexico First Financial, Inc._Y-6_2022-03-31_English_199882174_2",passed,,"New Mexico First Financial, Inc",2021,securities,15666,156
+"New Millennium Bankshares, Inc._Y-6_2022-12-31_English_227284478_1",passed,,"New Millennium Bankshares, Inc.",2022,both,4605,3014
+"New Millennium Bankshares, Inc._Y-6_2022-12-31_English_227284478_2",passed,,"New Millennium Bankshares, Inc.",2022,both,4605,3174
+"New Richland Bancshares, Inc._Y-6_2022-12-31_English_211055140",passed,,"New Richland Bancshares, Inc.",2022,none,2941,65
+"New Richland Bancshares, Inc._Y-6_2022-12-31_English_211055140_2",passed,,"New Richland Bancshares, Inc.",2022,none,2941,65
+New York Private Bank  Trust Corporation_Y-6_2022-12-31_English_220355930,passed,,New York Private Bank & Trust Corporation,2022,insiders,10008,5030
+New York Private Bank  Trust Corporation_Y-6_2022-12-31_English_220355930_2,passed,,New York Private Bank & Trust Corporation,2022,insiders,10010,4804
+"NewFirst Financial Group, Inc._Y-6_2022-12-31_English_217188589",passed,,NewFirst Financial Group Inc.,2022,both,5668,3462
+"NewFirst Financial Group, Inc._Y-6_2022-12-31_English_217188589_2",passed,,NewFirst Financial Group Inc.,2022,both,5364,2560
+NexTier Incorporated_Y-6_2022-12-31_English_218087429,passed,,"NexTier, Inc.",2022,both,10248,2567
+NexTier Incorporated_Y-6_2022-12-31_English_218087429_2,passed,,"NexTier, Inc.",2022,both,10231,2554
+Nmb Financial Corp_Y-6_2022-12-31_English_220356109,passed,,NMB Financial Corporation,2022,both,36543,1518
+Nmb Financial Corp_Y-6_2022-12-31_English_220356109_2,passed,,NMB Financial Corporation,2022,both,35543,1526
+"Noble Bancshares, Inc._Y-6_2022-12-31_English_226933583",passed,,"Noble Bancshares, Inc.",2022,both,15522,562
+"Noble Bancshares, Inc._Y-6_2022-12-31_English_226933583_2",passed,,"Noble Bancshares, Inc.",2022,both,3018,559
+"North Central Bancorp, Inc._Y-6_2022-12-31_English_227374752_1",passed,,"North Central BanCorp, Inc",2022,both,5342,2049
+"North Central Bancorp, Inc._Y-6_2022-12-31_English_227374752_2",passed,,"North Central BanCorp, Inc",2022,both,5536,2081
+"North Valley Bancshares, Inc._Y-6_2022-12-31_English_218134678",passed,,"North Valley Bancshares, Inc.",2022,insiders,7515,2092
+"North Valley Bancshares, Inc._Y-6_2022-12-31_English_218134678_2",passed,,"North Valley Bancshares, Inc.",2022,insiders,7516,2100
+"Northeast Kansas Bancshares, Inc._Y-6_2022-12-31_English_227286625_1",passed,,Northeast Kansas Bancshares,2022,both,7820,5479
+"Northeast Kansas Bancshares, Inc._Y-6_2022-12-31_English_227286625_2",passed,,Northeast Kansas Bancshares,2022,both,7651,4068
+"Northwest Bancshares, Inc._Y-6_2022-12-31_English_218134235",passed,,NORTHWEST BANCSHARES INC.,2022,both,17966,4745
+"Northwest Bancshares, Inc._Y-6_2022-12-31_English_218134235_2",passed,,NORTHWEST BANCSHARES INC.,2022,both,8909,4733
+"Northwest Sooner Bancshares, Inc._Y-6_2022-12-31_English_227277569",passed,,"Northwest Sooner Bancshares, Inc.",2022,both,6384,1659
+"Northwest Sooner Bancshares, Inc._Y-6_2022-12-31_English_227277569_2",passed,,"Northwest Sooner Bancshares, Inc.",2022,both,6392,1660
+"ONB Bancshares, Inc._Y-6_2022-12-31_English_217188616",passed,,"ONB Bancshares, Inc.",2022,both,8023,4327
+"ONB Bancshares, Inc._Y-6_2022-12-31_English_217188616_2",passed,,"ONB Bancshares, Inc.",2022,both,7881,4348
+"Oak Ridge Bancshares, Inc._Y-6_2022-12-31_English_217180957",passed,,"Oak Ridge Bancshares, Inc.",2022,both,5497,6138
+"Oak Ridge Bancshares, Inc._Y-6_2022-12-31_English_217180957_2",passed,,"Oak Ridge Bancshares, Inc.",2022,both,5497,6624
+"Oakland Financial Services, Inc._Y-6_2022-12-31_English_228356723",passed,,"Oakland Financial Services, Inc.",2022,securities,3913,466
+"Oakland Financial Services, Inc._Y-6_2022-12-31_English_228356723_2",passed,,"Oakland Financial Services, Inc.",2022,securities,3913,465
+"Odem Bancshares, Inc._Y-6_2022-12-31_English_217188393",passed,,"Odem Bancshares, Inc.",2022,both,5816,1398
+"Odem Bancshares, Inc._Y-6_2022-12-31_English_217188393_2",passed,,"Odem Bancshares, Inc.",2022,both,6080,1354
+"Odin Bancshares, Inc._Y-6_2022-12-31_English_210759618",passed,,"Odin Bancshares, Inc.",2022,both,3515,1220
+"Odin Bancshares, Inc._Y-6_2022-12-31_English_210759618_2",failed,Invalid \escape: line 78 column 53 (char 1521),,,,,
+Ohio Valley Banc Corp._Y-6_2022-12-31_English_218087386,passed,,Ohio Valley Banc Corp.,2022,both,6143,2607
+Ohio Valley Banc Corp._Y-6_2022-12-31_English_218087386_2,passed,,Ohio Valley Banc Corp.,2022,both,6143,2682
+"Oklahoma BanCorporation, Inc._Y-6_2022-12-31_English_228381835",passed,,"N.B.C. Bancshares in Pawhuska, Inc",2022,both,10482,3515
+"Oklahoma BanCorporation, Inc._Y-6_2022-12-31_English_228381835_2",passed,,"N.B.C. Bancshares in Pawhuska, Inc",2022,both,10478,2473
+Old Fort Banking Company Employee Stock Ownership and 401-K Plan_Y-6_2022-12-31_English_218134353,passed,,Old Fort Banking Company ESOP & 401-K Plan,2022,insiders,2656,193
+Old Fort Banking Company Employee Stock Ownership and 401-K Plan_Y-6_2022-12-31_English_218134353_2,passed,,Old Fort Banking Company ESOP & 401-K Plan,2022,none,2608,72
+"Olmsted Bancorporation, Inc._Y-6_2022-12-31_English_211485195",passed,,"Olmsted Bancorporation, Inc.",2022,both,3569,617
+"Olmsted Bancorporation, Inc._Y-6_2022-12-31_English_211485195_2",passed,,"Olmsted Bancorporation, Inc.",2022,both,3569,637
+Olmsted Holding Corporation_Y-6_2022-12-31_English_210759633,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+Olmsted Holding Corporation_Y-6_2022-12-31_English_210759633_2,passed,,Olmsted Holding Corporation,2022,insiders,3705,646
+"Olney Bancshares of Texas, Inc._Y-6_2022-12-31_English_227285760_1",passed,,"Olney Bancshares of Texas, Inc.",2022,both,39840,2012
+"Olney Bancshares of Texas, Inc._Y-6_2022-12-31_English_227285760_2",passed,,"Olney Bancshares of Texas, Inc.",2022,both,40175,2485
+"Orange County Bancorp, Inc._Y-6_2022-12-31_English_220355990",passed,,Orange County Bancorp. Inc.,2022,both,101458,3150
+"Orange County Bancorp, Inc._Y-6_2022-12-31_English_220355990_2",passed,,"Orange County Bancorp, Inc.",2022,both,101950,3167
+Orchard Bancorp._Y-6_2022-12-31_English_227263234_1,passed,,ORCHARD BANCORP,2022,both,7167,954
+Orchard Bancorp._Y-6_2022-12-31_English_227263234_2,passed,,ORCHARD BANCORP,2022,both,7214,938
+"Origin Bancorp, Inc._Y-6_2022-12-31_English_217188356",passed,,"Origin Bancorp, Inc",2022,both,11084,4121
+"Origin Bancorp, Inc._Y-6_2022-12-31_English_217188356_2",passed,,"Origin Bancorp, Inc.",2022,both,10868,4082
+"Overbrook Bankshares, Inc._Y-6_2022-12-31_English_228268328",passed,,"Overbrook Bankshares, Inc.",2022,both,4830,1784
+"Overbrook Bankshares, Inc._Y-6_2022-12-31_English_228268328_2",passed,,"Overbrook Bankshares, Inc.",2022,both,4830,1767
+"PBS Bancshares, Inc._Y-6_2022-12-31_English_227464158_1",passed,,"PBS BANCSHARES, INC.",2022,both,3325,1205
+"PBS Bancshares, Inc._Y-6_2022-12-31_English_227464158_2",passed,,"PBS Bancshares, Inc.",2022,both,3230,1194
+PCSB Financial Corporation_Y-6_2022-06-30_English_220377895,failed,Invalid \escape: line 51 column 44 (char 1139),,,,,
+PCSB Financial Corporation_Y-6_2022-06-30_English_220377895_2,passed,,PCSB Financial Corporation,2022,both,5706,2902
+"PF Investors, Inc._Y-6_2022-12-31_English_211485434",passed,,"PF Investors, Inc.",2022,both,5555,2896
+"PF Investors, Inc._Y-6_2022-12-31_English_211485434_2",passed,,"PF Investors, Inc.",2022,both,5455,2924
+"PSB Holdings, Inc._Y-6_2022-12-31_English_218134657",passed,,"PSB Holdings, Inc.",2022,securities,2421,146
+"PSB Holdings, Inc._Y-6_2022-12-31_English_218134657_2",passed,,"PSB Holdings, Inc.",2022,securities,2412,146
+"Page Bancshares, Inc._Y-6_2022-12-31_English_227441311_1",passed,,"Page Bancshares, Inc.",2022,both,4987,5613
+"Page Bancshares, Inc._Y-6_2022-12-31_English_227441311_2",passed,,"Page Bancshares, Inc.",2022,both,4987,5724
+"Paint Rock Bancshares, Inc._Y-6_2022-12-31_English_217188691",passed,,"PAINT ROCK BANCSHARES, INC.",2022,both,33124,3704
+"Paint Rock Bancshares, Inc._Y-6_2022-12-31_English_217188691_2",passed,,"PAINT ROCK BANCSHARES, INC.",2022,both,33127,3631
+"Palmer Bancshares, Inc._Y-6_2022-12-31_English_217188399",passed,,"Palmer Bancshare, Inc.",2022,both,5193,1592
+"Palmer Bancshares, Inc._Y-6_2022-12-31_English_217188399_2",passed,,"Palmer Bancshare, Inc.",2022,both,5148,1313
+"Pathfinder Bancorp, Inc._Y-6_2022-12-31_English_220355633",passed,,Pathfinder Bancorp Inc,2022,both,9650,2849
+"Pathfinder Bancorp, Inc._Y-6_2022-12-31_English_220355633_2",passed,,Pathfinder Bancorp Inc,2022,both,9637,2839
+Pathway Bancorp_Y-6_2022-12-31_English_227451679_1,passed,,Pathway Bancorp,2022,both,4036,804
+Pathway Bancorp_Y-6_2022-12-31_English_227451679_2,passed,,Pethway Bancorp,2022,both,4017,779
+"Patriot National Bancorp, Inc._Y-6_2022-12-31_English_220355891",passed,,"Patriot National Bancorp, INC.",2022,both,6123,2061
+"Patriot National Bancorp, Inc._Y-6_2022-12-31_English_220355891_2",passed,,"Patriot National Bancorp, INC.",2022,both,6228,2106
+Peapack-Gladstone Financial Corporation_Y-6_2022-12-31_English_220355764,passed,,Peapack-Gladstone Financial Corporation,2022,both,30060,3292
+Peapack-Gladstone Financial Corporation_Y-6_2022-12-31_English_220355764_2,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+Peoples Bancorp Inc._Y-6_2022-12-31_English_218086442,passed,,"Peoples Bancorp, Inc.",2022,both,21093,5797
+Peoples Bancorp Inc._Y-6_2022-12-31_English_218086442_2,passed,,"Peoples Bancorp, Inc.",2022,both,21211,5797
+Peoples Equity Corporation_Y-6_2022-12-31_English_211484987,passed,,Peoples Equity Corporation,2022,both,18948,1626
+Peoples Equity Corporation_Y-6_2022-12-31_English_211484987_2,passed,,Peoples Equity Corporation,2022,both,18948,1626
+"Peoples Holding Company, Inc._Y-6_2022-12-31_English_218134413",passed,,"Peoples Holding Company, Inc",2022,insiders,2482,187
+"Peoples Holding Company, Inc._Y-6_2022-12-31_English_218134413_2",passed,,"Peoples Holding Company, Inc",2022,none,2482,64
+"Peoples National Bancshares of Checotah, Inc._Y-6_2022-12-31_English_228391476_1",passed,,"Peoples National Bancshares of Checotah, Inc.",2022,insiders,15182,408
+"Peoples National Bancshares of Checotah, Inc._Y-6_2022-12-31_English_228391476_2",passed,,"Peoples National Bancshares of Checotah, Inc.",2022,insiders,2854,172
+"Peoples National Bancshares, Inc._Y-6_2022-12-31_English_218134176",passed,,"Peoples National BancShares, Inc.",2022,both,4052,2178
+"Peoples National Bancshares, Inc._Y-6_2022-12-31_English_218134176_2",passed,,"Peoples National BancShares, Inc.",2022,both,4059,2199
+"Peoples of Fleming County Bancorp, Inc._Y-6_2022-12-31_English_218159644",passed,,"PEOPLES BANK OF KENTUCKY, INC.",2022,none,3330,67
+"Peoples of Fleming County Bancorp, Inc._Y-6_2022-12-31_English_218159644_2",passed,,"PEOPLES BANK OF KENTUCKY, INC.",2022,none,3330,67
+Peoples-Sidney Financial Corporation_Y-6_2022-06-30_English_218086542,passed,,Peoples-Sidney Financial Corporation,2022,both,4186,1123
+Peoples-Sidney Financial Corporation_Y-6_2022-06-30_English_218086542_2,passed,,Peoples-Sidney Financial Corporation,2022,both,4186,1123
+"Phillips Holdings, Inc._Y-6_2022-12-31_English_227275598_1",passed,,"Phillips Holdings, Inc.",2022,none,2855,62
+"Phillips Holdings, Inc._Y-6_2022-12-31_English_227275598_2",passed,,"Phillips Holdings, Inc.",2022,insiders,2855,187
+"Pinnacle Bancorp, Inc._Y-6_2022-12-31_English_226933628",passed,,"Pinnacle Bancorp, Inc.",2022,both,33813,5724
+"Pinnacle Bancorp, Inc._Y-6_2022-12-31_English_226933628_2",passed,,"Pinnacle Bancorp, Inc.",2022,both,23588,5941
+"Plains Bancshares, Inc._Y-6_2022-12-31_English_227551079_1",passed,,"Plains Bancshares, Inc.",2022,both,21400,2260
+"Plains Bancshares, Inc._Y-6_2022-12-31_English_227551079_2",passed,,"Plains Bancshares, Inc.",2022,both,21409,2260
+"Plainview Bankshares, Inc._Y-6_2022-12-31_English_210759455",passed,,"Plainview Bankshares, Inc.",2022,securities,8064,1486
+"Plainview Bankshares, Inc._Y-6_2022-12-31_English_210759455_2",passed,,"Plainview Bankshares, Inc.",2022,securities,8060,1406
+"Platte Valley Bancorp, Inc._Y-6_2022-12-31_English_227463925_1",passed,,"Platte Valley Bancorp, Inc.",2022,both,4370,1656
+"Platte Valley Bancorp, Inc._Y-6_2022-12-31_English_227463925_2",passed,,"Platte Valley Bancorp, Inc.",2022,both,4317,1583
+Platte Valley Cattle Company_Y-6_2022-12-31_English_227968603_1,failed,Invalid \escape: line 14 column 86 (char 498),,,,,
+Platte Valley Cattle Company_Y-6_2022-12-31_English_227968603_2,failed,Invalid \escape: line 14 column 86 (char 497),,,,,
+Prague Company_Y-6_2022-12-31_English_226481957,passed,,Prague Company,2022,insiders,3229,630
+Prague Company_Y-6_2022-12-31_English_226481957_2,passed,,Prague Company,2022,insiders,3227,630
+"Premier Bancshares, Inc._Y-6_2022-12-30_English_227551574_1",passed,,"Premier Bancshares, Inc.",2022,none,2763,64
+"Premier Bancshares, Inc._Y-6_2022-12-30_English_227551574_2",passed,,"Premier Bancshares, Inc.",2022,none,3218,64
+Premier Financial Corp._Y-6_2022-12-31_English_218086503,passed,,Premier Financial Corp.,2022,insiders,9826,2550
+Premier Financial Corp._Y-6_2022-12-31_English_218086503_2,passed,,Premier Financial Corp.,2022,insiders,9840,2415
+"Prism Group, Inc._Y-6_2022-12-31_English_227267576_1",passed,,PRISM GROUP INC,2022,securities,3582,875
+"Prism Group, Inc._Y-6_2022-12-31_English_227267576_2",passed,,PRISM GROUP INC,2022,securities,3583,736
+"Provident Financial Services, Inc._Y-6_2022-12-31_English_220355926",passed,,"Provident Financial Services, Inc.",2022,both,173765,3684
+"Provident Financial Services, Inc._Y-6_2022-12-31_English_220355926_2",passed,,"Provident Financial Services, Inc.",2022,both,173597,3624
+Pueblo Bancorporation_Y-6_2022-12-31_English_226933602,passed,,Pueblo Bancorporation,2022,both,7413,6367
+Pueblo Bancorporation_Y-6_2022-12-31_English_226933602_2,passed,,Pueblo Bancorporation,2022,both,7282,6563
+"Putnam County Bancshares, Inc._Y-6_2022-12-31_English_228378131",passed,,"PUTNAM COUNTY BANCSHARES, INC.",2022,both,5290,2379
+"Putnam County Bancshares, Inc._Y-6_2022-12-31_English_228378131_2",passed,,"PUTNAM COUNTY BANCSHARES, INC.",2022,both,5290,2378
+"Quail Creek Bancshares, Inc._Y-6_2022-12-31_English_228218318_1",passed,,"Quail Creek Bancshares, Inc.",2022,both,12054,3987
+"Quail Creek Bancshares, Inc._Y-6_2022-12-31_English_228218318_2",passed,,"Quail Creek Bancshares, Inc.",2022,both,12196,3127
+"RMB Bancshares, Inc._Y-6_2022-12-31_English_227263798_1",passed,,"RMB Bancshares, Inc.",2022,both,9764,4241
+"RMB Bancshares, Inc._Y-6_2022-12-31_English_227263798_2",passed,,"RMB Bancshares, Inc.",2022,both,9724,4184
+RSNB Bancorp_Y-6_2022-12-31_English_227283953_1,passed,,RSNB BANCORP,2022,both,31601,3432
+RSNB Bancorp_Y-6_2022-12-31_English_227283953_2,passed,,RSNB Bancorp,2022,both,40258,3412
+"Rae Valley Financials, Inc._Y-6_2022-12-31_English_227381219_1",passed,,"Rae Valley Financials, Inc.",2022,both,4922,2353
+"Rae Valley Financials, Inc._Y-6_2022-12-31_English_227381219_2",passed,,"Rae Valley Financials, Inc.",2022,both,4922,2254
+Red Oak Financial Corporation_Y-6_2022-12-31_English_227547867_1,passed,,Red Oak Financial Corporation,2022,insiders,17156,1855
+Red Oak Financial Corporation_Y-6_2022-12-31_English_227547867_2,passed,,Red Oak Financial Corporation,2022,insiders,17156,1846
+"Redwood Financial, Inc._Y-6_2022-12-31_English_211485410",passed,,"Redwood Financial, Inc.",2022,both,40047,3427
+Regent Capital Corporation_Y-6_2022-12-30_English_227456964_1,passed,,Regent Capital Corporation,2022,both,8287,4018
+Regent Capital Corporation_Y-6_2022-12-30_English_227456964_2,failed,Invalid \escape: line 33 column 61 (char 749),,,,,
+Reisher Family Foundation_Y-6_2022-12-30_English_227720113,passed,,Reisher Family Foundation,2022,both,28004,4861
+Reisher Family Foundation_Y-6_2022-12-30_English_227720113_2,passed,,Reisher Family Foundation,2022,both,13515,5202
+"Republic Bancorp, Inc._Y-6_2022-12-31_English_227437849_1",passed,,"Republic Bancorp, Inc",2022,insiders,2836,181
+"Republic Bancorp, Inc._Y-6_2022-12-31_English_227437849_2",passed,,"Republic Bancorp, Inc",2022,insiders,2836,181
+"Resource One, Inc._Y-6_2022-12-31_English_227277214_1",passed,,"Resource One, Inc.",2022,both,10008,2178
+"Resource One, Inc._Y-6_2022-12-31_English_227277214_2",passed,,"Resource One, Inc.",2022,both,9952,2180
+"Rhinebeck Bancorp, MHC_Y-6_2022-12-31_English_220355931",passed,,"Rhinebeck Bancorp, MHC",2022,both,7473,3624
+"Rhinebeck Bancorp, MHC_Y-6_2022-12-31_English_220355931_2",passed,,"Rhinebeck Bancorp, MHC",2022,both,7496,3164
+"Riverbank Financial Corporation, MHC_Y-6_2022-12-31_English_220356032",passed,,"Riverbank Financial Corporation, MHC",2022,both,20629,2330
+"Riverbank Financial Corporation, MHC_Y-6_2022-12-31_English_220356032_2",passed,,"Riverbank Financial Corporation, MHC",2022,both,20544,2470
+"Riverview Bancorp, Inc._Y-6_2022-03-31_English_215520838",passed,,"Riverview Bancorp, Inc.",2022,both,5863,1869
+"Riverview Bancorp, Inc._Y-6_2022-03-31_English_215520838_2",passed,,"Riverview Bancorp, Inc.",2022,both,5863,1869
+"Rockcastle Bancorp, Inc._Y-6_2022-12-31_English_218087416",passed,,"Rockcastle Bancorp, Inc.",2022,none,14217,58
+"Rockcastle Bancorp, Inc._Y-6_2022-12-31_English_218087416_2",passed,,"Rockcastle Bancorp, Inc.",2022,none,14220,58
+"Rollstone Bancorp, MHC_Y-6_2022-06-30_English_211015454",passed,,"Rollstone Bancorp, MHC",2022,insiders,5401,2737
+"Rollstone Bancorp, MHC_Y-6_2022-06-30_English_211015454_2",passed,,"Rollstone Bancorp, MHC",2022,insiders,5401,2735
+"Routt County Bancorporation, Inc._Y-6_2022-12-31_English_227378798",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Rushford State Bancorp, Inc._Y-6_2022-12-31_English_211485218",passed,,"Rushford State Bancorp, Inc",2022,both,3777,951
+"Rushford State Bancorp, Inc._Y-6_2022-12-31_English_211485218_2",passed,,"Rushford State Bancorp, Inc",2022,both,3777,967
+"SB Financial Group, Inc._Y-6_2022-12-31_English_218086481",passed,,"SB Financial Group, Inc.",2022,both,4041,2779
+"SB Financial Group, Inc._Y-6_2022-12-31_English_218086481_2",passed,,"SB Financial Group, Inc.",2022,both,4051,2760
+SBWY Financial Corporation_Y-6_2022-12-30_English_227716635,passed,,SBWY Financial Corporation,2022,both,4897,2054
+SBWY Financial Corporation_Y-6_2022-12-30_English_227716635_2,passed,,SBWY Financial Corporation,2022,both,4896,2060
+"SNB Bancorp, Inc._Y-6_2022-12-31_English_218134486",passed,,SNB Bancorp Inc,2022,both,3207,1475
+"SNB Bancorp, Inc._Y-6_2022-12-31_English_218134486_2",passed,,SNB Bancorp Inc,2022,both,3210,1499
+"SSB Bancorp, MHC_Y-6_2022-12-31_English_218134777",passed,,"SSB Bancorp, MHC",2022,insiders,3073,1116
+"SSB Bancorp, MHC_Y-6_2022-12-31_English_218134777_2",passed,,"SSB Bancorp, MHC",2022,insiders,3067,1125
+SSB Community Bancorp MHC_Y-6_2022-06-30_English_211015438,passed,,"SSB Community Bancorp, MHC",2022,insiders,5689,3058
+SSB Community Bancorp MHC_Y-6_2022-06-30_English_211015438_2,passed,,"SSB Community Bancorp, MHC",2022,both,5681,3200
+"SSB Holdings, Inc._Y-6_2022-12-31_English_227448657_1",passed,,"SSB HOLDINGS, INC",2022,both,3706,3406
+"SSB Holdings, Inc._Y-6_2022-12-31_English_227448657_2",passed,,"SSB HOLDINGS, INC",2022,both,3750,3397
+"ST Bancorp, Inc._Y-6_2022-12-31_English_218086414",passed,,S&T Bancorp,2022,both,5365,3695
+"ST Bancorp, Inc._Y-6_2022-12-31_English_218086414_2",passed,,S&T Bancorp,2022,both,5343,3667
+Salish and Kootenai Bancorporation_Y-6_2022-12-31_English_215690373,passed,,Salish & Kootenai Bancorporation,2022,none,2738,66
+Salish and Kootenai Bancorporation_Y-6_2022-12-31_English_215690373_2,passed,,Salish & Kootenai Bancorporation,2022,none,2738,66
+"Sandhills Financial Services, LLC_Y-6_2022-12-31_English_227460723_1",passed,,"SANDHILLS FINANCIAL SERVICES, LLC",2022,securities,4477,794
+"Sandhills Financial Services, LLC_Y-6_2022-12-31_English_227460723_2",passed,,"SANDHILLS FINANCIAL SERVICES, LLC",2022,securities,4477,794
+"Sauk Centre Financial Services, Inc._Y-6_2022-12-31_English_211485264",passed,,"Sauk Centre Financial Services, Inc.",2022,both,4423,1705
+"Sauk Centre Financial Services, Inc._Y-6_2022-12-31_English_211485264_2",passed,,"Sauk Centre Financial Services, Inc.",2022,both,4425,1699
+"Savings Bancorp, Inc._Y-6_2022-12-31_English_218134542",passed,,"Savings Bancorp, Inc.",2022,both,4689,3886
+"Savings Bancorp, Inc._Y-6_2022-12-31_English_218134542_2",passed,,"Savings Bancorp, Inc.",2022,both,4687,3888
+"Security Bancorp of Maysville, Inc._Y-6_2022-12-31_English_218134575",passed,,"Security Bancorp of Maysville, Inc.",2022,insiders,14282,3006
+"Security Bancorp of Maysville, Inc._Y-6_2022-12-31_English_218134575_2",passed,,"Security Bancorp of Maysville, Inc.",2022,insiders,14282,3202
+"Security Bancshares, Inc._Y-6_2022-12-31_English_228360059_1",passed,,"Security Bancshares, Inc.",2022,both,17255,3739
+"Security Bancshares, Inc._Y-6_2022-12-31_English_228360059_2",passed,,"Security Bancshares, Inc.",2022,both,17335,3738
+"Security Financial Services, Inc._Y-6_2022-12-31_English_211485193",passed,,"Security Financial Services, Inc.",2022,both,3578,1879
+"Security Financial Services, Inc._Y-6_2022-12-31_English_211485193_2",passed,,"Security Financial Services, Inc.",2022,both,16012,1909
+Security National Corporation_Y-6_2022-12-31_English_228354757,passed,,SECURITY NATIONAL CORPORATION,2022,insiders,5448,934
+Security National Corporation_Y-6_2022-12-31_English_228354757_2,passed,,SECURITY NATIONAL CORPORATION,2022,insiders,5448,933
+Seed Money Limited Partnership_Y-6_2022-12-31_English_218134425,passed,,Seed Money Limited Partnership,2022,both,7164,3303
+Seed Money Limited Partnership_Y-6_2022-12-31_English_218134425_2,passed,,Seed Money Limited Partnership,2022,both,6526,3379
+Sherwood Banc Corporation_Y-6_2022-12-31_English_218134331,passed,,Sherwood Banc Corporation,2022,insiders,3575,2054
+Sherwood Banc Corporation_Y-6_2022-12-31_English_218134331_2,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Signature Bancorp, Inc._Y-6_2022-12-31_English_218134638",passed,,Signature Bancorp Inc.,2022,insiders,5393,3502
+"Signature Bancorp, Inc._Y-6_2022-12-31_English_218134638_2",passed,,Signature Bancorp Inc.,2022,insiders,5393,3502
+Somerset Trust Holding Company_Y-6_2022-12-31_English_218134456,passed,,Somerset Trust Holding Company,2021,both,15487,4528
+Somerset Trust Holding Company_Y-6_2022-12-31_English_218134456_2,passed,,Somerset Trust Holding Company,2021,both,15487,4530
+Somerville Bancorp_Y-6_2022-12-31_English_218134780,passed,,Somerville Bancorp,2022,insiders,16908,1674
+Somerville Bancorp_Y-6_2022-12-31_English_218134780_2,failed,Invalid \escape: line 58 column 44 (char 1431),,,,,
+"South Dakota Bancshares, Inc._Y-6_2022-12-31_English_211484984",passed,,SOUTH DAKOTA BANCSHARES,2022,insiders,4738,187
+"South Dakota Bancshares, Inc._Y-6_2022-12-31_English_211484984_2",passed,,SOUTH DAKOTA BANCSHARES,2022,insiders,4695,187
+"Southeast Bancshares, Inc._Y-6_2022-12-31_English_227275656_1",passed,,"Southeast Bancshares, Inc.",2022,both,3921,1338
+"Southeast Bancshares, Inc._Y-6_2022-12-31_English_227275656_2",passed,,"Southeast Bancshares, Inc.",2022,both,3919,1359
+"Spearville Bancshares, Inc._Y-6_2022-12-31_English_227438698_1",passed,,"Spearville Bancshares, Inc.",2022,none,3821,65
+"Spearville Bancshares, Inc._Y-6_2022-12-31_English_227438698_2",passed,,"Spearville Bancshares, Inc.",2022,insiders,3821,185
+"State National Bancshares, Inc._Y-6_2022-12-31_English_227274140_1",passed,,"State National Bancshares, Inc.",2022,insiders,2836,184
+"State National Bancshares, Inc._Y-6_2022-12-31_English_227274140_2",passed,,"State National Bancshares, Inc.",2022,insiders,2929,184
+Steinauer Bancorp_Y-6_2022-12-31_English_227375841_1,passed,,Steinauer Bancorp,2022,insiders,15981,173
+Steinauer Bancorp_Y-6_2022-12-31_English_227375841_2,passed,,Steinauer Bancorp,2022,none,2858,53
+Stock Exchange Financial Corporation_Y-6_2022-12-31_English_227273539_1,passed,,STOCK EXCHANGE FINANCIAL CORPORATION,2022,both,5516,1274
+Stock Exchange Financial Corporation_Y-6_2022-12-31_English_227273539_2,passed,,STOCK EXCHANGE FINANCIAL CORPORATION,2022,both,5516,1270
+"Stockton Bancshares, Inc._Y-6_2022-12-31_English_228195390_1",passed,,"STOCKTON BANCSHARES, INC.",2022,both,14332,2176
+"Stockton Bancshares, Inc._Y-6_2022-12-31_English_228195390_2",passed,,"STOCKTON BANCSHARES, INC.",2022,both,14342,2254
+Strasburg Bancorp Inc._Y-6_2022-12-31_English_218134266,passed,,STRASBURG BANCORP INC.,2022,both,13884,2109
+Strasburg Bancorp Inc._Y-6_2022-12-31_English_218134266_2,passed,,STRASBURG BANCORP INC.,2022,both,13959,2116
+"Sturm Financial Group, Inc._Y-6_2022-12-31_English_227377930",passed,,"Sturm Financial Group, Inc",2022,both,48963,4598
+"Sturm Financial Group, Inc._Y-6_2022-12-31_English_227377930_2",passed,,"Sturm Financial Group, Inc",2022,both,48959,5350
+"Summerfield Financial Services, LLC_Y-6_2022-12-31_English_227453208_1",passed,,"Summerfield Financial Services, LLC",2022,both,4919,1158
+"Summerfield Financial Services, LLC_Y-6_2022-12-31_English_227453208_2",passed,,"Summerfield Financial Services, LLC",2022,both,4852,1236
+"Swanton Agency, Inc._Y-6_2022-12-31_English_227969827_1",passed,,"Swanton Agency, Inc.",2022,both,3955,859
+"Swanton Agency, Inc._Y-6_2022-12-31_English_227969827_2",passed,,"Swanton Agency, Inc.",2022,both,3955,859
+"Swedish-American Bancshares, Inc._Y-6_2022-12-31_English_227440385_1",passed,,"Swedish-American Bancshares, Inc.",2022,none,2779,66
+"Swedish-American Bancshares, Inc._Y-6_2022-12-31_English_227440385_2",passed,,"Swedish-American Bancshares, Inc.",2022,none,2779,66
+"TIB, Inc._Y-6_2022-12-31_English_217180845",passed,,Independent Bankers Financial Corporation,2022,insiders,44675,3281
+"TIB, Inc._Y-6_2022-12-31_English_217180845_2",passed,,Independent Bankers Financial Corporation,2022,insiders,44628,3290
+"TSB Services, Inc._Y-6_2022-12-31_English_220356103",passed,,"TSB Services, Inc.",2022,insiders,16815,4094
+"TSB Services, Inc._Y-6_2022-12-31_English_220356103_2",passed,,Toga State Bank,2022,insiders,16795,189
+TTAC Corp._Y-6_2022-12-31_English_227379458_2,passed,,TTAC CORP.,2022,both,8030,2381
+TTAC Corp._Y-6_2022-12-31_English_227379458_4,passed,,TTAC CORP.,2022,both,8018,2281
+"Tampa State Bankshares, Inc._Y-6_2022-12-31_English_227970871",passed,,"Tampa State Bankshares, Inc.",2022,insiders,2554,668
+"Tampa State Bankshares, Inc._Y-6_2022-12-31_English_227970871_2",passed,,"Tampa State Bankshares, Inc.",2022,insiders,2554,668
+"Taunton Bancshares, Inc._Y-6_2022-12-31_English_211485492",passed,,"TAUNTON BANCSHARES, INC.",2022,insiders,3185,633
+"Taunton Bancshares, Inc._Y-6_2022-12-31_English_211485492_2",passed,,"TAUNTON BANCSHARES, INC.",2022,insiders,3185,633
+"Tescott Bancshares, Inc._Y-6_2022-12-31_English_227271499_1",passed,,"TESCOTT BANCSHARES, INC.",2022,both,18575,4332
+"Tescott Bancshares, Inc._Y-6_2022-12-31_English_227271499_2",passed,,"TESCOTT BANCSHARES, INC.",2022,both,18575,4298
+The Adino Company_Y-6_2022-12-31_English_210759437,passed,,The Adino Company,2022,insiders,3108,183
+The Adino Company_Y-6_2022-12-31_English_210759437_2,passed,,The Adino Company,2022,insiders,3108,183
+The Adirondack Trust Company_Y-6_2022-12-31_English_220377437,passed,,The Adirondack Trust Company Employee Stock Ownership Trust,2022,insiders,10059,341
+The Adirondack Trust Company_Y-6_2022-12-31_English_220377437_2,passed,,The Adirondack Trust Company Employee Stock Ownership Trust,2022,securities,10045,131
+"The Banc of San Jacinto County Bancshares, Inc._Y-6_2022-12-31_English_217132056",passed,,"The Banc of San Jacinto County Bancshares, Inc.",2022,none,45186,70
+"The Banc of San Jacinto County Bancshares, Inc._Y-6_2022-12-31_English_217132056_2",passed,,"The Banc of San Jacinto County Bancshares, Inc.",2022,none,45174,70
+The Bank of New York Mellon Corporation_Y-6_2022-12-31_English_220355980,passed,,The Bank of New York Mellon Corporation,2022,both,156342,3721
+The Bank of New York Mellon Corporation_Y-6_2022-12-31_English_220355980_2,passed,,The Bank of New York Mellon Corporation,2022,both,146124,5121
+"The Bessemer Group, Incorporated_Y-6_2022-12-31_English_220355458",passed,,"THE BESSEMER GROUP, INCORPORATED",2022,both,44634,8301
+"The Bessemer Group, Incorporated_Y-6_2022-12-31_English_220355458_2",passed,,"THE BESSEMER GROUP, INCORPORATED",2022,both,44523,8267
+The Community Company_Y-6_2022-12-31_English_217131424,passed,,The Community Company,2022,both,4873,2332
+The Community Company_Y-6_2022-12-31_English_217131424_2,passed,,The Community Company,2022,both,4845,2325
+"The Dunmire Agency, Inc._Y-6_2022-12-31_English_226482069",passed,,The State Bank of Spring Hill,2022,insiders,2883,187
+"The Dunmire Agency, Inc._Y-6_2022-12-31_English_226482069_2",passed,,The Dunmire Agency,2022,insiders,2883,191
+"The Goldman Sachs Group, Inc._Y-6_2022-12-31_English_220355617",passed,,"The Goldman Sachs Group, Inc.",2022,securities,384870,320
+"The Goldman Sachs Group, Inc._Y-6_2022-12-31_English_220355617_2",passed,,"The Goldman Sachs Group, Inc.",2022,securities,384880,320
+The H. Pat Henson Company_Y-6_2022-12-31_English_226933615,passed,,The H Pat Henson Company,2022,both,3395,604
+The H. Pat Henson Company_Y-6_2022-12-31_English_226933615_2,passed,,The H Pat Henson Company,2022,both,3395,598
+"The PNC Financial Services Group, Inc._Y-6_2022-12-31_English_218086325",passed,,"The PNC Financial Services Group, Inc.",2022,both,22171,7806
+The Peoples Bankshares Ltd._Y-6_2022-12-31_English_228486461_1,passed,,The People's Bankshares Ltd.,2022,both,4565,1977
+The Peoples Bankshares Ltd._Y-6_2022-12-31_English_228486461_2,passed,,The People's Bankshares Ltd.,2022,both,4539,1977
+"The Southern Banc Company, Inc._Y-6_2022-06-30_English_212611177",passed,,"The Southern Banc Company, Inc",2022,both,5031,1950
+"The Southern Banc Company, Inc._Y-6_2022-06-30_English_212611177_2",passed,,"The Southern Banc Company, Inc",2022,both,5031,1950
+The St Henry Bancorp Inc_Y-6_2022-12-31_English_218134752,passed,,"The St. Henry Bancorp, Inc.",2022,both,2938,1194
+The St Henry Bancorp Inc_Y-6_2022-12-31_English_218134752_2,passed,,"The St. Henry Bancorp, Inc.",2022,both,2938,1260
+"Third Federal Savings and Loan Association of Cleveland, MHC_Y-6_2022-09-30_English_218134195",passed,,"Third Federal Savings and Loan Assoc. of Cleve., MHC",2022,both,26587,5936
+"Third Federal Savings and Loan Association of Cleveland, MHC_Y-6_2022-09-30_English_218134195_2",passed,,TFS FINANCIAL CORPORATION,2022,both,24935,2996
+"Third Street Bancshares, Inc._Y-6_2022-12-31_English_218134449",passed,,"Third Street Bancshares, Inc.",2022,both,3843,1394
+"Third Street Bancshares, Inc._Y-6_2022-12-31_English_218134449_2",passed,,"Third Street Bancshares, Inc.",2022,both,3843,1421
+"Town  Country Bancshares, Inc._Y-6_2022-12-31_English_227282972_1",passed,,"Town & Country Bancshares, Inc.",2022,both,5679,3580
+"Town  Country Bancshares, Inc._Y-6_2022-12-31_English_227282972_2",passed,,"Town & Country Bancshares, Inc.",2022,both,5679,3663
+"Tri Valley Bancshares, Inc._Y-6_2022-12-31_English_227543149_1",passed,,TRI VALLEY BANCSAHRES INC,2022,insiders,2613,186
+"Tri Valley Bancshares, Inc._Y-6_2022-12-31_English_227543149_2",passed,,TRI VALLEY BANCSAHRES INC,2022,insiders,2613,186
+UBS Americas Holding LLC_Y-6_2022-12-31_English_220356081,passed,,UBS Americas Holding LLC,2022,insiders,12168,3575
+UBS Americas Holding LLC_Y-6_2022-12-31_English_220356081_2,passed,,UBS Americas Holding LLC,2022,insiders,12051,3576
+"Underwood Bancshares, Inc._Y-6_2022-12-31_English_215690275",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Underwood Bancshares, Inc._Y-6_2022-12-31_English_215690275_2",passed,,"Underwood Bancshares, Inc.",2022,both,3698,687
+Union State Banc Holding Corporation_Y-6_2022-12-31_English_227452423_1,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+Union State Banc Holding Corporation_Y-6_2022-12-31_English_227452423_2,passed,,Union State Banc Holding Corporation,2022,both,10127,4763
+United National Corporation_Y-6_2022-12-31_English_211485307,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+United National Corporation_Y-6_2022-12-31_English_211485307_2,passed,,United National Corporation,2022,insiders,4582,1825
+"University Financial Corp, GBC_Y-6_2022-12-31_English_210759445",passed,,"UNIVERSITY FINANCIAL CORP., GBC dba Sunrise Banks",2022,both,17984,3988
+"University Financial Corp, GBC_Y-6_2022-12-31_English_210759445_2",passed,,"University Financial Corp, GBC dba Sunrise Banks",2022,both,8679,3626
+"Valley Central, MHC_Y-6_2022-12-31_English_218134766",passed,,Valley Central MHC,2022,insiders,5583,1554
+"Valley Central, MHC_Y-6_2022-12-31_English_218134766_2",passed,,Valley Central MHC,2022,insiders,5351,2529
+Valley National Bancorp_Y-6_2022-12-31_English_220355932,passed,,Valley National Bancorp,2022,both,23326,3185
+Valley National Bancorp_Y-6_2022-12-31_English_220355932_2,passed,,Valley National Bancorp,2022,both,23195,3731
+"Vast Holdings, Inc._Y-6_2022-12-31_English_230006608",passed,,Tulsa Valley Bancshares Corporation,2022,securities,6200,724
+"Vast Holdings, Inc._Y-6_2022-12-31_English_230006608_2",passed,,Tulsa Valley Bancshares Corporation,2022,securities,6200,724
+"Vermillion Bancshares, Inc._Y-6_2022-12-31_English_211485162",passed,,"Vermillion Bancshares, Inc.",2022,insiders,2745,188
+"Vermillion Bancshares, Inc._Y-6_2022-12-31_English_211485162_2",passed,,"Vermillion Bancshares, Inc.",2022,none,2779,65
+"Verus Acquisition Group, Inc._Y-6_2022-12-31_English_227465570_1",passed,,"Verus Acquisition Group, Inc.",2022,both,19664,2047
+"Verus Acquisition Group, Inc._Y-6_2022-12-31_English_227465570_2",passed,,"Verus Acquisition Group, Inc.",2022,both,19597,2047
+"Victory Bancshares, Inc._Y-6_2022-12-31_English_218087436",passed,,"Victory Bancshares, Inc.",2022,none,2419,64
+"Victory Bancshares, Inc._Y-6_2022-12-31_English_218087436_2",passed,,"Victory Bancshares, Inc.",2022,none,2419,64
+WVS Financial Corp._Y-6_2022-06-30_English_218086516,passed,,WVS Financial Corp.,2022,both,5287,1669
+WVS Financial Corp._Y-6_2022-06-30_English_218086516_2,passed,,WVS Financial Corp.,2022,both,5312,1645
+"Warrior Bank Corporation, Inc._Y-6_2022-12-31_English_228362144_1",passed,,Warrior Bank Corporation,2022,both,11484,1122
+"Warrior Bank Corporation, Inc._Y-6_2022-12-31_English_228362144_2",passed,,Warrior Bank Corporation,2022,both,11467,1122
+"Waterford Bancorp, Inc._Y-6_2022-12-31_English_218134709",passed,,"Waterford Bancorp, Inc.",2022,both,6094,2572
+"Waterford Bancorp, Inc._Y-6_2022-12-31_English_218134709_2",passed,,"Waterford Bancorp, Inc.",2023,both,6096,3294
+"Wausa Banshares, Inc._Y-6_2022-12-31_English_226933719",passed,,"Lisca Bank, Inc.",2022,both,4458,1751
+"Wausa Banshares, Inc._Y-6_2022-12-31_English_226933719_2",passed,,"Lisca Bank, Inc.",2022,both,4460,1760
+"Weed Investment Group, Inc._Y-6_2022-12-31_English_227442407_1",passed,,"Weed Investment Group, Inc.",2022,both,5453,1101
+"Weed Investment Group, Inc._Y-6_2022-12-31_English_227442407_2",failed,Invalid \escape: line 60 column 62 (char 1409),,,,,
+"WesBanco, Inc._Y-6_2022-12-31_English_218086418",passed,,"Wesbanco, Inc.",2022,both,16728,4318
+"WesBanco, Inc._Y-6_2022-12-31_English_218086418_2",passed,,"Wesbanco, Inc.",2022,both,17123,4318
+"Western Oklahoma Bancshares, Inc._Y-6_2022-12-31_English_228227320_1",passed,,Western Oklahoma Bancshares Inc.,2022,insiders,5252,188
+"Western Oklahoma Bancshares, Inc._Y-6_2022-12-31_English_228227320_2",passed,,Western Oklahoma Bancshares Inc.,2022,none,5247,64
+"Western Oklahoma Financial Services, Inc._Y-6_2022-12-31_English_227277987_1",passed,,"WESTERN OKLAHOMA FINANCIAL SERVICES, INC.",2022,both,5947,1829
+"Western Oklahoma Financial Services, Inc._Y-6_2022-12-31_English_227277987_2",passed,,"WESTERN OKLAHOMA FINANCIAL SERVICES, INC.",2022,both,5947,1829
+Whitcorp Financial Company_Y-6_2022-12-31_English_226933689,passed,,WHITCORP FINANCIAL COMPANY,2022,insiders,7249,1936
+Whitcorp Financial Company_Y-6_2022-12-31_English_226933689_2,passed,,WHITCORP FINANCIAL COMPANY,2022,insiders,13986,3774
+Williams Financial Corp._Y-6_2022-12-31_English_226933624,passed,,Williams Financial Corporation,2022,none,3136,61
+Williams Financial Corp._Y-6_2022-12-31_English_226933624_2,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Wilson Bancshares, Inc._Y-6_2022-12-31_English_228195327_1",passed,,"Wilson Bancshares, Inc.",2022,both,4240,3098
+"Wilson Bancshares, Inc._Y-6_2022-12-31_English_228195327_2",passed,,"Wilson Bancshares, Inc.",2022,both,4240,3094
+"Wood  Huston Bancorporation, Inc._Y-6_2022-12-31_English_228098479_1",passed,,"Wood & Huston Bancorporation, Inc.",2022,none,5684,65
+"Wood  Huston Bancorporation, Inc._Y-6_2022-12-31_English_228098479_2",passed,,"Wood & Huston Bancorporation, Inc.",2022,none,5749,65
+"Wyoming National Bancorporation, Inc._Y-6_2022-12-31_English_227377076_1",passed,,Wyoming National Bancorporation Inc.,2022,both,6328,3573
+"Wyoming National Bancorporation, Inc._Y-6_2022-12-31_English_227377076_2",passed,,Wyoming National Bancorporation Inc.,2022,both,6475,3573
+"York Holdings, Inc._Y-6_2022-12-31_English_227548229_1",passed,,"YORK HOLDINGS, INC.",2022,insiders,15962,1953
+"York Holdings, Inc._Y-6_2022-12-31_English_227548229_2",passed,,"YORK HOLDINGS, INC.",2022,insiders,15976,1963
+Young Americans Education Foundation_Y-6_2022-12-31_English_227276978_1,passed,,Young Americans Education Foundation,2022,insiders,2792,189
+Young Americans Education Foundation_Y-6_2022-12-31_English_227276978_2,passed,,Young Americans Education Foundation,2022,none,2762,62

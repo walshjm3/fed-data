@@ -1,0 +1,97 @@
+file,status,error,bank_name,year,presence,tokens,out_tokens
+"B Bank, Inc._Y-6_1995-12-31_English_11556325",passed,,"B Bank, Inc.",1995,both,2703,1508
+"B Bank, Inc._Y-6_1995-12-31_English_11556325_2",passed,,"B Bank, Inc.",1995,both,2742,1503
+"Bootheel Bancorp, Inc._Y-6_1995-12-31_English_11596002",passed,,"Bootheel Bancorp, Inc.",1995,both,3672,1233
+"Bootheel Bancorp, Inc._Y-6_1995-12-31_English_11596002_2",passed,,"Bootheel Bancorp, Inc.",1995,both,3672,1223
+"Byron State, Inc._Y-6_1995-12-31_English_11556294",passed,,"BYRON STATE, INC.",1995,both,3364,1194
+"Byron State, Inc._Y-6_1995-12-31_English_11556294_2",passed,,"BYRON STATE, INC.",1995,both,3341,1135
+Carbon County Holding Company_Y-6_1995-12-31_English_11592234,passed,,"Rawlins National Bancorporation, Inc.",1995,both,3727,1075
+Carbon County Holding Company_Y-6_1995-12-31_English_11592234_2,passed,,"Rawlins National Bancorporation, Inc.",1995,both,3871,1141
+Central Service Corp._Y-6_1995-12-31_English_11591328(1),passed,,Central Service Corporation,1995,both,5674,3124
+Central Service Corp._Y-6_1995-12-31_English_11591328,passed,,Central Service Corporation,1995,both,5648,3096
+Central Service Corp._Y-6_1995-12-31_English_11591328_2(1),passed,,Central Service Corporation,1995,both,5674,3129
+Central Service Corp._Y-6_1995-12-31_English_11591328_2,passed,,Central Service Corporation,1995,both,5663,3120
+"Citizens Bankshares, Inc._Y-6_1995-12-31_English_11591330",passed,,"Citizens Bankshares, Inc.",1995,both,16606,2620
+"Citizens Bankshares, Inc._Y-6_1995-12-31_English_11591330_2",passed,,"Citizens Bankshares, Inc.",1995,both,16620,2825
+"Citizens State Bancshares, Inc._Y-6_1995-12-31_English_11559711",passed,,CITIZENS ST BSHRS,1955,both,14695,1069
+"Citizens State Bancshares, Inc._Y-6_1995-12-31_English_11559711_2",passed,,CITIZENS ST BSHRS,1955,both,3561,1070
+Clear Creek Bank Corp._Y-6_1995-12-31_English_11556378,passed,,Clear Creek Bank Corp.,1995,both,3179,720
+Clear Creek Bank Corp._Y-6_1995-12-31_English_11556378_2,passed,,Clear Creek Bank Corp.,1995,both,3201,728
+Colwich Financial Corporation_Y-6_1995-12-31_English_11554808,passed,,COLWICH FINANCIAL CORPORATION,1996,both,6229,1878
+Colwich Financial Corporation_Y-6_1995-12-31_English_11554808_2,passed,,COLWICH FINANCIAL CORPORATION,1996,both,6464,1841
+"Commercial State Holding Company, Inc._Y-6_1995-12-31_English_11558161",passed,,"Commercial State Holding Company, Inc.",1995,insiders,2885,681
+"Commercial State Holding Company, Inc._Y-6_1995-12-31_English_11558161_2",passed,,"Commercial State Holding Company, Inc.",1995,insiders,15516,650
+Custer Bancorp._Y-6_1995-12-31_English_11557997,passed,,Custer Bancorp,1995,both,3788,1173
+Custer Bancorp._Y-6_1995-12-31_English_11557997_2,failed,Invalid \escape: line 33 column 59 (char 633),,,,,
+Emprise Financial Corporation_Y-6_1995-12-31_English_11592237,passed,,EMPRISE FINANCIAL CORPORATION,1995,both,19444,1630
+Emprise Financial Corporation_Y-6_1995-12-31_English_11592237_2,passed,,EMPRISE FINANCIAL CORPORATION,1995,both,19463,2133
+"Farmers  Merchants Investment, Inc._Y-6_1995-12-31_English_11545160",passed,,"Farmers & Merchants Investment, Inc.",1995,both,22061,1196
+"Farmers  Merchants Investment, Inc._Y-6_1995-12-31_English_11545160_2",passed,,"Farmers & Merchants Investment, Inc.",1995,both,22316,1202
+"Farmers National Bancshares, Inc._Y-6_1995-12-31_English_11556319",passed,,"Farmers National Bancshares, Inc.",1995,both,5777,1407
+"Farmers National Bancshares, Inc._Y-6_1995-12-31_English_11556319_2",passed,,"Farmers National Bancshares, Inc.",1995,both,5777,1402
+"First Capital Investment Company, Inc._Y-6_1995-12-31_English_11558158",passed,,"First Capital Investment Company, Inc.",1995,insiders,5951,360
+"First Capital Investment Company, Inc._Y-6_1995-12-31_English_11558158_2",passed,,"First Capital Investment Company, Inc.",1995,both,5951,518
+"First Colorado Bankshares, Inc._Y-6_1995-12-31_English_11556302",passed,,"First Colorado Bankshares, Inc.",1995,both,3549,1361
+"First Colorado Bankshares, Inc._Y-6_1995-12-31_English_11556302_2",passed,,"First Colorado Bankshares, Inc.",1995,both,3526,1361
+First National Banks-West Co._Y-6_1995-12-31_English_11554803,passed,,First McKinley Corporation,1995,both,3986,645
+First National Banks-West Co._Y-6_1995-12-31_English_11554803_2,passed,,First McKinley Corporation,1995,both,4005,659
+First Norton Corporation_Y-6_1995-12-31_English_11556241,passed,,First Norton Corporation,1995,insiders,6638,1695
+First Norton Corporation_Y-6_1995-12-31_English_11556241_2,passed,,First Norton Corporation,1995,insiders,6639,1737
+"First State Fremont, Inc._Y-6_1995-12-31_English_11556328",passed,,"First State Fremont, Inc.",1995,both,9323,2912
+"First State Fremont, Inc._Y-6_1995-12-31_English_11556328_2",passed,,"First State Fremont, Inc.",1995,both,9279,2985
+"First Staunton Bancshares, Inc._Y-6_1995-12-31_English_11548043",passed,,"First Staunton Bancshares, Inc.",1995,both,4156,761
+"First Staunton Bancshares, Inc._Y-6_1995-12-31_English_11548043_2",passed,,"First Staunton Bancshares, Inc.",1995,both,4156,459
+"Fort Riley Bancshares, Incorporated_Y-6_1995-12-31_English_11557980",passed,,Fort Riley Bancshares Inc.,1995,insiders,8360,1340
+"Fort Riley Bancshares, Incorporated_Y-6_1995-12-31_English_11557980_2",failed,"Expecting ',' delimiter: line 31 column 6 (char 634)",,,,,
+Greater Ohio River Company_Y-6_1995-12-31_English_11550440,passed,,Greater Ohio River Company,1996,both,7155,1018
+Greater Ohio River Company_Y-6_1995-12-31_English_11550440_2,passed,,Greater Ohio River Company,1996,both,7162,1038
+"Hana Bancorp, Inc._Y-6_1995-12-31_English_11474418",passed,,BNB Financial Services Corporation,1995,both,12772,1792
+"Hana Bancorp, Inc._Y-6_1995-12-31_English_11474418_2",passed,,BNB Financial Services Corporation,1995,both,12918,1652
+"Holcomb Bancshares, Inc._Y-6_1995-12-31_English_11543774",passed,,"Holcomb Bancshares, Inc",1995,both,19587,1616
+"Holcomb Bancshares, Inc._Y-6_1995-12-31_English_11543774_2",passed,,"Holcomb Bancshares, Inc",1995,both,10175,1616
+McHugh Investment Company_Y-6_1995-12-31_English_11557387,passed,,McHugh Investment Co,1995,insiders,6500,510
+McHugh Investment Company_Y-6_1995-12-31_English_11557387_2,passed,,McHugh Investment Co,1995,insiders,16773,521
+Morgan Capital Corporation_Y-6_1995-12-31_English_11558155,passed,,MORGAN CAP I TAL CORPORATION,1995,both,4157,2049
+Morgan Capital Corporation_Y-6_1995-12-31_English_11558155_2,passed,,MORGAN CAP I TAL CORPORATION,1995,both,4082,1954
+"NSB Bancshares, Inc._Y-6_1995-12-31_English_11556363",passed,,"NSB Bancshares, Inc.",1995,insiders,13517,1049
+"NSB Bancshares, Inc._Y-6_1995-12-31_English_11556363_2",passed,,"NSB Bancshares, Inc.",1995,insiders,3179,1037
+Ore Bancorporation_Y-6_1995-12-31_English_11557977,failed,Invalid \escape: line 14 column 58 (char 352),,,,,
+Ore Bancorporation_Y-6_1995-12-31_English_11557977_2,passed,,ORE Bancorporation,1995,insiders,2566,718
+"Ottawa Bancshares, Inc._Y-6_1995-12-31_English_11557942",passed,,"OTTAWA BANCSHARES, INC.",1995,insiders,2909,1012
+"Ottawa Bancshares, Inc._Y-6_1995-12-31_English_11557942_2",passed,,"OTTAWA BANCSHARES, INC.",1995,both,17321,1709
+"Overland Bancorp, Inc._Y-6_1995-12-31_English_11556291",passed,,"Overland Bancorp, Inc.",1995,both,4052,1598
+"Overland Bancorp, Inc._Y-6_1995-12-31_English_11556291_2",passed,,"Overland Bancorp, Inc.",1995,both,4055,1607
+"PDR Bancshares, Inc._Y-6_1995-12-31_English_11531793",passed,,"PDR Bancshares, Inc.",1995,both,8737,1298
+"PDR Bancshares, Inc._Y-6_1995-12-31_English_11531793_2",passed,,"PDR Bancshares, Inc.",1995,both,8734,1296
+"Peak Banks of Colorado, Incorporated_Y-6_1995-12-31_English_11556315",passed,,"Peak Banks of Colorado, Inc.",1995,both,7033,1518
+"Peak Banks of Colorado, Incorporated_Y-6_1995-12-31_English_11556315_2",passed,,"Peak Banks of Colorado, Inc.",1995,insiders,7327,1349
+"Phillips Holdings, Inc._Y-6_1995-12-31_English_11559934",passed,,"Phillips Holdings, Inc.",1995,both,3333,1311
+"Phillips Holdings, Inc._Y-6_1995-12-31_English_11559934_2",passed,,"Phillips Holdings, Inc.",1995,both,3333,1282
+"Post Bancorp, Inc._Y-6_1995-12-31_English_11558154",failed,Invalid \escape: line 120 column 106 (char 2969),,,,,
+"Post Bancorp, Inc._Y-6_1995-12-31_English_11558154_2",failed,Invalid \escape: line 120 column 102 (char 3438),,,,,
+"RMB Bancshares, Inc._Y-6_1995-12-31_English_11554824",passed,,"RMB Bancshares, Inc.",1995,both,14308,2283
+"RMB Bancshares, Inc._Y-6_1995-12-31_English_11554824_2",passed,,"RMB Bancshares, Inc.",1995,both,16893,2372
+"Resource One, Inc._Y-6_1995-12-31_English_11556358",passed,,"Resource One, Inc.",1996,both,21119,1204
+"Resource One, Inc._Y-6_1995-12-31_English_11556358_2",passed,,"Resource One, Inc.",1996,both,21175,1218
+Rocky Mountain Capital_Y-6_1995-12-31_English_11557397,passed,,"ROCK SPRINGS AMERICAN BANCORPORATION, INC.",1995,both,18157,3967
+Rocky Mountain Capital_Y-6_1995-12-31_English_11557397_2,passed,,"ROCK SPRINGS AMERICAN BANCORPORATION, INC.",1995,both,30531,4165
+"SBT Bankshares, Inc._Y-6_1995-12-31_English_11556312",passed,,"SBT Bankshares, Inc.",1995,both,3549,1435
+"SBT Bankshares, Inc._Y-6_1995-12-31_English_11556312_2",passed,,"SBT Bankshares, Inc.",1995,both,3525,1478
+"Solomon Bancshares, Inc._Y-6_1995-12-31_English_11558129",passed,,"Solomon Bancshares, Inc.",1995,insiders,2561,583
+"Solomon Bancshares, Inc._Y-6_1995-12-31_English_11558129_2",passed,,"Solomon Bancshares, Inc.",1995,insiders,2555,584
+"Spend Life Wisely Company, Inc._Y-6_1995-12-31_English_11591335",passed,,"DURANT BANCORP, INC.",1995,both,2665,1343
+"Spend Life Wisely Company, Inc._Y-6_1995-12-31_English_11591335_2",passed,,"DURANT BANCORP, INC.",1995,both,2666,1339
+"Sturm Banks of Colorado, Inc._Y-6_1995-12-31_English_11591420",passed,,"Community First Bankshares, Inc.",1995,both,25113,1851
+"Sturm Banks of Colorado, Inc._Y-6_1995-12-31_English_11591420_2",passed,,"Community First Bankshares, Inc.",1995,both,25112,1858
+"TBHC, Inc._Y-6_1995-12-31_English_11556293",passed,,TBHC Inc.,1995,both,7708,997
+"TBHC, Inc._Y-6_1995-12-31_English_11556293_2",passed,,TBHC Inc.,1995,both,7705,1011
+"The Dunmire Agency, Inc._Y-6_1995-12-31_English_11560219",passed,,"The Dunmire Agency, Inc.",1995,insiders,2525,679
+"The Dunmire Agency, Inc._Y-6_1995-12-31_English_11560219_2",passed,,"DUNMIRE AGENCY, INC., THE",1995,both,2348,771
+Tongue River Valley Bancshares_Y-6_1995-12-31_English_11556303,passed,,Tongue River Valley Bancshares,1995,both,12790,3459
+Tongue River Valley Bancshares_Y-6_1995-12-31_English_11556303_2,passed,,Tongue River Valley Bancshares,1995,both,12736,2340
+"Wakefield Bancshares, Inc._Y-6_1995-12-31_English_11557392",passed,,"WAKEFI ELD BAN CSHARES, INC.",1995,insiders,2304,400
+"Wakefield Bancshares, Inc._Y-6_1995-12-31_English_11557392_2",passed,,"WAKEFI ELD BAN CSHARES, INC.",1995,insiders,2315,398
+Young Americans Education Foundation_Y-6_1995-12-31_English_11556242,passed,,Young Americans Education Foundation,1995,both,2782,1476
+Young Americans Education Foundation_Y-6_1995-12-31_English_11556242_2,passed,,Young Americans Education Foundation,1995,both,2776,1455
+"Yutan Bancorp., Inc._Y-6_1995-12-31_English_11556258",passed,,Yutan BanCorp. . Inc.,1995,insiders,4266,1254
+"Yutan Bancorp., Inc._Y-6_1995-12-31_English_11556258_2",passed,,Yutan BanCorp. . Inc.,1995,insiders,4226,1271

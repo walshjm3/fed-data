@@ -1,0 +1,4 @@
+usage: read_json.py [-h] --district DISTRICT
+read_json.py: error: argument --district: expected one argument
+usage: read_json.py [-h] --district DISTRICT
+read_json.py: error: argument --district: expected one argument

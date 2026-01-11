@@ -1,0 +1,718 @@
+file,status,error,bank_name,year,presence,tokens,out_tokens
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,failed,Invalid \escape: line 69 column 59 (char 1662),,,,,
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,failed,Invalid \escape: line 60 column 59 (char 1494),,,,,
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,passed,,1867 Western Financial Corporation,2010,both,14844,2526
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,failed,Invalid \escape: line 60 column 59 (char 1494),,,,,
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,passed,,1867 Western Financial Corporation,2010,both,14844,2541
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,failed,Invalid \escape: line 69 column 59 (char 1563),,,,,
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,failed,Invalid \escape: line 69 column 59 (char 1563),,,,,
+file,status,error,bank_name,year,presence,tokens,out_tokens
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,failed,Invalid \escape: line 78 column 59 (char 1802),,,,,
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,failed,Invalid \escape: line 60 column 59 (char 1492),,,,,
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,passed,,1867 Western Financial Corporation,2010,both,14844,2464
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,failed,Invalid \escape: line 60 column 59 (char 1494),,,,,
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,passed,,1867 Western Financial Corporation,2010,both,11448,2524
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,failed,Invalid \escape: line 60 column 59 (char 1444),,,,,
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,passed,,1867 Western Financial Corporation,2010,both,11448,2511
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,failed,Invalid \escape: line 60 column 59 (char 1492),,,,,
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,passed,,1867 Western Financial Corporation,2010,both,11448,2511
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,failed,Invalid \escape: line 60 column 59 (char 1492),,,,,
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,passed,,1867 Western Financial Corporation,2010,both,11448,2522
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,passed,,1867 Western Financial Corporation,2010,both,14844,5894
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,passed,,1867 Western Financial Corporation,2010,both,11448,2538
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,failed,Invalid \escape: line 60 column 59 (char 1492),,,,,
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1222
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,passed,,1867 Western Financial Corporation,2010,both,11448,2537
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,passed,,1867 Western Financial Corporation,2010,both,11448,2533
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_2,failed,Invalid \escape: line 465 column 59 (char 9191),,,,,
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1216
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1228
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1204
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1222
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1228
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1222
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1228
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1228
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1222
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1228
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1222
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1228
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1222
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1222
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1228
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,passed,,1867 Western Financial Corporation,2010,both,11448,2595
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1210
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1222
+1867 Western Financial Corporation_Y-6_2010-12-31_English_7552643_4,failed,Invalid \escape: line 60 column 59 (char 1492),,,,,
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1228
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1222
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1228
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1222
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1204
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1228
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1208
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_2",passed,,"1889 BANCSHARES, INC.",2010,both,12717,1228
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2142
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2313
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2559
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2297
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2406
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2211
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1222
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2374
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2233
+"1889 Bancshares, Inc._Y-6_2010-12-31_English_7936410_4",passed,,"1889 BANCSHARES, INC.",2010,both,12749,1210
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2148
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2154
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2204
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2127
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2029
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2514
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2194
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2297
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2124
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2417
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2412
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2232
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4303,2178
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2453
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2305
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2479
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3492,2066
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2121
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3492,2163
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2402
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3492,2098
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3492,2146
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3492,2082
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,both,3492,2252
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3492,2140
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2243
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3492,2094
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2010-12-31_English_7631448_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2010,both,4125,2306
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2087
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3492,2097
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2084
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3492,2023
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2000
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3492,2062
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2131
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2136
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3492,2145
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2091
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1021
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2029
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3492,2111
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1021
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1021
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1021
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2074
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_2",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3492,2152
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1033
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1029
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1014
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1014
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2044
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1021
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1021
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2129
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2130
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1021
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2136
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1021
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2091
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1021
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1014
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1014
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1021
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1021
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1852
+"1st Colonial Bancorp, Inc._Y-6_2010-12-31_English_7631451_4",passed,,"1st Colonial National Bancorp, Inc.",2010,insiders,3562,2085
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1021
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1901
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1843
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1029
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1021
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1850
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1021
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1850
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1029
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1021
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_2,passed,,1st Constitution Bancorp,2010,both,2955,1014
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1850
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1014
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1021
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1843
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1885
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1021
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1850
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1843
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1850
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1932
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1850
+1st Constitution Bancorp_Y-6_2010-12-31_English_7629129_4,passed,,1st Constitution Bancorp,2010,both,2954,1022
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1850
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1885
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1845
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1850
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1843
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1850
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1850
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1885
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1887
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_2,passed,,1st Financial Services Corporation,2010,both,4994,1850
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1887
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1885
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,failed,Invalid \escape: line 130 column 57 (char 5183),,,,,
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,failed,Invalid \escape: line 130 column 57 (char 5332),,,,,
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,failed,Invalid \escape: line 130 column 57 (char 5332),,,,,
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1893
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,passed,,1st Source Corporation,2010,both,15590,3772
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1843
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,failed,Invalid \escape: line 130 column 57 (char 5178),,,,,
+1st Financial Services Corporation_Y-6_2010-12-31_English_7614337_4,passed,,1st Financial Services Corporation,2010,both,4944,1887
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,passed,,1st Source Corporation,2010,both,15590,3694
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,failed,Invalid \escape: line 130 column 57 (char 5332),,,,,
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,failed,Invalid \escape: line 130 column 57 (char 5328),,,,,
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,passed,,1st Source Corporation,2010,both,15590,3689
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,passed,,1st Source Corporation,2010,both,15590,3767
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,failed,Invalid \escape: line 130 column 57 (char 5332),,,,,
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3753
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3753
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3771
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,failed,Invalid \escape: line 130 column 57 (char 5182),,,,,
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3771
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,failed,Invalid \escape: line 130 column 57 (char 5331),,,,,
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,1030
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,975
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3823
+1st Source Corporation_Y-6_2010-12-31_English_6983251_2,passed,,1st Source Corporation,2010,both,15590,3764
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3766
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3757
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,1030
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,892
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,971
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,898
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3770
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,973
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,970
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3734
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3766
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,962
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,1030
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,1030
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,961
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3770
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,956
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3762
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,2294
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,970
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,1024
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3771
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,1917
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,898
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,956
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,962
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,898
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,1876
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,1884
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,1839
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,892
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,962
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,972
+1st Source Corporation_Y-6_2010-12-31_English_6983251_4,passed,,1st Source Corporation,2010,both,24285,3750
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,1883
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,957
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,962
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,956
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,956
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,2260
+304 Corporation_Y-6_2010-12-31_English_7935354_2,passed,,304 Corporation,2010,both,4602,962
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,1886
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,2206
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,1887
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,1889
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,1884
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,2142
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,2219
+304 Corporation_Y-6_2010-12-31_English_7935354_4,passed,,304 Corporation,2010,both,4597,895
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,1890
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,2129
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1318
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,2409
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1322
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,1900
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1329
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,2125
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1318
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1322
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1327
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,2238
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,1817
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,2093
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,2144
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_2,passed,,A. F. Gilmore Company,2010,both,17050,2266
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,2481
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1313
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1327
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1323
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1327
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1312
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,1862
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,2230
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1312
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1316
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1311
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1314
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2335
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1312
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1313
+A. F. Gilmore Company_Y-6_2010-12-31_English_7640169_4,passed,,A. F. Gilmore Company,2010,both,17041,2200
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1321
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1324
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1322
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2388
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1315
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1314
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2436
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1322
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2335
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1323
+ABM Holding Company_Y-6_2010-12-31_English_7936911_2,passed,,ABM HOLDING COMPANY,2010,both,4200,1326
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1322
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2321
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1322
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2388
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2388
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2336
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_2",passed,,"AJJ Bancorp, Inc.",2010,both,3836,739
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2334
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2336
+ABM Holding Company_Y-6_2010-12-31_English_7936911_4,passed,,ABM HOLDING COMPANY,2010,both,4200,1325
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2335
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2322
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2333
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2335
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2335
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,729
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_2",passed,,"AJJ Bancorp, Inc.",2010,both,3836,743
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2388
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_2",passed,,"AJJ Bancorp, Inc.",2010,both,3836,739
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_2",passed,,"AJJ Bancorp, Inc.",2010,both,3836,733
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2388
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,741
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2333
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,733
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,729
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2334
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,908
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2333
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2321
+ACNB Corporation_Y-6_2010-12-31_English_7631313_2,passed,,ACNB Corporation,2010,both,3327,2336
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2374
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2333
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,913
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,908
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,908
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_2",passed,,"AJJ Bancorp, Inc.",2010,both,3836,740
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_2",passed,,"AJJ Bancorp, Inc.",2010,both,3836,729
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_2",passed,,"AJJ Bancorp, Inc.",2010,both,3836,736
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2322
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_2",passed,,"AJJ Bancorp, Inc.",2010,both,3836,733
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2322
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_2",passed,,"AJJ Bancorp, Inc.",2010,both,3836,733
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2410
+733
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,739
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,733
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,739
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,733
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_2",passed,,"AJJ Bancorp, Inc.",2010,both,3836,743
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_2",passed,,"AJJ Bancorp, Inc.",2010,both,3836,743
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,739
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_2",passed,,"AJJ Bancorp, Inc.",2010,both,3836,743
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,739
+ACNB Corporation_Y-6_2010-12-31_English_7631313_4,passed,,ACNB Corporation,2010,both,3354,2321
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1521
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,908
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,739
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,908
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,907
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,733
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,741
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1503
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_2",passed,,"AJJ Bancorp, Inc.",2010,both,3836,739
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,908
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1521
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,908
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,908
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,913
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,908
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+"AJJ Bancorp, Inc._Y-6_2010-12-31_English_6983261_4",passed,,"AJJ Bancorp, Inc.",2010,both,3858,721
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,908
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_2",passed,,"ANB Bancorp, Inc.",2010,both,5084,913
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1517
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1503
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1521
+"ANB Bancorp, Inc._Y-6_2010-12-31_English_6983275_4",passed,,"ANB Bancorp, Inc.",2010,both,5106,908
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,477
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,477
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,482
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1517
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,482
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,477
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",failed,Invalid \escape: line 83 column 63 (char 1801),,,,,
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_2,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",passed,,"ADAMS BANCSHARES, INC.",2010,both,4837,1706
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,477
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,482
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",failed,Invalid \escape: line 83 column 63 (char 1796),,,,,
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,477
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,482
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",passed,,"ADAMS BANCSHARES, INC.",2010,both,4837,1692
+Absecon Bancorp_Y-6_2010-12-31_English_7631452_4,passed,,Absecon Bancorp,2010,insiders,3538,1521
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,477
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",passed,,"ADAMS BANCSHARES, INC.",2010,both,4858,1704
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,477
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",failed,Invalid \escape: line 83 column 63 (char 1844),,,,,
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",passed,,"ADAMS BANCSHARES, INC.",2010,both,4858,1717
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",failed,Invalid \escape: line 83 column 63 (char 1796),,,,,
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",passed,,"ADAMS BANCSHARES, INC.",2010,both,4837,1692
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+Access National Corporation_Y-6_2010-12-31_English_7614355_2,passed,,Access National Corporation,2010,securities,4351,477
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",passed,,"ADAMS BANCSHARES, INC.",2010,both,4858,1666
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,482
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,482
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",failed,Invalid \escape: line 83 column 63 (char 1834),,,,,
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",passed,,"ADAMS BANCSHARES, INC.",2010,both,4837,1747
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",passed,,"ADAMS BANCSHARES, INC.",2010,both,4858,1800
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",passed,,"ADAMS BANCSHARES, INC.",2010,both,4858,1705
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",failed,Invalid \escape: line 83 column 63 (char 1801),,,,,
+Access National Corporation_Y-6_2010-12-31_English_7614355_4,passed,,Access National Corporation,2010,securities,3816,482
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",passed,,"ADAMS BANCSHARES, INC.",2010,both,4858,1722
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",passed,,"ADAMS BANCSHARES, INC.",2010,both,4858,1692
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"AFFINITY BANCORP, INC.",2010,both,2606,586
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"AFFINITY BANCORP, INC.",2010,both,2606,586
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",failed,Invalid \escape: line 83 column 63 (char 1834),,,,,
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",passed,,"ADAMS BANCSHARES, INC.",2010,both,4837,1704
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"Affinity Bancorp, Inc.",2010,both,2606,590
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",failed,Invalid \escape: line 83 column 63 (char 1762),,,,,
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",passed,,"ADAMS BANCSHARES, INC.",2010,both,4858,1704
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"Affinity Bancorp, Inc.",2010,both,2606,590
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",passed,,"ADAMS BANCSHARES, INC.",2010,both,4858,1754
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"AFFINITY BANCORP, INC.",2010,both,2606,586
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"AFFINITY BANCORP, INC.",2010,both,2606,586
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_2",passed,,"ADAMS BANCSHARES, INC.",2010,both,4837,1704
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1492
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"AFFINITY BANCORP, INC.",2010,both,2606,586
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"AFFINITY BANCORP, INC.",2010,both,2606,592
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",failed,Invalid \escape: line 83 column 63 (char 1844),,,,,
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"AFFINITY BANCORP, INC.",2010,both,2606,592
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",passed,,"ADAMS BANCSHARES, INC.",2010,both,4858,1693
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",failed,Invalid \escape: line 99 column 68 (char 2314),,,,,
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1420
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1398
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1401
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1420
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1400
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",passed,,"ADAMS BANCSHARES, INC.",2010,both,4858,1756
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Adams Bancshares, Inc._Y-6_2010-12-31_English_7637219_4",passed,,"ADAMS BANCSHARES, INC.",2010,both,4858,1702
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1405
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1497
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_2",passed,,"Affinity Bancorp, Inc.",2010,both,2632,590
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"AFFINITY BANCORP, INC.",2010,both,2606,592
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"AFFINITY BANCORP, INC.",2010,both,2606,586
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1456
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1419
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1422
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1420
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1419
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1418
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1407
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"AFFINITY BANCORP, INC.",2010,both,2606,586
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"AFFINITY BANCORP, INC.",2010,both,2606,586
+"Affinity Bancorp, Inc._Y-6_2010-12-31_English_7631317_4",passed,,"AFFINITY BANCORP, INC.",2010,both,2606,592
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1202
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1202
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1419
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1477
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1202
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1202
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1202
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1410
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1200
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1419
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1413
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1401
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1206
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_2",passed,,Albany Bancstances Inc.,2010,both,4835,1400
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1428
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1206
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1202
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1206
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1202
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1237
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1206
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1200
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1426
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",passed,,"ALDEN BANCSHARES, INC.",2010,both,7631,1399
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1405
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1435
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1425
+"Albany Bancshares, Inc._Y-6_2010-12-31_English_6983252_4",passed,,Albany Bancstances Inc.,2010,both,4907,1403
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1202
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",passed,,"ALDEN BANCSHARES, INC.",2010,both,7631,1366
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",passed,,"Alden BancShares, Inc.",2010,both,7631,1367
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1206
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",passed,,"ALDEN BANCSHARES, INC.",2010,both,7631,1356
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",passed,,"Alden BancShares, Inc.",2010,both,7631,1398
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1202
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",passed,,"ALDEN BANCSHARES, INC.",2010,both,7631,1368
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1202
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1206
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"Alden BancShares, Inc.",2010,both,8716,1356
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1202
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1206
+Alcar Inc._Y-6_2010-12-31_English_7629183_2,passed,,Alcar LLC,2010,both,4189,1202
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1206
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"Alden BancShares, Inc.",2010,both,8716,1361
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",passed,,"ALDEN BANCSHARES, INC.",2010,both,7631,1399
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"Alden BancShares, Inc.",2010,both,8716,1408
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1205
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"ALDEN BANCSHARES, INC.",2010,both,8716,1360
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1206
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1206
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1206
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",passed,,"Alden BancShares, Inc.",2010,both,7631,1367
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"ALDEN BANCSHARES, INC.",2010,both,8716,1362
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+Alcar Inc._Y-6_2010-12-31_English_7629183_4,passed,,Alcar LLC,2010,both,4207,1206
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4297,1255
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4297,1253
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"Alden BancShares, Inc.",2010,both,8716,1395
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4297,1255
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"Alden BancShares, Inc.",2010,both,8716,1397
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4297,1255
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",passed,,"Alden BancShares, Inc.",2010,both,7631,1367
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",passed,,"ALDEN BANCSHARES, INC.",2010,both,7631,1379
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",passed,,"ALDEN BANCSHARES, INC.",2010,both,7631,1417
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",passed,,"Alden BancShares, Inc.",2010,both,7631,1367
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"Alden BancShares, Inc.",2010,both,8716,1361
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1255
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"Alden BancShares, Inc.",2010,both,8716,1346
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1265
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4297,1269
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1255
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_2",passed,,"Alden BancShares, Inc.",2010,both,7631,1379
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4297,1255
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1255
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"ALDEN BANCSHARES, INC.",2010,both,8716,1350
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"Alden BancShares, Inc.",2010,both,8716,1398
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"Alden BancShares, Inc.",2010,both,8716,1347
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4297,1253
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1255
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1568
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1253
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1253
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"Alden BancShares, Inc.",2010,both,8716,1387
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"Alfalfa County Bancshares, Inc.",2010,both,4297,1253
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1599
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1614
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4297,1255
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4297,1255
+"Alden Bancshares, Inc._Y-6_2010-12-31_English_7935806_4",passed,,"ALDEN BANCSHARES, INC.",2010,both,8716,1391
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4297,1255
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1255
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1615
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1531
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1650
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4297,1253
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1255
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1587
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4297,1253
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_2",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4297,1255
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1255
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1255
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1586
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1613
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,953
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1255
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1453
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1255
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1511
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,953
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1255
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1414
+"Alfalfa County Bancshares, Inc._Y-6_2010-12-31_English_7935384_4",passed,,"ALFALFA COUNTY BANCSHARES, INC.",2010,both,4302,1253
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1586
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,955
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1559
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,946
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1572
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,952
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1497
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1472
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,946
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,952
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,944
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1603
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,954
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1607
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1597
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_2",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4199,1615
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,950
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1554
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1562
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,944
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,950
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1534
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,955
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,953
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,955
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1376
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1557
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3192
+"Algodon de Calidad Bancshares, Inc._Y-6_2010-12-31_English_7618237_4",passed,,"Algodon de Calidad Bancshares, Inc.",2010,both,4189,1504
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,952
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,950
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,946
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,950
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,952
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3192
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,957
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3194
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,951
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3192
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_2",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3998,952
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,948
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,950
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,952
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3192
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3192
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,952
+"AllNations Bancorporation, Inc._Y-6_2010-12-31_English_7936921_4",passed,,"ALLNATIONS BANCORPORATION, INC.",2010,both,3995,946
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",passed,,"Alliance Bancshares, Inc.",2010,both,3873,3173
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3194
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3192
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3158
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",passed,,"Alliance Bancshares, Inc.",2010,both,3873,3163
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",passed,,"Alliance Bancshares, Inc.",2010,both,3873,3162
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",passed,,"Alliance Bancshares, Inc.",2010,both,3873,3158
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3192
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3192
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",passed,,"Alliance Bancshares, Inc.",2010,both,3873,3194
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,passed,,Alliance Bankshares Corporation,2010,both,4782,2418
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3158
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,passed,,Alliance Bankshares Corporation,2010,both,4782,2421
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3192
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",passed,,"Alliance Bancshares, Inc.",2010,both,3873,3163
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_2",passed,,"Alliance Bancshares, Inc.",2010,both,3877,3192
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",passed,,"Alliance Bancshares, Inc.",2010,both,3873,3162
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,passed,,Alliance Bankshares Corporation,2010,both,4782,2414
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,passed,,Alliance Bankshares Corporation,2010,both,4782,2421
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,passed,,Alliance Bankshares Corporation,2010,both,4782,2419
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",passed,,"Alliance Bancshares, Inc.",2010,both,3873,3192
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",passed,,"Alliance Bancshares, Inc.",2010,both,3873,3182
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",passed,,"Alliance Bancshares, Inc.",2010,both,3873,3158
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2393
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2393
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",passed,,"Alliance Bancshares, Inc.",2010,both,3873,3160
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,passed,,Alliance Bankshares Corporation,2010,both,4782,2418
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2392
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,passed,,Alliance Bankshares Corporation,2010,both,4782,2421
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",passed,,"Alliance Bancshares, Inc.",2010,both,3873,3194
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,passed,,Alliance Bankshares Corporation,2010,both,4782,2420
+"Alliance Bancshares, Inc._Y-6_2010-12-31_English_7848953_4",passed,,"Alliance Bancshares, Inc.",2010,both,3873,3160
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2393
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2393
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,passed,,Alliance Bankshares Corporation,2010,both,4782,2420
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,passed,,Alliance Bankshares Corporation,2010,both,4782,2436
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_2,passed,,Alpine Banks of Colorado,2010,both,10352,2502
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,passed,,Alliance Bankshares Corporation,2010,both,4782,2418
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_2,passed,,Alpine Banks of Colorado,2010,both,10352,2337
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,passed,,Alliance Bankshares Corporation,2010,both,4782,2421
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2463
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2393
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_2,passed,,Alpine Banks of Colorado,2010,both,10352,2483
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_2,passed,,Alliance Bankshares Corporation,2010,both,4782,2416
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_2,passed,,Alpine Banks of Colorado,2010,both,10352,2327
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_2,passed,,Alpine Banks of Colorado,2010,both,10352,2320
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2463
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2392
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2393
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_4,passed,,Alpine Banks of Colorado,2010,both,9869,2581
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2393
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2393
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_4,passed,,Alpine Banks of Colorado,2010,both,9869,2514
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2393
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_2,passed,,Alpine Banks of Colorado,2010,both,10352,2449
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_2,passed,,Alpine Banks of Colorado,2010,both,10352,2504
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_4,passed,,Alpine Banks of Colorado,2010,both,9869,2674
+Alliance Bankshares Corporation_Y-6_2010-12-31_English_7557571_4,passed,,Alliance Bankshares Corporation,2010,both,4750,2393
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_4,passed,,Alpine Banks of Colorado,2010,both,9869,2558
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_4,passed,,Alpine Banks of Colorado,2010,both,9869,2434
+AltaPacific Bancorp_Y-6_2010-12-31_English_7552718_2,passed,,AltaPacific Bancorp,2010,both,6445,1785
+AltaPacific Bancorp_Y-6_2010-12-31_English_7552718_2,passed,,AltaPacific Bancorp,2010,both,6445,1786
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_2,passed,,Alpine Banks of Colorado,2010,both,10352,2326
+Alpine Banks of Colorado_Y-6_2010-12-31_English_7935769_2,passed,,Alpine Banks of Colorado,2010,both,10352,2390

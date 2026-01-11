@@ -1,0 +1,88 @@
+Traceback (most recent call last):
+  File "/export/projects4/jwalsh_banks/fed-data/Gemini/read_json.py", line 353, in <module>
+    main()
+  File "/export/projects4/jwalsh_banks/fed-data/Gemini/read_json.py", line 344, in main
+    bank_name, year, presence, prompt_tokens, completion_tokens = extract_from_md(markdown, name)
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/projects4/jwalsh_banks/fed-data/Gemini/read_json.py", line 203, in extract_from_md
+    response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/google/genai/models.py", line 6565, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/google/genai/models.py", line 5377, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/google/genai/_api_client.py", line 1289, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/google/genai/_api_client.py", line 1109, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/tenacity/__init__.py", line 400, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+                                     ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/google/genai/_api_client.py", line 1079, in _request_once
+    response = self._httpx_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 216, in handle_request
+    raise exc from None
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 196, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    return self._connection.handle_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/site-packages/httpcore/_sync/http11.py", line 143, in handle_request
+    raise exc
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/site-packages/httpcore/_sync/http11.py", line 113, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/site-packages/httpcore/_sync/http11.py", line 186, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/site-packages/httpcore/_sync/http11.py", line 224, in _receive_event
+    data = self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/site-packages/httpcore/_backends/sync.py", line 126, in read
+    return self._sock.recv(max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/ssl.py", line 1263, in recv
+    return self.read(buflen)
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/ssl.py", line 1136, in read
+    return self._sslobj.read(len)
+           ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

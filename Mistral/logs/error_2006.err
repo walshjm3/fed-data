@@ -1,0 +1,44 @@
+Traceback (most recent call last):
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 408, in <module>
+    main()
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 393, in main
+    status, _ = process_one(k)
+                ^^^^^^^^^^^^^^
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 361, in process_one
+    append_row_to_csv_s3(
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 106, in append_row_to_csv_s3
+    writer.writerows(rows)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 408, in <module>
+    main()
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 393, in main
+    status, _ = process_one(k)
+                ^^^^^^^^^^^^^^
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 353, in process_one
+    upload_json_to_s3(payload, json_key)
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 240, in upload_json_to_s3
+    Body=json.dumps(payload, ensure_ascii=False, indent=2).encode("utf-8"),
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/json/encoder.py", line 202, in encode
+    chunks = list(chunks)
+             ^^^^^^^^^^^^
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/json/encoder.py", line 432, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/json/encoder.py", line 406, in _iterencode_dict
+    yield from chunks
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/json/encoder.py", line 406, in _iterencode_dict
+    yield from chunks
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/json/encoder.py", line 326, in _iterencode_list
+    yield from chunks
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/json/encoder.py", line 406, in _iterencode_dict
+    yield from chunks
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/json/encoder.py", line 326, in _iterencode_list
+    yield from chunks
+  File "/usr/local/app/rcs_bin/grid3.5/envs/rcs_2024.09/lib/python3.11/json/encoder.py", line 386, in _iterencode_dict
+    yield _encoder(value)
+          ^^^^^^^^^^^^^^^
+KeyboardInterrupt

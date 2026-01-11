@@ -227,9 +227,9 @@ def main():
                     try:
                         pdf_bytes = zf.read(info)
 
-
+                        
                         ocr_dict = mistral_ocr_from_bytes(pdf_bytes, display_name=stem)
-
+                        print("got ocr")
 
                         payload = {
                             "source": {
@@ -248,7 +248,6 @@ def main():
                     # Put JSON under MistralCapIQUpdated/<year>/<filename>.json
                         json_key = f"{JSON_PREFIX}{year}/{safe_stem}.json"
                         upload_json_to_s3(payload, json_key)
-
 
                         # Mark success
                         write_marker(S3_BUCKET, mkey, {

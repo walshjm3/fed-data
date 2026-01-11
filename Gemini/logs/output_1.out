@@ -1,0 +1,1926 @@
+Running year 1995
+Found 96 objects under prefix 'CapIQMistral_Updated/1995/'.
+Processing 96 JSON files.
+
+--- Processing: CapIQMistral_Updated/1995/B Bank, Inc._Y-6_1995-12-31_English_11556325.json ---
+Shareholders                                         a1      b1  c1   d1   e1   f1     g1
+0                          BILL D. BERKLEY   DOWNS  KS  USA  USA  136  19.65
+1                            JOANN BERKLEY   DOWNS  KS  USA  USA  114  16.47
+2                          MARY A. BERKLEY  SALINA  KS  USA  USA  141  20.38
+3                          PAUL D. BERKLEY   DOWNS  KS  USA  USA   78  11.27
+4  BILL O BERKLEY 6S7 TRUST DATED 6-2-1992   DOWNS  KS  USA  USA  109  15.75
+5  MARY A BERKLEY GST TRUST DATED 6-2-1992   DOWNS  KS  USA  USA  109  15.75
+Insiders                                              a2      b2  ...   b10   b11
+0                               Paul D. Berkley   Downs  ...  None  None
+1                                 JoAnn Berkley   Downs  ...  None  None
+2                               Bill D. Berkley   Downs  ...  None  None
+3                               Mary A. Berkley  Salina  ...  None  None
+4  Bill D. Berkley GST Trust dated June 2, 1992   Downs  ...  None  None
+5  Mary A. Berkley GST Trust dated June 2, 1992   Downs  ...  None  None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: B Bank, Inc.
+✅ Saved: insiders/B Bank, Inc._Y-6_1995-12-31_English_11556325.csv, securities/B Bank, Inc._Y-6_1995-12-31_English_11556325.csv
+
+--- Processing: CapIQMistral_Updated/1995/B Bank, Inc._Y-6_1995-12-31_English_11556325_2.json ---
+Shareholders                                         a1      b1  c1   d1   e1   f1     g1
+0                          BILL D. BERKLEY   DOWNS  KS  USA  USA  136  19.65
+1                            JOANN BERKLEY   DOWNS  KS  USA  USA  114  16.47
+2                          MARY A. BERKLEY  SALINA  KS  USA  USA  141  20.38
+3                          PAUL D. BERKLEY   DOWNS  KS  USA  USA   78  11.27
+4  BILL O BERKLEY 6S7 TRUST DATED 6-2-1992   DOWNS  KS  USA  USA  109  15.75
+5  MARY A BERKLEY GST TRUST DATED 6-2-1992   DOWNS  KS  USA  USA  109  15.75
+Insiders                                              a2      b2  ...   b10   b11
+0                               Paul D. Berkley   Downs  ...  None  None
+1                                 JoAnn Berkley   Downs  ...  None  None
+2                               Bill D. Berkley   Downs  ...  None  None
+3                               Mary A. Berkley  Salina  ...  None  None
+4  Bill D. Berkley GST Trust dated June 2, 1992   Downs  ...  None  None
+5  Mary A. Berkley GST Trust dated June 2, 1992   Downs  ...  None  None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: B Bank, Inc.
+✅ Saved: insiders/B Bank, Inc._Y-6_1995-12-31_English_11556325_2.csv, securities/B Bank, Inc._Y-6_1995-12-31_English_11556325_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Bootheel Bancorp, Inc._Y-6_1995-12-31_English_11596002.json ---
+Shareholders                            a1            b1  ...      f1      g1
+0               James Belknap  Poplar Bluff  ...  15,128  13.72%
+1            Marjorie Belknap  Poplar Bluff  ...  20,328  18.43%
+2               Brian Belknap  Poplar Bluff  ...  37,096  33.63%
+3  Joan Irene Childress Trust  Poplar Bluff  ...  18,616  16.88%
+
+[4 rows x 7 columns]
+Insiders                                            a2  ...                           b11
+0                               James Belknap  ...  Poplar Bluff Computer Center
+1                               Brian Belknap  ...                          None
+2                            Marjorie Belknap  ...                          None
+3                             Charles Rushing  ...                          None
+4  Joan Bullington John Irene Childress Trust  ...                          None
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: Bootheel Bancorp, Inc.
+✅ Saved: insiders/Bootheel Bancorp, Inc._Y-6_1995-12-31_English_11596002.csv, securities/Bootheel Bancorp, Inc._Y-6_1995-12-31_English_11596002.csv
+
+--- Processing: CapIQMistral_Updated/1995/Bootheel Bancorp, Inc._Y-6_1995-12-31_English_11596002_2.json ---
+Shareholders                            a1            b1  ...      f1      g1
+0               James Belknap  Poplar Bluff  ...  15,128  13.72%
+1            Marjorie Belknap  Poplar Bluff  ...  20,328  18.43%
+2               Brian Belknap  Poplar Bluff  ...  37,096  33.63%
+3  Joan Irene Childress Trust  Poplar Bluff  ...  18,616  16.88%
+
+[4 rows x 7 columns]
+Insiders                                            a2  ...                                   b11
+0                               James Belknap  ...  Poplar Bluff Computer Center, 48.00%
+1                               Brian Belknap  ...                                  None
+2                            Marjorie Belknap  ...                                  None
+3                             Charles Rushing  ...                                  None
+4  Joan Bullington John Irene Childress Trust  ...                                  None
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: Bootheel Bancorp, Inc.
+✅ Saved: insiders/Bootheel Bancorp, Inc._Y-6_1995-12-31_English_11596002_2.csv, securities/Bootheel Bancorp, Inc._Y-6_1995-12-31_English_11596002_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Byron State, Inc._Y-6_1995-12-31_English_11556294.json ---
+Shareholders                 a1          b1  c1    d1   e1     f1      g1
+0  Verland Tietjen       Byron  NE  None  USA  4,777  47.77%
+1     Mema Tietjen       Byron  NE  None  USA  3,081  30.81%
+2     Kent Tietjen       Byron  NE  None  USA    714   7.14%
+3   Sarah DeRienzo    Santa Fe  NM  None  USA    714   7.14%
+4    Laura Tietjen  Evansville  IN  None  USA    714   7.14%
+Insiders                 a2  ...                                                b11
+0  Verland Tietjen  ...  Twin Valley Implement; T-Agra, Inc.; Twin Vall...
+1     Mema Tietjen  ...                                               None
+2     Kent Tietjen  ...                                  Twin Valley Impre
+3   Sarah DeRienzo  ...                                       T-Agra, Inc.
+4    Laura Tietjen  ...                                       T-Agra, Inc.
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: BYRON STATE, INC.
+✅ Saved: insiders/Byron State, Inc._Y-6_1995-12-31_English_11556294.csv, securities/Byron State, Inc._Y-6_1995-12-31_English_11556294.csv
+
+--- Processing: CapIQMistral_Updated/1995/Byron State, Inc._Y-6_1995-12-31_English_11556294_2.json ---
+Shareholders                 a1          b1  c1    d1   e1     f1      g1
+0  Verland Tietjen       Byron  NE  None  USA  4,777  47.77%
+1     Mema Tietjen       Byron  NE  None  USA  3,081  30.81%
+2     Kent Tietjen       Byron  NE  None  USA    714   7.14%
+3   Sarah DeRienzo    Santa Fe  NM  None  USA    714   7.14%
+4    Laura Tietjen  Evansville  IN  None  USA    714   7.14%
+Insiders                 a2          b2  b3  ... b9_full_voting_shares_text   b10   b11
+0  Verland Tietjen       Byron  NE  ...            See 3(1) above.  None  None
+1     Mema Tietjen       Byron  NE  ...                       None  None  None
+2     Kent Tietjen       Byron  NE  ...                See 4(4)(c)  None  None
+3   Sarah DeRienzo    Santa Fe  NM  ...                       None  None  None
+4    Laura Tietjen  Evansville  IN  ...                       None  None  None
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: BYRON STATE, INC.
+✅ Saved: insiders/Byron State, Inc._Y-6_1995-12-31_English_11556294_2.csv, securities/Byron State, Inc._Y-6_1995-12-31_English_11556294_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Carbon County Holding Company_Y-6_1995-12-31_English_11592234.json ---
+Shareholders                                            a1         b1  ...      f1     g1
+0    TIMOTHY S BORDEN (AND RELATED INTERESTS)     DENVER  ...  59,075  10.37
+1          KURT KELLY (AND RELATED INTERESTS)    RAWLINS  ...   35445   6.23
+2     CURTIS ROCHELLE (AND RELATED INTERESTS)    RAWLINS  ...   62169  10.92
+3  FRED R. KELLY, JR. (AND RELATED INTERESTS)  ENGLEWOOD  ...  374691   65.8
+
+[4 rows x 7 columns]
+Insiders                    a2         b2  b3  ... b9_full_voting_shares_text   b10   b11
+0   Timothy S. Borden     Denver  CO  ...               59,075 10.4%  None  None
+1          Kurt Kelly    Rawlins  WY  ...                28,297 4.9%  None  None
+2  Fred R. Kelly, Jr.  Englewood  CO  ...             379,691 65.76%  None  None
+
+[3 rows x 12 columns]
+Found year: 1995
+Found bank name: Rawlins National Bancorporation, Inc.
+✅ Saved: insiders/Carbon County Holding Company_Y-6_1995-12-31_English_11592234.csv, securities/Carbon County Holding Company_Y-6_1995-12-31_English_11592234.csv
+
+--- Processing: CapIQMistral_Updated/1995/Carbon County Holding Company_Y-6_1995-12-31_English_11592234_2.json ---
+Shareholders                                            a1         b1  ...      f1     g1
+0    TIMOTHY S BORDEN (AND RELATED INTERESTS)     DENVER  ...  59,075  10.37
+1          KURT KELLY (AND RELATED INTERESTS)    RAWLINS  ...   35445   6.23
+2     CURTIS ROCHELLE (AND RELATED INTERESTS)    RAWLINS  ...   62169  10.92
+3  FRED R. KELLY, JR. (AND RELATED INTERESTS)  ENGLEWOOD  ...  374691   65.8
+
+[4 rows x 7 columns]
+Insiders                    a2  ...                                                b11
+0   Timothy S. Borden  ...  American National Bank, Laramie, WY; Bass Deve...
+1          Kurt Kelly  ...                                               None
+2  Fred R. Kelly, Jr.  ...  Centennial Ltd., Liability Corp. I; Centennial...
+
+[3 rows x 12 columns]
+Found year: 1995
+Found bank name: Rawlins National Bancorporation, Inc.
+✅ Saved: insiders/Carbon County Holding Company_Y-6_1995-12-31_English_11592234_2.csv, securities/Carbon County Holding Company_Y-6_1995-12-31_English_11592234_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Central Service Corp._Y-6_1995-12-31_English_11591328(1).json ---
+Shareholders                     a1    b1  c1    d1   e1       f1      g1
+0      R.S. Baker, Jr.  Enid  OK  None  USA  165,937  19.38%
+1          R. S. Baker  Enid  OK  None  USA   53,632   6.27%
+2  John W. Bowers, III  Enid  OK  None  USA   87,236  10.19%
+3    John D. Groendyke  Enid  OK  None  USA  198,450  23.18%
+4     James B. Cummins  Enid  OK  None  USA   76,065   8.89%
+Insiders                      a2  ...                                                b11
+0       R.S. Baker, Jr.  ...  Huston-Baker, Inc.;Baker Energy, Inc.;Romayne ...
+1     John D. Groendyke  ...  Groendyke Transport, Inc.;Bell Transport, Inc....
+2     Curtis L. Horrall  ...                                               None
+3           Joe E. King  ...                                               None
+4   Richard H. Lambertz  ...                       Lambert's, Inc.;The Compound
+5          R. L. Rogers  ...                             Rogers Resources, Inc.
+6     Richard A. Singer  ...                                    Uni-Steel, Inc.
+7     Frederick K. Doud  ...                                               None
+8      Ronald G. Barnes  ...                                               None
+9    John W. Bowers III  ...                              Messer Bowers Company
+10  Bonnie R. Henderson  ...                                               None
+11      Scott R. Bixler  ...                                               None
+12      Roger A. Runyan  ...                                               None
+13           Teri Jones  ...                                               None
+14    J. Douglas Frantz  ...                                               None
+15        Paul R. Allen  ...                                               None
+
+[16 rows x 12 columns]
+Found year: 1995
+Found bank name: Central Service Corporation
+✅ Saved: insiders/Central Service Corp._Y-6_1995-12-31_English_11591328(1).csv, securities/Central Service Corp._Y-6_1995-12-31_English_11591328(1).csv
+
+--- Processing: CapIQMistral_Updated/1995/Central Service Corp._Y-6_1995-12-31_English_11591328.json ---
+Shareholders                     a1    b1  c1    d1   e1       f1       g1
+0      R.S. Baker, Jr.  Enid  OK  None  USA  165,937  19.38 %
+1          R. S. Baker  Enid  OK  None  USA   53,632   6.27 %
+2  John W. Bowers, III  Enid  OK  None  USA   87,236  10.19 %
+3    John D. Groendyke  Enid  OK  None  USA  198,450  23.18 %
+4     James B. Cummins  Enid  OK  None  USA   76,065   8.89 %
+Insiders                      a2  ...                                                b11
+0       R.S. Baker, Jr.  ...  Huston-Baker, Inc.;Baker Energy, Inc.;Romayne ...
+1     John D. Groendyke  ...  Groendyke Transport, Inc.;Bell Transport, Inc....
+2     Curtis L. Horrall  ...                                               None
+3           Joe E. King  ...                                               None
+4   Richard H. Lambertz  ...                       Lambert's, Inc.;The Compound
+5          R. L. Rogers  ...                             Rogers Resources, Inc.
+6     Richard A. Singer  ...                                    Uni-Steel, Inc.
+7     Frederick K. Doud  ...                                               None
+8      Ronald G. Barnes  ...                                               None
+9    John W. Bowers III  ...                              Messer Bowers Company
+10  Bonnie R. Henderson  ...                                               None
+11      Scott R. Bixler  ...                                               None
+12      Roger A. Runyan  ...                                               None
+13           Teri Jones  ...                                               None
+14    J. Douglas Frantz  ...                                               None
+15        Paul R. Allen  ...                                               None
+
+[16 rows x 12 columns]
+Found year: 1995
+Found bank name: Central Service Corporation
+✅ Saved: insiders/Central Service Corp._Y-6_1995-12-31_English_11591328.csv, securities/Central Service Corp._Y-6_1995-12-31_English_11591328.csv
+
+--- Processing: CapIQMistral_Updated/1995/Central Service Corp._Y-6_1995-12-31_English_11591328_2(1).json ---
+Shareholders                     a1    b1  c1    d1   e1       f1       g1
+0      R.S. Baker, Jr.  Enid  OK  None  USA  165,937  19.38 %
+1          R. S. Baker  Enid  OK  None  USA   53,632   6.27 %
+2  John W. Bowers, III  Enid  OK  None  USA   87,236  10.19 %
+3    John D. Groendyke  Enid  OK  None  USA  198,450  23.18 %
+4     James B. Cummins  Enid  OK  None  USA   76,065   8.89 %
+Insiders                      a2  ...                                                b11
+0       R.S. Baker, Jr.  ...  Huston-Baker, Inc.;Baker Energy, Inc.;Romayne ...
+1     John D. Groendyke  ...  Groendyke Transport, Inc.;Bell Transport, Inc....
+2     Curtis L. Horrall  ...                                               None
+3           Joe E. King  ...                                               None
+4   Richard H. Lambertz  ...                       Lambert's, Inc.;The Compound
+5          R. L. Rogers  ...                             Rogers Resources, Inc.
+6     Richard A. Singer  ...                                    Uni-Steel, Inc.
+7     Frederick K. Doud  ...                                               None
+8      Ronald G. Barnes  ...                                               None
+9    John W. Bowers III  ...                              Messer Bowers Company
+10  Bonnie R. Henderson  ...                                               None
+11      Scott R. Bixler  ...                                               None
+12      Roger A. Runyan  ...                                               None
+13           Teri Jones  ...                                               None
+14    J. Douglas Frantz  ...                                               None
+15        Paul R. Allen  ...                                               None
+
+[16 rows x 12 columns]
+Found year: 1995
+Found bank name: Central Service Corporation
+✅ Saved: insiders/Central Service Corp._Y-6_1995-12-31_English_11591328_2(1).csv, securities/Central Service Corp._Y-6_1995-12-31_English_11591328_2(1).csv
+
+--- Processing: CapIQMistral_Updated/1995/Central Service Corp._Y-6_1995-12-31_English_11591328_2.json ---
+Shareholders                     a1    b1  c1    d1   e1       f1       g1
+0      R.S. Baker, Jr.  Enid  OK  None  USA  165,937  19.38 %
+1          R. S. Baker  Enid  OK  None  USA   53,632   6.27 %
+2  John W. Bowers, III  Enid  OK  None  USA   87,236  10.19 %
+3    John D. Groendyke  Enid  OK  None  USA  198,450  23.18 %
+4     James B. Cummins  Enid  OK  None  USA   76,065   8.89 %
+Insiders                      a2  ...                                                b11
+0       R.S. Baker, Jr.  ...  Huston-Baker, Inc.;Baker Energy, Inc.;Romayne ...
+1     John D. Groendyke  ...  Groendyke Transport, Inc.;Bell Transport, Inc....
+2     Curtis L. Horrall  ...                                               None
+3           Joe E. King  ...                                               None
+4   Richard H. Lambertz  ...                       Lambert's, Inc.;The Compound
+5          R. L. Rogers  ...                             Rogers Resources, Inc.
+6     Richard A. Singer  ...                                    Uni-Steel, Inc.
+7     Frederick K. Doud  ...                                               None
+8      Ronald G. Barnes  ...                                               None
+9    John W. Bowers III  ...                              Messer Bowers Company
+10  Bonnie R. Henderson  ...                                               None
+11      Scott R. Bixler  ...                                               None
+12      Roger A. Runyan  ...                                               None
+13           Teri Jones  ...                                               None
+14    J. Douglas Frantz  ...                                               None
+15        Paul R. Allen  ...                                               None
+
+[16 rows x 12 columns]
+Found year: 1995
+Found bank name: Central Service Corporation
+✅ Saved: insiders/Central Service Corp._Y-6_1995-12-31_English_11591328_2.csv, securities/Central Service Corp._Y-6_1995-12-31_English_11591328_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Citizens Bankshares, Inc._Y-6_1995-12-31_English_11591330.json ---
+Shareholders                                                  a1          b1  ...       f1     g1
+0                                      PIERCE TRUST  FARMINGTON  ...  101,658  20.33
+1  STOCK BONUS TRUST FOR EMPLOYEES OF CITIZENS BANK  FARMINGTON  ...  110,918  22.18
+2                             DAVID & MAXINE PIERCE  FARMINGTON  ...   50,135  10.01
+3                              Susan & Steve Nelson  Farmington  ...   49,654  9.93%
+4                                     Citfarm & Co.  Farmington  ...   37,757  7.55%
+
+[5 rows x 7 columns]
+Insiders                                            a2  ...                                                b11
+0                               Martin Pierce  ...                                               None
+1                               Sam J. Butler  ...                             Sowesco Holdings, Inc.
+2                           Gwen S. Clouthier  ...                      Farmington Drug on 20th, Inc.
+3                             Jimmie D. Gober  ...                                 Basin Broadcasting
+4                           Thomas L. Wheeler  ...                                      Hogback, Inc.
+5                                David Pierce  ...                                               None
+6                               Jeff W. Howle  ...                                               None
+7                          Patrick M. O'Hearn  ...                                 Bears Choice Honey
+8                           Richard P. Cheney  ...  Cheney, Walters, Echols, Inc.; First Divide In...
+9                               Ralph D. Bird  ...                         Hi-Country Chevrolet, Inc.
+10                          Marjorie W. Black  ...                                    Black Oil, Inc.
+11                             Lonne Sandefer  ...                            Big People's Toys, Inc.
+12  Stock Bonus Trust for Employees of F.I.B.  ...                                               None
+
+[13 rows x 12 columns]
+Found year: 1995
+Found bank name: Citizens Bankshares, Inc.
+✅ Saved: insiders/Citizens Bankshares, Inc._Y-6_1995-12-31_English_11591330.csv, securities/Citizens Bankshares, Inc._Y-6_1995-12-31_English_11591330.csv
+
+--- Processing: CapIQMistral_Updated/1995/Citizens Bankshares, Inc._Y-6_1995-12-31_English_11591330_2.json ---
+Shareholders                                                  a1          b1  ...       f1     g1
+0                                      PIERCE TRUST  FARMINGTON  ...  101,658  20.33
+1                                              None        None  ...   104982  21.00
+2  STOCK BONUS TRUST FOR EMPLOYEES OF CITIZENS BANK  FARMINGTON  ...  110,918  22.18
+3                                              None        None  ...   109238  21.95
+4                             DAVID & MAXINE PIERCE  FARMINGTON  ...   50,135  10.01
+5                                              None        None  ...    45788   9.16
+6                              Susan & Steve Nelson  Farmington  ...   49,654  9.93%
+7                                     Citfarm & Co.  Farmington  ...   37,757  7.55%
+
+[8 rows x 7 columns]
+Insiders                                            a2  ...                                                b11
+0                               Martin Pierce  ...                                               None
+1                               Sam J. Butler  ...                             Sowesco Holdings, Inc.
+2                           Gwen S. Clouthier  ...                      Farmington Drug on 20th, Inc.
+3                             Jimmie D. Gober  ...                                 Basin Broadcasting
+4                           Thomas L. Wheeler  ...                                      Hogback, Inc.
+5                                David Pierce  ...                                               None
+6                               Jeff W. Howle  ...                                               None
+7                          Patrick M. O'Hearn  ...                                               None
+8                           Richard P. Cheney  ...  Cheney, Walters, Echols, Inc.; First Divide In...
+9                               Ralph D. Bird  ...                         Hi-Country Chevrolet, Inc.
+10                          Marjorie W. Black  ...                                    Black Oil, Inc.
+11                             Lonne Sandefer  ...                                               None
+12  Stock Bonus Trust for Employees of F.I.B.  ...                                               None
+
+[13 rows x 12 columns]
+Found year: 1995
+Found bank name: Citizens Bankshares, Inc.
+✅ Saved: insiders/Citizens Bankshares, Inc._Y-6_1995-12-31_English_11591330_2.csv, securities/Citizens Bankshares, Inc._Y-6_1995-12-31_English_11591330_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Citizens State Bancshares, Inc._Y-6_1995-12-31_English_11559711.json ---
+Shareholders                     a1        b1  c1   d1    e1     f1      g1
+0  Lawrence M. Gaarder   Lanette  NC  USA  None  4,516  86.35%
+1   Varnish D. Johnson  Edinburg  NC  USA  None    157   3.14%
+2        James Gaarder   Lanette  NC  USA  None     77    .54%
+Insiders                      a2           b2  b3  ... b9_full_voting_shares_text   b10   b11
+0               LaVerne   LaVerniere  ND  ...                      1,816  None  None
+1    Marjie de Jonasson     Edimburg  ND  ...                      1,243  None  None
+2         Lane Jonasson     Edimburg  ND  ...                      1,243  None  None
+3           Laurel Lynt  Grand Forks  ND  ...                      1,000  None  None
+4  Clayton Pokrzywinski       Lankin  ND  ...                      1,000  None  None
+5       Albert Shephard       Lankin  ND  ...                      1,000  None  None
+
+[6 rows x 12 columns]
+Found year: 1955
+Found bank name: CITIZENS ST BSHRS
+✅ Saved: insiders/Citizens State Bancshares, Inc._Y-6_1995-12-31_English_11559711.csv, securities/Citizens State Bancshares, Inc._Y-6_1995-12-31_English_11559711.csv
+
+--- Processing: CapIQMistral_Updated/1995/Citizens State Bancshares, Inc._Y-6_1995-12-31_English_11559711_2.json ---
+Shareholders                     a1        b1  c1   d1    e1     f1      g1
+0  Lawrence M. Gaarder   Lanette  NC  USA  None  4,516  86.35%
+1   Varnish D. Johnson  Edinburg  NC  USA  None    157   3.14%
+2        James Gaarder   Lanette  NC  USA  None     77    .54%
+Insiders                      a2           b2  b3  ... b9_full_voting_shares_text   b10   b11
+0   LaVerne, LaVerniere         None  ND  ...                      1,816  None  None
+1    Marjie de Jonasson     Edimburg  ND  ...                      1,243  None  None
+2         Lane Jonasson     Edimburg  ND  ...                      1,243  None  None
+3           Laurel Lynt  Grand Forks  ND  ...                      1,000  None  None
+4  Clayton Pokrzywinski       Lankin  ND  ...                      1,000  None  None
+5       Albert Shephard       Lankin  ND  ...                      1,000  None  None
+
+[6 rows x 12 columns]
+Found year: 1955
+Found bank name: CITIZENS ST BSHRS
+✅ Saved: insiders/Citizens State Bancshares, Inc._Y-6_1995-12-31_English_11559711_2.csv, securities/Citizens State Bancshares, Inc._Y-6_1995-12-31_English_11559711_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Clear Creek Bank Corp._Y-6_1995-12-31_English_11556378.json ---
+Shareholders               a1             b1  c1   d1   e1      f1   g1
+0  DENNIS J LUTZ  IDAHO SPRINGS  CO  USA  USA  2753.9  100
+Insiders                   a2          b2  ...   b10                b11
+0      Meryl G. Lutz       Minot  ...  None               None
+1     Dennis J. Lutz       Minot  ...  None  Dennis Lutz, P.C.
+2  Richard steinberg  Long Beach  ...  None               None
+3          Doug Lutz      Denver  ...  None               None
+
+[4 rows x 12 columns]
+Found year: 1995
+Found bank name: Clear Creek Bank Corp.
+✅ Saved: insiders/Clear Creek Bank Corp._Y-6_1995-12-31_English_11556378.csv, securities/Clear Creek Bank Corp._Y-6_1995-12-31_English_11556378.csv
+
+--- Processing: CapIQMistral_Updated/1995/Clear Creek Bank Corp._Y-6_1995-12-31_English_11556378_2.json ---
+Shareholders               a1             b1  c1   d1   e1      f1   g1
+0  DENNIS J LUTZ  IDAHO SPRINGS  CO  USA  USA  2753.9  100
+Insiders                   a2          b2  ...   b10                b11
+0      Meryl G. Lutz       Minot  ...  None               None
+1     Dennis J. Lutz       Minot  ...  None  Dennis Lutz, P.C.
+2  Richard steinberg  Long Beach  ...  None               None
+3          Doug Lutz      Denver  ...  None               None
+
+[4 rows x 12 columns]
+Found year: 1995
+Found bank name: Clear Creek Bank Corp.
+✅ Saved: insiders/Clear Creek Bank Corp._Y-6_1995-12-31_English_11556378_2.csv, securities/Clear Creek Bank Corp._Y-6_1995-12-31_English_11556378_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Colwich Financial Corporation_Y-6_1995-12-31_English_11554808.json ---
+Shareholders                        a1       b1      c1   d1    e1    f1      g1
+0  Clement J. Suellentrop  Colwich  Kansas  USA  None  None  17.18%
+1    Frank A. Suellentrop  Colwich  Kansas  USA  None  None   7.02%
+2   Eugene M. Suellentrop  Colwich  Kansas  USA  None  None   4.08%
+3          Gary J. Bartak  Wichita  Kansas  USA  None  None    .65%
+4           Paul Spexarth  Colwich  Kansas  USA  None  None   2.36%
+5              J.M. Stech   Andale  Kansas  USA  None  None    .65%
+6          Brad E. Yaeger  Colwich  Kansas  USA  None  None    .61%
+7  Kathryn P. Suellentrop  Colwich  Kansas  USA  None  None  15.57%
+Insiders                        a2       b2  ...   b10   b11
+0  Clement J. Suellentrop  Colwich  ...  None  None
+1    Frank A. Suellentrop  Colwich  ...  None  None
+2   Eugene M. Suellentrop  Colwich  ...  None  None
+3          Gary J. Bartak  Wichita  ...  None  None
+4           Paul Spexarth  Colwich  ...  None  None
+5              J.M. Stech   Andale  ...  None  None
+6          Brad E. Yaeger  Colwich  ...  None  None
+7  Kathryn P. Suellentrop  Colwich  ...  None  None
+
+[8 rows x 12 columns]
+Found year: 1996
+Found bank name: COLWICH FINANCIAL CORPORATION
+✅ Saved: insiders/Colwich Financial Corporation_Y-6_1995-12-31_English_11554808.csv, securities/Colwich Financial Corporation_Y-6_1995-12-31_English_11554808.csv
+
+--- Processing: CapIQMistral_Updated/1995/Colwich Financial Corporation_Y-6_1995-12-31_English_11554808_2.json ---
+Shareholders                        a1       b1      c1   d1    e1    f1    g1
+0  Clement J. Suellentrop  Colwich  Kansas  USA  None  None  None
+1    Frank A. Suellentrop  Colwich  Kansas  USA  None  None  None
+2   Eugene M. Suellentrop  Colwich  Kansas  USA  None  None  None
+3          Gary J. Bartak  Wichita  Kansas  USA  None  None  None
+4           Paul Spexarth  Colwich  Kansas  USA  None  None  None
+5              J.M. Stech   Andale  Kansas  USA  None  None  None
+6          Brad E. Yaeger  Colwich  Kansas  USA  None  None  None
+7  Kathryn P. Suellentrop  Colwich  Kansas  USA  None  None  None
+Insiders                        a2       b2  ...   b10   b11
+0  Clement J. Suellentrop  Colwich  ...  None  None
+1    Frank A. Suellentrop  Colwich  ...  None  None
+2   Eugene M. Suellentrop  Colwich  ...  None  None
+3          Gary J. Bartak  Wichita  ...  None  None
+4           Paul Spexarth  Colwich  ...  None  None
+5              J.M. Stech   Andale  ...  None  None
+6          Brad E. Yaeger  Colwich  ...  None  None
+7  Kathryn P. Suellentrop  Colwich  ...  None  None
+
+[8 rows x 12 columns]
+Found year: 1996
+Found bank name: COLWICH FINANCIAL CORPORATION
+✅ Saved: insiders/Colwich Financial Corporation_Y-6_1995-12-31_English_11554808_2.csv, securities/Colwich Financial Corporation_Y-6_1995-12-31_English_11554808_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Commercial State Holding Company, Inc._Y-6_1995-12-31_English_11558161.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders              a2               b2  ...   b10   b11
+0  Cartha Waldo  Republican City  ...  None  None
+1   Jerry Waldo  Republican City  ...  None  None
+2  Marlys Waldo  Republican City  ...  None  None
+3     Jane Reck         Bellevue  ...  None  None
+
+[4 rows x 12 columns]
+Found year: 1995
+Found bank name: Commercial State Holding Company, Inc.
+✅ Saved: insiders/Commercial State Holding Company, Inc._Y-6_1995-12-31_English_11558161.csv, securities/Commercial State Holding Company, Inc._Y-6_1995-12-31_English_11558161.csv
+
+--- Processing: CapIQMistral_Updated/1995/Commercial State Holding Company, Inc._Y-6_1995-12-31_English_11558161_2.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders              a2               b2  ...   b10   b11
+0  Cartha Waldo  Republican City  ...  None  None
+1   Jerry Waldo  Republican City  ...  None  None
+2  Marlys Waldo  Republican City  ...  None  None
+3     Jane Reck         Bellevue  ...  None  None
+
+[4 rows x 12 columns]
+Found year: 1995
+Found bank name: Commercial State Holding Company, Inc.
+✅ Saved: insiders/Commercial State Holding Company, Inc._Y-6_1995-12-31_English_11558161_2.csv, securities/Commercial State Holding Company, Inc._Y-6_1995-12-31_English_11558161_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Custer Bancorp._Y-6_1995-12-31_English_11557997.json ---
+Shareholders                 a1          b1  c1   d1   e1       f1     g1
+0      BILL BOWLDS  WESTCLIFFE  CO  USA  USA     4640   2.88
+1  CRAIG J. WALKER      DENVER  CO  USA  USA  147,614  91.65
+Insiders                        a2          b2  ...   b10                     b11
+0             Bill Bowlds  Westcliffe  ...  None                    None
+1    Robert M. Senderhauf  Westcliffe  ...  None  [Custer County Realty]
+2          Arlie R. Riggs  Westcliffe  ...  None                    None
+3       Jerry L. Cantwell    Thornton  ...  None                    None
+4  Douglas Wayne Mitchell   Littleton  ...  None                    None
+5         Craig J. Walker      Aurora  ...  None                    None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: Custer Bancorp
+✅ Saved: insiders/Custer Bancorp._Y-6_1995-12-31_English_11557997.csv, securities/Custer Bancorp._Y-6_1995-12-31_English_11557997.csv
+
+--- Processing: CapIQMistral_Updated/1995/Custer Bancorp._Y-6_1995-12-31_English_11557997_2.json ---
+❌ Failed: Custer Bancorp._Y-6_1995-12-31_English_11557997_2: Invalid \escape: line 33 column 59 (char 633)
+
+--- Processing: CapIQMistral_Updated/1995/Emprise Financial Corporation_Y-6_1995-12-31_English_11592237.json ---
+Shareholders                                                   a1  ...    g1
+0  W A MICHAELIS, JR. REVOC TRUST #2, W A MICHAEL...  ...  94.8
+
+[1 rows x 7 columns]
+Insiders                      a2       b2  ...   b10   b11
+0  W. A. Michaelis, Jr.  Wichita  ...  None  None
+1       M. D. Michaelis  Wichita  ...  None  None
+2      L. Thomas Veatch  Wichita  ...  None  None
+
+[3 rows x 12 columns]
+Found year: 1995
+Found bank name: EMPRISE FINANCIAL CORPORATION
+✅ Saved: insiders/Emprise Financial Corporation_Y-6_1995-12-31_English_11592237.csv, securities/Emprise Financial Corporation_Y-6_1995-12-31_English_11592237.csv
+
+--- Processing: CapIQMistral_Updated/1995/Emprise Financial Corporation_Y-6_1995-12-31_English_11592237_2.json ---
+Shareholders                                                   a1  ...          g1
+0  W A MICHAELIS, JR. REVOC TRUST #2, W A MICHAEL...  ...  8857; 94.8
+
+[1 rows x 7 columns]
+Insiders                      a2       b2  ...   b10   b11
+0  W. A. Michaelis, Jr.  Wichita  ...  None  None
+1       M. D. Michaelis  Wichita  ...  None  None
+2      L. Thomas Veatch  Wichita  ...  None  None
+
+[3 rows x 12 columns]
+Found year: 1995
+Found bank name: EMPRISE FINANCIAL CORPORATION
+✅ Saved: insiders/Emprise Financial Corporation_Y-6_1995-12-31_English_11592237_2.csv, securities/Emprise Financial Corporation_Y-6_1995-12-31_English_11592237_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Farmers  Merchants Investment, Inc._Y-6_1995-12-31_English_11545160.json ---
+Shareholders                 a1       b1  c1   d1   e1      f1     g1
+0      MIKE DUNLAP  LINCOLN  NE  USA  USA    9577  18.54
+1  ANGIE MUMLEISEN  LINCOLN  NE  USA  USA    9799  18.97
+2     Gerry Dunlap  milford  NE  USA  USA    9855  17.57
+3      J.L. Dunlap  milford  NE  USA  USA  10,308  19.95
+Insiders                 a2  ...                                                b11
+0     J. L. Dunlap  ...                              Lancaster County Bank
+1     Gerry Dunlap  ...  ~Milford Times Building Partnership; Insurance...
+2  Angie Muhleisen  ...                      Security Federal Savings Bank
+
+[3 rows x 12 columns]
+Found year: 1995
+Found bank name: Farmers & Merchants Investment, Inc.
+✅ Saved: insiders/Farmers  Merchants Investment, Inc._Y-6_1995-12-31_English_11545160.csv, securities/Farmers  Merchants Investment, Inc._Y-6_1995-12-31_English_11545160.csv
+
+--- Processing: CapIQMistral_Updated/1995/Farmers  Merchants Investment, Inc._Y-6_1995-12-31_English_11545160_2.json ---
+Shareholders                 a1       b1  c1   d1   e1      f1     g1
+0      MIKE DUNLAP  LINCOLN  NE  USA  USA    9577  18.54
+1  ANGIE MUMLEISEN  LINCOLN  NE  USA  USA    9799  18.97
+2     Gerry Dunlap  milford  NE  USA  USA    9855  17.57
+3      J.L. Dunlap  milford  NE  USA  USA  10,308  19.95
+Insiders                 a2  ...                                                b11
+0     J. L. Dunlap  ...                              Lancaster County Bank
+1     Gerry Dunlap  ...  ~Milford Times Building Partnership;Insurance ...
+2  Angie Muhleisen  ...                      Security Federal Savings Bank
+
+[3 rows x 12 columns]
+Found year: 1995
+Found bank name: Farmers & Merchants Investment, Inc.
+✅ Saved: insiders/Farmers  Merchants Investment, Inc._Y-6_1995-12-31_English_11545160_2.csv, securities/Farmers  Merchants Investment, Inc._Y-6_1995-12-31_English_11545160_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Farmers National Bancshares, Inc._Y-6_1995-12-31_English_11556319.json ---
+Shareholders                                a1          b1  c1   d1   e1       f1     g1
+0                   MARY E PIERCE   LITTLETON  CO  USA  USA       46   9.26
+1              IRLENEL RICHARDSON  HUTCHINSON  KS  USA  USA  137.375  27.65
+2  IRLENE L RICHARDSON LIFE TRUST  HUTCHINSON  KS  USA  USA   79.611  16.03
+3              JAMES L RICHARDSON  HUTCHINSON  KS  USA  USA   63.875  12.86
+4                 RUTH A TEICHMAN    STAFFORD  KS  USA  USA       46   9.26
+5             EDNA MCCUNE TRUSTEE    STAFFORD  KS  USA  USA       30   6.04
+Insiders                    a2          b2      b3  ... b9_full_voting_shares_text b10   b11
+0  James L Richardson  Hutchinson  Kansas  ...                      63675   0  None
+1        Robin Austin    Stafford  Kansas  ...                      10 00   0  None
+2      William E Goss    Stafford  Kansas  ...                      10 00   0  None
+3   Arnold Hildebrand    Stafford  Kansas  ...                      10 00   0  None
+4     Ruth A Teichman    Stafford  Kansas  ...                      46 00   0  None
+5        Rack D Smith      Buhler  Kansas  ...                         12   0  None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: Farmers National Bancshares, Inc.
+✅ Saved: insiders/Farmers National Bancshares, Inc._Y-6_1995-12-31_English_11556319.csv, securities/Farmers National Bancshares, Inc._Y-6_1995-12-31_English_11556319.csv
+
+--- Processing: CapIQMistral_Updated/1995/Farmers National Bancshares, Inc._Y-6_1995-12-31_English_11556319_2.json ---
+Shareholders                                a1          b1  c1   d1   e1       f1     g1
+0                   MARY E PIERCE   LITTLETON  CO  USA  USA       46   9.26
+1              IRLENEL RICHARDSON  HUTCHINSON  KS  USA  USA  137.375  27.65
+2  IRLENE L RICHARDSON LIFE TRUST  HUTCHINSON  KS  USA  USA   79.611  16.03
+3              JAMES L RICHARDSON  HUTCHINSON  KS  USA  USA   63.875  12.86
+4                 RUTH A TEICHMAN    STAFFORD  KS  USA  USA       46   9.26
+5             EDNA MCCUNE TRUSTEE    STAFFORD  KS  USA  USA       30   6.04
+Insiders                    a2          b2      b3  ... b9_full_voting_shares_text b10   b11
+0  James L Richardson  Hutchinson  Kansas  ...                      63675   0  None
+1        Robin Austin    Stafford  Kansas  ...                      10 00   0  None
+2      William E Goss    Stafford  Kansas  ...                      10 00   0  None
+3   Arnold Hildebrand    Stafford  Kansas  ...                      10 00   0  None
+4     Ruth A Teichman    Stafford  Kansas  ...                      46 00   0  None
+5        Rack D Smith      Buhler  Kansas  ...                         12   0  None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: Farmers National Bancshares, Inc.
+✅ Saved: insiders/Farmers National Bancshares, Inc._Y-6_1995-12-31_English_11556319_2.csv, securities/Farmers National Bancshares, Inc._Y-6_1995-12-31_English_11556319_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/First Capital Investment Company, Inc._Y-6_1995-12-31_English_11558158.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                a2      b2        b3  ... b9_full_voting_shares_text   b10   b11
+0       Mitzi Fox  Albion  Nebraska  ...                         90  None  None
+1  L. J. Fox, Jr.  Albion  Nebraska  ...                        112  None  None
+
+[2 rows x 12 columns]
+Found year: 1995
+Found bank name: First Capital Investment Company, Inc.
+✅ Saved: insiders/First Capital Investment Company, Inc._Y-6_1995-12-31_English_11558158.csv, securities/First Capital Investment Company, Inc._Y-6_1995-12-31_English_11558158.csv
+
+--- Processing: CapIQMistral_Updated/1995/First Capital Investment Company, Inc._Y-6_1995-12-31_English_11558158_2.json ---
+Shareholders                a1      b1        c1    d1    e1   f1     g1
+0       Mitzi Fox  Albion  Nebraska  None  None   90  44.6%
+1  L. J. Fox, Jr.  Albion  Nebraska  None  None  112  55.4%
+Insiders                a2      b2        b3  ... b9_full_voting_shares_text   b10   b11
+0       Mitzi Fox  Albion  Nebraska  ...                      44.6%  None  None
+1  L. J. Fox, Jr.  Albion  Nebraska  ...                      55.4%  None  None
+
+[2 rows x 12 columns]
+Found year: 1995
+Found bank name: First Capital Investment Company, Inc.
+✅ Saved: insiders/First Capital Investment Company, Inc._Y-6_1995-12-31_English_11558158_2.csv, securities/First Capital Investment Company, Inc._Y-6_1995-12-31_English_11558158_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/First Colorado Bankshares, Inc._Y-6_1995-12-31_English_11556302.json ---
+Shareholders                                       a1          b1    c1  ...   e1     f1    g1
+0                          PETER BALLODE      CORTEZ    CO  ...  USA   6452  5°01
+1                        RICHARD N BROWN      DENVER    CO  ...  USA   7357   5.7
+2            CHARLES LE BARBARA FERGUSON   ENGLEWOOD    CO  ...  USA  15122  11.7
+3                         JOHN FE RGUSON  LITTLE TON    CO  ...  USA   8615   6.7
+4             THOUAS H & CYNTHIA A OLSON       LISCO    NE  ...  USA   9510  7.38
+5                      RICHARD ONESLAGER      DENVER    CO  ...  USA   7651   5°9
+6  RXMRHWXXRXHRHXRRHXH KXXXKKXHXKXKKXXHX        None  None  ...  USA   8XXI   522
+7                    MARGARET ROSENQUIST        VAIL    CO  ...  USA   8615   6.7
+
+[8 rows x 7 columns]
+Insiders                     a2         b2  ...   b10                  b11
+0  Charles L. Ferguson  Englewood  ...  None         Evergreen 72
+1    Jack W. Berryhill     Denver  ...  None                 None
+2       Craig Ferguson      Lyons  ...  None  Telluride Bluegrass
+3    Thomas H. Kenning      Ouray  ...  None                 None
+
+[4 rows x 12 columns]
+Found year: 1995
+Found bank name: First Colorado Bankshares, Inc.
+✅ Saved: insiders/First Colorado Bankshares, Inc._Y-6_1995-12-31_English_11556302.csv, securities/First Colorado Bankshares, Inc._Y-6_1995-12-31_English_11556302.csv
+
+--- Processing: CapIQMistral_Updated/1995/First Colorado Bankshares, Inc._Y-6_1995-12-31_English_11556302_2.json ---
+Shareholders                                       a1          b1    c1  ...   e1     f1    g1
+0                          PETER BALLODE      CORTEZ    CO  ...  USA   6452  5°01
+1                        RICHARD N BROWN      DENVER    CO  ...  USA   7357   5.7
+2             CHARLES L BARBARA FERGUSON   ENGLEWOOD    CO  ...  USA  15122  11.7
+3                         JOHN FE RGUSON  LITTLE TON    CO  ...  USA   8615   6.7
+4             THOUAS H & CYNTHIA A OLSON       LISCO    NE  ...  USA   9510  7.38
+5                      RICHARD ONESLAGER      DENVER    CO  ...  USA   7651   5°9
+6  RXMRHWXXRXHRHXRRHXH KXXXKKXHXKXKKXXHX        None  None  ...  USA   8XXI   522
+7                    MARGARET ROSENQUIST        VAIL    CO  ...  USA   8615   6.7
+
+[8 rows x 7 columns]
+Insiders                     a2         b2  ...   b10                  b11
+0  Charles L. Ferguson  Englewood  ...  None         Evergreen 72
+1    Jack W. Berryhill     Denver  ...  None                 None
+2       Craig Ferguson      Lyons  ...  None  Telluride Bluegrass
+3    Thomas H. Kenning      Ouray  ...  None                 None
+
+[4 rows x 12 columns]
+Found year: 1995
+Found bank name: First Colorado Bankshares, Inc.
+✅ Saved: insiders/First Colorado Bankshares, Inc._Y-6_1995-12-31_English_11556302_2.csv, securities/First Colorado Bankshares, Inc._Y-6_1995-12-31_English_11556302_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/First National Banks-West Co._Y-6_1995-12-31_English_11554803.json ---
+Shareholders                   a1        b1  c1   d1   e1     f1     g1
+0  GEORGE B MCKINLEY  EVANSTON  WY  USA  USA  59920  99.87
+Insiders                   a2          b2  ...         b10                               b11
+0  George B McKinley    Evanston  ...  100%; 100?                              None
+1   Carol R McKinley    Evanston  ...        None                              None
+2   Ann M Gianınettı  Carbondale  ...        None  M&G Landscaping and Sports, Inc.
+
+[3 rows x 12 columns]
+Found year: 1995
+Found bank name: First McKinley Corporation
+✅ Saved: insiders/First National Banks-West Co._Y-6_1995-12-31_English_11554803.csv, securities/First National Banks-West Co._Y-6_1995-12-31_English_11554803.csv
+
+--- Processing: CapIQMistral_Updated/1995/First National Banks-West Co._Y-6_1995-12-31_English_11554803_2.json ---
+Shareholders                   a1        b1  c1   d1   e1     f1     g1
+0  GEORGE B MCKINLEY  EVANSTON  WY  USA  USA  59920  99.87
+Insiders                   a2          b2  ...         b10                               b11
+0  George B McKinley    Evanston  ...  100%; 100?                              None
+1   Carol R McKinley    Evanston  ...        None                              None
+2   Ann M Gianınettı  Carbondale  ...        None  M&G Landscaping and Sports, Inc.
+
+[3 rows x 12 columns]
+Found year: 1995
+Found bank name: First McKinley Corporation
+✅ Saved: insiders/First National Banks-West Co._Y-6_1995-12-31_English_11554803_2.csv, securities/First National Banks-West Co._Y-6_1995-12-31_English_11554803_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/First Norton Corporation_Y-6_1995-12-31_English_11556241.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                                        a2  ...                                                b11
+0                  Alice Kohfeld Trust #1  ...                                               None
+1                 Ward B. Smiley Trust #1  ...                                               None
+2  Harold C. Kohfeld Testamentary Trust A  ...                                               None
+3                       Harold C. Kohfeld  ...                             LaBrea, Norton, Kansas
+4                        Robert W. Smiley  ...  LaBrea, Norton, Kansas; Dos Amigos, Norton, Ka...
+5                         Karl S. Kohfeid  ...                         Dos Amigos, Norton, Kansas
+6                        David L Brownell  ...                                               None
+7                        Dennis Gilhousen  ...                                               None
+8                          Dean EsSlinger  ...  Los Primes, Inc., Notion, Kansas; EsSlinger Ra...
+9                           Daniel Walter  ...  Ryan, Walter & McClymont, Chaptered., Norton, ...
+
+[10 rows x 12 columns]
+Found year: 1995
+Found bank name: First Norton Corporation
+✅ Saved: insiders/First Norton Corporation_Y-6_1995-12-31_English_11556241.csv, securities/First Norton Corporation_Y-6_1995-12-31_English_11556241.csv
+
+--- Processing: CapIQMistral_Updated/1995/First Norton Corporation_Y-6_1995-12-31_English_11556241_2.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                                        a2  ...                                                b11
+0                  Alice Kohfeld Trust #1  ...                                               None
+1                 Ward B. Smiley Trust #1  ...                                               None
+2  Harold C. Kohfeld Testamentary Trust A  ...                                               None
+3                       Harold C. Kohfeld  ...                           [LaBrea, Norton, Kansas]
+4                        Robert W. Smiley  ...  [LaBrea, Norton, Kansas, Dos Amigos, Norton, K...
+5                         Karl S. Kohfeid  ...                       [Dos Amigos, Norton, Kansas]
+6                        David L Brownell  ...                                               None
+7                        Dennis Gilhousen  ...                                               None
+8                          Dean EsSlinger  ...  [Los Primes, Inc., Notion, Kansas, EsSlinger R...
+9                           Daniel Walter  ...  [Ryan, Walter & McClymont, Chaptered., Norton,...
+
+[10 rows x 12 columns]
+Found year: 1995
+Found bank name: First Norton Corporation
+✅ Saved: insiders/First Norton Corporation_Y-6_1995-12-31_English_11556241_2.csv, securities/First Norton Corporation_Y-6_1995-12-31_English_11556241_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/First State Fremont, Inc._Y-6_1995-12-31_English_11556328.json ---
+Shareholders                                                   a1           b1  ...   f1     g1
+0                                   WILLIAM F. DUGAN      FREMONT  ...  200  11.77
+1                              TRAVIS L. NELSON, IRA      FREMONT  ...  100   5.88
+2  DONALDSON LUFKIN & JENRETTE SEC CORP. CUSTFOR ...  JERSEY CITY  ...  170  10.00
+3                                     JOHN L. LARSEN      FREMONT  ...  200  11.77
+4              ELDEAN L. OR SHARON M. ERICKSON, WROS      FREMONT  ...  100   5.88
+5             BALL EDLOFF & CO. M. CHARLES STRASBURG      FREMONT  ...  100   5.88
+6                                JAMES H. MOORE, JR.      FREMONT  ...  100   5.88
+7               DALE E. OLSON OR FERN M. OLSON, WROS      FREMONT  ...  200  11.77
+8                TRAVIS L. OR ROSALYN K. NELSON WROS      FREMONT  ...  100   5.88
+9                                    NEIL W. SCHILKE      FREMONT  ...  200  11.77
+
+[10 rows x 7 columns]
+Insiders                        a2  ...                                                b11
+0        William F. Dugan  ...  Dugan Funeral Services, Inc.; Fleet Systems, Inc.
+1      Eldean L. Erickson  ...  Erickson Farm Partnership; B E P Land Partners...
+2   Jerald D. Hendrickson  ...  H. L. W., Inc. d/b/a Bahner College of Hairsty...
+3         Ronald D. Kranz  ...                                          GMK, Inc.
+4          John L. Larsen  ...                         Larsen International, Inc.
+5     James H. Moore, Jr.  ...                                               None
+6        Travis L. Nelson  ...      R.C. K. Distributing, Inc.; Travelure Company
+7           Dale E. Olson  ...                                   FerNanDale, Inc.
+8         Ronald K. Rohrs  ...                                 Rohrs Quintessence
+9         Neil W. Schilke  ...                                               None
+10   M. Charles Strasburg  ...                Hardees of Fremont, Inc.; CPI, Inc.
+
+[11 rows x 12 columns]
+Found year: 1995
+Found bank name: First State Fremont, Inc.
+✅ Saved: insiders/First State Fremont, Inc._Y-6_1995-12-31_English_11556328.csv, securities/First State Fremont, Inc._Y-6_1995-12-31_English_11556328.csv
+
+--- Processing: CapIQMistral_Updated/1995/First State Fremont, Inc._Y-6_1995-12-31_English_11556328_2.json ---
+Shareholders                                                   a1           b1  ...   f1     g1
+0                                    WILLIAMF. DUGAN      FREMONT  ...  200  11.77
+1                              TRAVIS L. NELSON, IRA      FREMONT  ...  100   5.88
+2  DONALDSON LUFKIN & JENRETTE SEC CORP. CUSTFOR ...  JERSEY CITY  ...  170  10.00
+3                                     JOHN L. LARSEN      FREMONT  ...  200  11.77
+4               ELDEANL. OR SHARON M. ERICKSON, WROS      FREMONT  ...  100   5.88
+5             BALL EDLOFF & CO. M. CHARLES STRASBURG      FREMONT  ...  100   5.88
+6                                JAMES H. MOORE, JR.      FREMONT  ...  100   5.88
+7               DALE E. OLSON OR FERN M. OLSON, WROS      FREMONT  ...  200  11.77
+8                 TRAVIS L. OR ROSALYNK. NELSON WROS      FREMONT  ...  100   5.88
+9                                    NEIL W. SCHILKE      FREMONT  ...  200  11.77
+
+[10 rows x 7 columns]
+Insiders                        a2  ...                                                b11
+0        William F. Dugan  ...  Dugan Funeral Services, Inc.; Fleet Systems, Inc.
+1      Eldean L. Erickson  ...  Erickson Farm Partnership; B E P Land Partners...
+2   Jerald D. Hendrickson  ...  H. L. W., Inc. d/b/a Bahner College of Hairsty...
+3         Ronald D. Kranz  ...                                          GMK, Inc.
+4          John L. Larsen  ...                         Larsen International, Inc.
+5     James H. Moore, Jr.  ...                                               None
+6        Travis L. Nelson  ...      R.C. K. Distributing, Inc.; Travelure Company
+7           Dale E. Olson  ...                                   FerNanDale, Inc.
+8         Ronald K. Rohrs  ...                                 Rohrs Quintessence
+9         Neil W. Schilke  ...                                               None
+10   M. Charles Strasburg  ...                Hardees of Fremont, Inc.; CPI, Inc.
+
+[11 rows x 12 columns]
+Found year: 1995
+Found bank name: First State Fremont, Inc.
+✅ Saved: insiders/First State Fremont, Inc._Y-6_1995-12-31_English_11556328_2.csv, securities/First State Fremont, Inc._Y-6_1995-12-31_English_11556328_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/First Staunton Bancshares, Inc._Y-6_1995-12-31_English_11548043.json ---
+Shareholders                      a1        b1  c1    d1    e1        f1     g1
+0  Josephine C. Oltmann  Staunton  IL  None  None  1,827.33  43.1%
+1      Ralph J. Oltmann  Staunton  IL  None  None  1,685.42  39.8%
+2        Maribeth Jones   Chicago  IL  None  None       132   3.1%
+Insiders                  a2        b2  ...   b10                 b11
+0  Ralph J. Oltmann  Staunton  ...  None                None
+1    Maribeth Jones   Chicago  ...  None  My Sister's Circus
+2   Larry J. riglar  Staunton  ...  None                None
+
+[3 rows x 12 columns]
+Found year: 1995
+Found bank name: First Staunton Bancshares, Inc.
+✅ Saved: insiders/First Staunton Bancshares, Inc._Y-6_1995-12-31_English_11548043.csv, securities/First Staunton Bancshares, Inc._Y-6_1995-12-31_English_11548043.csv
+
+--- Processing: CapIQMistral_Updated/1995/First Staunton Bancshares, Inc._Y-6_1995-12-31_English_11548043_2.json ---
+Shareholders                      a1        b1  c1    d1    e1        f1     g1
+0  Josephine C. Oltmann  Staunton  IL  None  None  1,827.33  43.1%
+1      Ralph J. Oltmann  Staunton  IL  None  None  1,685.42  39.8%
+2        Maribeth Jones   Chicago  IL  None  None       132   3.1%
+Insiders                 a2        b2  b3  ... b9_full_voting_shares_text   b10   b11
+0  Larry J. riglar  Staunton  &L  ...            50 shares, 1.2%  None  None
+
+[1 rows x 12 columns]
+Found year: 1995
+Found bank name: First Staunton Bancshares, Inc.
+✅ Saved: insiders/First Staunton Bancshares, Inc._Y-6_1995-12-31_English_11548043_2.csv, securities/First Staunton Bancshares, Inc._Y-6_1995-12-31_English_11548043_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Fort Riley Bancshares, Incorporated_Y-6_1995-12-31_English_11557980.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                            a2  ...                                                b11
+0  Dorothy O. Bramlage, Trust  ...                                               None
+1          Ronald R. Bramlage  ...                                               None
+2          John G. Montgomery  ...  Montgomery Publications, Inc., Junction City, ...
+3          Mary K. Montgomery  ...                                               None
+4              John J. Norton  ...                                               None
+5            Richard J. Seitz  ...                                               None
+6              Alan K. Swartz  ...                                               None
+7          Roland E. Waechter  ...                                               None
+8        Dorothy H. Willcoxon  ...                                               None
+
+[9 rows x 12 columns]
+Found year: 1995
+Found bank name: Fort Riley Bancshares Inc.
+✅ Saved: insiders/Fort Riley Bancshares, Incorporated_Y-6_1995-12-31_English_11557980.csv, securities/Fort Riley Bancshares, Incorporated_Y-6_1995-12-31_English_11557980.csv
+
+--- Processing: CapIQMistral_Updated/1995/Fort Riley Bancshares, Incorporated_Y-6_1995-12-31_English_11557980_2.json ---
+❌ Failed: Fort Riley Bancshares, Incorporated_Y-6_1995-12-31_English_11557980_2: Expecting ',' delimiter: line 31 column 6 (char 634)
+
+--- Processing: CapIQMistral_Updated/1995/Greater Ohio River Company_Y-6_1995-12-31_English_11550440.json ---
+Shareholders                  a1        b1    c1      d1      e1     f1      g1
+0  A. Patrick Tonti  Columbus  Ohio  U.S.A.  U.S.A.  75.26  75.26%
+1     Mary K. Tonti  Columbus  Ohio  U.S.A.  U.S.A.  24.74  24.74%
+Insiders                  a2        b2    b3  ... b9_full_voting_shares_text   b10   b11
+0  A. Patrick Tonti  Columbus  Ohio  ...                       None  None  None
+1   Thomas A. Tonti  Columbus  Ohio  ...                       None  None  None
+2        Wick Tonti  Columbus  Ohio  ...                       None  None  None
+3     Mary K. Tonti  Columbus  Ohio  ...                       None  None  None
+
+[4 rows x 12 columns]
+Found year: 1996
+Found bank name: Greater Ohio River Company
+✅ Saved: insiders/Greater Ohio River Company_Y-6_1995-12-31_English_11550440.csv, securities/Greater Ohio River Company_Y-6_1995-12-31_English_11550440.csv
+
+--- Processing: CapIQMistral_Updated/1995/Greater Ohio River Company_Y-6_1995-12-31_English_11550440_2.json ---
+Shareholders                  a1        b1    c1      d1      e1     f1      g1
+0  A. Patrick Tonti  Columbus  Ohio  U.S.A.  U.S.A.  75.26  75.26%
+1     Mary K. Tonti  Columbus  Ohio  U.S.A.  U.S.A.  24.74  24.74%
+Insiders                  a2        b2    b3  ... b9_full_voting_shares_text   b10   b11
+0  A. Patrick Tonti  Columbus  Ohio  ...                       None  None  None
+1   Thomas A. Tonti  Columbus  Ohio  ...                       None  None  None
+2        Wick Tonti  Columbus  Ohio  ...                       None  None  None
+3     Mary K. Tonti  Columbus  Ohio  ...                       None  None  None
+
+[4 rows x 12 columns]
+Found year: 1996
+Found bank name: Greater Ohio River Company
+✅ Saved: insiders/Greater Ohio River Company_Y-6_1995-12-31_English_11550440_2.csv, securities/Greater Ohio River Company_Y-6_1995-12-31_English_11550440_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Hana Bancorp, Inc._Y-6_1995-12-31_English_11474418.json ---
+Shareholders                    a1              b1  c1    d1    e1      f1    g1
+0      Young In Chung          Warren  NJ  None  None  55,303  9.65
+1    Paul Shinnan Kim       Manhasset  NY  None  None  45,974  8.02
+2        Ho Houn Yoon      Livingston  NJ  None  None  25,357  4.42
+3           David Yoo       Cresskill  NJ  None  None  32,455  5.67
+4       Hi Young Choe       Manhasset  NY  None  None  43,547  7.95
+5       Wen Chu Huang  Franklin Lakes  NJ  None  None  28,664  5.00
+6   William P. Tucker        Brooklyn  NY  None  None   5,525  None
+7      John F. O'Hara        Brooklyn  NY  None  None     441  None
+8          Sun Joo Oh         Paramus  NJ  None  None  46,302  8.08
+9            Don Chou  Franklin Lakes  NJ  None  None  34,177  5.96
+10      Song Hwan Kim          Alpine  NJ  None  None  55,671  9.71
+11       Sam C. Chung           Union  NJ  None  None  30,946  5.34
+Insiders                    a2              b2  ...   b10   b11
+0    Paul Shinnan Kim       Manhasset  ...  None  None
+1        Sam C. Chung           Union  ...  None  None
+2   Daniel J. Cardone        Roseland  ...  None  None
+3  Mario P. Pastorino  Valley Cottage  ...  None  None
+4          Ted Morgan   North Babylon  ...  None  None
+5        Jong Kwan Ra         Haworth  ...  None  None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: BNB Financial Services Corporation
+✅ Saved: insiders/Hana Bancorp, Inc._Y-6_1995-12-31_English_11474418.csv, securities/Hana Bancorp, Inc._Y-6_1995-12-31_English_11474418.csv
+
+--- Processing: CapIQMistral_Updated/1995/Hana Bancorp, Inc._Y-6_1995-12-31_English_11474418_2.json ---
+Shareholders                    a1              b1  c1    d1    e1      f1    g1
+0      Young In Chung          Warren  NJ  None  None  55,303  9.65
+1    Paul Shinnan Kim       Manhasset  NY  None  None  45,974  8.02
+2        Ho Houn Yoon      Livingston  NJ  None  None  25,357  4.42
+3           David Yoo       Cresskill  NJ  None  None  32,455  5.67
+4       Hi Young Choe       Manhasset  NY  None  None  43,547  7.95
+5       Wen Chu Huang  Franklin Lakes  NJ  None  None  28,664  5.00
+6   William P. Tucker        Brooklyn  NY  None  None   5,525  None
+7      John F. O'Hara        Brooklyn  NY  None  None     441  None
+8          Sun Joo Oh         Paramus  NJ  None  None  46,302  8.08
+9            Don Chou  Franklin Lakes  NJ  None  None  34,177  5.96
+10      Song Hwan Kim          Alpine  NJ  None  None  55,671  9.71
+11       Sam C. Chung           Union  NJ  None  None  30,946  5.34
+Insiders                    a2              b2  ...   b10   b11
+0    Paul Shinnan Kim       Manhasset  ...  None  None
+1   Daniel J. Cardone        Roseland  ...  None  None
+2  Mario P. Pastorino  Valley Cottage  ...  None  None
+3          Ted Morgan   North Babylon  ...  None  None
+4        Jong Kwan Ra         Haworth  ...  None  None
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: BNB Financial Services Corporation
+✅ Saved: insiders/Hana Bancorp, Inc._Y-6_1995-12-31_English_11474418_2.csv, securities/Hana Bancorp, Inc._Y-6_1995-12-31_English_11474418_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Holcomb Bancshares, Inc._Y-6_1995-12-31_English_11543774.json ---
+Shareholders                   a1           b1      c1      d1      e1     f1      g1
+0  Thomas R. Uehling  Garden City  Kansas  U.S.A.  U.S.A.    425  10.00%
+1   Margo A. Uehling  Garden City  Kansas  U.S.A.  U.S.A.    567  13.34%
+2   George S. Pappas  Garden City  Kansas  U.S.A.  U.S.A.    567  13.34%
+3    Earl W. Kleeman       Lakins  Kansas  U.S.A.  U.S.A.  1,133  26.66%
+4  Ronnie L. Leonard      Holcomb  Kansas  U.S.A.  U.S.A.    567  13.34%
+5    Paul A. Pfeifer      Holcomb  Kansas  U.S.A.  U.S.A.    566  13.32%
+Insiders                   a2           b2  ...   b10   b11
+0  Rennie L. Leonard      Holcomb  ...  None  None
+1  Thomas R. Uehling  Garden City  ...  None  None
+2    Paul A. Pfeifer      Holcomb  ...  None  None
+3      George Pappas  Garden City  ...  None  None
+4    Karl W. Kleeman            U  ...  None  None
+5   Marge A. Uehling  Garden City  ...  None  None
+6      Diana Pfeifer      Holcomb  ...  None  None
+
+[7 rows x 12 columns]
+Found year: 1995
+Found bank name: Holcomb Bancshares, Inc
+✅ Saved: insiders/Holcomb Bancshares, Inc._Y-6_1995-12-31_English_11543774.csv, securities/Holcomb Bancshares, Inc._Y-6_1995-12-31_English_11543774.csv
+
+--- Processing: CapIQMistral_Updated/1995/Holcomb Bancshares, Inc._Y-6_1995-12-31_English_11543774_2.json ---
+Shareholders                   a1           b1      c1      d1      e1     f1      g1
+0  Thomas R. Uehling  Garden City  Kansas  U.S.A.  U.S.A.    425  10.00%
+1   Margo A. Uehling  Garden City  Kansas  U.S.A.  U.S.A.    567  13.34%
+2   George S. Pappas  Garden City  Kansas  U.S.A.  U.S.A.    567  13.34%
+3    Earl W. Kleeman       Lakins  Kansas  U.S.A.  U.S.A.  1,133  26.66%
+4  Ronnie L. Leonard      Holcomb  Kansas  U.S.A.  U.S.A.    567  13.34%
+5    Paul A. Pfeifer      Holcomb  Kansas  U.S.A.  U.S.A.    566  13.32%
+Insiders                   a2           b2  ...   b10   b11
+0  Rennie L. Leonard      Holcomb  ...  None  None
+1  Thomas R. Uehling  Garden City  ...  None  None
+2    Paul A. Pfeifer      Holcomb  ...  None  None
+3      George Pappas  Garden City  ...  None  None
+4    Karl W. Kleeman            U  ...  None  None
+5   Marge A. Uehling  Garden City  ...  None  None
+6      Diana Pfeifer      Holcomb  ...  None  None
+
+[7 rows x 12 columns]
+Found year: 1995
+Found bank name: Holcomb Bancshares, Inc
+✅ Saved: insiders/Holcomb Bancshares, Inc._Y-6_1995-12-31_English_11543774_2.csv, securities/Holcomb Bancshares, Inc._Y-6_1995-12-31_English_11543774_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/McHugh Investment Company_Y-6_1995-12-31_English_11557387.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                a2       b2  b3  ... b9_full_voting_shares_text   b10   b11
+0    Brian Hchugh  Murdock  Me  ...             48545%\n49039%  None  None
+1     Lynn McHugh  Murdock  Me  ...             48545%\n49039%  None  None
+2  Ervin Stohlman  Murdock  Me  ...                   10 H 10%  968%  None
+
+[3 rows x 12 columns]
+Found year: 1995
+Found bank name: McHugh Investment Co
+✅ Saved: insiders/McHugh Investment Company_Y-6_1995-12-31_English_11557387.csv, securities/McHugh Investment Company_Y-6_1995-12-31_English_11557387.csv
+
+--- Processing: CapIQMistral_Updated/1995/McHugh Investment Company_Y-6_1995-12-31_English_11557387_2.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                a2       b2  b3  ... b9_full_voting_shares_text    b10   b11
+0    Brian Hchugh  Murdock  Ne  ...            48545 % 49039 %   none  None
+1     Lynn McHugh  Murdock  Ne  ...            48545 % 49039 %   none  None
+2  Ervin Stohlman  Murdock  Ne  ...            10 H 10 % 968 %  9.68%  None
+
+[3 rows x 12 columns]
+Found year: 1995
+Found bank name: McHugh Investment Co
+✅ Saved: insiders/McHugh Investment Company_Y-6_1995-12-31_English_11557387_2.csv, securities/McHugh Investment Company_Y-6_1995-12-31_English_11557387_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Morgan Capital Corporation_Y-6_1995-12-31_English_11558155.json ---
+Shareholders                            a1           b1  c1   d1   e1     f1     g1
+0             MARK A ACHZIGER  FORT MORGAN  CO  USA  USA   5.88   2:19
+1  RUSSELL L AND JEAN RATHMAN  FORT MORGAN  CO  USA  USA  5.280  25.36
+2      EDWIN AND KAREN GERKEN  FORT MORGAN  CO  USA  USA  2.500  10.13
+3                MARK FRASIER      WOODROW  CO  USA  USA  1.500   5.46
+4                  JOHN GOETZ  FORT MORGAN  CO  USA  USA  1.250   5.05
+5     GEORGE AND SUSAN HAFFKE  FORT MORGAN  CO  USA  USA  1.250   5.05
+Insiders                    a2  ...                                                b11
+0      EUGENE V. DOTY  ...  DOTY REALTY; D & B DEVELOPMENT, INC; D & D FAR...
+1  RUSSELL L. RATHMAN  ...                                               None
+2   JANICE C. NORRISH  ...                                               None
+3     MARK W. FRASIER  ...                         HASHKNIFE INVESTMENTS. LLC
+4     E. EDWIN GERKEN  ...                                               None
+5       JOHN W. GOETZ  ...  GOETZINSURORS INC; PIONEER G EVERAL INSURANCE ...
+6    MARK A. ACHZIGER  ...  ACHZIGER INVESTMENT CO.; ACHZIGER RENTAL CO.; ...
+7    GEORGE R. HAFFKE  ...                             AFFKE. HAFFKE $LEBSACK
+
+[8 rows x 12 columns]
+Found year: 1995
+Found bank name: MORGAN CAP I TAL CORPORATION
+✅ Saved: insiders/Morgan Capital Corporation_Y-6_1995-12-31_English_11558155.csv, securities/Morgan Capital Corporation_Y-6_1995-12-31_English_11558155.csv
+
+--- Processing: CapIQMistral_Updated/1995/Morgan Capital Corporation_Y-6_1995-12-31_English_11558155_2.json ---
+Shareholders                            a1           b1  c1   d1    e1    f1    g1
+0             MARK A ACHZIGER  FORT MORGAN  CO  USA  None  None  5.88
+1  RUSSELL L AND JEAN RATHMAN  FORT MORGAN  CO  USA  None  5280  2536
+2      EEWIN AND KAREN GERKEN  FORT MORGAN  CO  USA  None  2500  10°3
+3                MARK FRASIER      WOODROW  CO  USA  None   500   546
+4                  JOHN GCE"Z  FORT MORGAN  CO  USA  None   250   505
+Insiders                    a2  ...                                                b11
+0      EUGENE V. DOTY  ...  DOTY REALTY; D&B DEVELOPMENT NC; D&D FARMS PAR...
+1  RUSSELL L. RATHMAN  ...                                               None
+2   JANICE C. NORRISH  ...                                               None
+3     MARK W. FRASIER  ...                         HASHKNIFE INVESTMENTS. LLC
+4     E. EDWIN GERKEN  ...                                               None
+5       JOHN W. GOETZ  ...  GOETZINSURORS INC; PIONEER G EVERAL INSURANCE ...
+6    MARK A. ACHZIGER  ...  ACHZIGER INVESTMENT CO.; ACHZIGER RENTAL CO.; ...
+7    GEORGE R. HAFFKE  ...                            ·AFFKE. HAFFKE $LEBSACK
+
+[8 rows x 12 columns]
+Found year: 1995
+Found bank name: MORGAN CAP I TAL CORPORATION
+✅ Saved: insiders/Morgan Capital Corporation_Y-6_1995-12-31_English_11558155_2.csv, securities/Morgan Capital Corporation_Y-6_1995-12-31_English_11558155_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/NSB Bancshares, Inc._Y-6_1995-12-31_English_11556363.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                   a2         b2  b3  ... b9_full_voting_shares_text     b10   b11
+0        Gary L. Kay   LaCrosse  KS  ...                     $5.72%    None  None
+1    Mary H. Swisher   LaCrosse  KS  ...                   14\n.70%  10.34%  None
+2  Harvey H. Delaney    Burdett  KS  ...                100\n$4.97%    None  None
+3    Robert Hanhardt   LaCrosse  KS  ...                140\n$6.96%    None  None
+4  Harold J. Herrman   LaCrosse  KS  ...                272\n13.53%    None  None
+5       Ivan D. Krug   LaCrosse  KS  ...                 80\n$3.98%    None  None
+6      John M. Stull  McCracken  KS  ...                 50\n$2.49%    None  None
+
+[7 rows x 12 columns]
+Found year: 1995
+Found bank name: NSB Bancshares, Inc.
+✅ Saved: insiders/NSB Bancshares, Inc._Y-6_1995-12-31_English_11556363.csv, securities/NSB Bancshares, Inc._Y-6_1995-12-31_English_11556363.csv
+
+--- Processing: CapIQMistral_Updated/1995/NSB Bancshares, Inc._Y-6_1995-12-31_English_11556363_2.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                   a2         b2  b3  ... b9_full_voting_shares_text   b10   b11
+0        Gary L. Kay   LaCrosse  KS  ...                 115 $5.72%  None  None
+1    Mary H. Swisher   LaCrosse  KS  ...                    14 .70%  None  None
+2  Harvey H. Delaney    Burdett  KS  ...                 100 $4.97%  None  None
+3    Robert Hanhardt   LaCrosse  KS  ...                 140 $6.96%  None  None
+4  Harold J. Herrman   LaCrosse  KS  ...                 272 13.53%  None  None
+5       Ivan D. Krug   LaCrosse  KS  ...                  80 $3.98%  None  None
+6      John M. Stull  McCracken  KS  ...                  50 $2.49%  None  None
+
+[7 rows x 12 columns]
+Found year: 1995
+Found bank name: NSB Bancshares, Inc.
+✅ Saved: insiders/NSB Bancshares, Inc._Y-6_1995-12-31_English_11556363_2.csv, securities/NSB Bancshares, Inc._Y-6_1995-12-31_English_11556363_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Ore Bancorporation_Y-6_1995-12-31_English_11557977.json ---
+❌ Failed: Ore Bancorporation_Y-6_1995-12-31_English_11557977: Invalid \escape: line 14 column 58 (char 352)
+
+--- Processing: CapIQMistral_Updated/1995/Ore Bancorporation_Y-6_1995-12-31_English_11557977_2.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                  a2         b2        b3  ... b9_full_voting_shares_text   b10   b11
+0      Tom Wrenholt  Leadville  Colorado  ...     10,395 shares - $50 \%  None  None
+1    Patty Wrenholt  Leadville  Colorado  ...        10,390 shares - 50%  None  None
+2   Debbie Wrenholt  Leadville  Colorado  ...                       None  None  None
+3   Steven Wrenholt  Leadville  Colorado  ...                       None  None  None
+4  Valerie Wrenholt  Leadville  Colorado  ...                       None  None  None
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: ORE Bancorporation
+✅ Saved: insiders/Ore Bancorporation_Y-6_1995-12-31_English_11557977_2.csv, securities/Ore Bancorporation_Y-6_1995-12-31_English_11557977_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Ottawa Bancshares, Inc._Y-6_1995-12-31_English_11557942.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                           a2             b2  ...   b10   b11
+0          Joseph A. Moliney  Overland Park  ...  None  None
+1            Jane S. Moliney  Overland Park  ...  None  None
+2    John W. Sutherland. Jr.        Wichita  ...  None  None
+3       Tho:as M. Sutherland          Ozark  ...  None  None
+4  Christopher L. Sutherland          Tulsa  ...  None  None
+5         Mark B. Sutherland  Overland Park  ...  None  None
+6              Jeff Mourning         Ottawa  ...  None  None
+
+[7 rows x 12 columns]
+Found year: 1995
+Found bank name: OTTAWA BANCSHARES, INC.
+✅ Saved: insiders/Ottawa Bancshares, Inc._Y-6_1995-12-31_English_11557942.csv, securities/Ottawa Bancshares, Inc._Y-6_1995-12-31_English_11557942.csv
+
+--- Processing: CapIQMistral_Updated/1995/Ottawa Bancshares, Inc._Y-6_1995-12-31_English_11557942_2.json ---
+Shareholders                           a1             b1  c1   d1    e1    f1    g1
+0          Joseph A. Moliney  Overland Park  KS  USA  None  None  None
+1            Jane S. Moliney  Overland Park  KS  USA  None  None  None
+2    John W. Sutherland. Jr.        Wichita  KS  USA  None  None  None
+3       Thomas M. Sutherland          Ozark  MO  USA  None  None  None
+4  Christopher L. Sutherland          Tulsa  OK  USA  None  None  None
+5         Mark B. Sutherland  Overland Park  KS  USA  None  None  None
+6              Jeff Mourning         Ottawa  KS  USA  None  None  None
+7           Steven B. Michel         Salina  KS  USA  None  None  None
+Insiders                           a2             b2  ...   b10   b11
+0          Joseph A. McIlney  Overland Park  ...  None  None
+1            Jane S. McIlney  Overland Park  ...  None  None
+2    John W. Sutherland. Jr.        Wichita  ...  None  None
+3       Thomas M. Sutherland          Ozark  ...  None  None
+4  Christopher L. Sutherland          Tulsa  ...  None  None
+5         Mark B. Sutherland  Overland Park  ...  None  None
+6              Jeff Mourning         Ottawa  ...  None  None
+7           Steven B. Michel         Salina  ...  None  None
+
+[8 rows x 12 columns]
+Found year: 1995
+Found bank name: OTTAWA BANCSHARES, INC.
+✅ Saved: insiders/Ottawa Bancshares, Inc._Y-6_1995-12-31_English_11557942_2.csv, securities/Ottawa Bancshares, Inc._Y-6_1995-12-31_English_11557942_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Overland Bancorp, Inc._Y-6_1995-12-31_English_11556291.json ---
+Shareholders                                                   a1      b1  ...   f1       g1
+0  James, F. Blair, Jr., Trustee Under Declaratio...  Belton  ...  601  1954?/0
+1  Elizabeth A. Blair, Trustee Under Declaration ...  Belton  ...  600   1951 %
+2                                  James F Blair III  Belton  ...   78    254 %
+3                                   Barbara L. Blair  Belton  ...    2    .06 %
+4                                James F. Blair, Jr.  Belton  ...   10    .33 %
+5                                 Elizabeth A. Blair  Belton  ...   10     .33%
+6              James F Blair III and Barbara L Blair  Belton  ...  553   17.98%
+
+[7 rows x 7 columns]
+Insiders                    a2      b2        b3  ... b9_full_voting_shares_text   b10   b11
+0      John W. Howard  Belton  Missouri  ...               92/300 % (1)  None  None
+1  James F. Blair III  Belton  Missouri  ...           631/20 ≤ 1 % (2)  None  None
+2    Barbara L. Blair  Belton  Missouri  ...             555/1804 % (3)  None  None
+3    Frank Blair, Jr.  Belton  Missouri  ...            611/19.86 % 0(m  None  None
+4  Elizabeth A. Blair  BellOn  Missouri  ...           610/19.83 %. 1 )  None  None
+5    Lanna J. Bernard  Belton  Missouri  ...               25/812 % (4)  None  None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: Overland Bancorp, Inc.
+✅ Saved: insiders/Overland Bancorp, Inc._Y-6_1995-12-31_English_11556291.csv, securities/Overland Bancorp, Inc._Y-6_1995-12-31_English_11556291.csv
+
+--- Processing: CapIQMistral_Updated/1995/Overland Bancorp, Inc._Y-6_1995-12-31_English_11556291_2.json ---
+Shareholders                                                   a1      b1  ...   f1       g1
+0  James, F. Blair, Jr., Trustee Under Declaratio...  Belton  ...  601  1954?/0
+1  Elizabeth A. Blair, Trustee Under Declaration ...  Belton  ...  600   1951 %
+2                                  James F Blair III  Belton  ...   78    254 %
+3                                   Barbara L. Blair  Belton  ...    2    .06 %
+4                                James F. Blair, Jr.  Belton  ...   10    .33 %
+5                                 Elizabeth A. Blair  Belton  ...   10     .33%
+6              James F Blair III and Barbara L Blair  Belton  ...  553   17.98%
+
+[7 rows x 7 columns]
+Insiders                    a2      b2  ...   b10              b11
+0      John W. Howard  Belton  ...  None             None
+1  James F. Blair III  Belton  ...  None   [Belbank, Inc]
+2    Barbara L. Blair  Belton  ...  None   [Belbank, Inc]
+3    Frank Blair, Jr.  Belton  ...  None  [Belbank, Inc.]
+4  Elizabeth A. Blair  BellOn  ...  None  [Belbank, Inc.]
+5    Lanna J. Bernard  Belton  ...  None             None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: Overland Bancorp, Inc.
+✅ Saved: insiders/Overland Bancorp, Inc._Y-6_1995-12-31_English_11556291_2.csv, securities/Overland Bancorp, Inc._Y-6_1995-12-31_English_11556291_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/PDR Bancshares, Inc._Y-6_1995-12-31_English_11531793.json ---
+Shareholders                     a1                 b1        c1    d1    e1   f1    g1
+0        Louise Brands  Prairie du Rocher  Illinois  None  None  499  9.98
+1        Carl J. Braun  Prairie du Rocher  Illinois  None  None  295  5.90
+2       Richard Coleno  Prairie du Rocher  Illinois  None  None  289  5.78
+3  Richard Murray, Jr.           Palatine  Illinois  None  None  260  5.20
+4        Rodney Menard               Rums  Illinois  None  None  332  6.64
+5         Vernon Braun  Prairie du Rocher  Illinois  None  None  356  7.12
+6       Vernon Dashner            Red Bud  Illinois  None  None  474  9.48
+Insiders                   a2                 b2  ...   b10   b11
+0      David Barbeau  Prairie du Rocher  ...  None  None
+1         Carl Braun            Red Bud  ...  None  None
+2       Marie Heizer  Prairie du Rocher  ...  None  None
+3      Rodney Menard               Rums  ...  None  None
+4  Richard Deterding              Modoc  ...  None  None
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: PDR Bancshares, Inc.
+✅ Saved: insiders/PDR Bancshares, Inc._Y-6_1995-12-31_English_11531793.csv, securities/PDR Bancshares, Inc._Y-6_1995-12-31_English_11531793.csv
+
+--- Processing: CapIQMistral_Updated/1995/PDR Bancshares, Inc._Y-6_1995-12-31_English_11531793_2.json ---
+Shareholders                     a1                 b1        c1    d1    e1   f1    g1
+0        Louise Brands  Prairie du Rocher  Illinois  None  None  499  9.98
+1        Carl J. Braun  Prairie du Rocher  Illinois  None  None  295  5.90
+2       Richard Coleno  Prairie du Rocher  Illinois  None  None  289  5.78
+3  Richard Murray, Jr.           Palatine  Illinois  None  None  260  5.20
+4        Rodney Menard               Rums  Illinois  None  None  332  6.64
+5         Vernon Braun  Prairie du Rocher  Illinois  None  None  356  7.12
+6       Vernon Dashner            Red Bud  Illinois  None  None  474  9.48
+Insiders                   a2                 b2  ...   b10   b11
+0      David Barbeau  Prairie du Rocher  ...  None  None
+1         Carl Braun            Red Bud  ...  None  None
+2       Marie Heizer  Prairie du Rocher  ...  None  None
+3      Rodney Menard               Rums  ...  None  None
+4  Richard Deterding              Modoc  ...  None  None
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: PDR Bancshares, Inc.
+✅ Saved: insiders/PDR Bancshares, Inc._Y-6_1995-12-31_English_11531793_2.csv, securities/PDR Bancshares, Inc._Y-6_1995-12-31_English_11531793_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Peak Banks of Colorado, Incorporated_Y-6_1995-12-31_English_11556315.json ---
+Shareholders                 a1    b1    c1    d1    e1    f1    g1
+0  SURRY P. KUMBER  None  None  None  None  None  None
+Insiders                          a2  ...                                                b11
+0           Charles A. Webb  ...                                               None
+1        James W. Vandeveer  ...  North Star Management; Van Air,Inc.; Blue Lake...
+2  Victoria Vandeveer Moore  ...                                               None
+3         Thomas L. Hartley  ...                                               None
+4        Gail Marie Hartley  ...                                               None
+5               Dale Duncan  ...  Carbondale B.F. Inc.; The Inn at Baca, Ltd.; L...
+6               Dana Duncan  ...                                               None
+
+[7 rows x 12 columns]
+Found year: 1995
+Found bank name: Peak Banks of Colorado, Inc.
+✅ Saved: insiders/Peak Banks of Colorado, Incorporated_Y-6_1995-12-31_English_11556315.csv, securities/Peak Banks of Colorado, Incorporated_Y-6_1995-12-31_English_11556315.csv
+
+--- Processing: CapIQMistral_Updated/1995/Peak Banks of Colorado, Incorporated_Y-6_1995-12-31_English_11556315_2.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                          a2  ...                                                b11
+0           Charles A. Webb  ...                                               None
+1        James W. Vandeveer  ...  North Star Management; Van Air,Inc.; Blue Lake...
+2  Victoria Vandeveer Moore  ...                                               None
+3         Thomas L. Hartley  ...                                               None
+4        Gail Marie Hartley  ...                                               None
+5               Dale Duncan  ...  Carbondale B.F. Inc.; The Inn at Baca, Ltd.; L...
+6               Dana Duncan  ...                                               None
+
+[7 rows x 12 columns]
+Found year: 1995
+Found bank name: Peak Banks of Colorado, Inc.
+✅ Saved: insiders/Peak Banks of Colorado, Incorporated_Y-6_1995-12-31_English_11556315_2.csv, securities/Peak Banks of Colorado, Incorporated_Y-6_1995-12-31_English_11556315_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Phillips Holdings, Inc._Y-6_1995-12-31_English_11559934.json ---
+Shareholders                   a1            b1    c1   d1   e1   f1     g1
+0       RICHARD HAYS         LOGAN    KS  USA  USA   34   8.2%
+1    ANNA VAN LOENEN  PRAIRIE VIEW    KS  USA  USA   65  15.8%
+2  BUFORD VAN LOENEN  PRAIRIE VIEW    KS  USA  USA  200  48.6%
+3  ROOGER VAN LOENEN  PRAIRIE VIEW    KS  USA  USA   79  19.2%
+4        ROGERIERIER   WITH CENTER  None  USA  USA   64  19.2%
+Insiders                   a2            b2  ...   b10   b11
+0  BUFORD VAN LOENEN  Prairie View  ...  None  None
+1  RODGER VAN LOENEN  Prairie View  ...  None  None
+2       RICHARD HAYS         Logan  ...  None  None
+3   THOMAS VAN DIEST  Prairie View  ...  None  None
+4   Douglas E. Vahle  Phillipsburg  ...  None  None
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: Phillips Holdings, Inc.
+✅ Saved: insiders/Phillips Holdings, Inc._Y-6_1995-12-31_English_11559934.csv, securities/Phillips Holdings, Inc._Y-6_1995-12-31_English_11559934.csv
+
+--- Processing: CapIQMistral_Updated/1995/Phillips Holdings, Inc._Y-6_1995-12-31_English_11559934_2.json ---
+Shareholders                   a1            b1    c1   d1   e1   f1     g1
+0       RICHARD HAYS         LOGAN    KS  USA  USA   34   8.2%
+1    ANNA VAN LOENEN  PRAIRIE VIEW    KS  USA  USA   65  15.8%
+2  BUFORD VAN LOENEN  PRAIRIE VIEW    KS  USA  USA  200  48.6%
+3  ROOGER VAN LOENEN  PRAIRIE VIEW    KS  USA  USA   79  19.2%
+4        ROGERIERIER   WITH CENTER  None  USA  USA   64  19.2%
+Insiders                   a2            b2  ...   b10   b11
+0  BUFORD VAN LOENEN  Prairie View  ...  None  None
+1  RODGER VAN LOENEN  Prairie View  ...  None  None
+2       RICHARD HAYS         Logan  ...  None  None
+3   THOMAS VAN DIEST  Prairie View  ...  None  None
+4   Douglas E. Vahle  Phillipsburg  ...  None  None
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: Phillips Holdings, Inc.
+✅ Saved: insiders/Phillips Holdings, Inc._Y-6_1995-12-31_English_11559934_2.csv, securities/Phillips Holdings, Inc._Y-6_1995-12-31_English_11559934_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Post Bancorp, Inc._Y-6_1995-12-31_English_11558154.json ---
+❌ Failed: Post Bancorp, Inc._Y-6_1995-12-31_English_11558154: Invalid \escape: line 120 column 106 (char 2969)
+
+--- Processing: CapIQMistral_Updated/1995/Post Bancorp, Inc._Y-6_1995-12-31_English_11558154_2.json ---
+❌ Failed: Post Bancorp, Inc._Y-6_1995-12-31_English_11558154_2: Invalid \escape: line 120 column 102 (char 3438)
+
+--- Processing: CapIQMistral_Updated/1995/RMB Bancshares, Inc._Y-6_1995-12-31_English_11554824.json ---
+Shareholders                         a1            b1  ...        f1             g1
+0   Forest Donald Reynolds     Marceline  ...      1200          19.8%
+1       Anneliese Reynolds     Marceline  ...      None           None
+2          Kim M. Ricketts     Salisbury  ...      1725         28.51%
+3        Linda A. Ricketts     Salisbury  ...      None           None
+4           Elmer E. Bills     Salisbury  ...       500          8.26%
+5             Amelia Bills     Salisbury  ...      None           None
+6           Randy W. Britt  Clifton Hill  ...       200          3.31%
+7           Karla L. Britt  Clifton Hill  ...  749; 200  12.38%; 3.31%
+8           D. Wayne Britt        Callao  ...       175          2.89%
+9            Mary E. Britt        Callao  ...       175          2.89%
+10         John H. Ratliff     Salisbury  ...       775         12.81%
+11       Howard S. Ratliff     Salisbury  ...       301          4.98%
+12           Donna Ratliff     Salisbury  ...      None           None
+
+[13 rows x 7 columns]
+Insiders                    a2            b2  ...   b10   b11
+0     Kim M. Ricketts     Salisbury  ...  None  None
+1      Randy W. Britt  Clifton Hill  ...  None  None
+2      D. Wayne Britt        Callao  ...  None  None
+3     John H. Ratliff     Salisbury  ...  None  None
+4  F. Donald Reynolds     Marceline  ...  None  None
+5     Elmer Bills Jr.     Salisbury  ...  None  None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: RMB Bancshares, Inc.
+✅ Saved: insiders/RMB Bancshares, Inc._Y-6_1995-12-31_English_11554824.csv, securities/RMB Bancshares, Inc._Y-6_1995-12-31_English_11554824.csv
+
+--- Processing: CapIQMistral_Updated/1995/RMB Bancshares, Inc._Y-6_1995-12-31_English_11554824_2.json ---
+Shareholders                         a1            b1  ...    f1             g1
+0   Forest Donald Reynolds     Marceline  ...  1200          19.8%
+1       Anneliese Reynolds     Marceline  ...  None           None
+2          Kim M. Ricketts     Salisbury  ...  1725         28.51%
+3        Linda A. Ricketts     Salisbury  ...  None           None
+4           Elmer E. Bills     Salisbury  ...   500          8.26%
+5             Amelia Bills     Salisbury  ...  None           None
+6           Randy W. Britt  Clifton Hill  ...  None  3.31%; 12.38%
+7           Karla L. Britt  Clifton Hill  ...   200          3.31%
+8           D. Wayne Britt        Callao  ...   175          2.89%
+9            Mary E. Britt        Callao  ...   175          2.89%
+10         John H. Ratliff     Salisbury  ...   775         12.81%
+11       Howard S. Ratliff     Salisbury  ...   301          4.98%
+12           Donna Ratliff     Salisbury  ...  None           None
+
+[13 rows x 7 columns]
+Insiders                    a2            b2  ...   b10   b11
+0     Kim M. Ricketts     Salisbury  ...  None  None
+1      Randy W. Britt  Clifton Hill  ...  None  None
+2      D. Wayne Britt        Callao  ...  None  None
+3     John H. Ratliff     Salisbury  ...  None  None
+4  F. Donald Reynolds     Marceline  ...  None  None
+5     Elmer Bills Jr.     Salisbury  ...  None  None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: RMB Bancshares, Inc.
+✅ Saved: insiders/RMB Bancshares, Inc._Y-6_1995-12-31_English_11554824_2.csv, securities/RMB Bancshares, Inc._Y-6_1995-12-31_English_11554824_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Resource One, Inc._Y-6_1995-12-31_English_11556358.json ---
+Shareholders                                                a1    b1    c1  ...    e1   f1    g1
+0  Hares Co. (nominee for Grant County Bank ESOP)  None  None  ...  None  700  11.8
+
+[1 rows x 7 columns]
+Insiders                    a2       b2  ...   b10   b11
+0    Floyd V. Pinnick  Ulysses  ...  None  None
+1    H. Samuel Ferrer  Ulysses  ...  None  None
+2   Thomas J. Pinnick  Ulysses  ...  None  None
+3   Jerry L. Sullivan  Ulysses  ...  None  None
+4  Joseph M. Sullivan  Ulysses  ...  None  None
+5      Judith Keusler  Ulysses  ...  None  None
+
+[6 rows x 12 columns]
+Found year: 1996
+Found bank name: Resource One, Inc.
+✅ Saved: insiders/Resource One, Inc._Y-6_1995-12-31_English_11556358.csv, securities/Resource One, Inc._Y-6_1995-12-31_English_11556358.csv
+
+--- Processing: CapIQMistral_Updated/1995/Resource One, Inc._Y-6_1995-12-31_English_11556358_2.json ---
+Shareholders                                                a1    b1    c1  ...    e1   f1    g1
+0  Hares Co. (nominee for Grant County Bank ESOP)  None  None  ...  None  700  11.8
+
+[1 rows x 7 columns]
+Insiders                    a2       b2  ...   b10   b11
+0    Floyd V. Pinnick  Ulysses  ...  None  None
+1    H. Samuel Ferrer  Ulysses  ...  None  None
+2   Thomas J. Pinnick  Ulysses  ...  None  None
+3   Jerry L. Sullivan  Ulysses  ...  None  None
+4  Joseph M. Sullivan  Ulysses  ...  None  None
+5      Judith Keusler  Ulysses  ...  None  None
+
+[6 rows x 12 columns]
+Found year: 1996
+Found bank name: Resource One, Inc.
+✅ Saved: insiders/Resource One, Inc._Y-6_1995-12-31_English_11556358_2.csv, securities/Resource One, Inc._Y-6_1995-12-31_English_11556358_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Rocky Mountain Capital_Y-6_1995-12-31_English_11557397.json ---
+Shareholders                                                    a1  ...    g1
+0                                  George L. Andersen  ...  None
+1               George L. Andersen; Nancy S. Andersen  ...  None
+2     Anselmi Children's Trust FBO Liisa Lynn Anselmi  ...  None
+3   Anselmi Children's Trust FBO Michelle Loraine ...  ...  None
+4    Anselmi Children's Trust FBO Paul Thomas Anselmi  ...  None
+5   Liisa Lynn Anselmi as Custodian for Morgan Ans...  ...  None
+6                                    Patricia Anselmi  ...  None
+7                                        Paul Anselmi  ...  None
+8                                Dick Lee Blankenship  ...  None
+9         Dick Lee Blankenship; Sharon E. Blankenship  ...  None
+10                               Joseph J. Erramouspe  ...  None
+11                      Joseph J. Erramouspe, DDS, PC  ...  None
+12  Joseph J. Erramouspe, DDS, PC Profit sharing Plan  ...  None
+13   Joseph J. Erramouspe, DDS, PC Retirement Account  ...  None
+14                                    Shauna K. Faler  ...  None
+15                                  J & P Investments  ...  None
+16                                   John S. Kauchich  ...  None
+17                                   John S. Kauchich  ...  None
+18                                  Bruce K. Lockhart  ...  None
+19                                   Joseph J. Oliver  ...  None
+20  Margaret M. Oliver and Joseph J. Oliver as tru...  ...  None
+21  Margaret M. Oliver, as custodian for Carla Ann...  ...  None
+22  Margaret M. Oliver, as custodian for Christain...  ...  None
+23  Margaret M. Oliver, as custodian for Cara Alan...  ...  None
+24                                    Matthew T. Ware  ...  None
+25                                 Whisier Properties  ...  None
+26                                  Robert B. Whisler  ...  None
+27  Patricia E. Anselmi 'u/a/d/ October 1, 1981, a...  ...  None
+28    Paul D. Anselmi u/a/d/ July 1, 1975, as amended  ...  None
+29                                   Stella M. Miller  ...  None
+30  Patty Nelson as Custodian for Kirsi Anslemi St...  ...  None
+
+[31 rows x 7 columns]
+Insiders                       a2            b2  ...   b10   b11
+0      Robert B. Whisler  Rock Springs  ...  None  None
+1    Patricia E. Anasimi  Rock Springs  ...  None  None
+2       Joseph J. Oliver  Rock Springs  ...  None  None
+3       John R. Kaushich  Rock Springs  ...  None  None
+4   Dick Lee Blankenship  Rock Springs  ...  None  None
+5      George L Anderson  Rock Springs  ...  None  None
+6   Joseph J. Erremounes  Rock Springs  ...  None  None
+7      Bruce K. Lockhart  Rock Springs  ...  None  None
+8         Shuma E. Faler  Rock Springs  ...  None  None
+9        Matthew J. Ware  Rock Springs  ...  None  None
+10         Stella Miller  Rock Springs  ...  None  None
+
+[11 rows x 12 columns]
+Found year: 1995
+Found bank name: ROCK SPRINGS AMERICAN BANCORPORATION, INC.
+✅ Saved: insiders/Rocky Mountain Capital_Y-6_1995-12-31_English_11557397.csv, securities/Rocky Mountain Capital_Y-6_1995-12-31_English_11557397.csv
+
+--- Processing: CapIQMistral_Updated/1995/Rocky Mountain Capital_Y-6_1995-12-31_English_11557397_2.json ---
+Shareholders                                                    a1  ...    g1
+0                                  George L. Andersen  ...  None
+1                George L. Andersen;Nancy S. Andersen  ...  None
+2     Anselmi Children's Trust FBO Liisa Lynn Anselmi  ...  None
+3   Anselmi Children's Trust FBO Michelle Loraine ...  ...  None
+4    Anselmi Children's Trust FBO Paul Thomas Anselmi  ...  None
+5   Liisa Lynn Anselmi as Custodian for Morgan Ans...  ...  None
+6                                    Patricia Anselmi  ...  None
+7                                        Paul Anselmi  ...  None
+8                                Dick Lee Blankenship  ...  None
+9          Dick Lee Blankenship;Sharon E. Blankenship  ...  None
+10                               Joseph J. Erramouspe  ...  None
+11                      Joseph J. Erramouspe, DDS, PC  ...  None
+12  Joseph J. Erramouspe, DDS, PC Profit sharing Plan  ...  None
+13   Joseph J. Erramouspe, DDS, PC Retirement Account  ...  None
+14                                    Shauna K. Faler  ...  None
+15                                  J & P Investments  ...  None
+16                                   John S. Kauchich  ...  None
+17                                   John S. Kauchich  ...  None
+18                                  Bruce K. Lockhart  ...  None
+19                                   Joseph J. Oliver  ...  None
+20  Margaret M. Oliver and Joseph J. Oliver as tru...  ...  None
+21  Margaret M. Oliver, as custodian for Carla Ann...  ...  None
+22  Margaret M. Oliver, as custodian for Christain...  ...  None
+23  Wyoming Transfers to Minors Act;651 Temple Cir...  ...  None
+24  Margaret M. Oliver, as custodian for Cara Alan...  ...  None
+25                                    Matthew T. Ware  ...  None
+26  Whisier Properties;1305 Cottonwood;Rock Spring...  ...  None
+27  Robert B. Whisler;1305 Cottonwood;Rock Springs...  ...  None
+28  Patricia E. Anselmi;u/a/d/ October 1, 1981, as...  ...  None
+29  Paul D. Anselmi;u/a/d/ July 1, 1975, as amende...  ...  None
+30  Stella M. Miller;3301 Ponderosa Way;Rock Sprin...  ...  None
+31  Patty Nelson as Custodian for Kirsi Anslemi St...  ...  None
+
+[32 rows x 7 columns]
+Insiders                       a2            b2  ...    b10                    b11
+0      Robert B. Whisler  Rock Springs  ...   None                   None
+1    Patricia E. Anasimi  Rock Springs  ...   None                   None
+2       Joseph J. Oliver  Rock Springs  ...   None                   None
+3       John R. Kaushich  Rock Springs  ...   None                   None
+4   Dick Lee Blankenship  Rock Springs  ...    36%                   None
+5      George L Anderson  Rock Springs  ...  1.94%                   None
+6   Joseph J. Erremounes  Rock Springs  ...  3.37%  [B & E Livestock Inc]
+7      Bruce K. Lockhart  Rock Springs  ...   None                   None
+8         Shuma E. Faler  Rock Springs  ...  1.03%                   None
+9        Matthew J. Ware  Rock Springs  ...   None                   None
+10         Stella Miller  Rock Springs  ...   None                   None
+
+[11 rows x 12 columns]
+Found year: 1995
+Found bank name: ROCK SPRINGS AMERICAN BANCORPORATION, INC.
+✅ Saved: insiders/Rocky Mountain Capital_Y-6_1995-12-31_English_11557397_2.csv, securities/Rocky Mountain Capital_Y-6_1995-12-31_English_11557397_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/SBT Bankshares, Inc._Y-6_1995-12-31_English_11556312.json ---
+Shareholders                                                   a1  ...     g1
+0                         LEONARD & GENEVIEVE BURESH  ...   7.88
+1                           CRAIG & ROSEANN ENGELAGE  ...   5.75
+2                                      HAL HOLLISTER  ...   5.40
+3                                JOHN & MARY JACKSON  ...  13.23
+4  CS CARDIOLOGIST/PC PROFIT-SH PLAN/FBO ROBERT C...  ...  13.89
+5                                      SCOTT PURSLEY  ...   6.93
+6                                       GARY SWANSON  ...   7.02
+
+[7 rows x 7 columns]
+Insiders                    a2                b2  ...   b10   b11
+0     John G. Jackson  Colorado Springs  ...  None  None
+1  Dr. Robert Cadigan  Colorado Springs  ...  None  None
+2   Bernard F. Carter  Colorado springs  ...  None  None
+3         Gary Markle  Colorado Springs  ...  None  None
+4    Scott E. Pursley  Colorado springs  ...  None  None
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: SBT Bankshares, Inc.
+✅ Saved: insiders/SBT Bankshares, Inc._Y-6_1995-12-31_English_11556312.csv, securities/SBT Bankshares, Inc._Y-6_1995-12-31_English_11556312.csv
+
+--- Processing: CapIQMistral_Updated/1995/SBT Bankshares, Inc._Y-6_1995-12-31_English_11556312_2.json ---
+Shareholders                                                   a1  ...     g1
+0                         LEONARD & GENEVIEVE BURESH  ...   7.88
+1                           CRAIG & ROSEANN ENGELAGE  ...   5.75
+2                                      HAL HOLLISTER  ...   5.40
+3                                JOHN & MARY JACKSON  ...  13.23
+4  CS CARDIOLOGIST/PC PROFIT-SH PLAN/FBO ROBERT C...  ...  13.89
+5                                      SCOTT PURSLEY  ...   6.93
+6                                       GARY SWANSON  ...   7.02
+
+[7 rows x 7 columns]
+Insiders                    a2                b2  ...   b10   b11
+0     John G. Jackson  Colorado Springs  ...  None  None
+1  Dr. Robert Cadigan  Colorado Springs  ...  None  None
+2   Bernard F. Carter  Colorado springs  ...  None  None
+3         Gary Markle  Colorado Springs  ...  None  None
+4    Scott E. Pursley  Colorado springs  ...  None  None
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: SBT Bankshares, Inc.
+✅ Saved: insiders/SBT Bankshares, Inc._Y-6_1995-12-31_English_11556312_2.csv, securities/SBT Bankshares, Inc._Y-6_1995-12-31_English_11556312_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Solomon Bancshares, Inc._Y-6_1995-12-31_English_11558129.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                   a2          b2  ...   b10   b11
+0   Julia M. Riordan     Solomon  ...  None  None
+1   David R. Riordan     Abilene  ...  None  None
+2  Dennis J. Riordan     Solomon  ...  None  None
+3    Michael Riordan  Manchester  ...  None  None
+
+[4 rows x 12 columns]
+Found year: 1995
+Found bank name: Solomon Bancshares, Inc.
+✅ Saved: insiders/Solomon Bancshares, Inc._Y-6_1995-12-31_English_11558129.csv, securities/Solomon Bancshares, Inc._Y-6_1995-12-31_English_11558129.csv
+
+--- Processing: CapIQMistral_Updated/1995/Solomon Bancshares, Inc._Y-6_1995-12-31_English_11558129_2.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                   a2          b2  ...   b10   b11
+0   Julia M. Riordan     Solomon  ...  None  None
+1   David R. Riordan     Abilene  ...  None  None
+2  Dennis J. Riordan     Solomon  ...  None  None
+3    Michael Riordan  Manchester  ...  None  None
+
+[4 rows x 12 columns]
+Found year: 1995
+Found bank name: Solomon Bancshares, Inc.
+✅ Saved: insiders/Solomon Bancshares, Inc._Y-6_1995-12-31_English_11558129_2.csv, securities/Solomon Bancshares, Inc._Y-6_1995-12-31_English_11558129_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Spend Life Wisely Company, Inc._Y-6_1995-12-31_English_11591335.json ---
+Shareholders              a1      b1  c1   d1   e1     f1      g1
+0    Lois Davis  Durant  OK  USA  USA  17486   9.89%
+1   John Massey  Durant  OK  USA  USA  84077  55.39%
+2  H. C. Rustin  Durant  OK  USA  USA  32088  18.10%
+Insiders                    a2      b2        b3  ... b9_full_voting_shares_text   b10   b11
+0        H. C. Rustin  Durant  Oklahoma  ...              32,088/18.14%  None  None
+1        W. Y. Spence  Durant  Oklahoma  ...                          -  None  None
+2       Dale Flanagan  Durant  Oklahoma  ...                          -  None  None
+3         John Massey  Durant  Oklahoma  ...              84,077/55.39%  None  None
+4       Philip Rustin  Durant  Oklahoma  ...                2,200/1.45%  None  None
+5      Gregory Massey  Durant  Oklahoma  ...                4,060/2.67%  None  None
+6  William Fahrendorf  Durant  Oklahoma  ...                          -  None  None
+
+[7 rows x 12 columns]
+Found year: 1995
+Found bank name: DURANT BANCORP, INC.
+✅ Saved: insiders/Spend Life Wisely Company, Inc._Y-6_1995-12-31_English_11591335.csv, securities/Spend Life Wisely Company, Inc._Y-6_1995-12-31_English_11591335.csv
+
+--- Processing: CapIQMistral_Updated/1995/Spend Life Wisely Company, Inc._Y-6_1995-12-31_English_11591335_2.json ---
+Shareholders              a1      b1  c1   d1   e1     f1      g1
+0    Lois Davis  Durant  OK  USA  USA  17486   9.89%
+1   John Massey  Durant  OK  USA  USA  84077  55.39%
+2  H. C. Rustin  Durant  OK  USA  USA  32088  18.10%
+Insiders                    a2      b2        b3  ... b9_full_voting_shares_text   b10   b11
+0        H. C. Rustin  Durant  Oklahoma  ...              32,088/18.14%  None  None
+1        W. Y. Spence  Durant  Oklahoma  ...                          -  None  None
+2       Dale Flanagan  Durant  Oklahoma  ...                          -  None  None
+3         John Massey  Durant  Oklahoma  ...              84,077/55.39%  None  None
+4       Philip Rustin  Durant  Oklahoma  ...                2,200/1.45%  None  None
+5      Gregory Massey  Durant  Oklahoma  ...                4,060/2.67%  None  None
+6  William Fahrendorf  Durant  Oklahoma  ...                          -  None  None
+
+[7 rows x 12 columns]
+Found year: 1995
+Found bank name: DURANT BANCORP, INC.
+✅ Saved: insiders/Spend Life Wisely Company, Inc._Y-6_1995-12-31_English_11591335_2.csv, securities/Spend Life Wisely Company, Inc._Y-6_1995-12-31_English_11591335_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Sturm Banks of Colorado, Inc._Y-6_1995-12-31_English_11591420.json ---
+Shareholders                                                   a1      b1  ...      f1     g1
+0                                   MANAGEMENT GROUP  DENVER  ...   50229     10
+1  TRUST FOR MELANIE L STRUM (DONALD STRIK, TRUSTEE)  DENVER  ...  113858  10.41
+2   TRUST FOR ROBERT B STURM (DONALD STURM, TRUSTEE)  DENVER  ...  113859  10.41
+3                                    Donald L. Sturm  DENVER  ...   74510  68.14
+4                                     Susan M. Sturm  DENVER  ...   11395   1.04
+
+[5 rows x 7 columns]
+Insiders                   a2  ...                                                b11
+0    Donald L. Sturm  ...  Community First Bancorp, Inc.; Sturm Investmen...
+1     Susan M. Sturm  ...  Community First Bancorp, Inc.; Sturm Investmen...
+2     David W. Witte  ...  Community First Bancorp, Inc.; Sturm Investmen...
+3    Gary G. Cassell  ...                                               None
+4     C. Gary Mammel  ...                                               None
+5  William T. Sisson  ...                                               None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: Community First Bankshares, Inc.
+✅ Saved: insiders/Sturm Banks of Colorado, Inc._Y-6_1995-12-31_English_11591420.csv, securities/Sturm Banks of Colorado, Inc._Y-6_1995-12-31_English_11591420.csv
+
+--- Processing: CapIQMistral_Updated/1995/Sturm Banks of Colorado, Inc._Y-6_1995-12-31_English_11591420_2.json ---
+Shareholders                                                   a1      b1  ...      f1     g1
+0                                   MANAGEMENT GROUP  DENVER  ...   50229     10
+1  TRUST FOR MELANIE L STRUM (DONALD STRIK, TRUSTEE)  DENVER  ...  113858  10.41
+2   TRUST FOR ROBERT B STURM (DONALD STURM, TRUSTEE)  DENVER  ...  113859  10.41
+3                                    Donald L. Sturm  DENVER  ...   74510  68.14
+4                                     Susan M. Sturm  DENVER  ...   11395   1.04
+
+[5 rows x 7 columns]
+Insiders                   a2  ...                                                b11
+0    Donald L. Sturm  ...  Community First Bancorp, Inc.; Sturm Investmen...
+1     Susan M. Sturm  ...  Community First Bancorp, Inc.; Sturm Investmen...
+2     David W. Witte  ...                                               None
+3    Gary G. Cassell  ...                                               None
+4     C. Gary Mammel  ...                                               None
+5  William T. Sisson  ...                                               None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: Community First Bankshares, Inc.
+✅ Saved: insiders/Sturm Banks of Colorado, Inc._Y-6_1995-12-31_English_11591420_2.csv, securities/Sturm Banks of Colorado, Inc._Y-6_1995-12-31_English_11591420_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/TBHC, Inc._Y-6_1995-12-31_English_11556293.json ---
+Shareholders                     a1         b1        c1    d1      e1      f1      g1
+0  Jerrold G. Hauptman   Lakewood  Colorado  None  U.S.A.  49,920  49.92%
+1       Lee Anne Lewis  Englewood  Colorado  None  U.S.A.  49,920  49.92%
+Insiders                     a2         b2  ...  b10   b11
+0       Lee Anne Lewis  Englewood  ...  -0-  None
+1  Jerrold G. Hauptman   Lakewood  ...  -0-  None
+2  George M. Fomnarino  Englewood  ...  -0-  None
+3     Jack W. Brockman   Lakewood  ...  -0-  None
+4     E. Jayne MacPhee     Denver  ...  -0-  None
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: TBHC Inc.
+✅ Saved: insiders/TBHC, Inc._Y-6_1995-12-31_English_11556293.csv, securities/TBHC, Inc._Y-6_1995-12-31_English_11556293.csv
+
+--- Processing: CapIQMistral_Updated/1995/TBHC, Inc._Y-6_1995-12-31_English_11556293_2.json ---
+Shareholders                     a1         b1        c1      d1      e1      f1      g1
+0  Jerrold G. Hauptman   Lakewood  Colorado  U.S.A.  U.S.A.  49,920  49.92%
+1       Lee Anne Lewis  Englewood  Colorado  U.S.A.  U.S.A.  49,920  49.92%
+Insiders                     a2         b2  ...  b10   b11
+0       Lee Anne Lewis  Englewood  ...  -0-  None
+1  Jerrold G. Hauptman   Lakewood  ...  -0-  None
+2  George M. Fomnarino  Englewood  ...  -0-  None
+3     Jack W. Brockman   Lakewood  ...  -0-  None
+4     E. Jayne MacPhee     Denver  ...  -0-  None
+
+[5 rows x 12 columns]
+Found year: 1995
+Found bank name: TBHC Inc.
+✅ Saved: insiders/TBHC, Inc._Y-6_1995-12-31_English_11556293_2.csv, securities/TBHC, Inc._Y-6_1995-12-31_English_11556293_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/The Dunmire Agency, Inc._Y-6_1995-12-31_English_11560219.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                   a2             b2  ...   b10   b11
+0    Fred A. Dunmire  Overland Park  ...  None  None
+1  Catherine Dunmire  Overland Park  ...  None  None
+2      David Dunmire         Olathe  ...  None  None
+3        Laura Klotz         Eudora  ...  None  None
+
+[4 rows x 12 columns]
+Found year: 1995
+Found bank name: The Dunmire Agency, Inc.
+✅ Saved: insiders/The Dunmire Agency, Inc._Y-6_1995-12-31_English_11560219.csv, securities/The Dunmire Agency, Inc._Y-6_1995-12-31_English_11560219.csv
+
+--- Processing: CapIQMistral_Updated/1995/The Dunmire Agency, Inc._Y-6_1995-12-31_English_11560219_2.json ---
+Shareholders                          a1             b1      c1    d1    e1    f1    g1
+0  The Dunmire Agency, Inc.  Overland Park  Kansas  None  None  None  None
+Insiders                   a2             b2  ...   b10   b11
+0    Fred A. Dunmire  Overland Park  ...  None  None
+1  Catherine Dunmire  Overland Park  ...  None  None
+2      David Dunmire         Olathe  ...  None  None
+3        Laura Klotz         Eudora  ...  None  None
+
+[4 rows x 12 columns]
+Found year: 1995
+Found bank name: DUNMIRE AGENCY, INC., THE
+✅ Saved: insiders/The Dunmire Agency, Inc._Y-6_1995-12-31_English_11560219_2.csv, securities/The Dunmire Agency, Inc._Y-6_1995-12-31_English_11560219_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Tongue River Valley Bancshares_Y-6_1995-12-31_English_11556303.json ---
+Shareholders                                                    a1  ...     g1
+0                                      RICHARD C BERG  ...     10
+1   DEYO & VIEVA JEFFERS FAMILY TRUSTS CO-TRUSTEES...  ...    7.5
+2   GLENN H SHEELEY FAMILY TRUST, MARY C & GLENN S...  ...   5.25
+3   GLENN H SHEELEY FAMILY TRUST, MARY C & GLENN S...  ...   5.25
+4      HODGE FAMILY TRUST, LINDA II STEADMAN, TRUSTEE  ...     10
+5   SARAH DONLEY STEADMAN TRUST, F DON STEADMAN TR...  ...     10
+6   PEGGY ANN TERRY TRST PEGGY ANN & CLARENCE TERR...  ...    5.0
+7                                     HAROLD STEADMAN  ...   6.25
+8                                      F DUN STEADMAN  ...     10
+9                                SHIRLEY LEE STEADMAN  ...    5.0
+10            CLARENCE W TERRY TRST, CLARENCE & PEGGY  ...    5.0
+11                               ANN TERRY, CO-TRUSTE  ...   None
+12         MARY F. PEARCE FAMILY TRUST, WARREN & MARY  ...  10.25
+13                        SHEELY, CO-TRUSTEES, PEARCE  ...   None
+14                            B. BRAO & JACKIE WATERS  ...  10.25
+
+[15 rows x 7 columns]
+Insiders                     a2          b2  ...   b10   b11
+0      F. Don Steadman  Ranchester  ...  None  None
+1                 None  Ranchester  ...  None  None
+2                 None  Ranchester  ...  None  None
+3   B. Bradford Waters    Sheridan  ...  None  None
+4                 None    Sheridan  ...  None  None
+5                 None    Sheridan  ...  None  None
+6                 None    Sheridan  ...  None  None
+7       J. Keith Roach  Ranchester  ...  None  None
+8                 None  Ranchester  ...  None  None
+9                 None  Ranchester  ...  None  None
+10     Mary C. Sheeley     Parkman  ...  None  None
+11                None     Parkman  ...  None  None
+12        Devo Jeffers      Banner  ...  None  None
+13    Warren N. Pearce  Ranchester  ...  None  None
+14   Harold Siebenauer  Ranchester  ...  None  None
+15   Clarence W. Terry  Ranchester  ...  None  None
+
+[16 rows x 12 columns]
+Found year: 1995
+Found bank name: Tongue River Valley Bancshares
+✅ Saved: insiders/Tongue River Valley Bancshares_Y-6_1995-12-31_English_11556303.csv, securities/Tongue River Valley Bancshares_Y-6_1995-12-31_English_11556303.csv
+
+--- Processing: CapIQMistral_Updated/1995/Tongue River Valley Bancshares_Y-6_1995-12-31_English_11556303_2.json ---
+Shareholders                                                    a1  ...     g1
+0                                      RICHARD C BERG  ...     10
+1   DEYO & VIEVA JEFFERS FAMILY TRUSTS CO-TRUSTEES...  ...    7.5
+2   GLENN H SHEELEY FAMILY TRUST, MARY C & GLENN S...  ...   5.25
+3   GLENN H SHEELEY FAMILY TRUST, MARY C & GLENN S...  ...   5.25
+4      HODGE FAMILY TRUST, LINDA II STEADMAN, TRUSTEE  ...     10
+5   SARAH DONLEY STEADMAN TRUST, F DON STEADMAN TR...  ...     10
+6   PEGGY ANN TERRY TRST PEGGY ANN & CLARENCE TERR...  ...    5.0
+7                                     HAROLD STEADMAN  ...   6.25
+8                                      F DUN STEADMAN  ...     10
+9                                SHIRLEY LEE STEADMAN  ...    5.0
+10            CLARENCE W TERRY TRST, CLARENCE & PEGGY  ...    5.0
+11  MARY F. PEARCE FAMILY TRUST, WARREN & MARY SHE...  ...  10.25
+12                            B. BRAO & JACKIE WATERS  ...  10.25
+
+[13 rows x 7 columns]
+Insiders                    a2          b2  b3  ... b9_full_voting_shares_text   b10   b11
+0     F. Don Steadman  Rancshater  WY  ...        Tongue River 200/10  None  None
+1  B. Bradford Waters    Sheridan  WY  ...        Tongue River 205/10  None  None
+2      J. Keith Roach  Rancshater  WY  ...                       None  None  None
+3     Mary C. Sheeley     Parkman  WY  ...         Tongue River 5/.25  None  None
+4        Devo Jeffers      Banner  WY  ...        Tongue River 105/10  None  None
+5    Warren N. Pearce  Rancshater  WY  ...                    150/7.5  None  None
+6   Harold Siebenajer  Rancshater  WY  ...       Tongue River 125/6.3  None  None
+7   Clarence W. Terry  Rancshater  WY  ...         Tongue River 100/5  None  None
+
+[8 rows x 12 columns]
+Found year: 1995
+Found bank name: Tongue River Valley Bancshares
+✅ Saved: insiders/Tongue River Valley Bancshares_Y-6_1995-12-31_English_11556303_2.csv, securities/Tongue River Valley Bancshares_Y-6_1995-12-31_English_11556303_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Wakefield Bancshares, Inc._Y-6_1995-12-31_English_11557392.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                    a2         b2      b3  ... b9_full_voting_shares_text   b10   b11
+0  Jerry G. Patterson  Wakefield  Kansas  ...  885 common shares, $52 \%  None  None
+1  Norza J. Patterson  Wakefield  Kansas  ...     805 common shares, 47%  None  None
+
+[2 rows x 12 columns]
+Found year: 1995
+Found bank name: WAKEFI ELD BAN CSHARES, INC.
+✅ Saved: insiders/Wakefield Bancshares, Inc._Y-6_1995-12-31_English_11557392.csv, securities/Wakefield Bancshares, Inc._Y-6_1995-12-31_English_11557392.csv
+
+--- Processing: CapIQMistral_Updated/1995/Wakefield Bancshares, Inc._Y-6_1995-12-31_English_11557392_2.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                    a2         b2      b3  ... b9_full_voting_shares_text   b10   b11
+0  Jerry G. Patterson  Wakefield  Kansas  ...   885 common shares, $52 %  None  None
+1  Norza J. Patterson  Wakefield  Kansas  ...     805 common shares, 47%  None  None
+
+[2 rows x 12 columns]
+Found year: 1995
+Found bank name: WAKEFI ELD BAN CSHARES, INC.
+✅ Saved: insiders/Wakefield Bancshares, Inc._Y-6_1995-12-31_English_11557392_2.csv, securities/Wakefield Bancshares, Inc._Y-6_1995-12-31_English_11557392_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Young Americans Education Foundation_Y-6_1995-12-31_English_11556242.json ---
+Shareholders      a1    b1    c1   d1    e1    f1    g1
+0  None  None  None  USA  None  None  None
+Insiders                    a2         b2  b3  ... b9_full_voting_shares_text   b10   b11
+0             Cal Cox  Englewood  CO  ...                        N/A  None  None
+1          Jo Farrell  Littleton  CO  ...                        N/A  None  None
+2     John Fitzgerald  Littleton  CO  ...                        N/A  None  None
+3         Thomas Gart     Denver  CO  ...                        N/A  None  None
+4    Phillip J. Hogue  Littleton  CO  ...                        N/A  None  None
+5         Ralph Mires    Merriam  KS  ...                        N/A  None  None
+6  H. DeWitt Mitchell     Aurora  CO  ...                        N/A  None  None
+7         Dave Morgan  Evergreen  CO  ...                        N/A  None  None
+8       Linda Sanders     Denver  CO  ...                        N/A  None  None
+9      Barbara Danboe     Denver  CO  ...                        N/A  None  None
+
+[10 rows x 12 columns]
+Found year: 1995
+Found bank name: Young Americans Education Foundation
+✅ Saved: insiders/Young Americans Education Foundation_Y-6_1995-12-31_English_11556242.csv, securities/Young Americans Education Foundation_Y-6_1995-12-31_English_11556242.csv
+
+--- Processing: CapIQMistral_Updated/1995/Young Americans Education Foundation_Y-6_1995-12-31_English_11556242_2.json ---
+Shareholders      a1    b1    c1   d1    e1    f1    g1
+0  None  None  None  USA  None  None  None
+Insiders                    a2         b2  b3  ... b9_full_voting_shares_text   b10   b11
+0             Cal Cox  Englewood  CO  ...                        N/A  None  None
+1          Jo Farrell  Littleton  CO  ...                        N/A  None  None
+2     John Fitzgerald  Littleton  CO  ...                        N/A  None  None
+3         Thomas Gart     Denver  CO  ...                        N/A  None  None
+4    Phillip J. Hogue  Littleton  CO  ...                        N/A  None  None
+5         Ralph Mires    Merriam  KS  ...                        N/A  None  None
+6  H. DeWitt Mitchell     Aurora  CO  ...                        N/A  None  None
+7         Dave Morgan  Evergreen  CO  ...                        N/A  None  None
+8       Linda Sanders     Denver  CO  ...                        N/A  None  None
+9      Barbara Danboe     Denver  CO  ...                        N/A  None  None
+
+[10 rows x 12 columns]
+Found year: 1995
+Found bank name: Young Americans Education Foundation
+✅ Saved: insiders/Young Americans Education Foundation_Y-6_1995-12-31_English_11556242_2.csv, securities/Young Americans Education Foundation_Y-6_1995-12-31_English_11556242_2.csv
+
+--- Processing: CapIQMistral_Updated/1995/Yutan Bancorp., Inc._Y-6_1995-12-31_English_11556258.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                   a2  ...                                                b11
+0    Curtis A. Bromm  ...  Edstrom, Bromm, Lindahl, Wagner & Miller Law F...
+1    Lyle L. Dokulil  ...                            NEBRASKA FARMERS AGENCY
+2   Loren L. Lindahl  ...  Edstrom, Bromm, Lindahl, Wagner & Miller Law F...
+3  William Lastovica  ...                                               None
+4  Charles H. Wagner  ...  Edstrom, Bromm, Lindahl, Wagner & Miller Law F...
+5     Neva L. Peters  ...                                               None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: Yutan BanCorp. . Inc.
+✅ Saved: insiders/Yutan Bancorp., Inc._Y-6_1995-12-31_English_11556258.csv, securities/Yutan Bancorp., Inc._Y-6_1995-12-31_English_11556258.csv
+
+--- Processing: CapIQMistral_Updated/1995/Yutan Bancorp., Inc._Y-6_1995-12-31_English_11556258_2.json ---
+Shareholders Empty DataFrame
+Columns: []
+Index: []
+Insiders                   a2  ...                                                b11
+0    Curtis A. Bromm  ...  EDSTROM, BROMM, LINDAHL, WAGNER & MILLER LAW F...
+1    Lyle L. Dokulil  ...                            NEBRASKA FARMERS AGENCY
+2   Loren L. Lindahl  ...  EDSTROM, BROMM, LINDAHL, WAGNER & MILLER LAW F...
+3  William Lastovica  ...                                               None
+4  Charles H. Wagner  ...  EDSTROM, BROMM, LINDAHL, WAGNER & MILLER LAW F...
+5     Neva L. Peters  ...                                               None
+
+[6 rows x 12 columns]
+Found year: 1995
+Found bank name: Yutan BanCorp. . Inc.
+✅ Saved: insiders/Yutan Bancorp., Inc._Y-6_1995-12-31_English_11556258_2.csv, securities/Yutan Bancorp., Inc._Y-6_1995-12-31_English_11556258_2.csv

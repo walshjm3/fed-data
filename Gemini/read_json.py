@@ -6,23 +6,45 @@ import pandas as pd
 from pathlib import Path
 import csv
 from mistralai.models import OCRResponse
-import google.generativeai as genai
+from google.genai import types
+from google import genai
 from dotenv import load_dotenv
+import argparse
 
 load_dotenv()
 
+# === SLURM ===
+parser = argparse.ArgumentParser()
+
+# CAP IQ SECTION
+parser.add_argument("--year", type=int, required=True)
+args = parser.parse_args()
+THE_YEAR = args.year
+prefix = f"CapIQMistral_Updated/{THE_YEAR}/"
+
+# DISTRICT WEBSITE SECTION
+#parser.add_argument("--district", type=str, required=True)
+#args = parser.parse_args()
+#DISTRICT = args.district
+#prefix = f"{DISTRICT}_Mistral/"
+#THE_YEAR = DISTRICT
+
 # === CONFIG ===
 bucket_name = "fed-data-storage"
-# Only process JSON inside this folder:
-prefix = "MistralCapIQUpdated/2023/"
+
 # Limit how many files to process per run
-MAX_FILES = 20
+# MAX_FILES = 200000
 
-insiders_dir = Path("csv_testing/insiders")
-securities_dir = Path("csv_testing/securities")
-tracking_csv = Path("gemini_results_first.csv")
+insiders_dir = Path(f"csv_testing/insiders/{THE_YEAR}")
+securities_dir = Path(f"csv_testing/securities/{THE_YEAR}")
+tracking_csv = Path(f"tracking/gemini_results_{THE_YEAR}.csv")
 
-genai.configure(api_key=os.getenv("GENAI_API_KEY"))
+client = genai.Client(
+    api_key=os.getenv("SCHOOL_API_KEY"),
+    http_options=types.HttpOptions(
+        base_url="https://go.apis.huit.harvard.edu/ais-google-gemini/"
+    )
+)
 
 # === DIR SETUP ===
 insiders_dir.mkdir(parents=True, exist_ok=True)
@@ -51,14 +73,14 @@ def load_tracked_files():
         return {row[0]: row[1] for row in csv.reader(f)}
 
 
-def update_tracking(file: str, status: str, error: str = "", bank_name: str = "", year: str = "", presence: str = ""):
+def update_tracking(file: str, status: str, error: str = "", bank_name: str = "", year: str = "", presence: str = "", tokens: str="", out_tokens: str=""):
     header_needed = not tracking_csv.exists()
     with open(tracking_csv, "a", newline="") as f:
         writer = csv.writer(f)
         if header_needed:
-            # FIX: include 'presence' in header since we write it below
-            writer.writerow(["file", "status", "error", "bank_name", "year", "presence"])
-        writer.writerow([file, status, error, bank_name, year, presence])
+            # include 'presence' in header since we write it below
+            writer.writerow(["file", "status", "error", "bank_name", "year", "presence", "tokens", "out_tokens"])
+        writer.writerow([file, status, error, bank_name, year, presence, tokens, out_tokens])
 
 
 # === HELPER FUNCTIONS ===
@@ -93,14 +115,13 @@ def get_combined_markdown(ocr_response: OCRResponse) -> str:
     return "\n\n".join(markdowns)
 
 
-# ---- NEW: schema-agnostic markdown extraction for non-OCRResponse JSONs ----
+# ---- schema-agnostic markdown extraction for non-OCRResponse JSONs ----
 def _walk_collect_markdownish(obj) -> list[str]:
     """Recursively collect page-level markdown/text-like fields from arbitrary JSON."""
     collected = []
     if isinstance(obj, dict):
         for k, v in obj.items():
             lk = k.lower()
-            # Common field names across OCR/LLM outputs
             if lk in {"markdown", "md", "page_markdown", "combined_markdown", "text", "page_text"} and isinstance(v, str):
                 collected.append(v)
             else:
@@ -112,12 +133,7 @@ def _walk_collect_markdownish(obj) -> list[str]:
 
 
 def get_markdown_from_any_json(json_data) -> str | None:
-    """
-    Try to coerce arbitrary OCR JSON into a combined markdown string.
-    Priority:
-      1) If it already has OCRResponse shape, caller should handle that.
-      2) Otherwise, recursively scrape markdown/text-like fields and join.
-    """
+    """Coerce arbitrary OCR/LLM JSON into combined markdown string."""
     parts = _walk_collect_markdownish(json_data)
     if parts:
         parts = [p.strip() for p in parts if p and p.strip()]
@@ -129,7 +145,7 @@ def get_markdown_from_any_json(json_data) -> str | None:
 def extract_from_md(md: str, name: str) -> tuple[str, str, str]:
     pdf_name = name
 
-    # Tighten the prompt: force exact top-level keys and Year field
+    # Tightened prompt: keep b9 as percentage-only; add b9_full_voting_shares_text for verbatim detail
     prompt = f"""
 You are analyzing a U.S. Federal Reserve FR Y-6 regulatory filing.
 
@@ -138,9 +154,10 @@ From the text below, extract TWO structured tables and one metadata block and re
 - "insiders": list of insider rows
 - "bank_data": list with exactly one object containing bank metadata
 
-Rules for values:
+General rules:
 - If a field is missing, blank, 'N/A', 'None', or equivalent, put null (JSON null).
 - If a field contains a list of strings, join items with a semicolon (";").
+- Normalize internal line breaks to single spaces for any string fields.
 - Do NOT include any extra keys. Return JSON ONLY (no markdown).
 
 Column schema:
@@ -162,22 +179,32 @@ Column schema:
   b5: Principal occupation if other than with Bank Holding Company
   b6: Title and Position with Bank Holding Company
   b7: Title and Position with direct and indirect subsidiaries (including the subsidiaries' names)
-  b8: Title and Position with any other company in which the person is a director, trustee, partner, or executive officer
+  b8: Title(s) and Position(s) with any other company in which the person is a director, trustee, partner, or executive officer (in a list. Do not list the same insider in multiple rows, where each row represents another company.)
   b9: Percentage of Voting Shares in Bank Holding Company
+      - IMPORTANT: This field must contain percentage value(s) only (e.g., "7.78%" or "7.78%; 2.10%").
+      - If multiple percentages are present, join with a semicolon.
+      - Do not include counts of shares, class names, or narrative text in b9.
+  b9_full_voting_shares_text: Verbatim voting-shares detail (entire reported text)
+      - Copy the FULL underlying text describing voting shares as written in the filing, including share counts, classes (e.g., "Class A"), trustee language, and/or percentages.
+      - Preserve all numbers and wording, but normalize newlines/tabs to single spaces.
+      - If the filing only reports a percentage and no share count, put that percentage string here.
   b10: Percentage of Voting Shares in Subsidiaries
-  b11: Names of other companies if 25% or more of voting securities are held (list)
+  b11: Names of other companies if 25% or more of voting securities are held (in a list. Do not list the same insider in multiple rows, where each row represents another company.)
+
+When possible, please ensure that name, city, state, and country are placed in their respective fields rather than (1) left in a2 or (2) repeated in a2 and b2, b3, b4. 
 
 3) bank_data — list with one object containing:
   - "Bank Name": string
   - "Year": four-digit year as a string (infer from the filing's fiscal year-end / Date of Report)
+  - "Bank RSSD": string of the bank's RSSD.
+  These objects are typically all found on the first, cover page of the Y-6.
 
 FR Y-6 OCR TEXT:
 ---
 {md}
 """
 
-    model = genai.GenerativeModel("gemini-2.0-flash")
-    response = model.generate_content(prompt)
+    response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
     output_text = response.text.strip()
 
     match = re.search(r'```json\s*({.*?})\s*```', output_text, re.DOTALL) or \
@@ -186,6 +213,10 @@ FR Y-6 OCR TEXT:
         raise ValueError("Gemini did not return valid JSON")
 
     tables = json.loads(match.group(1))
+
+    # Measure how token intensive the ask was
+    prompt_tokens = response.usage_metadata.prompt_token_count
+    completion_tokens = response.usage_metadata.candidates_token_count
 
     # Extract bank name and year from Gemini output (now enforced by prompt)
     bank_data_list = tables.get("bank_data", [])
@@ -202,6 +233,10 @@ FR Y-6 OCR TEXT:
 
     print("Shareholders", shareholders_df)
     print("Insiders", insiders_df)
+
+    # Ensure the new column exists; if missing, backfill with b9 when that's all we have
+    if "b9_full_voting_shares_text" not in insiders_df.columns:
+        insiders_df["b9_full_voting_shares_text"] = insiders_df["b9"] if "b9" in insiders_df.columns else None
 
     # Table presence computed from actual dataframes
     table_presence = (
@@ -236,18 +271,18 @@ FR Y-6 OCR TEXT:
     insiders_df.to_csv(insiders_path, index=False)
     shareholders_df.to_csv(shareholders_path, index=False)
 
-    s3.upload_file(str(insiders_path), bucket_name, f"csv_testing/insiders/{name}.csv")
-    s3.upload_file(str(shareholders_path), bucket_name, f"csv_testing/securities/{name}.csv")
+    #s3.upload_file(str(insiders_path), bucket_name, f"csv_testing/insiders_second/{name}.csv")
+    #s3.upload_file(str(shareholders_path), bucket_name, f"csv_testing/securities_second/{name}.csv")
 
     # Delete local files after upload
-    insiders_path.unlink(missing_ok=True)
-    shareholders_path.unlink(missing_ok=True)
+    #insiders_path.unlink(missing_ok=True)
+    #shareholders_path.unlink(missing_ok=True)
 
     print("Found year:", year)
     print("Found bank name:", bank_name)
     print(f"✅ Saved: insiders/{name}.csv, securities/{name}.csv")
 
-    return bank_name, year, table_presence
+    return bank_name, year, table_presence, prompt_tokens, completion_tokens
 
 
 # === MAIN DRIVER ===
@@ -263,16 +298,16 @@ def main():
     json_objects = sorted(
         [o for o in objects if o.get("Key", "").endswith(".json")],
         key=lambda x: x["Key"]
-    )[:MAX_FILES]
+    )#[:MAX_FILES]
 
     print(f"Found {len(objects)} objects under prefix '{prefix}'.")
-    print(f"Processing up to {MAX_FILES} JSON files (actually processing {len(json_objects)}).")
+    print(f"Processing {len(json_objects)} JSON files.")
 
     for obj in json_objects:
         key = obj["Key"]
 
         # Safety: only process the 2023 folder
-        if not key.startswith("MistralCapIQUpdated/2023/"):
+        if not key.startswith(prefix):
             continue
 
         name = key.split("/")[-1].replace(".json", "")
@@ -310,8 +345,8 @@ def main():
             if not markdown or not markdown.strip():
                 raise ValueError("No markdown/text content found in JSON")
 
-            bank_name, year, presence = extract_from_md(markdown, name)
-            update_tracking(name, "passed", bank_name=bank_name, year=year, presence=presence)
+            bank_name, year, presence, prompt_tokens, completion_tokens = extract_from_md(markdown, name)
+            update_tracking(name, "passed", bank_name=bank_name, year=year, presence=presence, tokens=prompt_tokens, out_tokens = completion_tokens)
 
         except Exception as e:
             print(f"❌ Failed: {name}: {e}")

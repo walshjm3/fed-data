@@ -1,0 +1,65 @@
+Traceback (most recent call last):
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 343, in process_one
+    ocr_dict = mistral_ocr_from_bytes(pdf_bytes, display_name=stem)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 234, in mistral_ocr_from_bytes
+    raise last_err
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 221, in mistral_ocr_from_bytes
+    resp = mistral.ocr.process(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/mistralai/ocr.py", line 134, in process
+    raise models.SDKError(
+mistralai.models.sdkerror.SDKError: API error occurred: Status 500
+{"object":"error","message":"Service unavailable.","type":"internal_server_error","param":null,"code":"3700"}
+Traceback (most recent call last):
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 343, in process_one
+    ocr_dict = mistral_ocr_from_bytes(pdf_bytes, display_name=stem)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 234, in mistral_ocr_from_bytes
+    raise last_err
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 221, in mistral_ocr_from_bytes
+    resp = mistral.ocr.process(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/mistralai/ocr.py", line 134, in process
+    raise models.SDKError(
+mistralai.models.sdkerror.SDKError: API error occurred: Status 500
+{"object":"error","message":"Service unavailable.","type":"internal_server_error","param":null,"code":"3700"}
+Traceback (most recent call last):
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 343, in process_one
+    ocr_dict = mistral_ocr_from_bytes(pdf_bytes, display_name=stem)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 234, in mistral_ocr_from_bytes
+    raise last_err
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 221, in mistral_ocr_from_bytes
+    resp = mistral.ocr.process(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/mistralai/ocr.py", line 134, in process
+    raise models.SDKError(
+mistralai.models.sdkerror.SDKError: API error occurred: Status 503
+{"object":"error","message":"Service unavailable.","type":"internal_server_error","param":null,"code":"3800"}
+Traceback (most recent call last):
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 343, in process_one
+    ocr_dict = mistral_ocr_from_bytes(pdf_bytes, display_name=stem)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 234, in mistral_ocr_from_bytes
+    raise last_err
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 221, in mistral_ocr_from_bytes
+    resp = mistral.ocr.process(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/mistralai/ocr.py", line 134, in process
+    raise models.SDKError(
+mistralai.models.sdkerror.SDKError: API error occurred: Status 503
+{"object":"error","message":"Service unavailable.","type":"internal_server_error","param":null,"code":"3800"}
+Traceback (most recent call last):
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 343, in process_one
+    ocr_dict = mistral_ocr_from_bytes(pdf_bytes, display_name=stem)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 234, in mistral_ocr_from_bytes
+    raise last_err
+  File "/export/projects4/jwalsh_banks/fed-data/Mistral/ocr_pipeline_unzipped.py", line 221, in mistral_ocr_from_bytes
+    resp = mistral.ocr.process(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/export/home/doctoral/jwalsh/.local/lib/python3.11/site-packages/mistralai/ocr.py", line 134, in process
+    raise models.SDKError(
+mistralai.models.sdkerror.SDKError: API error occurred: Status 503
+{"object":"error","message":"Service unavailable.","type":"internal_server_error","param":null,"code":"3800"}
