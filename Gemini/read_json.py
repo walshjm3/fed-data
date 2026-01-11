@@ -17,17 +17,17 @@ load_dotenv()
 parser = argparse.ArgumentParser()
 
 # CAP IQ SECTION
-#parser.add_argument("--year", type=int, required=True)
-#args = parser.parse_args()
-#THE_YEAR = args.year
-# prefix = f"MistralCapIQUpdated/{THE_YEAR}/"
+parser.add_argument("--year", type=int, required=True)
+args = parser.parse_args()
+THE_YEAR = args.year
+prefix = f"CapIQMistral_Updated/{THE_YEAR}/"
 
 # DISTRICT WEBSITE SECTION
-parser.add_argument("--district", type=str, required=True)
-args = parser.parse_args()
-DISTRICT = args.district
-prefix = f"{DISTRICT}_Mistral/"
-THE_YEAR = DISTRICT
+#parser.add_argument("--district", type=str, required=True)
+#args = parser.parse_args()
+#DISTRICT = args.district
+#prefix = f"{DISTRICT}_Mistral/"
+#THE_YEAR = DISTRICT
 
 # === CONFIG ===
 bucket_name = "fed-data-storage"
@@ -179,7 +179,7 @@ Column schema:
   b5: Principal occupation if other than with Bank Holding Company
   b6: Title and Position with Bank Holding Company
   b7: Title and Position with direct and indirect subsidiaries (including the subsidiaries' names)
-  b8: Title and Position with any other company in which the person is a director, trustee, partner, or executive officer
+  b8: Title(s) and Position(s) with any other company in which the person is a director, trustee, partner, or executive officer (in a list. Do not list the same insider in multiple rows, where each row represents another company.)
   b9: Percentage of Voting Shares in Bank Holding Company
       - IMPORTANT: This field must contain percentage value(s) only (e.g., "7.78%" or "7.78%; 2.10%").
       - If multiple percentages are present, join with a semicolon.
@@ -189,11 +189,15 @@ Column schema:
       - Preserve all numbers and wording, but normalize newlines/tabs to single spaces.
       - If the filing only reports a percentage and no share count, put that percentage string here.
   b10: Percentage of Voting Shares in Subsidiaries
-  b11: Names of other companies if 25% or more of voting securities are held (list)
+  b11: Names of other companies if 25% or more of voting securities are held (in a list. Do not list the same insider in multiple rows, where each row represents another company.)
+
+When possible, please ensure that name, city, state, and country are placed in their respective fields rather than (1) left in a2 or (2) repeated in a2 and b2, b3, b4. 
 
 3) bank_data — list with one object containing:
   - "Bank Name": string
   - "Year": four-digit year as a string (infer from the filing's fiscal year-end / Date of Report)
+  - "Bank RSSD": string of the bank's RSSD.
+  These objects are typically all found on the first, cover page of the Y-6.
 
 FR Y-6 OCR TEXT:
 ---

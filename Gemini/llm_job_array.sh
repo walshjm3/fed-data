@@ -1,5 +1,5 @@
 #!/bin/bash
-#BSUB -J gemini_run[1-14]
+#BSUB -J gemini_run[1-6]
 #BSUB -W 48:00
 #BSUB -M 12000
 #BSUB -R "rusage[mem=12000]"
@@ -9,8 +9,8 @@
 #BSUB -N
 #BSUB -B
 
-# Map array index to year (offset by 2010)
-YEAR=$((2010 + $LSB_JOBINDEX))
+# Map array index to year (offset by 1994)
+YEAR=$((1994 + $LSB_JOBINDEX))
 echo "Running year $YEAR"
 
 # Run your Python script with YEAR as argument

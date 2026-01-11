@@ -1,0 +1,139 @@
+file,status,error,bank_name,year,presence,tokens,out_tokens
+2009 TCRT_Y-6_2010-12-31_English_7618258_2,passed,,2009 TCRT,2010,both,4740,3320
+2009 TCRT_Y-6_2010-12-31_English_7618258_4,passed,,2009 TCRT,2010,both,4805,3387
+2009 TCRT_Y-6_2011-12-31_English_4994649_2,passed,,2009 TCRT,2011,both,6755,4142
+2009 TCRT_Y-6_2011-12-31_English_4994649_4,passed,,2009 TCRT,2011,both,6783,3863
+BHCB Holding Company_Y-6_2009-12-31_English_7665126_2,passed,,BHCB HOLDING COMPANY,2009,both,3689,2324
+BHCB Holding Company_Y-6_2009-12-31_English_7665126_4,passed,,BHCB HOLDING COMPANY,2009,both,3689,2313
+1867 Western Financial Corporation_Y-6_2009-12-31_English_8149988_2,passed,,1867 Western Financial Corporation,2009,both,8615,2374
+1867 Western Financial Corporation_Y-6_2009-12-31_English_8149988_4,passed,,1867 Western Financial Corporation,2009,both,8620,2407
+"1870 Holdings, Inc._Y-6_2009-12-31_English_8452211_2",passed,,"Western Illinois Bancshares, Inc.",2009,both,5447,1942
+"1870 Holdings, Inc._Y-6_2009-12-31_English_8452211_4",passed,,"Western Illinois Bancshares, Inc.",2009,both,5447,1901
+"1889 Bancshares, Inc._Y-6_2009-12-31_English_8333558_2",failed,Invalid \escape: line 42 column 45 (char 950),,,,,
+"1889 Bancshares, Inc._Y-6_2009-12-31_English_8333558_4",passed,,"1889 BANCSHARES, INC",2009,both,23487,1225
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2009-12-31_English_8402687_2",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2009,both,4412,2322
+"1ST SUMMIT BANCORP of Johnstown, Inc._Y-6_2009-12-31_English_8402687_4",passed,,"1ST SUMMIT BANCORP OF JOHNSTOWN, INC.",2009,both,4414,2305
+"1st Advantage Bancshares, Inc._Y-6_2009-12-31_English_8100157_2",passed,,"1st Advantage Bancshares, Inc.",2009,both,4723,1850
+"1st Advantage Bancshares, Inc._Y-6_2009-12-31_English_8100157_4",passed,,"1st Advantage Bancshares, Inc.",2009,both,6217,2066
+"1st Brookfield, Inc._Y-6_2009-12-31_English_8449328_2(1)",passed,,"1st Brookfield, Inc.",2009,both,6735,1468
+"1st Brookfield, Inc._Y-6_2009-12-31_English_8449328_2",passed,,"1st Brookfield, Inc.",2009,both,6823,1436
+"1st Brookfield, Inc._Y-6_2009-12-31_English_8449328_4(1)",passed,,"1st Brookfield, Inc.",2009,both,6823,1589
+"1st Brookfield, Inc._Y-6_2009-12-31_English_8449328_4",passed,,"1st Brookfield, Inc.",2009,both,6823,1624
+"1st Century Bancshares, Inc._Y-6_2009-12-31_English_8151739_2",passed,,"1ST CENTURY BANCSHARES, INC.",2009,both,6063,2682
+"1st Century Bancshares, Inc._Y-6_2009-12-31_English_8151739_4",passed,,"1ST CENTURY BANCSHARES, INC.",2009,both,6077,2650
+"1st Colonial Bancorp, Inc._Y-6_2009-12-31_English_8402711_2(1)",passed,,"1st Colonial Bancorp, Inc.",2009,insiders,3770,2101
+"1st Colonial Bancorp, Inc._Y-6_2009-12-31_English_8402711_2",passed,,"1st Colonial Bancorp, Inc.",2009,insiders,3770,2150
+"1st Colonial Bancorp, Inc._Y-6_2009-12-31_English_8402711_4(1)",passed,,"1st Colonial Bancorp, Inc.",2009,insiders,3770,2089
+"1st Colonial Bancorp, Inc._Y-6_2009-12-31_English_8402711_4",passed,,"1st Colonial Bancorp, Inc.",2009,insiders,3770,2100
+1st Financial Services Corporation_Y-6_2009-12-31_English_8353760_2,passed,,1st Financial Services Corporation,2009,both,5297,2209
+1st Financial Services Corporation_Y-6_2009-12-31_English_8353760_4,passed,,1st Financial Services Cngention,2009,both,5355,2328
+"1st Jackson Bancshares, Inc._Y-6_2009-12-31_English_24977805_1(1)",passed,,"1st Jackson Bancshares, Inc.",2009,both,9033,1643
+"1st Jackson Bancshares, Inc._Y-6_2009-12-31_English_24977805_1",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"1st Jackson Bancshares, Inc._Y-6_2009-12-31_English_24977805_2",passed,,"1st Jackson Bancshares, Inc.",2009,insiders,3489,197
+"1st Jackson Bancshares, Inc._Y-6_2009-12-31_English_24977805_4",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+1st Pacific Bancorp_Y-6_2009-12-31_English_8151727_2,passed,,1st Pacific Bank,2009,both,5216,1508
+1st Pacific Bancorp_Y-6_2009-12-31_English_8151727_4,passed,,1st Pacific Bank,2009,both,5228,1341
+1st Source Corporation_Y-6_2009-12-31_English_8394128_2,passed,,1st Source Corporation,2009,both,13446,4125
+1st Source Corporation_Y-6_2009-12-31_English_8394128_4,passed,,1st Source Corporation,2009,both,12432,4207
+"1st State Financial, Ltd._Y-6_2009-12-31_English_8452191_2(1)",passed,,"Valley Financial Group, Ltd.",2009,both,5500,2330
+"1st State Financial, Ltd._Y-6_2009-12-31_English_8452191_2",passed,,"Valley Financial Group, Ltd.",2009,both,5495,2524
+"1st State Financial, Ltd._Y-6_2009-12-31_English_8452191_4(1)",passed,,"Valley Financial Group, Ltd.",2009,both,5765,2339
+"1st State Financial, Ltd._Y-6_2009-12-31_English_8452191_4",passed,,"Valley Financial Group, Ltd.",2009,both,5690,2518
+"1st United Bancorporation, Inc._Y-6_2009-12-31_English_8088072_2",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"1st United Bancorporation, Inc._Y-6_2009-12-31_English_8088072_4",passed,,"1st United Bancorporation, Inc.",2009,both,4313,1663
+215 Holding Co._Y-6_2009-12-31_English_8089859_2,passed,,215 Holding Co.,2009,both,11432,4236
+215 Holding Co._Y-6_2009-12-31_English_8089859_4,passed,,215 Holding Co.,2009,both,11461,4236
+304 Corporation_Y-6_2009-12-31_English_8335646_2,passed,,304 Corporation,2009,both,17582,1087
+304 Corporation_Y-6_2009-12-31_English_8335646_4,passed,,304 Corporation,2009,both,17582,1052
+"3MV Bancorp, Inc._Y-6_2009-12-31_English_8335638_2",passed,,"3MV BANCORP, INC.",2009,both,5625,1406
+"3MV Bancorp, Inc._Y-6_2009-12-31_English_8335638_4",passed,,"3MV BANCORP, INC.",2009,both,5624,1401
+473 Broadway Holding Corporation_Y-6_2009-12-31_English_8205765_2,passed,,THE AGRONDACK TRUST COMPANY,2009,both,5295,1727
+473 Broadway Holding Corporation_Y-6_2009-12-31_English_8205765_4,passed,,THE AGRONDACK TRUST COMPANY ENPLOYEE STOCK OWNERSHIP TRUST,2009,both,5295,1691
+"A. E. Bancorp, Inc._Y-6_2009-12-31_English_8451106_2(1)",passed,,"A.E. Bancorp, Inc.",2009,both,9651,2392
+"A. E. Bancorp, Inc._Y-6_2009-12-31_English_8451106_2",passed,,"A.E. Bancorp, Inc.",2009,both,9672,3954
+"A. E. Bancorp, Inc._Y-6_2009-12-31_English_8451106_4(1)",passed,,"A.E. Bancorp, Inc.",2009,both,9664,3954
+"A. E. Bancorp, Inc._Y-6_2009-12-31_English_8451106_4",passed,,"A.E. Bancorp, Inc.",2009,both,10093,3885
+"A. M. Saylor, Incorporated_Y-6_2009-12-31_English_8394143_2",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"A. M. Saylor, Incorporated_Y-6_2009-12-31_English_8394143_4",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+A. Wilbert's Sons Lumber and Shingle Company_Y-6_2009-12-31_English_8134412_2,passed,,A. Wilbert's Sons Lumber and Shingle Co.,2009,both,5457,1934
+A. Wilbert's Sons Lumber and Shingle Company_Y-6_2009-12-31_English_8134412_4,passed,,A. Wilbert's Sons Lumber and Shingle Co.,2009,both,5466,1922
+"A.N.B. Holding Company, Ltd._Y-6_2009-12-31_English_8411512_2",failed,"Expecting ',' delimiter: line 695 column 6 (char 22052)",,,,,
+"A.N.B. Holding Company, Ltd._Y-6_2009-12-31_English_8411512_4",failed,"Expecting ',' delimiter: line 709 column 6 (char 22432)",,,,,
+"ABB Financial Group, Inc._Y-6_2009-12-31_English_8149356_2",passed,,"WCB Financial Group, Inc.",2009,both,5782,2036
+"ABB Financial Group, Inc._Y-6_2009-12-31_English_8149356_4",passed,,"WCB Financial Group, Inc.",2009,both,4689,2031
+"ABCT Holdings, Inc._Y-6_2009-12-31_English_8335096_2",passed,,"ABCF Holdings, Inc.",2009,both,3377,1608
+"ABCT Holdings, Inc._Y-6_2009-12-31_English_8335096_4",passed,,"ABCF Holdings, Inc.",2009,both,3377,1545
+"ABDO Investments, Inc._Y-6_2009-12-31_English_8091346_2",passed,,"Abdo Investment, Inc.",2009,both,4764,910
+"ABDO Investments, Inc._Y-6_2009-12-31_English_8091346_4",passed,,"Abdo Investment, Inc.",2009,both,4765,919
+ABM Holding Company_Y-6_2009-12-31_English_8338929_2,passed,,ABM HOLDING COMPANY,2009,both,8720,1650
+ABM Holding Company_Y-6_2009-12-31_English_8338929_4,passed,,ABM HOLDING COMPANY,2009,both,9349,1626
+"ABNA Holdings, Inc._Y-6_2009-12-31_English_8187552_2",passed,,"ABNA Holdings, INC",2010,both,2513,714
+"ABNA Holdings, Inc._Y-6_2009-12-31_English_8187552_4",passed,,"ABNA Holdings, INC",2010,both,2513,714
+ABT Financial Corp._Y-6_2009-12-31_English_8160928_2,passed,,AB&T Financial Corporation,2009,both,4412,1297
+ABT Financial Corp._Y-6_2009-12-31_English_8160928_4,passed,,AB&T Financial Corporation,2009,both,4371,1282
+ACNB Corporation_Y-6_2009-12-31_English_8402640_2,passed,,ACNB Corporation,2009,insiders,4273,2194
+ACNB Corporation_Y-6_2009-12-31_English_8402640_4,passed,,ACNB Corporation,2009,both,4273,2302
+"ACRU, Inc._Y-6_2009-12-31_English_8137575_2(1)",passed,,"FIRST CHEROKEE BANCSHARES, INC.",2009,both,6649,3519
+"ACRU, Inc._Y-6_2009-12-31_English_8137575_2",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"ACRU, Inc._Y-6_2009-12-31_English_8137575_4(1)",passed,,"FIRST CHEROKEE BANCSHARES, INC.",2009,both,6617,3105
+"ACRU, Inc._Y-6_2009-12-31_English_8137575_4",passed,,"FIRST CHEROKEE BANCSHARES, INC.",2009,both,6679,3158
+"AFNB Holdings, Inc._Y-6_2009-12-31_English_8335081_2",passed,,"AFNB Holding, Inc.",2009,both,4088,2448
+"AFNB Holdings, Inc._Y-6_2009-12-31_English_8335081_4",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"AIM Bancshares, Inc._Y-6_2009-12-31_English_8335040_2",passed,,"AIM Bancshares, Inc.",2009,both,3550,1052
+"AIM Bancshares, Inc._Y-6_2009-12-31_English_8335040_4",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"AMCORE Financial, Inc._Y-6_2009-12-31_English_8449454_2",passed,,"AMCORE Financial, Inc.",2009,both,9585,2450
+"AMCORE Financial, Inc._Y-6_2009-12-31_English_8449454_4",passed,,"AMCORE Financial, Inc.",2009,insiders,8040,2230
+AMG National Corp._Y-6_2009-12-31_English_8336972_2,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+AMG National Corp._Y-6_2009-12-31_English_8336972_4,passed,,AMG National Corp.,2009,both,4326,1009
+"ANB Bancorp, Inc._Y-6_2009-12-31_English_8452144_2",passed,,"ANB Bancorp, Inc.",2009,both,3457,974
+"ANB Bancorp, Inc._Y-6_2009-12-31_English_8452144_4",passed,,"ANB Bancorp, Inc.",2009,both,3494,958
+"ANB Bancshares, Inc._Y-6_2009-12-31_English_8187571_2",passed,,"ANB Bancshares, Inc.",2009,both,5030,2592
+"ANB Bancshares, Inc._Y-6_2009-12-31_English_8187571_4",passed,,"ANB Bancshares, Inc.",2009,both,5030,2529
+"ANB Holdings, Inc._Y-6_2009-12-31_English_8135937_2",passed,,"ANB Holdings, Inc.",2009,both,5097,1207
+"ANB Holdings, Inc._Y-6_2009-12-31_English_8135937_4",passed,,"ANB Holdings, Inc.",2009,both,5163,1220
+"APM Bancorp, Inc._Y-6_2009-12-31_English_8355910_2",passed,,"APM Bancorp., Inc.",2009,both,4041,1703
+"APM Bancorp, Inc._Y-6_2009-12-31_English_8355910_4",passed,,"APM Bancorp., Inc.",2009,both,4045,1704
+ASB Bank Holding Company_Y-6_2009-12-31_English_8088076_2,passed,,ASB Bank Holding Company,2009,both,4699,1324
+ASB Bank Holding Company_Y-6_2009-12-31_English_8088076_4,passed,,ASB Bank Holding Company,2009,both,4718,1350
+"ATB Management, LLC_Y-6_2009-12-31_English_8136007_2",passed,,"ATS Management, LLC",2009,both,9024,4385
+"ATB Management, LLC_Y-6_2009-12-31_English_8136007_4",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+ATBancorp_Y-6_2009-12-31_English_8355878_2,passed,,ATBancorp,2009,both,8283,2046
+ATBancorp_Y-6_2009-12-31_English_8355878_4,passed,,ATBancorp,2009,both,6327,2048
+"AVEST, Inc._Y-6_2009-12-31_English_8201901_2",passed,,"AVEST, Inc.",2009,both,6286,4579
+"AVEST, Inc._Y-6_2009-12-31_English_8201901_4",passed,,"AVEST, Inc.",2009,both,6281,4498
+"Abby Bancorp, Inc._Y-6_2009-12-31_English_8452549_2",passed,,Abby Bancorp Inc.,2009,both,4279,1590
+"Abby Bancorp, Inc._Y-6_2009-12-31_English_8452549_4",passed,,Abby Bancorp Inc.,2009,both,4265,1596
+"Absarokee Bancorporation, Inc._Y-6_2009-09-30_English_8089912_2",passed,,Absarokee Bancorporation Inc.,2009,both,4960,1576
+"Absarokee Bancorporation, Inc._Y-6_2009-09-30_English_8089912_4",failed,Invalid \escape: line 134 column 65 (char 2883),,,,,
+Absecon Bancorp_Y-6_2009-12-31_English_8402698_2,passed,,Absecon Bancorp,2009,insiders,3735,1511
+Absecon Bancorp_Y-6_2009-12-31_English_8402698_4,passed,,Absecon Bancorp,2009,both,3733,1570
+"Access Bancshares, Inc._Y-6_2009-12-31_English_8090125_2",passed,,"Access Bancshares, Inc.",2009,both,4388,1082
+"Access Bancshares, Inc._Y-6_2009-12-31_English_8090125_4",passed,,"Acess Bancshares, Inc.",2009,both,4416,1085
+Access National Corporation_Y-6_2009-12-31_English_8353735_2,passed,,Access National Corporation,2009,both,4967,1950
+Access National Corporation_Y-6_2009-12-31_English_8353735_4,passed,,Access National Corporation,2009,both,4968,1950
+"Acme Holding Company, Inc._Y-6_2009-12-31_English_8099636_2(1)",passed,,"ACME HOLDING COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN",2009,both,4997,1051
+"Acme Holding Company, Inc._Y-6_2009-12-31_English_8099636_2",passed,,ACME HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN,2009,both,4876,1236
+"Acme Holding Company, Inc._Y-6_2009-12-31_English_8099636_4(1)",passed,,ACME HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN,2009,both,4877,852
+"Acme Holding Company, Inc._Y-6_2009-12-31_English_8099636_4",passed,,ACME HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN,2009,both,4876,848
+"Adam Bank Group, Inc._Y-6_2009-12-31_English_8135992_2",passed,,"Adam Bank Group, Inc.",2009,securities,5687,142
+"Adam Bank Group, Inc._Y-6_2009-12-31_English_8135992_4",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Adbanc, Inc._Y-6_2009-12-31_English_8335656_2",passed,,"ADBANC, INC.",2009,both,4696,1030
+"Adbanc, Inc._Y-6_2009-12-31_English_8335656_4",passed,,"ADBANC, INC.",2009,both,5123,1033
+"Adirondack Bancorp, Inc._Y-6_2009-12-31_English_8179601_2",passed,,"Adirondack Bancorp, Inc.",2009,insiders,6879,200
+"Adirondack Bancorp, Inc._Y-6_2009-12-31_English_8179601_4",passed,,"Adirondack Bancorp, Inc.",2009,insiders,6306,321
+"Admiral Family Banks, Inc._Y-6_2009-12-31_English_8394217_2",passed,,"ADMIRAL FAMILY BANKS, INC.",2009,both,3615,896
+"Admiral Family Banks, Inc._Y-6_2009-12-31_English_8394217_4",passed,,"Admiral Family Banks, Inc.",2009,both,4015,900
+"Adrian Bancshares, Inc._Y-6_2009-12-31_English_8335719_2",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Adrian Bancshares, Inc._Y-6_2009-12-31_English_8335719_4",passed,,"ADRIAN BANCSHARES, INC.",2009,both,4870,1651
+Adrian Building Corporation_Y-6_2009-12-31_English_8086913_2,failed,Invalid \escape: line 61 column 56 (char 1477),,,,,
+Adrian Building Corporation_Y-6_2009-12-31_English_8086913_4,failed,Invalid \escape: line 61 column 56 (char 1477),,,,,
+"Advantage Bancorp, Inc._Y-6_2009-06-30_English_8588589_2",passed,,"Advantage Bancorp, Inc.",2009,both,11157,796
+"Advantage Bancorp, Inc._Y-6_2009-06-30_English_8588589_4",passed,,"Advantage Bancorp, Inc.",2009,both,11151,793
+"Advantage Community Bancshares, Inc._Y-6_2009-12-31_English_8452182_2",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+"Advantage Community Bancshares, Inc._Y-6_2009-12-31_English_8452182_4",passed,,"Advantage Community Bancshares, Inc.",2009,both,4851,1855
+"Affinity Bancorp, Inc._Y-6_2009-12-31_English_8384633_2",passed,,"Affinity Bancorp, Inc.",2009,both,2707,583
+"Affinity Bancorp, Inc._Y-6_2009-12-31_English_8384633_4",failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+Agricultural Banking Corporation_Y-6_2009-12-31_English_8394242_2,failed,"504 Gateway Timeout. {'message': '<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n</body>\r\n</html>\r\n', 'status': 'Gateway Timeout'}",,,,,
+Agricultural Banking Corporation_Y-6_2009-12-31_English_8394242_4,passed,,Agricultural Banking Corporation,2009,both,5389,3015
+Alapaha Holding Company_Y-6_2009-12-31_English_8135976_2,passed,,ALAPAHA HOLDING COMPANY,2009,both,5257,1646
+Alapaha Holding Company_Y-6_2009-12-31_English_8135976_4,passed,,Alapaha Holding Company,2009,both,5256,1616
