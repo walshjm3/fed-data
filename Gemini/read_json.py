@@ -10,6 +10,7 @@ from google.genai import types
 from google import genai
 from dotenv import load_dotenv
 import argparse
+from json_repair import repair_json
 
 load_dotenv()
 
@@ -73,14 +74,14 @@ def load_tracked_files():
         return {row[0]: row[1] for row in csv.reader(f)}
 
 
-def update_tracking(file: str, status: str, error: str = "", bank_name: str = "", year: str = "", presence: str = "", tokens: str="", out_tokens: str=""):
+def update_tracking(file: str, status: str, error: str = "", bank_name: str = "", rssd: str="", year: str = "", presence: str = "", tokens: str="", out_tokens: str=""):
     header_needed = not tracking_csv.exists()
     with open(tracking_csv, "a", newline="") as f:
         writer = csv.writer(f)
         if header_needed:
             # include 'presence' in header since we write it below
-            writer.writerow(["file", "status", "error", "bank_name", "year", "presence", "tokens", "out_tokens"])
-        writer.writerow([file, status, error, bank_name, year, presence, tokens, out_tokens])
+            writer.writerow(["file", "status", "error", "bank_name", "RSSD", "year", "presence", "tokens", "out_tokens"])
+        writer.writerow([file, status, error, bank_name, rssd, year, presence, tokens, out_tokens])
 
 
 # === HELPER FUNCTIONS ===
@@ -139,6 +140,14 @@ def get_markdown_from_any_json(json_data) -> str | None:
         parts = [p.strip() for p in parts if p and p.strip()]
         return "\n\n".join(parts) if parts else None
     return None
+
+def safe_json_loads(s: str):
+    """ Strict parse first, then if it fails, try to repair the input JSON to parse again. """
+    try: 
+        return json.loads(s)
+    except json.JSONDecodeError:
+        repaired = repair_json(s)
+        return json.loads(repaired)
 # ---------------------------------------------------------------------------
 
 
@@ -186,10 +195,10 @@ Column schema:
       - Do not include counts of shares, class names, or narrative text in b9.
   b9_full_voting_shares_text: Verbatim voting-shares detail (entire reported text)
       - Copy the FULL underlying text describing voting shares as written in the filing, including share counts, classes (e.g., "Class A"), trustee language, and/or percentages.
-      - Preserve all numbers and wording, but normalize newlines/tabs to single spaces.
+      - Preserve all numbers and wording, but normalize newlines/tabs to semi-colons. No carriage returns should be used.
       - If the filing only reports a percentage and no share count, put that percentage string here.
   b10: Percentage of Voting Shares in Subsidiaries
-  b11: Names of other companies if 25% or more of voting securities are held (in a list. Do not list the same insider in multiple rows, where each row represents another company.)
+  b11: Names of other companies if 25% or more of voting securities are held (in a list. Do not list the same insider in multiple rows, where each row represents another company. No carriage returns should be used.)
 
 When possible, please ensure that name, city, state, and country are placed in their respective fields rather than (1) left in a2 or (2) repeated in a2 and b2, b3, b4. 
 
@@ -212,7 +221,7 @@ FR Y-6 OCR TEXT:
     if not match:
         raise ValueError("Gemini did not return valid JSON")
 
-    tables = json.loads(match.group(1))
+    tables = safe_json_loads(match.group(1))
 
     # Measure how token intensive the ask was
     prompt_tokens = response.usage_metadata.prompt_token_count
@@ -224,9 +233,11 @@ FR Y-6 OCR TEXT:
         bank_data = bank_data_list[0]
         bank_name = bank_data.get("Bank Name") or extract_bank_name(md, pdf_name) or "Unknown"
         year = bank_data.get("Year") or extract_fiscal_year(md, pdf_name) or "Unknown"
+        bank_RSSD = bank_data.get("Bank RSSD") or "Unknown"
     else:
         bank_name = extract_bank_name(md, pdf_name) or "Unknown"
         year = extract_fiscal_year(md, pdf_name) or "Unknown"
+        bank_RSSD = "Unknown"
 
     insiders_df = pd.DataFrame(tables.get("insiders", []))
     shareholders_df = pd.DataFrame(tables.get("shareholders", []))
@@ -250,7 +261,8 @@ FR Y-6 OCR TEXT:
         "Bank Name": bank_name,
         "table presence": table_presence,
         "Bank_PDF-Name": pdf_name,
-        "Year": year
+        "Year": year,
+        "RSSD": bank_RSSD
     }
 
     if insiders_df.empty:
@@ -282,7 +294,7 @@ FR Y-6 OCR TEXT:
     print("Found bank name:", bank_name)
     print(f"✅ Saved: insiders/{name}.csv, securities/{name}.csv")
 
-    return bank_name, year, table_presence, prompt_tokens, completion_tokens
+    return bank_name, bank_RSSD, year, table_presence, prompt_tokens, completion_tokens
 
 
 # === MAIN DRIVER ===
@@ -322,7 +334,7 @@ def main():
 
             # Defensive parse
             try:
-                json_data = json.loads(file_content)
+                json_data = safe_json_loads(file_content)
             except Exception as je:
                 print(f"JSON parse error for {name}: {je}")
                 update_tracking(name, "failed", f"json parse error: {je}")
@@ -345,8 +357,8 @@ def main():
             if not markdown or not markdown.strip():
                 raise ValueError("No markdown/text content found in JSON")
 
-            bank_name, year, presence, prompt_tokens, completion_tokens = extract_from_md(markdown, name)
-            update_tracking(name, "passed", bank_name=bank_name, year=year, presence=presence, tokens=prompt_tokens, out_tokens = completion_tokens)
+            bank_name, bank_RSSD, year, presence, prompt_tokens, completion_tokens = extract_from_md(markdown, name)
+            update_tracking(name, "passed", bank_name=bank_name, rssd=bank_RSSD, year=year, presence=presence, tokens=prompt_tokens, out_tokens = completion_tokens)
 
         except Exception as e:
             print(f"❌ Failed: {name}: {e}")
